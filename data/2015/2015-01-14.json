@@ -1,0 +1,91 @@
+[
+  {
+    "release_date": "2015-01-14",
+    "title": "Invincible",
+    "director": "Angelina Jolie , Georges Tourreil",
+    "image_path": "images/2015-01-14_invincible.jpg"
+  },
+  {
+    "release_date": "2015-01-14",
+    "title": "Loin des hommes",
+    "director": "David Oelhoffen",
+    "image_path": "images/2015-01-14_loin_des_hommes.jpg"
+  },
+  {
+    "release_date": "2015-01-14",
+    "title": "Souvenirs de Marnie",
+    "director": "Hiromasa Yonebayashi",
+    "image_path": "images/2015-01-14_souvenirs_de_marnie.jpg"
+  },
+  {
+    "release_date": "2015-01-14",
+    "title": "Joker",
+    "director": "Simon West",
+    "image_path": "images/2015-01-14_joker.jpg"
+  },
+  {
+    "release_date": "2015-01-14",
+    "title": "Annie",
+    "director": "Will Gluck",
+    "image_path": "images/2015-01-14_annie.jpg"
+  },
+  {
+    "release_date": "2015-01-14",
+    "title": "Dos à la mer",
+    "director": "Steve Moreau",
+    "image_path": "images/2015-01-14_dos_a_la_mer.jpg"
+  },
+  {
+    "release_date": "2015-01-14",
+    "title": "Bébé Tigre",
+    "director": "Cyprien Vial",
+    "image_path": "images/2015-01-14_bebe_tigre.jpg"
+  },
+  {
+    "release_date": "2015-01-14",
+    "title": "Alda et Maria",
+    "director": "Pocas Pascoal , Maria Esperança Pascoal , Maria Pascoal",
+    "image_path": "images/2015-01-14_alda_et_maria.jpg"
+  },
+  {
+    "release_date": "2015-01-14",
+    "title": "Les aventures d'Emile à la ferme",
+    "director": "Lasse Persson , Alicja Jaworski , Per Ahlin , Alicja Björk",
+    "image_path": "images/2015-01-14_les_aventures_demile_a_la_ferme.jpg"
+  },
+  {
+    "release_date": "2015-01-14",
+    "title": "Amour fou",
+    "director": "Jessica Hausner",
+    "image_path": "images/2015-01-14_amour_fou.jpg"
+  },
+  {
+    "release_date": "2015-01-14",
+    "title": "L'Invasion des profanateurs de sépultures",
+    "director": "Don Siegel",
+    "image_path": "images/2015-01-14_linvasion_des_profanateurs_de_sepultures.jpg"
+  },
+  {
+    "release_date": "2015-01-14",
+    "title": "Sous X",
+    "director": "Jean-Michel Correia",
+    "image_path": "images/2015-01-14_sous_x.jpg"
+  },
+  {
+    "release_date": "2015-01-14",
+    "title": "Heinrich Himmler - The Decent one",
+    "director": "Vanessa Lapa",
+    "image_path": "images/2015-01-14_heinrich_himmler_-_the_decent_one.jpg"
+  },
+  {
+    "release_date": "2015-01-14",
+    "title": "I",
+    "director": "S Shankar",
+    "image_path": "images/2015-01-14_i.jpg"
+  },
+  {
+    "release_date": "2015-01-14",
+    "title": "La Veuve joyeuse (Metropolitan Opera)",
+    "image_path": "images/2015-01-14_la_veuve_joyeuse_metropolitan_opera.jpg"
+  }
+]

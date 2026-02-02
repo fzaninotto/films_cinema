@@ -1,0 +1,65 @@
+[
+  {
+    "release_date": "2007-01-10",
+    "title": "Le Serpent",
+    "director": "Eric Barbier",
+    "image_path": "images/2007-01-10_le_serpent.jpg"
+  },
+  {
+    "release_date": "2007-01-10",
+    "title": "Bad Times",
+    "director": "David Ayer",
+    "image_path": "images/2007-01-10_bad_times.jpg"
+  },
+  {
+    "release_date": "2007-01-10",
+    "title": "Le Retour des Morts vivants",
+    "director": "Dan O'Bannon",
+    "image_path": "images/2007-01-10_le_retour_des_morts_vivants.jpg"
+  },
+  {
+    "release_date": "2007-01-10",
+    "title": "Fur: un portrait imaginaire de Diane Arbus",
+    "director": "Steven Shainberg",
+    "image_path": "images/2007-01-10_fur_un_portrait_imaginaire_de_diane_arbus.jpg"
+  },
+  {
+    "release_date": "2007-01-10",
+    "title": "Election 2",
+    "director": "Johnnie To",
+    "image_path": "images/2007-01-10_election_2.jpg"
+  },
+  {
+    "release_date": "2007-01-10",
+    "title": "Le Petit Peintre du Rajasthan",
+    "director": "Rajkumar Bhan",
+    "image_path": "images/2007-01-10_le_petit_peintre_du_rajasthan.jpg"
+  },
+  {
+    "release_date": "2007-01-10",
+    "title": "Five Obstructions",
+    "director": "Lars von Trier , Jorgen Leth"
+  },
+  {
+    "release_date": "2007-01-10",
+    "title": "Main basse sur la ville",
+    "director": "Francesco Rosi , Andrew McCarthy",
+    "image_path": "images/2007-01-10_main_basse_sur_la_ville.jpg"
+  },
+  {
+    "release_date": "2007-01-10",
+    "title": "Requiem for Billy the Kid",
+    "director": "Anne Feinsilber"
+  },
+  {
+    "release_date": "2007-01-10",
+    "title": "Saimir",
+    "director": "Francesco Munzi"
+  },
+  {
+    "release_date": "2007-01-10",
+    "title": "WWW : What a Wonderful World",
+    "director": "Faouzi Bensaïdi",
+    "image_path": "images/2007-01-10_www_what_a_wonderful_world.jpg"
+  }
+]

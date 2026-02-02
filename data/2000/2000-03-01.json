@@ -1,0 +1,74 @@
+[
+  {
+    "release_date": "2000-03-01",
+    "title": "Magnolia",
+    "director": "Paul Thomas Anderson",
+    "image_path": "images/2000-03-01_magnolia.jpg"
+  },
+  {
+    "release_date": "2000-03-01",
+    "title": "Dans la ligne de mire",
+    "director": "Wolfgang Petersen",
+    "image_path": "images/2000-03-01_dans_la_ligne_de_mire.jpg"
+  },
+  {
+    "release_date": "2000-03-01",
+    "title": "Que le spectacle commence",
+    "director": "Bob Fosse",
+    "image_path": "images/2000-03-01_que_le_spectacle_commence.jpg"
+  },
+  {
+    "release_date": "2000-03-01",
+    "title": "Samson et Dalila",
+    "director": "Cecil B. DeMille"
+  },
+  {
+    "release_date": "2000-03-01",
+    "title": "Lola",
+    "director": "Jacques Demy",
+    "image_path": "images/2000-03-01_lola.jpg"
+  },
+  {
+    "release_date": "2000-03-01",
+    "title": "Un homme pour l'éternité",
+    "director": "Fred Zinnemann",
+    "image_path": "images/2000-03-01_un_homme_pour_leternite.jpg"
+  },
+  {
+    "release_date": "2000-03-01",
+    "title": "Cisco Pike",
+    "director": "Bill L Norton"
+  },
+  {
+    "release_date": "2000-03-01",
+    "title": "La Vie moderne",
+    "director": "Laurence Ferreira Barbosa , Bruce McDonald"
+  },
+  {
+    "release_date": "2000-03-01",
+    "title": "Le pays bleu",
+    "director": "Jean-Charles Tacchella"
+  },
+  {
+    "release_date": "2000-03-01",
+    "title": "Les Clowns tueurs venus d'ailleurs",
+    "director": "Stephen Chiodo",
+    "image_path": "images/2000-03-01_les_clowns_tueurs_venus_dailleurs.jpg"
+  },
+  {
+    "release_date": "2000-03-01",
+    "title": "Ligne verte",
+    "director": "Laurent Mareschal"
+  },
+  {
+    "release_date": "2000-03-01",
+    "title": "The Shade",
+    "director": "Raphaël Nadjari"
+  },
+  {
+    "release_date": "2000-03-01",
+    "title": "Une carte du monde",
+    "director": "Scott Elliott",
+    "image_path": "images/2000-03-01_une_carte_du_monde.jpg"
+  }
+]

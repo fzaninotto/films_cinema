@@ -1,0 +1,80 @@
+[
+  {
+    "release_date": "2012-04-11",
+    "title": "Battleship",
+    "director": "Peter Berg",
+    "image_path": "images/2012-04-11_battleship.jpg"
+  },
+  {
+    "release_date": "2012-04-11",
+    "title": "Radiostars",
+    "director": "Romain Levy",
+    "image_path": "images/2012-04-11_radiostars.jpg"
+  },
+  {
+    "release_date": "2012-04-11",
+    "title": "Plan de table",
+    "director": "Christelle Raynal",
+    "image_path": "images/2012-04-11_plan_de_table.jpg"
+  },
+  {
+    "release_date": "2012-04-11",
+    "title": "Le fils du marchand d'olives",
+    "director": "Mathieu Zeitindjioglou",
+    "image_path": "images/2012-04-11_le_fils_du_marchand_dolives.jpg"
+  },
+  {
+    "release_date": "2012-04-11",
+    "title": "I Wish : nos voeux secrets",
+    "director": "Hirokazu Kore-eda",
+    "image_path": "images/2012-04-11_i_wish_nos_voeux_secrets.jpg"
+  },
+  {
+    "release_date": "2012-04-11",
+    "title": "A pas de loup",
+    "director": "Olivier Ringer",
+    "image_path": "images/2012-04-11_a_pas_de_loup.jpg"
+  },
+  {
+    "release_date": "2012-04-11",
+    "title": "Chez Léon coiffure",
+    "director": "François Lunel",
+    "image_path": "images/2012-04-11_chez_leon_coiffure.jpg"
+  },
+  {
+    "release_date": "2012-04-11",
+    "title": "Je suis",
+    "director": "Emmanuel Finkiel",
+    "image_path": "images/2012-04-11_je_suis.jpg"
+  },
+  {
+    "release_date": "2012-04-11",
+    "title": "La Petite Bande",
+    "director": "Alexandra Vandernoot , Michel Deville",
+    "image_path": "images/2012-04-11_la_petite_bande.jpg"
+  },
+  {
+    "release_date": "2012-04-11",
+    "title": "Les Nouvelles aventures de Capelito",
+    "director": "Rodolfo Pastor , Arturo Castro",
+    "image_path": "images/2012-04-11_les_nouvelles_aventures_de_capelito.jpg"
+  },
+  {
+    "release_date": "2012-04-11",
+    "title": "Nana",
+    "director": "Valérie Massadian",
+    "image_path": "images/2012-04-11_nana.jpg"
+  },
+  {
+    "release_date": "2012-04-11",
+    "title": "Réfutations 1",
+    "director": "Thomas Lacoste",
+    "image_path": "images/2012-04-11_refutations_1.jpg"
+  },
+  {
+    "release_date": "2012-04-11",
+    "title": "Trabalhar Cansa",
+    "director": "Juliana Rojas , Marco Dutra",
+    "image_path": "images/2012-04-11_trabalhar_cansa.jpg"
+  }
+]

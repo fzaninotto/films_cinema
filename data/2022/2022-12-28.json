@@ -1,0 +1,93 @@
+[
+  {
+    "release_date": "2022-12-28",
+    "title": "Vivre !",
+    "director": "Zhang Yimou , Wang Bing , Oliver Hermanus , Wang Bin , Zhang Xleochun",
+    "image_path": "images/2022-12-28_vivre_.jpg"
+  },
+  {
+    "release_date": "2022-12-28",
+    "title": "Choeur de rockers",
+    "director": "Ida Techer , Luc Bricault",
+    "image_path": "images/2022-12-28_choeur_de_rockers.jpg"
+  },
+  {
+    "release_date": "2022-12-28",
+    "title": "M3GAN",
+    "director": "Gerard Johnstone",
+    "image_path": "images/2022-12-28_m3gan.jpg"
+  },
+  {
+    "release_date": "2022-12-28",
+    "title": "Black Glasses",
+    "director": "Dario Argento"
+  },
+  {
+    "release_date": "2022-12-28",
+    "title": "Fall",
+    "director": "Scott Mann",
+    "image_path": "images/2022-12-28_fall.jpg"
+  },
+  {
+    "release_date": "2022-12-28",
+    "title": "Hinterland",
+    "director": "Stefan Ruzowitzky",
+    "image_path": "images/2022-12-28_hinterland.jpg"
+  },
+  {
+    "release_date": "2022-12-28",
+    "title": "Joyland",
+    "director": "Saim Sadiq",
+    "image_path": "images/2022-12-28_joyland.jpg"
+  },
+  {
+    "release_date": "2022-12-28",
+    "title": "La Passagère",
+    "director": "Héloïse Pelloquet",
+    "image_path": "images/2022-12-28_la_passagere.jpg"
+  },
+  {
+    "release_date": "2022-12-28",
+    "title": "L'employée du Mois",
+    "director": "Véronique Jadin"
+  },
+  {
+    "release_date": "2022-12-28",
+    "title": "Le royaume des fourmis",
+    "director": "Lucas Allain"
+  },
+  {
+    "release_date": "2022-12-28",
+    "title": "Les Banshees d'Inisherin",
+    "director": "Martin McDonagh",
+    "image_path": "images/2022-12-28_les_banshees_dinisherin.jpg"
+  },
+  {
+    "release_date": "2022-12-28",
+    "title": "L'Ombre du caravage",
+    "image_path": "images/2022-12-28_lombre_du_caravage.jpg"
+  },
+  {
+    "release_date": "2022-12-28",
+    "title": "Par coeur",
+    "image_path": "images/2022-12-28_par_coeur.jpg"
+  },
+  {
+    "release_date": "2022-12-28",
+    "title": "Suzhou River",
+    "director": "Lou Ye",
+    "image_path": "images/2022-12-28_suzhou_river.jpg"
+  },
+  {
+    "release_date": "2022-12-28",
+    "title": "Unicorn Wars",
+    "director": "Alberto Vázquez",
+    "image_path": "images/2022-12-28_unicorn_wars.jpg"
+  },
+  {
+    "release_date": "2022-12-28",
+    "title": "Vivre",
+    "director": "Oliver Hermanus",
+    "image_path": "images/2022-12-28_vivre.jpg"
+  }
+]

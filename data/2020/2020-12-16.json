@@ -1,0 +1,25 @@
+[
+  {
+    "release_date": "2020-12-16",
+    "title": "Comment je suis devenu super-héros",
+    "director": "Douglas Attal",
+    "image_path": "images/2020-12-16_comment_je_suis_devenu_super-heros.jpg"
+  },
+  {
+    "release_date": "2020-12-16",
+    "title": "Folie douce, folie dure",
+    "director": "Marine Laclotte",
+    "image_path": "images/2020-12-16_folie_douce_folie_dure.jpg"
+  },
+  {
+    "release_date": "2020-12-16",
+    "title": "Heroic Losers",
+    "director": "Sebastián Borensztein"
+  },
+  {
+    "release_date": "2020-12-16",
+    "title": "Lupin III : The First",
+    "director": "Takashi Yamazaki",
+    "image_path": "images/2020-12-16_lupin_iii_the_first.jpg"
+  }
+]

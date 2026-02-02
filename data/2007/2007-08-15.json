@@ -1,0 +1,67 @@
+[
+  {
+    "release_date": "2007-08-15",
+    "title": "Le Fils de l'épicier",
+    "director": "Eric Guirado",
+    "image_path": "images/2007-08-15_le_fils_de_lepicier.jpg"
+  },
+  {
+    "release_date": "2007-08-15",
+    "title": "The Wicker Man",
+    "director": "Neil LaBute",
+    "image_path": "images/2007-08-15_the_wicker_man.jpg"
+  },
+  {
+    "release_date": "2007-08-15",
+    "title": "Planète terreur",
+    "director": "Robert Rodriguez",
+    "image_path": "images/2007-08-15_planete_terreur.jpg"
+  },
+  {
+    "release_date": "2007-08-15",
+    "title": "Evan tout-puissant",
+    "director": "Tom Shadyac",
+    "image_path": "images/2007-08-15_evan_tout-puissant.jpg"
+  },
+  {
+    "release_date": "2007-08-15",
+    "title": "Naissance des pieuvres",
+    "director": "Céline Sciamma",
+    "image_path": "images/2007-08-15_naissance_des_pieuvres.jpg"
+  },
+  {
+    "release_date": "2007-08-15",
+    "title": "Rintintin",
+    "director": "Danny Lerner",
+    "image_path": "images/2007-08-15_rintintin.jpg"
+  },
+  {
+    "release_date": "2007-08-15",
+    "title": "Armin",
+    "director": "Ognjen Svillicic"
+  },
+  {
+    "release_date": "2007-08-15",
+    "title": "Jindabyne, Australie",
+    "director": "Ray Lawrence",
+    "image_path": "images/2007-08-15_jindabyne_australie.jpg"
+  },
+  {
+    "release_date": "2007-08-15",
+    "title": "Torque, la route s'enflamme",
+    "director": "Joseph Kahn",
+    "image_path": "images/2007-08-15_torque_la_route_senflamme.jpg"
+  },
+  {
+    "release_date": "2007-08-15",
+    "title": "Vas-y Maman",
+    "director": "Nicole de Buron",
+    "image_path": "images/2007-08-15_vas-y_maman.jpg"
+  },
+  {
+    "release_date": "2007-08-15",
+    "title": "Wassup Rockers",
+    "director": "Larry Clark , Ted Sorel , Marshall Factora",
+    "image_path": "images/2007-08-15_wassup_rockers.jpg"
+  }
+]

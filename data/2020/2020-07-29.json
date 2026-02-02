@@ -1,0 +1,79 @@
+[
+  {
+    "release_date": "2020-07-29",
+    "title": "Pluie noire",
+    "director": "Colin Firth , Shohei Imamura",
+    "image_path": "images/2020-07-29_pluie_noire.jpg"
+  },
+  {
+    "release_date": "2020-07-29",
+    "title": "A la recherche de Ingmar Bergman",
+    "director": "Margarethe von Trotta , Felix Moeller",
+    "image_path": "images/2020-07-29_a_la_recherche_de_ingmar_bergman.jpg"
+  },
+  {
+    "release_date": "2020-07-29",
+    "title": "The Wicker Man",
+    "director": "Robin Hardy",
+    "image_path": "images/2020-07-29_the_wicker_man.jpg"
+  },
+  {
+    "release_date": "2020-07-29",
+    "title": "Dreams",
+    "director": "Kim Hagen Jensen",
+    "image_path": "images/2020-07-29_dreams.jpg"
+  },
+  {
+    "release_date": "2020-07-29",
+    "title": "Hotel by the River",
+    "director": "Hong Sang-Soo",
+    "image_path": "images/2020-07-29_hotel_by_the_river.jpg"
+  },
+  {
+    "release_date": "2020-07-29",
+    "title": "La terre du milieu",
+    "director": "Juliette Guignard",
+    "image_path": "images/2020-07-29_la_terre_du_milieu.jpg"
+  },
+  {
+    "release_date": "2020-07-29",
+    "title": "L'Oiseau bleu",
+    "director": "George Cukor"
+  },
+  {
+    "release_date": "2020-07-29",
+    "title": "L'Oiseau De Paradis",
+    "director": "Paul Manate",
+    "image_path": "images/2020-07-29_loiseau_de_paradis.jpg"
+  },
+  {
+    "release_date": "2020-07-29",
+    "title": "On l'appelle Jeeg Robot",
+    "director": "Gabriele Mainetti",
+    "image_path": "images/2020-07-29_on_lappelle_jeeg_robot.jpg"
+  },
+  {
+    "release_date": "2020-07-29",
+    "title": "T'as pécho ?",
+    "director": "Adeline Picault",
+    "image_path": "images/2020-07-29_tas_pecho_.jpeg"
+  },
+  {
+    "release_date": "2020-07-29",
+    "title": "Terrible Jungle",
+    "director": "Hugo Benamozig , David Caviglioli",
+    "image_path": "images/2020-07-29_terrible_jungle.jpg"
+  },
+  {
+    "release_date": "2020-07-29",
+    "title": "The Climb",
+    "director": "Michael Angelo Covino",
+    "image_path": "images/2020-07-29_the_climb.jpg"
+  },
+  {
+    "release_date": "2020-07-29",
+    "title": "Tijuana Bible",
+    "director": "Jean-Charles Hue",
+    "image_path": "images/2020-07-29_tijuana_bible.jpg"
+  }
+]

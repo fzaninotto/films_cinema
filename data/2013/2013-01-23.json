@@ -1,0 +1,74 @@
+[
+  {
+    "release_date": "2013-01-23",
+    "title": "Blancanieves",
+    "director": "Pablo Berger",
+    "image_path": "images/2013-01-23_blancanieves.jpg"
+  },
+  {
+    "release_date": "2013-01-23",
+    "title": "Time out",
+    "director": "Andrew Niccol , Jeanne Brindeau",
+    "image_path": "images/2013-01-23_time_out.jpg"
+  },
+  {
+    "release_date": "2013-01-23",
+    "title": "Max",
+    "director": "Stéphanie Murat",
+    "image_path": "images/2013-01-23_max.jpg"
+  },
+  {
+    "release_date": "2013-01-23",
+    "title": "Le Grand Retournement",
+    "director": "Gérard Mordillat",
+    "image_path": "images/2013-01-23_le_grand_retournement.jpg"
+  },
+  {
+    "release_date": "2013-01-23",
+    "title": "Cookie",
+    "director": "Léa Fazer",
+    "image_path": "images/2013-01-23_cookie.jpg"
+  },
+  {
+    "release_date": "2013-01-23",
+    "title": "Mariage à Mendoza",
+    "director": "Edouard Deluc",
+    "image_path": "images/2013-01-23_mariage_a_mendoza.jpg"
+  },
+  {
+    "release_date": "2013-01-23",
+    "title": "Rue Mandar",
+    "director": "Lucienne Bogaert , Idit Cebula",
+    "image_path": "images/2013-01-23_rue_mandar.jpg"
+  },
+  {
+    "release_date": "2013-01-23",
+    "title": "Too Much Love Will Kill You",
+    "director": "Christophe Karabache",
+    "image_path": "images/2013-01-23_too_much_love_will_kill_you.jpg"
+  },
+  {
+    "release_date": "2013-01-23",
+    "title": "El Estudiante ou Récit d'une jeunesse révoltée",
+    "director": "Santiago Mitre",
+    "image_path": "images/2013-01-23_el_estudiante_ou_recit_dune_jeunesse_revoltee.jpg"
+  },
+  {
+    "release_date": "2013-01-23",
+    "title": "L'Ivresse de l'argent",
+    "director": "Im Sang-Soo",
+    "image_path": "images/2013-01-23_livresse_de_largent.jpg"
+  },
+  {
+    "release_date": "2013-01-23",
+    "title": "Malcolm",
+    "director": "Ashley Cahill",
+    "image_path": "images/2013-01-23_malcolm.jpg"
+  },
+  {
+    "release_date": "2013-01-23",
+    "title": "Somebody up there likes me",
+    "director": "Bob Byington",
+    "image_path": "images/2013-01-23_somebody_up_there_likes_me.jpg"
+  }
+]

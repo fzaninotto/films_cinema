@@ -1,0 +1,47 @@
+[
+  {
+    "release_date": "2002-10-23",
+    "title": "Le Transporteur",
+    "director": "Louis Leterrier",
+    "image_path": "images/2002-10-23_le_transporteur.jpg"
+  },
+  {
+    "release_date": "2002-10-23",
+    "title": "Créance de sang",
+    "director": "Clint Eastwood , Pete Postlethwaite , Judie Hoyt",
+    "image_path": "images/2002-10-23_creance_de_sang.jpg"
+  },
+  {
+    "release_date": "2002-10-23",
+    "title": "Rosetta",
+    "director": "Luc Dardenne , Jean-Pierre Dardenne",
+    "image_path": "images/2002-10-23_rosetta.jpg"
+  },
+  {
+    "release_date": "2002-10-23",
+    "title": "Chiens des neiges",
+    "director": "Brian Levant"
+  },
+  {
+    "release_date": "2002-10-23",
+    "title": "Ernest Shackleton, naufragé de l'Antarctique",
+    "director": "George Butler"
+  },
+  {
+    "release_date": "2002-10-23",
+    "title": "L'Attentat",
+    "director": "Yves Boisset",
+    "image_path": "images/2002-10-23_lattentat.jpg"
+  },
+  {
+    "release_date": "2002-10-23",
+    "title": "Visitor Q",
+    "director": "Takashi Miike"
+  },
+  {
+    "release_date": "2002-10-23",
+    "title": "Wallace et Gromit - Le mauvais pantalon",
+    "director": "Nick Park",
+    "image_path": "images/2002-10-23_wallace_et_gromit_-_le_mauvais_pantalon.jpg"
+  }
+]

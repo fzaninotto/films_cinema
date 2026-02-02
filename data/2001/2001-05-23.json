@@ -1,0 +1,19 @@
+[
+  {
+    "release_date": "2001-05-23",
+    "title": "L'homme qui murmurait à l'oreille des chevaux",
+    "director": "Robert Redford",
+    "image_path": "images/2001-05-23_lhomme_qui_murmurait_a_loreille_des_chevaux.jpg"
+  },
+  {
+    "release_date": "2001-05-23",
+    "title": "Carrément à l'Ouest",
+    "director": "Jacques Doillon"
+  },
+  {
+    "release_date": "2001-05-23",
+    "title": "Kaïro",
+    "director": "Kiyoshi Kurosawa",
+    "image_path": "images/2001-05-23_kairo.jpg"
+  }
+]

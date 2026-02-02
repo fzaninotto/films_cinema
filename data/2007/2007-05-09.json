@@ -1,0 +1,83 @@
+[
+  {
+    "release_date": "2007-05-09",
+    "title": "La Faille",
+    "director": "Gregory Hoblit",
+    "image_path": "images/2007-05-09_la_faille.jpg"
+  },
+  {
+    "release_date": "2007-05-09",
+    "title": "The Marine",
+    "director": "John Bonito",
+    "image_path": "images/2007-05-09_the_marine.jpg"
+  },
+  {
+    "release_date": "2007-05-09",
+    "title": "Hitcher",
+    "director": "Dave Meyers",
+    "image_path": "images/2007-05-09_hitcher.jpg"
+  },
+  {
+    "release_date": "2007-05-09",
+    "title": "Un mauvais fils",
+    "director": "Claude Sautet",
+    "image_path": "images/2007-05-09_un_mauvais_fils.jpg"
+  },
+  {
+    "release_date": "2007-05-09",
+    "title": "Lucky You",
+    "director": "Curtis Hanson",
+    "image_path": "images/2007-05-09_lucky_you.jpg"
+  },
+  {
+    "release_date": "2007-05-09",
+    "title": "Garçon !",
+    "director": "Claude Sautet",
+    "image_path": "images/2007-05-09_garcon_.jpg"
+  },
+  {
+    "release_date": "2007-05-09",
+    "title": "Je t'aime... moi non plus",
+    "director": "Maria de Medeiros",
+    "image_path": "images/2007-05-09_je_taime_moi_non_plus.jpg"
+  },
+  {
+    "release_date": "2007-05-09",
+    "title": "Mado",
+    "director": "Claude Sautet",
+    "image_path": "images/2007-05-09_mado.jpg"
+  },
+  {
+    "release_date": "2007-05-09",
+    "title": "El Manara",
+    "director": "Belkacem Hadjadj"
+  },
+  {
+    "release_date": "2007-05-09",
+    "title": "Gradiva",
+    "director": "Alain Robbe-Grillet",
+    "image_path": "images/2007-05-09_gradiva.jpg"
+  },
+  {
+    "release_date": "2007-05-09",
+    "title": "Dinosaures",
+    "director": "Marc Fafard"
+  },
+  {
+    "release_date": "2007-05-09",
+    "title": "Chabada, la vie des hommes",
+    "director": "Philippe Crnogorac"
+  },
+  {
+    "release_date": "2007-05-09",
+    "title": "Je suis l'autre",
+    "director": "Margarethe von Trotta",
+    "image_path": "images/2007-05-09_je_suis_lautre.jpg"
+  },
+  {
+    "release_date": "2007-05-09",
+    "title": "La Liste de Carla",
+    "director": "Marcel Schüpbach",
+    "image_path": "images/2007-05-09_la_liste_de_carla.jpg"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "release_date": "2002-09-04",
+    "title": "Bob l'éponge : le film",
+    "director": "Stephen Hillenburg",
+    "image_path": "images/2002-09-04_bob_leponge_le_film.jpg"
+  },
+  {
+    "release_date": "2002-09-04",
+    "title": "Raging Bull",
+    "director": "Martin Scorsese",
+    "image_path": "images/2002-09-04_raging_bull.jpg"
+  },
+  {
+    "release_date": "2002-09-04",
+    "title": "Le Monde ne suffit pas",
+    "director": "Michael Apted",
+    "image_path": "images/2002-09-04_le_monde_ne_suffit_pas.jpg"
+  },
+  {
+    "release_date": "2002-09-04",
+    "title": "Filles perdues, cheveux gras",
+    "director": "Claude Duty",
+    "image_path": "images/2002-09-04_filles_perdues_cheveux_gras.jpg"
+  },
+  {
+    "release_date": "2002-09-04",
+    "title": "Ararat",
+    "director": "Atom Egoyan"
+  },
+  {
+    "release_date": "2002-09-04",
+    "title": "Charles et Lucie",
+    "director": "Nelly Kaplan"
+  },
+  {
+    "release_date": "2002-09-04",
+    "title": "Jawbreaker",
+    "director": "Darren Stein"
+  },
+  {
+    "release_date": "2002-09-04",
+    "title": "Mafia Love",
+    "director": "Martyn Burke",
+    "image_path": "images/2002-09-04_mafia_love.jpg"
+  },
+  {
+    "release_date": "2002-09-04",
+    "title": "Néa",
+    "director": "Nelly Kaplan"
+  },
+  {
+    "release_date": "2002-09-04",
+    "title": "Possession",
+    "director": "Neil LaBute"
+  },
+  {
+    "release_date": "2002-09-04",
+    "title": "Windtalkers, les messagers du vent",
+    "director": "John Woo"
+  }
+]

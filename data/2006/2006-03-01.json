@@ -1,0 +1,78 @@
+[
+  {
+    "release_date": "2006-03-01",
+    "title": "Mémoires d'une geisha",
+    "director": "Rob Marshall",
+    "image_path": "images/2006-03-01_memoires_dune_geisha.jpg"
+  },
+  {
+    "release_date": "2006-03-01",
+    "title": "Hell",
+    "director": "Bruno Chiche",
+    "image_path": "images/2006-03-01_hell.jpg"
+  },
+  {
+    "release_date": "2006-03-01",
+    "title": "La Peur au ventre",
+    "director": "Wayne Kramer",
+    "image_path": "images/2006-03-01_la_peur_au_ventre.jpg"
+  },
+  {
+    "release_date": "2006-03-01",
+    "title": "Treize à la douzaine 2",
+    "director": "Adam Shankman",
+    "image_path": "images/2006-03-01_treize_a_la_douzaine_2.jpg"
+  },
+  {
+    "release_date": "2006-03-01",
+    "title": "Breakfast on Pluto",
+    "director": "Neil Jordan , Phil Silvers",
+    "image_path": "images/2006-03-01_breakfast_on_pluto.jpg"
+  },
+  {
+    "release_date": "2006-03-01",
+    "title": "Buongiorno, notte",
+    "director": "George Sanders , Marco Bellocchio",
+    "image_path": "images/2006-03-01_buongiorno_notte.jpg"
+  },
+  {
+    "release_date": "2006-03-01",
+    "title": "Célibataires",
+    "director": "Jean-Michel Verner",
+    "image_path": "images/2006-03-01_celibataires.jpg"
+  },
+  {
+    "release_date": "2006-03-01",
+    "title": "Un printemps à Paris",
+    "director": "Jacques Bral",
+    "image_path": "images/2006-03-01_un_printemps_a_paris.jpg"
+  },
+  {
+    "release_date": "2006-03-01",
+    "title": "Frankie",
+    "director": "Fabienne Berthaud",
+    "image_path": "images/2006-03-01_frankie.jpg"
+  },
+  {
+    "release_date": "2006-03-01",
+    "title": "A Perfect Day",
+    "director": "Khalil Joreige , Joana Hadjithomas"
+  },
+  {
+    "release_date": "2006-03-01",
+    "title": "Dunkerque",
+    "director": "Leslie Norman",
+    "image_path": "images/2006-03-01_dunkerque.jpg"
+  },
+  {
+    "release_date": "2006-03-01",
+    "title": "Le Soleil",
+    "director": "Alexandre Sokourov , Angus Macfadyen"
+  },
+  {
+    "release_date": "2006-03-01",
+    "title": "Reefer Madness",
+    "director": "Andy Fickman",
+    "image_path": "images/2006-03-01_reefer_madness.jpg"
+  }
+]

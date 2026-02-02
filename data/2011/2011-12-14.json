@@ -1,0 +1,85 @@
+[
+  {
+    "release_date": "2011-12-14",
+    "title": "Hugo Cabret",
+    "director": "Martin Scorsese",
+    "image_path": "images/2011-12-14_hugo_cabret.jpg"
+  },
+  {
+    "release_date": "2011-12-14",
+    "title": "Mission : Impossible - Protocole Fantôme",
+    "director": "Brad Bird",
+    "image_path": "images/2011-12-14_mission_impossible_-_protocole_fantome.jpg"
+  },
+  {
+    "release_date": "2011-12-14",
+    "title": "Les Tribulations d'une caissière",
+    "director": "Pierre Rambaldi",
+    "image_path": "images/2011-12-14_les_tribulations_dune_caissiere.jpg"
+  },
+  {
+    "release_date": "2011-12-14",
+    "title": "17 filles",
+    "director": "Muriel Coulin , Delphine Coulin , Rodney Amateau",
+    "image_path": "images/2011-12-14_17_filles.jpg"
+  },
+  {
+    "release_date": "2011-12-14",
+    "title": "On the Ice",
+    "director": "Andrew Okpeaha MacLean , Andrew Okpeaha McLean , Andrew McLean",
+    "image_path": "images/2011-12-14_on_the_ice.jpg"
+  },
+  {
+    "release_date": "2011-12-14",
+    "title": "Flamenco, flamenco",
+    "director": "Carlos Saura",
+    "image_path": "images/2011-12-14_flamenco_flamenco.jpg"
+  },
+  {
+    "release_date": "2011-12-14",
+    "title": "Bruxelles-Kigali",
+    "director": "Marie-France Collard"
+  },
+  {
+    "release_date": "2011-12-14",
+    "title": "De l'huile sur le feu",
+    "director": "Nicolas Benamou",
+    "image_path": "images/2011-12-14_de_lhuile_sur_le_feu.jpg"
+  },
+  {
+    "release_date": "2011-12-14",
+    "title": "Jon face aux vents",
+    "director": "Corto Fajal",
+    "image_path": "images/2011-12-14_jon_face_aux_vents.jpg"
+  },
+  {
+    "release_date": "2011-12-14",
+    "title": "Les Surprises de la TSF",
+    "director": "Gregory Peck , Ernst Lubitsch",
+    "image_path": "images/2011-12-14_les_surprises_de_la_tsf.jpg"
+  },
+  {
+    "release_date": "2011-12-14",
+    "title": "Père Noel Origines",
+    "director": "Jalmari Helander",
+    "image_path": "images/2011-12-14_pere_noel_origines.jpg"
+  },
+  {
+    "release_date": "2011-12-14",
+    "title": "Sweetgrass",
+    "director": "Lucien Castaing-Taylor , Illisa Barbash",
+    "image_path": "images/2011-12-14_sweetgrass.jpg"
+  },
+  {
+    "release_date": "2011-12-14",
+    "title": "Terrorizers",
+    "director": "Edward Yang",
+    "image_path": "images/2011-12-14_terrorizers.jpg"
+  },
+  {
+    "release_date": "2011-12-14",
+    "title": "Two Gates of Sleep",
+    "director": "Alistair Banks Griffin",
+    "image_path": "images/2011-12-14_two_gates_of_sleep.jpg"
+  }
+]

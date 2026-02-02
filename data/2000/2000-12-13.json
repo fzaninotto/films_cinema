@@ -1,0 +1,51 @@
+[
+  {
+    "release_date": "2000-12-13",
+    "title": "To Be or Not to Be",
+    "director": "Gregory Peck , Ernst Lubitsch",
+    "image_path": "images/2000-12-13_to_be_or_not_to_be.jpg"
+  },
+  {
+    "release_date": "2000-12-13",
+    "title": "Chicken Run",
+    "director": "Nick Park , Peter Lord",
+    "image_path": "images/2000-12-13_chicken_run.jpg"
+  },
+  {
+    "release_date": "2000-12-13",
+    "title": "La Tour infernale",
+    "director": "Irwin Allen , John Guillermin , Francesco Zippel",
+    "image_path": "images/2000-12-13_la_tour_infernale.jpg"
+  },
+  {
+    "release_date": "2000-12-13",
+    "title": "Aniki mon frère",
+    "director": "Takeshi Kitano",
+    "image_path": "images/2000-12-13_aniki_mon_frere.jpg"
+  },
+  {
+    "release_date": "2000-12-13",
+    "title": "Freedom",
+    "director": "Sharunas Bartas"
+  },
+  {
+    "release_date": "2000-12-13",
+    "title": "Intermezzo",
+    "director": "Gregory Ratoff , Gustaf Molander , Gustav Molander"
+  },
+  {
+    "release_date": "2000-12-13",
+    "title": "Le Monde perdu",
+    "director": "Hary O. Hoyd , Harry O Hoyt , Willis H O'Brien , Harry Hoyt"
+  },
+  {
+    "release_date": "2000-12-13",
+    "title": "Les Yeux fermés",
+    "director": "Olivier Py"
+  },
+  {
+    "release_date": "2000-12-13",
+    "title": "Quand la bête hurle",
+    "director": "André De Toth"
+  }
+]

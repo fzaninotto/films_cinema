@@ -1,0 +1,63 @@
+[
+  {
+    "release_date": "2005-02-02",
+    "title": "Danny the dog",
+    "director": "Louis Leterrier",
+    "image_path": "images/2005-02-02_danny_the_dog.jpg"
+  },
+  {
+    "release_date": "2005-02-02",
+    "title": "Men in Black II",
+    "director": "Barry Sonnenfeld",
+    "image_path": "images/2005-02-02_men_in_black_ii.jpg"
+  },
+  {
+    "release_date": "2005-02-02",
+    "title": "French Connection",
+    "director": "William Friedkin",
+    "image_path": "images/2005-02-02_french_connection.jpg"
+  },
+  {
+    "release_date": "2005-02-02",
+    "title": "La Voix des morts",
+    "director": "Geoffrey Sax",
+    "image_path": "images/2005-02-02_la_voix_des_morts.jpg"
+  },
+  {
+    "release_date": "2005-02-02",
+    "title": "Pollux le manège enchanté",
+    "director": "Jean Duval , Frank Passingham , Dave Borthwick , Franck Passingham",
+    "image_path": "images/2005-02-02_pollux_le_manege_enchante.jpg"
+  },
+  {
+    "release_date": "2005-02-02",
+    "title": "L'Ex femme de ma vie",
+    "director": "Josiane Balasko",
+    "image_path": "images/2005-02-02_lex_femme_de_ma_vie.jpg"
+  },
+  {
+    "release_date": "2005-02-02",
+    "title": "Jour et nuit",
+    "director": "Wang Chao"
+  },
+  {
+    "release_date": "2005-02-02",
+    "title": "La Raison du plus fort",
+    "director": "Patric Jean"
+  },
+  {
+    "release_date": "2005-02-02",
+    "title": "Les Métamorphoses du choeur",
+    "director": "Marie-Claude Treilhou"
+  },
+  {
+    "release_date": "2005-02-02",
+    "title": "Target",
+    "director": "Arthur Penn"
+  },
+  {
+    "release_date": "2005-02-02",
+    "title": "Tenja",
+    "director": "Hassan Legzouli"
+  }
+]

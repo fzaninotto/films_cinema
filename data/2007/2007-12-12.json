@@ -1,0 +1,76 @@
+[
+  {
+    "release_date": "2007-12-12",
+    "title": "Charlie et la chocolaterie",
+    "director": "Tim Burton",
+    "image_path": "images/2007-12-12_charlie_et_la_chocolaterie.jpg"
+  },
+  {
+    "release_date": "2007-12-12",
+    "title": "Le Renard et l'enfant",
+    "director": "Luc Jacquet",
+    "image_path": "images/2007-12-12_le_renard_et_lenfant.jpg"
+  },
+  {
+    "release_date": "2007-12-12",
+    "title": "Elizabeth, l'âge d'or",
+    "director": "Shekhar Kapur",
+    "image_path": "images/2007-12-12_elizabeth_lage_dor.jpg"
+  },
+  {
+    "release_date": "2007-12-12",
+    "title": "Big City",
+    "director": "Djamel Bensalah",
+    "image_path": "images/2007-12-12_big_city.jpg"
+  },
+  {
+    "release_date": "2007-12-12",
+    "title": "Si c'était lui",
+    "director": "Anne-Marie Etienne",
+    "image_path": "images/2007-12-12_si_cetait_lui.jpg"
+  },
+  {
+    "release_date": "2007-12-12",
+    "title": "Comme ton père",
+    "director": "Marcel Carmel",
+    "image_path": "images/2007-12-12_comme_ton_pere.jpg"
+  },
+  {
+    "release_date": "2007-12-12",
+    "title": "Je suis un cyborg",
+    "director": "Park Chan-wook",
+    "image_path": "images/2007-12-12_je_suis_un_cyborg.jpg"
+  },
+  {
+    "release_date": "2007-12-12",
+    "title": "Sergent York",
+    "director": "Howard Hawks",
+    "image_path": "images/2007-12-12_sergent_york.jpg"
+  },
+  {
+    "release_date": "2007-12-12",
+    "title": "Des chiens dans la neige",
+    "director": "Ann-Kristin Reyels",
+    "image_path": "images/2007-12-12_des_chiens_dans_la_neige.jpg"
+  },
+  {
+    "release_date": "2007-12-12",
+    "title": "Chroniques de 2005",
+    "director": "Virgil Vernier"
+  },
+  {
+    "release_date": "2007-12-12",
+    "title": "Le Blues de l'Orient",
+    "director": "Florence Strauss"
+  },
+  {
+    "release_date": "2007-12-12",
+    "title": "Petit à petit",
+    "director": "Gun Jacobson , Pierre-Luc Granjon , Uzi Geffenblad , Lotta Geffenblad , May Whitty"
+  },
+  {
+    "release_date": "2007-12-12",
+    "title": "Petit à Petit",
+    "director": "Jean Rouch"
+  }
+]

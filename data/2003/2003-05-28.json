@@ -1,0 +1,19 @@
+[
+  {
+    "release_date": "2003-05-28",
+    "title": "Man on the Moon",
+    "director": "Milos Forman",
+    "image_path": "images/2003-05-28_man_on_the_moon.jpg"
+  },
+  {
+    "release_date": "2003-05-28",
+    "title": "Basic",
+    "director": "John McTiernan",
+    "image_path": "images/2003-05-28_basic.jpg"
+  },
+  {
+    "release_date": "2003-05-28",
+    "title": "Mari Iyagi",
+    "director": "Lee Sung-gang"
+  }
+]

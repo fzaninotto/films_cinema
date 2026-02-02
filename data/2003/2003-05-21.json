@@ -1,0 +1,19 @@
+[
+  {
+    "release_date": "2003-05-21",
+    "title": "L'Expérience",
+    "director": "Oliver Hirschbiegel"
+  },
+  {
+    "release_date": "2003-05-21",
+    "title": "Swimming Pool",
+    "director": "François Ozon",
+    "image_path": "images/2003-05-21_swimming_pool.jpg"
+  },
+  {
+    "release_date": "2003-05-21",
+    "title": "A la dérive",
+    "director": "Guy Ritchie",
+    "image_path": "images/2003-05-21_a_la_derive.jpg"
+  }
+]

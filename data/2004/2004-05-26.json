@@ -1,0 +1,45 @@
+[
+  {
+    "release_date": "2004-05-26",
+    "title": "Le Jour d'après",
+    "director": "Roland Emmerich",
+    "image_path": "images/2004-05-26_le_jour_dapres.jpg"
+  },
+  {
+    "release_date": "2004-05-26",
+    "title": "Le Roi Lion",
+    "director": "Rob Minkoff , Roger Allers",
+    "image_path": "images/2004-05-26_le_roi_lion.jpg"
+  },
+  {
+    "release_date": "2004-05-26",
+    "title": "La Famille indienne",
+    "director": "Karan Johar",
+    "image_path": "images/2004-05-26_la_famille_indienne.jpg"
+  },
+  {
+    "release_date": "2004-05-26",
+    "title": "10 on Ten",
+    "director": "Abbas Kiarostami"
+  },
+  {
+    "release_date": "2004-05-26",
+    "title": "Bologna centrale",
+    "director": "Vincent Dieutre"
+  },
+  {
+    "release_date": "2004-05-26",
+    "title": "Five",
+    "director": "Abbas Kiarostami"
+  },
+  {
+    "release_date": "2004-05-26",
+    "title": "L'Ecole en campagne",
+    "director": "Christian Tran"
+  },
+  {
+    "release_date": "2004-05-26",
+    "title": "Wonderland",
+    "director": "James Cox"
+  }
+]

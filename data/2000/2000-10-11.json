@@ -1,0 +1,58 @@
+[
+  {
+    "release_date": "2000-10-11",
+    "title": "La Ligne rouge",
+    "director": "Terrence Malick",
+    "image_path": "images/2000-10-11_la_ligne_rouge.jpg"
+  },
+  {
+    "release_date": "2000-10-11",
+    "title": "L'Aile ou la cuisse",
+    "director": "Bob Fosse , Claude Zidi",
+    "image_path": "images/2000-10-11_laile_ou_la_cuisse.jpg"
+  },
+  {
+    "release_date": "2000-10-11",
+    "title": "Aprile",
+    "director": "Nanni Moretti , Richard Constantini , Thierry Turchet",
+    "image_path": "images/2000-10-11_aprile.jpg"
+  },
+  {
+    "release_date": "2000-10-11",
+    "title": "Point limite",
+    "director": "Sidney Lumet",
+    "image_path": "images/2000-10-11_point_limite.jpg"
+  },
+  {
+    "release_date": "2000-10-11",
+    "title": "Boomerang",
+    "director": "Reginald Hudlin",
+    "image_path": "images/2000-10-11_boomerang.jpg"
+  },
+  {
+    "release_date": "2000-10-11",
+    "title": "La loi de la prairie",
+    "director": "Robert Wise"
+  },
+  {
+    "release_date": "2000-10-11",
+    "title": "La Tentation de Vénus",
+    "director": "Istvan Szabo"
+  },
+  {
+    "release_date": "2000-10-11",
+    "title": "Le Tableau noir",
+    "director": "Samira Makhmalbaf",
+    "image_path": "images/2000-10-11_le_tableau_noir.jpg"
+  },
+  {
+    "release_date": "2000-10-11",
+    "title": "Police Story III",
+    "director": "Stanley Tong"
+  },
+  {
+    "release_date": "2000-10-11",
+    "title": "Sous le signe de Rome",
+    "director": "Michelangelo Antonioni , Ricardo Franco , Riccardo Freda , Guido Brignone"
+  }
+]

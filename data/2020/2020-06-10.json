@@ -1,0 +1,36 @@
+[
+  {
+    "release_date": "2020-06-10",
+    "title": "5eme Set",
+    "director": "Anthony Hickox , Quentin Reynaud",
+    "image_path": "images/2020-06-10_5eme_set.jpeg"
+  },
+  {
+    "release_date": "2020-06-10",
+    "title": "Artemis Fowl",
+    "director": "Kenneth Branagh",
+    "image_path": "images/2020-06-10_artemis_fowl.jpeg"
+  },
+  {
+    "release_date": "2020-06-10",
+    "title": "Knives and Skin",
+    "director": "Jennifer Reeder",
+    "image_path": "images/2020-06-10_knives_and_skin.jpg"
+  },
+  {
+    "release_date": "2020-06-10",
+    "title": "La fleur d'oranger",
+    "director": "Henry Roussel"
+  },
+  {
+    "release_date": "2020-06-10",
+    "title": "L'Amour à la ville",
+    "director": "Federico Fellini , Michelangelo Antonioni , Dino Risi , Alberto Lattuada , F. Maselli , C. Zavattini"
+  },
+  {
+    "release_date": "2020-06-10",
+    "title": "Meurtre par décret",
+    "director": "Donald Sutherland , Christopher Plummer , Bob Clark , Ingeborg Schöner",
+    "image_path": "images/2020-06-10_meurtre_par_decret.jpg"
+  }
+]

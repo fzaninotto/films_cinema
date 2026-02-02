@@ -1,0 +1,55 @@
+[
+  {
+    "release_date": "2014-05-21",
+    "title": "X-Men : Days of Future Past",
+    "director": "Bryan Singer",
+    "image_path": "images/2014-05-21_x-men_days_of_future_past.jpg"
+  },
+  {
+    "release_date": "2014-05-21",
+    "title": "Le Manoir magique",
+    "director": "Ben Stassen , Jérémy Degruson , Jérémie Degruson , Mimi Maynard",
+    "image_path": "images/2014-05-21_le_manoir_magique.jpg"
+  },
+  {
+    "release_date": "2014-05-21",
+    "title": "Match retour",
+    "director": "Peter Segal",
+    "image_path": "images/2014-05-21_match_retour.jpg"
+  },
+  {
+    "release_date": "2014-05-21",
+    "title": "Blackout total",
+    "director": "Steven Brill",
+    "image_path": "images/2014-05-21_blackout_total.jpg"
+  },
+  {
+    "release_date": "2014-05-21",
+    "title": "Sao Paulo Blues",
+    "director": "Francisco Garcia",
+    "image_path": "images/2014-05-21_sao_paulo_blues.jpg"
+  },
+  {
+    "release_date": "2014-05-21",
+    "title": "Reality",
+    "director": "Matteo Garrone",
+    "image_path": "images/2014-05-21_reality.jpg"
+  },
+  {
+    "release_date": "2014-05-21",
+    "title": "Destination Pacifique",
+    "director": "Greg MacGillivray"
+  },
+  {
+    "release_date": "2014-05-21",
+    "title": "Le Fleuve sauvage",
+    "director": "Elia Kazan , Malek Kateb",
+    "image_path": "images/2014-05-21_le_fleuve_sauvage.jpg"
+  },
+  {
+    "release_date": "2014-05-21",
+    "title": "Spectacle de Jean-Marie Bigard (Côté Diffusion)",
+    "director": "Inconnu",
+    "image_path": "images/2014-05-21_spectacle_de_jean-marie_bigard_cote_diffusion.jpg"
+  }
+]

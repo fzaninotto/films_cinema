@@ -1,0 +1,55 @@
+[
+  {
+    "release_date": "2006-02-15",
+    "title": "Presque célèbre",
+    "director": "Cameron Crowe , Hans Junkermann",
+    "image_path": "images/2006-02-15_presque_celebre.jpg"
+  },
+  {
+    "release_date": "2006-02-15",
+    "title": "Michel Vaillant",
+    "director": "Louis-Pascal Couvelaire",
+    "image_path": "images/2006-02-15_michel_vaillant.jpg"
+  },
+  {
+    "release_date": "2006-02-15",
+    "title": "Bubba Ho-Tep",
+    "director": "Don Coscarelli",
+    "image_path": "images/2006-02-15_bubba_ho-tep.jpg"
+  },
+  {
+    "release_date": "2006-02-15",
+    "title": "Petites confidences à ma psy",
+    "director": "Ben Younger",
+    "image_path": "images/2006-02-15_petites_confidences_a_ma_psy.jpg"
+  },
+  {
+    "release_date": "2006-02-15",
+    "title": "Le Nouveau Monde",
+    "director": "Terrence Malick , Jean-Luc Godard , Gösta Bredefeldt",
+    "image_path": "images/2006-02-15_le_nouveau_monde.jpg"
+  },
+  {
+    "release_date": "2006-02-15",
+    "title": "Paparazzi",
+    "director": "Paul Abascal",
+    "image_path": "images/2006-02-15_paparazzi.jpg"
+  },
+  {
+    "release_date": "2006-02-15",
+    "title": "Sauf le respect que je vous dois",
+    "director": "Fabienne Godet",
+    "image_path": "images/2006-02-15_sauf_le_respect_que_je_vous_dois.jpg"
+  },
+  {
+    "release_date": "2006-02-15",
+    "title": "The Ballad of Jack and Rose",
+    "director": "Rebecca Miller",
+    "image_path": "images/2006-02-15_the_ballad_of_jack_and_rose.jpg"
+  },
+  {
+    "release_date": "2006-02-15",
+    "title": "Ronde de nuit",
+    "director": "Aleksandr Sokurov , Edgardo Cozarinski , Edgardo Cozarinsky"
+  }
+]

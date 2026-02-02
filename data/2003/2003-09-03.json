@@ -1,0 +1,63 @@
+[
+  {
+    "release_date": "2003-09-03",
+    "title": "Les Goonies",
+    "director": "Richard Donner",
+    "image_path": "images/2003-09-03_les_goonies.jpg"
+  },
+  {
+    "release_date": "2003-09-03",
+    "title": "Bruce tout-puissant",
+    "director": "Tom Shadyac",
+    "image_path": "images/2003-09-03_bruce_tout-puissant.jpg"
+  },
+  {
+    "release_date": "2003-09-03",
+    "title": "Dirty Pretty Things",
+    "director": "Stephen Frears",
+    "image_path": "images/2003-09-03_dirty_pretty_things.jpg"
+  },
+  {
+    "release_date": "2003-09-03",
+    "title": "Les Trois Vies de Rita Vogt",
+    "director": "Volker Schlöndorff , Guillaume Denaiffe"
+  },
+  {
+    "release_date": "2003-09-03",
+    "title": "Accords et à cris",
+    "director": "Benoît d'Aubert"
+  },
+  {
+    "release_date": "2003-09-03",
+    "title": "Bienvenue au gîte",
+    "director": "Claude Duty",
+    "image_path": "images/2003-09-03_bienvenue_au_gite.jpg"
+  },
+  {
+    "release_date": "2003-09-03",
+    "title": "L'accompagnatrice",
+    "director": "Claude Miller",
+    "image_path": "images/2003-09-03_laccompagnatrice.jpg"
+  },
+  {
+    "release_date": "2003-09-03",
+    "title": "La chose publique",
+    "director": "Mathieu Amalric"
+  },
+  {
+    "release_date": "2003-09-03",
+    "title": "La Chose publique",
+    "director": "Mathieu Amalric"
+  },
+  {
+    "release_date": "2003-09-03",
+    "title": "Raja",
+    "director": "Jacques Doillon , Paolo Stoppa",
+    "image_path": "images/2003-09-03_raja.jpg"
+  },
+  {
+    "release_date": "2003-09-03",
+    "title": "Satreelex The Iron Ladies",
+    "director": "Yongyooth Thongkonthun"
+  }
+]

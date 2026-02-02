@@ -1,0 +1,36 @@
+[
+  {
+    "release_date": "2003-08-27",
+    "title": "Training Day",
+    "director": "Antoine Fuqua",
+    "image_path": "images/2003-08-27_training_day.jpg"
+  },
+  {
+    "release_date": "2003-08-27",
+    "title": "Phone Game",
+    "director": "Joel Schumacher",
+    "image_path": "images/2003-08-27_phone_game.jpg"
+  },
+  {
+    "release_date": "2003-08-27",
+    "title": "Alice's Restaurant",
+    "director": "Arthur Penn",
+    "image_path": "images/2003-08-27_alices_restaurant.jpg"
+  },
+  {
+    "release_date": "2003-08-27",
+    "title": "Le Domaine",
+    "director": "Lester James Peries"
+  },
+  {
+    "release_date": "2003-08-27",
+    "title": "Les Cheyennes",
+    "director": "John Ford",
+    "image_path": "images/2003-08-27_les_cheyennes.jpg"
+  },
+  {
+    "release_date": "2003-08-27",
+    "title": "Mister Majestyk",
+    "director": "Richard Fleischer"
+  }
+]

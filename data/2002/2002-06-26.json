@@ -1,0 +1,37 @@
+[
+  {
+    "release_date": "2002-06-26",
+    "title": "L'Âge de glace",
+    "director": "Chris Wedge , Carlos Saldanha",
+    "image_path": "images/2002-06-26_lage_de_glace.jpg"
+  },
+  {
+    "release_date": "2002-06-26",
+    "title": "Marie-Jo et ses deux amours",
+    "director": "Robert Guédiguian",
+    "image_path": "images/2002-06-26_marie-jo_et_ses_deux_amours.jpg"
+  },
+  {
+    "release_date": "2002-06-26",
+    "title": "Faut pas prendre les enfants du bon Dieu pour des canards sauvages",
+    "director": "Michel Audiard , Henri Puff",
+    "image_path": "images/2002-06-26_faut_pas_prendre_les_enfants_du_bon_dieu_pour_des_canards_sauvages.jpg"
+  },
+  {
+    "release_date": "2002-06-26",
+    "title": "Irène",
+    "director": "Ivan Calbérac",
+    "image_path": "images/2002-06-26_irene.jpg"
+  },
+  {
+    "release_date": "2002-06-26",
+    "title": "Lagaan",
+    "director": "Ashutosh Gowariker",
+    "image_path": "images/2002-06-26_lagaan.jpg"
+  },
+  {
+    "release_date": "2002-06-26",
+    "title": "Venus Boyz",
+    "director": "Gabriel Baur"
+  }
+]

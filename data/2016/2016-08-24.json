@@ -1,0 +1,62 @@
+[
+  {
+    "release_date": "2016-08-24",
+    "title": "Dans le noir",
+    "director": "David F Sandberg",
+    "image_path": "images/2016-08-24_dans_le_noir.jpg"
+  },
+  {
+    "release_date": "2016-08-24",
+    "title": "Demi-soeur",
+    "director": "Josiane Balasko",
+    "image_path": "images/2016-08-24_demi-soeur.jpg"
+  },
+  {
+    "release_date": "2016-08-24",
+    "title": "Agents presque secrets",
+    "director": "Rawson Marshall Thurber",
+    "image_path": "images/2016-08-24_agents_presque_secrets.jpg"
+  },
+  {
+    "release_date": "2016-08-24",
+    "title": "Hôtel Singapura",
+    "director": "Eric Khoo",
+    "image_path": "images/2016-08-24_hotel_singapura.jpg"
+  },
+  {
+    "release_date": "2016-08-24",
+    "title": "Iqbal, l'enfant qui n'avait pas peur",
+    "director": "Babak Payami , Anna Boden , Michel Fuzellier",
+    "image_path": "images/2016-08-24_iqbal_lenfant_qui_navait_pas_peur.jpg"
+  },
+  {
+    "release_date": "2016-08-24",
+    "title": "Mimosas",
+    "director": "Oliver Laxe",
+    "image_path": "images/2016-08-24_mimosas.jpg"
+  },
+  {
+    "release_date": "2016-08-24",
+    "title": "Rester Vertical",
+    "director": "Alain Guiraudie",
+    "image_path": "images/2016-08-24_rester_vertical.jpg"
+  },
+  {
+    "release_date": "2016-08-24",
+    "title": "Elektro Mathematrix",
+    "director": "Blanca Li",
+    "image_path": "images/2016-08-24_elektro_mathematrix.jpg"
+  },
+  {
+    "release_date": "2016-08-24",
+    "title": "Exotica, Erotica, Etc.",
+    "director": "Evangelia Kranioti",
+    "image_path": "images/2016-08-24_exotica_erotica_etc.jpg"
+  },
+  {
+    "release_date": "2016-08-24",
+    "title": "Princess",
+    "director": "Arto Halonen",
+    "image_path": "images/2016-08-24_princess.jpg"
+  }
+]

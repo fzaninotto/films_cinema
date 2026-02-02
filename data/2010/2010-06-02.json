@@ -1,0 +1,37 @@
+[
+  {
+    "release_date": "2010-06-02",
+    "title": "Tristana",
+    "director": "Luis Bunuel",
+    "image_path": "images/2010-06-02_tristana.jpg"
+  },
+  {
+    "release_date": "2010-06-02",
+    "title": "Sex and the City 2",
+    "director": "Michael Patrick King",
+    "image_path": "images/2010-06-02_sex_and_the_city_2.jpg"
+  },
+  {
+    "release_date": "2010-06-02",
+    "title": "Sweet Valentine",
+    "director": "Emma luchini",
+    "image_path": "images/2010-06-02_sweet_valentine.jpg"
+  },
+  {
+    "release_date": "2010-06-02",
+    "title": "Les Colts de l'or noir",
+    "director": "Pierre Romanello",
+    "image_path": "images/2010-06-02_les_colts_de_lor_noir.jpg"
+  },
+  {
+    "release_date": "2010-06-02",
+    "title": "Giallo",
+    "director": "Dario Argento"
+  },
+  {
+    "release_date": "2010-06-02",
+    "title": "Maniquerville",
+    "director": "Pierre Creton",
+    "image_path": "images/2010-06-02_maniquerville.jpg"
+  }
+]

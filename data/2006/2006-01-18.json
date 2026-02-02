@@ -1,0 +1,62 @@
+[
+  {
+    "release_date": "2006-01-18",
+    "title": "Le Secret de Brokeback Mountain",
+    "director": "Ang Lee",
+    "image_path": "images/2006-01-18_le_secret_de_brokeback_mountain.jpg"
+  },
+  {
+    "release_date": "2006-01-18",
+    "title": "Chaos",
+    "director": "Tony Giglio , Xavier Zulawski",
+    "image_path": "images/2006-01-18_chaos.jpg"
+  },
+  {
+    "release_date": "2006-01-18",
+    "title": "L'Enfer du devoir",
+    "director": "William Friedkin",
+    "image_path": "images/2006-01-18_lenfer_du_devoir.jpg"
+  },
+  {
+    "release_date": "2006-01-18",
+    "title": "Bandidas",
+    "director": "Joachim Roenning",
+    "image_path": "images/2006-01-18_bandidas.jpg"
+  },
+  {
+    "release_date": "2006-01-18",
+    "title": "La Fièvre du roller",
+    "director": "Malcolm D. Lee",
+    "image_path": "images/2006-01-18_la_fievre_du_roller.jpg"
+  },
+  {
+    "release_date": "2006-01-18",
+    "title": "Pompoko",
+    "director": "Isao Takahata",
+    "image_path": "images/2006-01-18_pompoko.jpg"
+  },
+  {
+    "release_date": "2006-01-18",
+    "title": "Un Ticket pour l'espace",
+    "director": "Eric Lartigau",
+    "image_path": "images/2006-01-18_un_ticket_pour_lespace.jpg"
+  },
+  {
+    "release_date": "2006-01-18",
+    "title": "Piccolo, Saxo & Cie",
+    "director": "Eric Gutierez , Marco Villamizar , Eric Gutierrez , Frédéric Lafitte-Matalas , Julian Glober , Stewart St. John",
+    "image_path": "images/2006-01-18_piccolo_saxo_cie.jpg"
+  },
+  {
+    "release_date": "2006-01-18",
+    "title": "Riviera",
+    "director": "Anne Villacèque",
+    "image_path": "images/2006-01-18_riviera.jpg"
+  },
+  {
+    "release_date": "2006-01-18",
+    "title": "C'est pas tout à fait la vie dont j'avais rêvé",
+    "director": "Michel Piccoli",
+    "image_path": "images/2006-01-18_cest_pas_tout_a_fait_la_vie_dont_javais_reve.jpg"
+  }
+]

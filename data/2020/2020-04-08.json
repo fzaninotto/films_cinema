@@ -1,0 +1,63 @@
+[
+  {
+    "release_date": "2020-04-08",
+    "title": "Beats",
+    "director": "Chris Robinson"
+  },
+  {
+    "release_date": "2020-04-08",
+    "title": "Echec au porteur",
+    "director": "Gilles Grangier",
+    "image_path": "images/2020-04-08_echec_au_porteur.jpg"
+  },
+  {
+    "release_date": "2020-04-08",
+    "title": "Hubert Reeves - La Terre vue du coeur",
+    "director": "Iolande Cadrin-Rossignol",
+    "image_path": "images/2020-04-08_hubert_reeves_-_la_terre_vue_du_coeur.jpg"
+  },
+  {
+    "release_date": "2020-04-08",
+    "title": "Kubrick par Kubrick",
+    "director": "Gregory Monro"
+  },
+  {
+    "release_date": "2020-04-08",
+    "title": "L'Amour à la mer",
+    "director": "Guy Gilles , Kim Flowers"
+  },
+  {
+    "release_date": "2020-04-08",
+    "title": "Le Sexe fou",
+    "director": "Dino Risi"
+  },
+  {
+    "release_date": "2020-04-08",
+    "title": "L'incroyable histoire de Jésus",
+    "director": "Robert Fernandez",
+    "image_path": "images/2020-04-08_lincroyable_histoire_de_jesus.jpg"
+  },
+  {
+    "release_date": "2020-04-08",
+    "title": "Mon chat, l'elfe malicieux et moi",
+    "director": "Evgeniy Bedarev"
+  },
+  {
+    "release_date": "2020-04-08",
+    "title": "Nuestras madres",
+    "director": "Cesar Diaz",
+    "image_path": "images/2020-04-08_nuestras_madres.jpg"
+  },
+  {
+    "release_date": "2020-04-08",
+    "title": "Remparts d'argile",
+    "director": "Jean-Louis Bertucelli",
+    "image_path": "images/2020-04-08_remparts_dargile.jpg"
+  },
+  {
+    "release_date": "2020-04-08",
+    "title": "Un conte peut en cacher un autre",
+    "director": "Jakob Schuh , Jan Lachauer , Bin-Han To",
+    "image_path": "images/2020-04-08_un_conte_peut_en_cacher_un_autre.jpg"
+  }
+]

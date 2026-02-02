@@ -1,0 +1,47 @@
+[
+  {
+    "release_date": "2003-12-24",
+    "title": "Highlander",
+    "director": "Russell Mulcahy",
+    "image_path": "images/2003-12-24_highlander.jpg"
+  },
+  {
+    "release_date": "2003-12-24",
+    "title": "Scary Movie 3",
+    "director": "David Zucker",
+    "image_path": "images/2003-12-24_scary_movie_3.jpg"
+  },
+  {
+    "release_date": "2003-12-24",
+    "title": "Excalibur, l'épée magique",
+    "director": "Frederik Du Chau , Tom Nowicki",
+    "image_path": "images/2003-12-24_excalibur_lepee_magique.jpg"
+  },
+  {
+    "release_date": "2003-12-24",
+    "title": "En route pour la gloire",
+    "director": "Hal Ashby",
+    "image_path": "images/2003-12-24_en_route_pour_la_gloire.jpg"
+  },
+  {
+    "release_date": "2003-12-24",
+    "title": "Ulysse",
+    "director": "Mario Bava , Mario Camerini"
+  },
+  {
+    "release_date": "2003-12-24",
+    "title": "La Compagnie des Loups",
+    "director": "Neil Jordan"
+  },
+  {
+    "release_date": "2003-12-24",
+    "title": "La Route d'Eldorado",
+    "director": "Eric Bergeron , Don Paul",
+    "image_path": "images/2003-12-24_la_route_deldorado.jpg"
+  },
+  {
+    "release_date": "2003-12-24",
+    "title": "Les lionceaux",
+    "director": "Claire Doyon"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "release_date": "2000-11-08",
+    "title": "Shaft",
+    "director": "John Singleton",
+    "image_path": "images/2000-11-08_shaft.jpg"
+  },
+  {
+    "release_date": "2000-11-08",
+    "title": "Guet-apens",
+    "director": "Sam Peckinpah",
+    "image_path": "images/2000-11-08_guet-apens.jpg"
+  },
+  {
+    "release_date": "2000-11-08",
+    "title": "Ariel",
+    "director": "Aki Kaurismaki"
+  },
+  {
+    "release_date": "2000-11-08",
+    "title": "Expérience",
+    "director": "Abbas Kiarostami"
+  },
+  {
+    "release_date": "2000-11-08",
+    "title": "Le signe du païen",
+    "director": "Douglas Sirk"
+  },
+  {
+    "release_date": "2000-11-08",
+    "title": "Madame Sans-Gêne",
+    "director": "Christian-Jaque"
+  },
+  {
+    "release_date": "2000-11-08",
+    "title": "Stop Making Sense",
+    "director": "Jonathan Demme",
+    "image_path": "images/2000-11-08_stop_making_sense.jpg"
+  },
+  {
+    "release_date": "2000-11-08",
+    "title": "Une fille de la province",
+    "director": "George Seaton"
+  },
+  {
+    "release_date": "2000-11-08",
+    "title": "Vacances prolongées",
+    "director": "Johan van der Keuken"
+  }
+]

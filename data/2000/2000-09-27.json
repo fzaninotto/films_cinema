@@ -1,0 +1,30 @@
+[
+  {
+    "release_date": "2000-09-27",
+    "title": "Pieds nus dans le parc",
+    "director": "Gene Saks",
+    "image_path": "images/2000-09-27_pieds_nus_dans_le_parc.jpg"
+  },
+  {
+    "release_date": "2000-09-27",
+    "title": "Adieu Poulet",
+    "director": "Robert Hossein , Pierre Granier-Deferre",
+    "image_path": "images/2000-09-27_adieu_poulet.jpg"
+  },
+  {
+    "release_date": "2000-09-27",
+    "title": "Un enfant de Calabre",
+    "director": "Luigi Comencini",
+    "image_path": "images/2000-09-27_un_enfant_de_calabre.jpg"
+  },
+  {
+    "release_date": "2000-09-27",
+    "title": "Hathi",
+    "director": "Philippe Gautier"
+  },
+  {
+    "release_date": "2000-09-27",
+    "title": "La Noce",
+    "director": "Pavel Lounguine"
+  }
+]

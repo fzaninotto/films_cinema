@@ -1,0 +1,51 @@
+[
+  {
+    "release_date": "2020-04-15",
+    "title": "India Song",
+    "director": "Marguerite Duras , Sébastien Japrisot",
+    "image_path": "images/2020-04-15_india_song.jpg"
+  },
+  {
+    "release_date": "2020-04-15",
+    "title": "Au travers des oliviers",
+    "director": "Abbas Kiarostami",
+    "image_path": "images/2020-04-15_au_travers_des_oliviers.jpg"
+  },
+  {
+    "release_date": "2020-04-15",
+    "title": "Devoirs du soir",
+    "director": "Abbas Kiarostami"
+  },
+  {
+    "release_date": "2020-04-15",
+    "title": "Et la vie continue",
+    "director": "Abbas Kiarostami"
+  },
+  {
+    "release_date": "2020-04-15",
+    "title": "La Légende",
+    "director": "Florian Hessique",
+    "image_path": "images/2020-04-15_la_legende.jpg"
+  },
+  {
+    "release_date": "2020-04-15",
+    "title": "Le Costume de mariage",
+    "director": "Abbas Kiarostami"
+  },
+  {
+    "release_date": "2020-04-15",
+    "title": "Le Passager",
+    "director": "Abbas Kiarostami"
+  },
+  {
+    "release_date": "2020-04-15",
+    "title": "Thérèse Desqueyroux",
+    "director": "Claude Miller , Georges Franju",
+    "image_path": "images/2020-04-15_therese_desqueyroux.jpg"
+  },
+  {
+    "release_date": "2020-04-15",
+    "title": "Tous surveillés : 7 milliards de suspects",
+    "director": "Sylvain Louvet"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "release_date": "2002-09-25",
+    "title": "Le Petit Dinosaure et la vallée des merveilles",
+    "director": "Don Bluth",
+    "image_path": "images/2002-09-25_le_petit_dinosaure_et_la_vallee_des_merveilles.jpg"
+  },
+  {
+    "release_date": "2002-09-25",
+    "title": "Le Cri",
+    "director": "Michelangelo Antonioni",
+    "image_path": "images/2002-09-25_le_cri.jpg"
+  },
+  {
+    "release_date": "2002-09-25",
+    "title": "Le Corniaud",
+    "director": "Gérard Oury",
+    "image_path": "images/2002-09-25_le_corniaud.jpg"
+  },
+  {
+    "release_date": "2002-09-25",
+    "title": "L'Evadé d'Alcatraz",
+    "director": "Don Siegel",
+    "image_path": "images/2002-09-25_levade_dalcatraz.jpg"
+  },
+  {
+    "release_date": "2002-09-25",
+    "title": "Corto Maltese : la cour secrète des Arcanes",
+    "director": "Pascal Morelli",
+    "image_path": "images/2002-09-25_corto_maltese_la_cour_secrete_des_arcanes.jpg"
+  },
+  {
+    "release_date": "2002-09-25",
+    "title": "Arbres",
+    "director": "Marc-Antoine Roudil , Sophie Bruneau"
+  },
+  {
+    "release_date": "2002-09-25",
+    "title": "Dog Days",
+    "director": "Ulrich Seidl"
+  },
+  {
+    "release_date": "2002-09-25",
+    "title": "Occident",
+    "director": "Cristian Mungiu"
+  }
+]

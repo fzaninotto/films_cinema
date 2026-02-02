@@ -1,0 +1,54 @@
+[
+  {
+    "release_date": "2009-02-25",
+    "title": "Taxi 4",
+    "director": "Gérard Krawczyk",
+    "image_path": "images/2009-02-25_taxi_4.jpg"
+  },
+  {
+    "release_date": "2009-02-25",
+    "title": "Boy A",
+    "director": "John Crowley",
+    "image_path": "images/2009-02-25_boy_a.jpg"
+  },
+  {
+    "release_date": "2009-02-25",
+    "title": "Cyprien",
+    "director": "David Charhon",
+    "image_path": "images/2009-02-25_cyprien.jpg"
+  },
+  {
+    "release_date": "2009-02-25",
+    "title": "Miss Pettigrew",
+    "director": "Bharat Nalluri",
+    "image_path": "images/2009-02-25_miss_pettigrew.jpg"
+  },
+  {
+    "release_date": "2009-02-25",
+    "title": "Bellamy",
+    "director": "Claude Chabrol , Vladimir Cosma",
+    "image_path": "images/2009-02-25_bellamy.jpg"
+  },
+  {
+    "release_date": "2009-02-25",
+    "title": "14 kilomètres",
+    "director": "Gerardo Olivares"
+  },
+  {
+    "release_date": "2009-02-25",
+    "title": "Gloss",
+    "director": "Anna Karina , Andrei Konchalovsky",
+    "image_path": "images/2009-02-25_gloss.jpg"
+  },
+  {
+    "release_date": "2009-02-25",
+    "title": "Happy Sweden",
+    "director": "Ruben Ostlund",
+    "image_path": "images/2009-02-25_happy_sweden.jpg"
+  },
+  {
+    "release_date": "2009-02-25",
+    "title": "Têtes vides cherchent coffre plein",
+    "director": "William Friedkin"
+  }
+]

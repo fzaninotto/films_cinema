@@ -1,0 +1,35 @@
+[
+  {
+    "release_date": "2000-08-16",
+    "title": "X-Men",
+    "director": "Bryan Singer",
+    "image_path": "images/2000-08-16_x-men.jpg"
+  },
+  {
+    "release_date": "2000-08-16",
+    "title": "Une saison blanche et sèche",
+    "director": "Euzhan Palcy",
+    "image_path": "images/2000-08-16_une_saison_blanche_et_seche.jpg"
+  },
+  {
+    "release_date": "2000-08-16",
+    "title": "Le Feu follet",
+    "director": "Louis Malle , Joao Pedro Rodrigues",
+    "image_path": "images/2000-08-16_le_feu_follet.jpg"
+  },
+  {
+    "release_date": "2000-08-16",
+    "title": "David Copperfield",
+    "director": "Treat Williams , George Cukor"
+  },
+  {
+    "release_date": "2000-08-16",
+    "title": "La Sagesse des crocodiles"
+  },
+  {
+    "release_date": "2000-08-16",
+    "title": "Les novices",
+    "director": "Guy Casaril",
+    "image_path": "images/2000-08-16_les_novices.jpg"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "release_date": "2002-11-13",
+    "title": "Freeway",
+    "director": "Matthew Bright",
+    "image_path": "images/2002-11-13_freeway.jpg"
+  },
+  {
+    "release_date": "2002-11-13",
+    "title": "Spider",
+    "director": "David Cronenberg",
+    "image_path": "images/2002-11-13_spider.jpg"
+  },
+  {
+    "release_date": "2002-11-13",
+    "title": "Carnages",
+    "director": "Delphine Gleize",
+    "image_path": "images/2002-11-13_carnages.jpg"
+  },
+  {
+    "release_date": "2002-11-13",
+    "title": "Afrique, je te plumerai...",
+    "director": "Jean-Marie Teno",
+    "image_path": "images/2002-11-13_afrique_je_te_plumerai.jpg"
+  },
+  {
+    "release_date": "2002-11-13",
+    "title": "Deux",
+    "director": "Werner Schroeter"
+  },
+  {
+    "release_date": "2002-11-13",
+    "title": "La dernière lettre",
+    "director": "Frederick Wiseman"
+  },
+  {
+    "release_date": "2002-11-13",
+    "title": "La Dernière Lettre",
+    "director": "Frederick Wiseman"
+  },
+  {
+    "release_date": "2002-11-13",
+    "title": "Une femme de ménage",
+    "director": "Claude Berri",
+    "image_path": "images/2002-11-13_une_femme_de_menage.jpg"
+  }
+]

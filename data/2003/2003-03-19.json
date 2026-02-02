@@ -1,0 +1,52 @@
+[
+  {
+    "release_date": "2003-03-19",
+    "title": "The Hours",
+    "director": "Stephen Daldry",
+    "image_path": "images/2003-03-19_the_hours.jpg"
+  },
+  {
+    "release_date": "2003-03-19",
+    "title": "Chouchou",
+    "director": "Merzak Allouache",
+    "image_path": "images/2003-03-19_chouchou.jpg"
+  },
+  {
+    "release_date": "2003-03-19",
+    "title": "Daredevil",
+    "director": "Johnson Mark Steven",
+    "image_path": "images/2003-03-19_daredevil.jpg"
+  },
+  {
+    "release_date": "2003-03-19",
+    "title": "Abouna",
+    "director": "Mahamat-Saleh Haroun"
+  },
+  {
+    "release_date": "2003-03-19",
+    "title": "Cookie's Fortune",
+    "director": "Robert Altman"
+  },
+  {
+    "release_date": "2003-03-19",
+    "title": "Girlfriends",
+    "director": "Claudia Weill"
+  },
+  {
+    "release_date": "2003-03-19",
+    "title": "La Forêt sans nom",
+    "director": "Shinji Aoyama"
+  },
+  {
+    "release_date": "2003-03-19",
+    "title": "Madame Sata",
+    "director": "Karim Aïnouz",
+    "image_path": "images/2003-03-19_madame_sata.jpg"
+  },
+  {
+    "release_date": "2003-03-19",
+    "title": "Quand tu descendras du ciel",
+    "director": "Eric Guirado",
+    "image_path": "images/2003-03-19_quand_tu_descendras_du_ciel.jpg"
+  }
+]

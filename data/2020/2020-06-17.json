@@ -1,0 +1,228 @@
+[
+  {
+    "release_date": "2020-06-17",
+    "title": "Woman",
+    "director": "Yann Arthus-Bertrand , Anastasia Mikova",
+    "image_path": "images/2020-06-17_woman.jpg"
+  },
+  {
+    "release_date": "2020-06-17",
+    "title": "Elephant Man",
+    "director": "David Lynch",
+    "image_path": "images/2020-06-17_elephant_man.jpg"
+  },
+  {
+    "release_date": "2020-06-17",
+    "title": "Kongo",
+    "director": "Corto Vaclav , Hadrien La Vapeur",
+    "image_path": "images/2020-06-17_kongo.jpg"
+  },
+  {
+    "release_date": "2020-06-17",
+    "title": "The Boy : la malédiction de Brahms",
+    "director": "William Brent Bell , William Bell",
+    "image_path": "images/2020-06-17_the_boy_la_malediction_de_brahms.jpg"
+  },
+  {
+    "release_date": "2020-06-17",
+    "title": "Une Sirène à Paris",
+    "director": "Mathias Malzieu",
+    "image_path": "images/2020-06-17_une_sirene_a_paris.jpeg"
+  },
+  {
+    "release_date": "2020-06-17",
+    "title": "De Gaulle",
+    "director": "Gabriel Le Bomin",
+    "image_path": "images/2020-06-17_de_gaulle.jpg"
+  },
+  {
+    "release_date": "2020-06-17",
+    "title": "Filles de joie",
+    "director": "Frédéric Fonteyne , Anne Paulicevich",
+    "image_path": "images/2020-06-17_filles_de_joie.jpg"
+  },
+  {
+    "release_date": "2020-06-17",
+    "title": "La Bonne Épouse",
+    "director": "Martin Provost",
+    "image_path": "images/2020-06-17_la_bonne_epouse.jpg"
+  },
+  {
+    "release_date": "2020-06-17",
+    "title": "Be Natural : l'histoire inédite d'Alice Guy-Blaché",
+    "director": "Pamela B Green , Pamela Green",
+    "image_path": "images/2020-06-17_be_natural_lhistoire_inedite_dalice_guy-blache.jpeg"
+  },
+  {
+    "release_date": "2020-06-17",
+    "title": "Benni",
+    "director": "Nora Fingscheidt",
+    "image_path": "images/2020-06-17_benni.jpg"
+  },
+  {
+    "release_date": "2020-06-17",
+    "title": "Canción sin nombre",
+    "director": "Melina León",
+    "image_path": "images/2020-06-17_cancion_sin_nombre.jpg"
+  },
+  {
+    "release_date": "2020-06-17",
+    "title": "Ducobu 3.0",
+    "director": "Elie Semoun",
+    "image_path": "images/2020-06-17_ducobu_30.jpeg"
+  },
+  {
+    "release_date": "2020-06-17",
+    "title": "Green Boys",
+    "director": "Ariane Doublet",
+    "image_path": "images/2020-06-17_green_boys.jpg"
+  },
+  {
+    "release_date": "2020-06-17",
+    "title": "Invisible Man",
+    "director": "Leigh Whannell",
+    "image_path": "images/2020-06-17_invisible_man.jpg"
+  },
+  {
+    "release_date": "2020-06-17",
+    "title": "Jeunesse sauvage",
+    "director": "Frédéric Carpentier",
+    "image_path": "images/2020-06-17_jeunesse_sauvage.jpeg"
+  },
+  {
+    "release_date": "2020-06-17",
+    "title": "J'irai décrocher la lune",
+    "director": "Laurent Boileau"
+  },
+  {
+    "release_date": "2020-06-17",
+    "title": "La Bonne Réputation",
+    "director": "Alejandra Marquez Abella , Alejandra Abella",
+    "image_path": "images/2020-06-17_la_bonne_reputation.jpg"
+  },
+  {
+    "release_date": "2020-06-17",
+    "title": "La Communion",
+    "director": "Jan Komasa",
+    "image_path": "images/2020-06-17_la_communion.jpg"
+  },
+  {
+    "release_date": "2020-06-17",
+    "title": "La Petite taupe aime la nature",
+    "director": "Zdenek Miler",
+    "image_path": "images/2020-06-17_la_petite_taupe_aime_la_nature.jpg"
+  },
+  {
+    "release_date": "2020-06-17",
+    "title": "Le Capital au XXIe siècle",
+    "director": "Justin Pemberton , Thomas Piketty",
+    "image_path": "images/2020-06-17_le_capital_au_xxie_siecle.jpg"
+  },
+  {
+    "release_date": "2020-06-17",
+    "title": "Les Lèvres rouges",
+    "director": "Harry Kumel , Marc Mazza",
+    "image_path": "images/2020-06-17_les_levres_rouges.jpg"
+  },
+  {
+    "release_date": "2020-06-17",
+    "title": "L'Esprit de famille",
+    "director": "Eric Besnard",
+    "image_path": "images/2020-06-17_lesprit_de_famille.jpg"
+  },
+  {
+    "release_date": "2020-06-17",
+    "title": "L'Ombre de Staline",
+    "director": "Agnieszka Holland",
+    "image_path": "images/2020-06-17_lombre_de_staline.jpg"
+  },
+  {
+    "release_date": "2020-06-17",
+    "title": "Lucky",
+    "director": "Olivier Van Hoofstadt",
+    "image_path": "images/2020-06-17_lucky.jpg"
+  },
+  {
+    "release_date": "2020-06-17",
+    "title": "Mickey and the Bear",
+    "director": "Annabelle Attanasio"
+  },
+  {
+    "release_date": "2020-06-17",
+    "title": "Mon nom est clitoris",
+    "director": "Lisa Billuart Monet , Daphné Leblond , Lisa Billuart-Monet",
+    "image_path": "images/2020-06-17_mon_nom_est_clitoris.jpg"
+  },
+  {
+    "release_date": "2020-06-17",
+    "title": "Mosquito",
+    "director": "Joao Nuno Pinto",
+    "image_path": "images/2020-06-17_mosquito.jpg"
+  },
+  {
+    "release_date": "2020-06-17",
+    "title": "Nous, les chiens",
+    "director": "Oh Sung-yoon , Lee Choon-baek , Seong-yun Oh , Chun-Baek Lee",
+    "image_path": "images/2020-06-17_nous_les_chiens.jpeg"
+  },
+  {
+    "release_date": "2020-06-17",
+    "title": "Perro Bomba",
+    "director": "Juan Caceres",
+    "image_path": "images/2020-06-17_perro_bomba.jpg"
+  },
+  {
+    "release_date": "2020-06-17",
+    "title": "Premiers Pas dans la forêt",
+    "director": "So-yeon Kim , Kim So-Yeon , Veronika Fedorova",
+    "image_path": "images/2020-06-17_premiers_pas_dans_la_foret.jpg"
+  },
+  {
+    "release_date": "2020-06-17",
+    "title": "Radioactive",
+    "director": "Marjane Satrapi",
+    "image_path": "images/2020-06-17_radioactive.jpg"
+  },
+  {
+    "release_date": "2020-06-17",
+    "title": "Si c'était de l'amour",
+    "director": "Patric Chiha",
+    "image_path": "images/2020-06-17_si_cetait_de_lamour.jpg"
+  },
+  {
+    "release_date": "2020-06-17",
+    "title": "The Demon Inside",
+    "director": "Pearry Reginald Teo",
+    "image_path": "images/2020-06-17_the_demon_inside.jpg"
+  },
+  {
+    "release_date": "2020-06-17",
+    "title": "The Great Green Wall",
+    "director": "Jared P Scott",
+    "image_path": "images/2020-06-17_the_great_green_wall.jpeg"
+  },
+  {
+    "release_date": "2020-06-17",
+    "title": "The Hunt",
+    "director": "Craig Zobel",
+    "image_path": "images/2020-06-17_the_hunt.jpg"
+  },
+  {
+    "release_date": "2020-06-17",
+    "title": "Trois étés",
+    "director": "Sandra Kogut",
+    "image_path": "images/2020-06-17_trois_etes.jpg"
+  },
+  {
+    "release_date": "2020-06-17",
+    "title": "Un fils",
+    "director": "Mehdi Barsaoui",
+    "image_path": "images/2020-06-17_un_fils.jpg"
+  },
+  {
+    "release_date": "2020-06-17",
+    "title": "Visions chamaniques : territoires oubliés",
+    "director": "David Paquin",
+    "image_path": "images/2020-06-17_visions_chamaniques_territoires_oublies.jpg"
+  }
+]

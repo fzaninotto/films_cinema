@@ -1,0 +1,90 @@
+[
+  {
+    "release_date": "2010-07-14",
+    "title": "Paris",
+    "director": "Cédric Klapisch",
+    "image_path": "images/2010-07-14_paris.jpg"
+  },
+  {
+    "release_date": "2010-07-14",
+    "title": "L'Italien",
+    "director": "Olivier Baroux",
+    "image_path": "images/2010-07-14_litalien.jpg"
+  },
+  {
+    "release_date": "2010-07-14",
+    "title": "Predators",
+    "director": "Nimrod Antal",
+    "image_path": "images/2010-07-14_predators.jpg"
+  },
+  {
+    "release_date": "2010-07-14",
+    "title": "On achève bien les chevaux",
+    "director": "Sydney Pollack",
+    "image_path": "images/2010-07-14_on_acheve_bien_les_chevaux.jpg"
+  },
+  {
+    "release_date": "2010-07-14",
+    "title": "Repo Men",
+    "director": "Miguel Sapochnik",
+    "image_path": "images/2010-07-14_repo_men.jpg"
+  },
+  {
+    "release_date": "2010-07-14",
+    "title": "L'Incorrigible",
+    "director": "Philippe de Broca",
+    "image_path": "images/2010-07-14_lincorrigible.jpg"
+  },
+  {
+    "release_date": "2010-07-14",
+    "title": "L'Autre monde",
+    "director": "Gilles Marchand , Romain Delange",
+    "image_path": "images/2010-07-14_lautre_monde.jpg"
+  },
+  {
+    "release_date": "2010-07-14",
+    "title": "La Vie sauvage des animaux domestiques",
+    "director": "Dominique Garing , Frédéric Goupil",
+    "image_path": "images/2010-07-14_la_vie_sauvage_des_animaux_domestiques.jpg"
+  },
+  {
+    "release_date": "2010-07-14",
+    "title": "La Chevauchée fantastique",
+    "director": "John Ford",
+    "image_path": "images/2010-07-14_la_chevauchee_fantastique.jpg"
+  },
+  {
+    "release_date": "2010-07-14",
+    "title": "Contes de l'âge d'or, partie 1",
+    "director": "Cristian Mungiu , Ioana Uricaru , Hanno Höfer , Razvan Marculescu , Constantin Popescu"
+  },
+  {
+    "release_date": "2010-07-14",
+    "title": "Contes de l'âge d'or - partie 2",
+    "director": "Cristian Mungiu , Ioana Uricaru , Hanno Höfer , Razvan Marculescu , Constantin Popescu",
+    "image_path": "images/2010-07-14_contes_de_lage_dor_-_partie_2.jpg"
+  },
+  {
+    "release_date": "2010-07-14",
+    "title": "In and Out",
+    "director": "Frank Oz"
+  },
+  {
+    "release_date": "2010-07-14",
+    "title": "Mon homme Godfrey",
+    "director": "Gregory La Cava , Gregory LaCava",
+    "image_path": "images/2010-07-14_mon_homme_godfrey.jpg"
+  },
+  {
+    "release_date": "2010-07-14",
+    "title": "Taking Off",
+    "director": "Milos Forman",
+    "image_path": "images/2010-07-14_taking_off.jpg"
+  },
+  {
+    "release_date": "2010-07-14",
+    "title": "Voyage secret",
+    "director": "Roberto Ando",
+    "image_path": "images/2010-07-14_voyage_secret.jpg"
+  }
+]

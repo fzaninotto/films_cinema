@@ -1,0 +1,85 @@
+[
+  {
+    "release_date": "2005-07-13",
+    "title": "Charlie et la chocolaterie",
+    "director": "Mel Stuart",
+    "image_path": "images/2005-07-13_charlie_et_la_chocolaterie.jpg"
+  },
+  {
+    "release_date": "2005-07-13",
+    "title": "New Police Story",
+    "director": "Benny Chan",
+    "image_path": "images/2005-07-13_new_police_story.jpg"
+  },
+  {
+    "release_date": "2005-07-13",
+    "title": "Layer Cake",
+    "director": "Matthew Vaughn",
+    "image_path": "images/2005-07-13_layer_cake.jpg"
+  },
+  {
+    "release_date": "2005-07-13",
+    "title": "Scooby-Doo",
+    "director": "Raja Gosnell , Leo Penn",
+    "image_path": "images/2005-07-13_scooby-doo.jpg"
+  },
+  {
+    "release_date": "2005-07-13",
+    "title": "Crossing the bridge",
+    "director": "Fatih Akin",
+    "image_path": "images/2005-07-13_crossing_the_bridge.jpg"
+  },
+  {
+    "release_date": "2005-07-13",
+    "title": "Le Miracle de Candeal",
+    "director": "Fernando Trueba",
+    "image_path": "images/2005-07-13_le_miracle_de_candeal.jpg"
+  },
+  {
+    "release_date": "2005-07-13",
+    "title": "Un vrai bonheur",
+    "director": "Didier Caron",
+    "image_path": "images/2005-07-13_un_vrai_bonheur.jpg"
+  },
+  {
+    "release_date": "2005-07-13",
+    "title": "Human Nature",
+    "director": "Michel Gondry , Edwine Moatti",
+    "image_path": "images/2005-07-13_human_nature.jpg"
+  },
+  {
+    "release_date": "2005-07-13",
+    "title": "Le Petit Soldat",
+    "director": "Jean-Luc Godard , Gösta Bredefeldt",
+    "image_path": "images/2005-07-13_le_petit_soldat.jpg"
+  },
+  {
+    "release_date": "2005-07-13",
+    "title": "La Mafia fait la loi",
+    "director": "Damiano Damiani",
+    "image_path": "images/2005-07-13_la_mafia_fait_la_loi.jpg"
+  },
+  {
+    "release_date": "2005-07-13",
+    "title": "La Rue de la mort",
+    "director": "Anthony Mann",
+    "image_path": "images/2005-07-13_la_rue_de_la_mort.jpg"
+  },
+  {
+    "release_date": "2005-07-13",
+    "title": "Le Bateau de mariage",
+    "director": "Jean-Pierre Améris"
+  },
+  {
+    "release_date": "2005-07-13",
+    "title": "Les Carabiniers",
+    "director": "Jean-Luc Godard , Gösta Bredefeldt",
+    "image_path": "images/2005-07-13_les_carabiniers.jpg"
+  },
+  {
+    "release_date": "2005-07-13",
+    "title": "Voici venu le temps",
+    "director": "Alain Guiraudie",
+    "image_path": "images/2005-07-13_voici_venu_le_temps.jpg"
+  }
+]

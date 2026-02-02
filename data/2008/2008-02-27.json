@@ -1,0 +1,49 @@
+[
+  {
+    "release_date": "2008-02-27",
+    "title": "There Will Be Blood",
+    "director": "Paul Thomas Anderson",
+    "image_path": "images/2008-02-27_there_will_be_blood.jpg"
+  },
+  {
+    "release_date": "2008-02-27",
+    "title": "The Mist",
+    "director": "Frank Darabont",
+    "image_path": "images/2008-02-27_the_mist.jpg"
+  },
+  {
+    "release_date": "2008-02-27",
+    "title": "A Scanner Darkly",
+    "director": "Richard Linklater",
+    "image_path": "images/2008-02-27_a_scanner_darkly.jpg"
+  },
+  {
+    "release_date": "2008-02-27",
+    "title": "Lemming",
+    "director": "Dominik Moll",
+    "image_path": "images/2008-02-27_lemming.jpg"
+  },
+  {
+    "release_date": "2008-02-27",
+    "title": "Welcome in Vienna partie 1 : Dieu ne croit plus en nous",
+    "director": "Theresa Randle , Alex Corti , Axel Corti",
+    "image_path": "images/2008-02-27_welcome_in_vienna_partie_1_dieu_ne_croit_plus_en_nous.jpg"
+  },
+  {
+    "release_date": "2008-02-27",
+    "title": "Coupable",
+    "director": "Laetitia Masson",
+    "image_path": "images/2008-02-27_coupable.jpg"
+  },
+  {
+    "release_date": "2008-02-27",
+    "title": "Algérie, histoires à ne pas dire",
+    "director": "Jean-Pierre Lledo"
+  },
+  {
+    "release_date": "2008-02-27",
+    "title": "John John",
+    "director": "Brillante Mendoza",
+    "image_path": "images/2008-02-27_john_john.jpg"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "release_date": "2011-05-25",
+    "title": "Sailor et Lula",
+    "director": "David Lynch",
+    "image_path": "images/2011-05-25_sailor_et_lula.jpg"
+  },
+  {
+    "release_date": "2011-05-25",
+    "title": "Good Morning England",
+    "director": "Richard Curtis",
+    "image_path": "images/2011-05-25_good_morning_england.jpg"
+  },
+  {
+    "release_date": "2011-05-25",
+    "title": "Le Complexe du castor",
+    "director": "Jodie Foster",
+    "image_path": "images/2011-05-25_le_complexe_du_castor.jpg"
+  },
+  {
+    "release_date": "2011-05-25",
+    "title": "Senna",
+    "director": "Asif Kapadia",
+    "image_path": "images/2011-05-25_senna.jpg"
+  },
+  {
+    "release_date": "2011-05-25",
+    "title": "Rêves volés",
+    "director": "Sandra Werneck",
+    "image_path": "images/2011-05-25_reves_voles.jpg"
+  },
+  {
+    "release_date": "2011-05-25",
+    "title": "Infiltration",
+    "director": "Dover Kosashvili",
+    "image_path": "images/2011-05-25_infiltration.jpg"
+  },
+  {
+    "release_date": "2011-05-25",
+    "title": "Le Pornographe",
+    "director": "Bertrand Bonello",
+    "image_path": "images/2011-05-25_le_pornographe.jpg"
+  },
+  {
+    "release_date": "2011-05-25",
+    "title": "Play a Song for Me",
+    "director": "Esmir Filho",
+    "image_path": "images/2011-05-25_play_a_song_for_me.jpg"
+  }
+]

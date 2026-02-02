@@ -1,0 +1,35 @@
+[
+  {
+    "release_date": "2002-07-10",
+    "title": "Indiana Jones et le temple maudit",
+    "director": "Steven Spielberg",
+    "image_path": "images/2002-07-10_indiana_jones_et_le_temple_maudit.jpg"
+  },
+  {
+    "release_date": "2002-07-10",
+    "title": "Le 51e Etat",
+    "director": "Ronny Yu",
+    "image_path": "images/2002-07-10_le_51e_etat.jpg"
+  },
+  {
+    "release_date": "2002-07-10",
+    "title": "Happy Times",
+    "director": "Zhang Yimou"
+  },
+  {
+    "release_date": "2002-07-10",
+    "title": "Ali Farka Touré le miel n'est jamais bon dans une seule bouche",
+    "director": "Marc Huraux"
+  },
+  {
+    "release_date": "2002-07-10",
+    "title": "Bruiser",
+    "director": "George A Romero",
+    "image_path": "images/2002-07-10_bruiser.jpg"
+  },
+  {
+    "release_date": "2002-07-10",
+    "title": "Elling",
+    "director": "Petter Naess"
+  }
+]

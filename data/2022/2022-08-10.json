@@ -1,0 +1,79 @@
+[
+  {
+    "release_date": "2022-08-10",
+    "title": "Rashômon",
+    "director": "Akira Kurosawa",
+    "image_path": "images/2022-08-10_rashomon.jpg"
+  },
+  {
+    "release_date": "2022-08-10",
+    "title": "Un Jour sans fin",
+    "director": "Harold Ramis",
+    "image_path": "images/2022-08-10_un_jour_sans_fin.jpg"
+  },
+  {
+    "release_date": "2022-08-10",
+    "title": "Nope",
+    "director": "Jordan Peele",
+    "image_path": "images/2022-08-10_nope.jpeg"
+  },
+  {
+    "release_date": "2022-08-10",
+    "title": "One Piece Film-Red",
+    "director": "Goro Taniguchi",
+    "image_path": "images/2022-08-10_one_piece_film-red.jpg"
+  },
+  {
+    "release_date": "2022-08-10",
+    "title": "Dino ranch-Les aventures des Dino-Rancheurs au cinéma",
+    "director": "Bill Speers",
+    "image_path": "images/2022-08-10_dino_ranch-les_aventures_des_dino-rancheurs_au_cinema.jpg"
+  },
+  {
+    "release_date": "2022-08-10",
+    "title": "Dodo",
+    "director": "Panos Koutras",
+    "image_path": "images/2022-08-10_dodo.jpg"
+  },
+  {
+    "release_date": "2022-08-10",
+    "title": "Laal Singh Chaddha",
+    "director": "Advait Chandan",
+    "image_path": "images/2022-08-10_laal_singh_chaddha.jpg"
+  },
+  {
+    "release_date": "2022-08-10",
+    "title": "La très très grande classe",
+    "director": "Frédéric Quiring",
+    "image_path": "images/2022-08-10_la_tres_tres_grande_classe.jpg"
+  },
+  {
+    "release_date": "2022-08-10",
+    "title": "No Fathers In Kashmir",
+    "director": "Ashvin Kumar"
+  },
+  {
+    "release_date": "2022-08-10",
+    "title": "Poran"
+  },
+  {
+    "release_date": "2022-08-10",
+    "title": "Raksha Bandhan"
+  },
+  {
+    "release_date": "2022-08-10",
+    "title": "Sacrifice paysan",
+    "director": "Gabrielle Culand"
+  },
+  {
+    "release_date": "2022-08-10",
+    "title": "Viruman",
+    "image_path": "images/2022-08-10_viruman.jpg"
+  },
+  {
+    "release_date": "2022-08-10",
+    "title": "We Are From There",
+    "director": "Wissam Tanios",
+    "image_path": "images/2022-08-10_we_are_from_there.jpg"
+  }
+]

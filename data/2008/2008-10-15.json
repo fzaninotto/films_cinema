@@ -1,0 +1,55 @@
+[
+  {
+    "release_date": "2008-10-15",
+    "title": "Le Crime est notre affaire",
+    "director": "Pascal Thomas",
+    "image_path": "images/2008-10-15_le_crime_est_notre_affaire.jpg"
+  },
+  {
+    "release_date": "2008-10-15",
+    "title": "La famille Suricate",
+    "director": "James Honeyborne",
+    "image_path": "images/2008-10-15_la_famille_suricate.jpg"
+  },
+  {
+    "release_date": "2008-10-15",
+    "title": "Otage",
+    "image_path": "images/2008-10-15_otage.jpg"
+  },
+  {
+    "release_date": "2008-10-15",
+    "title": "Course à la mort",
+    "director": "Paul Anderson",
+    "image_path": "images/2008-10-15_course_a_la_mort.jpg"
+  },
+  {
+    "release_date": "2008-10-15",
+    "title": "Last Days",
+    "director": "Gus van Sant",
+    "image_path": "images/2008-10-15_last_days.jpg"
+  },
+  {
+    "release_date": "2008-10-15",
+    "title": "Coluche, l'histoire d'un mec",
+    "director": "Antoine de Caunes",
+    "image_path": "images/2008-10-15_coluche_lhistoire_dun_mec.jpg"
+  },
+  {
+    "release_date": "2008-10-15",
+    "title": "La Fièvre de l'or",
+    "director": "Olivier Weber",
+    "image_path": "images/2008-10-15_la_fievre_de_lor.jpg"
+  },
+  {
+    "release_date": "2008-10-15",
+    "title": "La Ronde de nuit",
+    "director": "Peter Greenaway , Dewey Martin , Claude Dereppe",
+    "image_path": "images/2008-10-15_la_ronde_de_nuit.jpg"
+  },
+  {
+    "release_date": "2008-10-15",
+    "title": "Desmond et la créature du marais",
+    "director": "Magnus Carlsson",
+    "image_path": "images/2008-10-15_desmond_et_la_creature_du_marais.jpg"
+  }
+]

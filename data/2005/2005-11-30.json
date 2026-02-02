@@ -1,0 +1,59 @@
+[
+  {
+    "release_date": "2005-11-30",
+    "title": "Harry Potter et la coupe de feu",
+    "director": "Mike Newell",
+    "image_path": "images/2005-11-30_harry_potter_et_la_coupe_de_feu.jpg"
+  },
+  {
+    "release_date": "2005-11-30",
+    "title": "I, robot",
+    "director": "Alex Proyas",
+    "image_path": "images/2005-11-30_i_robot.jpg"
+  },
+  {
+    "release_date": "2005-11-30",
+    "title": "Foon",
+    "director": "Benoit Pétré",
+    "image_path": "images/2005-11-30_foon.jpg"
+  },
+  {
+    "release_date": "2005-11-30",
+    "title": "Le Temps qui reste",
+    "director": "François Ozon",
+    "image_path": "images/2005-11-30_le_temps_qui_reste.jpg"
+  },
+  {
+    "release_date": "2005-11-30",
+    "title": "Darshan",
+    "director": "Jan Kounen",
+    "image_path": "images/2005-11-30_darshan.jpg"
+  },
+  {
+    "release_date": "2005-11-30",
+    "title": "The Weather man",
+    "director": "Gore Verbinski",
+    "image_path": "images/2005-11-30_the_weather_man.jpg"
+  },
+  {
+    "release_date": "2005-11-30",
+    "title": "Pour un seul de mes deux yeux",
+    "director": "Avi Mograbi",
+    "image_path": "images/2005-11-30_pour_un_seul_de_mes_deux_yeux.jpg"
+  },
+  {
+    "release_date": "2005-11-30",
+    "title": "Nouvelle Vague",
+    "director": "Jean-Luc Godard , Gösta Bredefeldt"
+  },
+  {
+    "release_date": "2005-11-30",
+    "title": "Romulus et Rémus",
+    "director": "Sergio Corbucci , Franco Giraldi"
+  },
+  {
+    "release_date": "2005-11-30",
+    "title": "Têtes brûlées",
+    "director": "Raoul Walsh"
+  }
+]

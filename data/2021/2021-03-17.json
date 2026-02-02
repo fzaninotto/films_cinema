@@ -1,0 +1,28 @@
+[
+  {
+    "release_date": "2021-03-17",
+    "title": "Howling Village",
+    "director": "Takashi Shimizu"
+  },
+  {
+    "release_date": "2021-03-17",
+    "title": "Je m'appelle humain",
+    "director": "Kim O'bomsawin",
+    "image_path": "images/2021-03-17_je_mappelle_humain.jpg"
+  },
+  {
+    "release_date": "2021-03-17",
+    "title": "Les damnés de la Commune",
+    "director": "Raphaël Meyssan"
+  },
+  {
+    "release_date": "2021-03-17",
+    "title": "Les enfants du marais"
+  },
+  {
+    "release_date": "2021-03-17",
+    "title": "Soy niño",
+    "director": "Lorena Zilleruelo",
+    "image_path": "images/2021-03-17_soy_nino.jpg"
+  }
+]

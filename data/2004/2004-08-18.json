@@ -1,0 +1,23 @@
+[
+  {
+    "release_date": "2004-08-18",
+    "title": "Mon père est ingénieur",
+    "director": "Robert Guédiguian",
+    "image_path": "images/2004-08-18_mon_pere_est_ingenieur.jpg"
+  },
+  {
+    "release_date": "2004-08-18",
+    "title": "Le Soleil assassiné",
+    "director": "Abdelkrim Bahloul"
+  },
+  {
+    "release_date": "2004-08-18",
+    "title": "Assassination Tango",
+    "director": "Robert Duvall"
+  },
+  {
+    "release_date": "2004-08-18",
+    "title": "Ne quittez pas !",
+    "director": "Arthur Joffé"
+  }
+]

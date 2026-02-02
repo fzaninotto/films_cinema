@@ -1,0 +1,61 @@
+[
+  {
+    "release_date": "2001-04-04",
+    "title": "Lost Highway",
+    "director": "David Lynch",
+    "image_path": "images/2001-04-04_lost_highway.jpg"
+  },
+  {
+    "release_date": "2001-04-04",
+    "title": "Mes voisins les Yamada",
+    "director": "Isao Takahata",
+    "image_path": "images/2001-04-04_mes_voisins_les_yamada.jpg"
+  },
+  {
+    "release_date": "2001-04-04",
+    "title": "Belphégor, le fantôme du Louvre",
+    "director": "Jean-Paul Salomé",
+    "image_path": "images/2001-04-04_belphegor_le_fantome_du_louvre.jpg"
+  },
+  {
+    "release_date": "2001-04-04",
+    "title": "Miss Detective",
+    "director": "Donald Petrie",
+    "image_path": "images/2001-04-04_miss_detective.jpg"
+  },
+  {
+    "release_date": "2001-04-04",
+    "title": "Braindead",
+    "director": "Peter Jackson , Joe E Brown",
+    "image_path": "images/2001-04-04_braindead.jpg"
+  },
+  {
+    "release_date": "2001-04-04",
+    "title": "L'Echange",
+    "director": "Taylor Hackford",
+    "image_path": "images/2001-04-04_lechange.jpg"
+  },
+  {
+    "release_date": "2001-04-04",
+    "title": "La Main du diable",
+    "director": "Maurice Tourneur",
+    "image_path": "images/2001-04-04_la_main_du_diable.jpg"
+  },
+  {
+    "release_date": "2001-04-04",
+    "title": "Bob et Carole et Ted et Alice",
+    "director": "Paul Mazursky",
+    "image_path": "images/2001-04-04_bob_et_carole_et_ted_et_alice.jpg"
+  },
+  {
+    "release_date": "2001-04-04",
+    "title": "La Revanche de Frankenstein",
+    "director": "Terence Fisher"
+  },
+  {
+    "release_date": "2001-04-04",
+    "title": "La Septième Victime",
+    "director": "Mark Robson",
+    "image_path": "images/2001-04-04_la_septieme_victime.jpg"
+  }
+]

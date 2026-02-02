@@ -1,0 +1,88 @@
+[
+  {
+    "release_date": "2006-10-25",
+    "title": "Le Cauchemar de Dracula",
+    "director": "Terence Fisher , William Fruet , Dan Curtis",
+    "image_path": "images/2006-10-25_le_cauchemar_de_dracula.jpg"
+  },
+  {
+    "release_date": "2006-10-25",
+    "title": "Kill Bill Volume 2",
+    "director": "Quentin Tarantino , Lawrence Bender",
+    "image_path": "images/2006-10-25_kill_bill_volume_2.jpg"
+  },
+  {
+    "release_date": "2006-10-25",
+    "title": "Poltergay",
+    "director": "Eric Lavaine",
+    "image_path": "images/2006-10-25_poltergay.jpg"
+  },
+  {
+    "release_date": "2006-10-25",
+    "title": "Azur et Asmar",
+    "director": "Michel Ocelot , Ian McIntyre",
+    "image_path": "images/2006-10-25_azur_et_asmar.jpg"
+  },
+  {
+    "release_date": "2006-10-25",
+    "title": "Mémoires de nos pères",
+    "director": "Clint Eastwood , Pete Postlethwaite",
+    "image_path": "images/2006-10-25_memoires_de_nos_peres.jpg"
+  },
+  {
+    "release_date": "2006-10-25",
+    "title": "Les Professionnels",
+    "director": "Christopher Hampton , Brooks Richard , Richard Brooks",
+    "image_path": "images/2006-10-25_les_professionnels.jpg"
+  },
+  {
+    "release_date": "2006-10-25",
+    "title": "Last Kiss",
+    "image_path": "images/2006-10-25_last_kiss.jpg"
+  },
+  {
+    "release_date": "2006-10-25",
+    "title": "Alex Rider : Stormbreaker",
+    "director": "Geoffrey Sax",
+    "image_path": "images/2006-10-25_alex_rider_stormbreaker.jpg"
+  },
+  {
+    "release_date": "2006-10-25",
+    "title": "La Californie",
+    "director": "Jacques Fieschi",
+    "image_path": "images/2006-10-25_la_californie.jpg"
+  },
+  {
+    "release_date": "2006-10-25",
+    "title": "K-19, le piège des profondeurs",
+    "director": "Kathryn Bigelow",
+    "image_path": "images/2006-10-25_k-19_le_piege_des_profondeurs.jpg"
+  },
+  {
+    "release_date": "2006-10-25",
+    "title": "La Balade des éléphants",
+    "director": "Mario Andreacchio",
+    "image_path": "images/2006-10-25_la_balade_des_elephants.jpg"
+  },
+  {
+    "release_date": "2006-10-25",
+    "title": "Le Repas",
+    "director": "Mikio Naruse",
+    "image_path": "images/2006-10-25_le_repas.jpg"
+  },
+  {
+    "release_date": "2006-10-25",
+    "title": "Les Baliseurs du désert",
+    "director": "Nacer Khemir"
+  },
+  {
+    "release_date": "2006-10-25",
+    "title": "Objectif Mars",
+    "director": "George Butler"
+  },
+  {
+    "release_date": "2006-10-25",
+    "title": "Octobre",
+    "director": "Pierre Léon"
+  }
+]

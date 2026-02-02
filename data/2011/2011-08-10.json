@@ -1,0 +1,32 @@
+[
+  {
+    "release_date": "2011-08-10",
+    "title": "Gomorra",
+    "director": "Matteo Garrone",
+    "image_path": "images/2011-08-10_gomorra.jpg"
+  },
+  {
+    "release_date": "2011-08-10",
+    "title": "Green Lantern",
+    "director": "Martin Campbell",
+    "image_path": "images/2011-08-10_green_lantern.jpg"
+  },
+  {
+    "release_date": "2011-08-10",
+    "title": "Mes Meilleures Amies",
+    "director": "Paul Feig",
+    "image_path": "images/2011-08-10_mes_meilleures_amies.jpg"
+  },
+  {
+    "release_date": "2011-08-10",
+    "title": "L'Artiste",
+    "director": "Mariano Cohn , Gastón Duprat",
+    "image_path": "images/2011-08-10_lartiste.jpg"
+  },
+  {
+    "release_date": "2011-08-10",
+    "title": "Neko, dernière de la lignée",
+    "director": "Markku Lehmuskallio , Anastasia Lapsui , Yves Lemoigne",
+    "image_path": "images/2011-08-10_neko_derniere_de_la_lignee.jpg"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "release_date": "2020-08-12",
+    "title": "Voir le jour",
+    "director": "Marion Laine",
+    "image_path": "images/2020-08-12_voir_le_jour.jpg"
+  },
+  {
+    "release_date": "2020-08-12",
+    "title": "Greenland, le dernier refuge",
+    "director": "Ric Roman Waugh",
+    "image_path": "images/2020-08-12_greenland_le_dernier_refuge.jpg"
+  },
+  {
+    "release_date": "2020-08-12",
+    "title": "Inception",
+    "director": "Christopher Nolan",
+    "image_path": "images/2020-08-12_inception.jpg"
+  },
+  {
+    "release_date": "2020-08-12",
+    "title": "Les Révoltés de l'an 2000",
+    "director": "Narciso Ibáñez Serrador",
+    "image_path": "images/2020-08-12_les_revoltes_de_lan_2000.jpg"
+  },
+  {
+    "release_date": "2020-08-12",
+    "title": "Arizona Junior",
+    "director": "Joel Coen , Ethan Coen , Eddie Bracken , Buddy Baker",
+    "image_path": "images/2020-08-12_arizona_junior.jpg"
+  },
+  {
+    "release_date": "2020-08-12",
+    "title": "Blaze",
+    "director": "Ethan Hawke"
+  },
+  {
+    "release_date": "2020-08-12",
+    "title": "Light of my Life",
+    "director": "Casey Affleck",
+    "image_path": "images/2020-08-12_light_of_my_life.jpg"
+  },
+  {
+    "release_date": "2020-08-12",
+    "title": "Nana et les Filles du bord de mer",
+    "director": "Patricia Bardon",
+    "image_path": "images/2020-08-12_nana_et_les_filles_du_bord_de_mer.jpg"
+  },
+  {
+    "release_date": "2020-08-12",
+    "title": "The Crossing",
+    "director": "Xue Bai , Bai Xue , Bai Xuedan",
+    "image_path": "images/2020-08-12_the_crossing.jpg"
+  },
+  {
+    "release_date": "2020-08-12",
+    "title": "The Perfect Candidate",
+    "director": "Haïfaa al-Mansour",
+    "image_path": "images/2020-08-12_the_perfect_candidate.jpg"
+  },
+  {
+    "release_date": "2020-08-12",
+    "title": "Yakari",
+    "director": "Toby Genkel , Xavier Giacometti",
+    "image_path": "images/2020-08-12_yakari.jpg"
+  }
+]

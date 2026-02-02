@@ -1,0 +1,91 @@
+[
+  {
+    "release_date": "2016-08-31",
+    "title": "Le Livre de la jungle",
+    "director": "Jon Favreau",
+    "image_path": "images/2016-08-31_le_livre_de_la_jungle.jpg"
+  },
+  {
+    "release_date": "2016-08-31",
+    "title": "Un homme à la hauteur",
+    "director": "Laurent Tirard",
+    "image_path": "images/2016-08-31_un_homme_a_la_hauteur.jpg"
+  },
+  {
+    "release_date": "2016-08-31",
+    "title": "Divines",
+    "director": "Uda Benyamina , Houda Benyamina",
+    "image_path": "images/2016-08-31_divines.jpg"
+  },
+  {
+    "release_date": "2016-08-31",
+    "title": "Mechanic : Resurrection",
+    "director": "Dennis Gansel",
+    "image_path": "images/2016-08-31_mechanic_resurrection.jpg"
+  },
+  {
+    "release_date": "2016-08-31",
+    "title": "Blood Father",
+    "director": "Jean-François Richet",
+    "image_path": "images/2016-08-31_blood_father.jpg"
+  },
+  {
+    "release_date": "2016-08-31",
+    "title": "Pour ton anniversaire",
+    "director": "Denis Dercourt",
+    "image_path": "images/2016-08-31_pour_ton_anniversaire.jpg"
+  },
+  {
+    "release_date": "2016-08-31",
+    "title": "Nocturama",
+    "director": "Bertrand Bonello",
+    "image_path": "images/2016-08-31_nocturama.jpg"
+  },
+  {
+    "release_date": "2016-08-31",
+    "title": "Hors contrôle",
+    "director": "Jake Szymanski",
+    "image_path": "images/2016-08-31_hors_controle.jpg"
+  },
+  {
+    "release_date": "2016-08-31",
+    "title": "Olmo et la Mouette",
+    "director": "Petra Costa , Lea Glob",
+    "image_path": "images/2016-08-31_olmo_et_la_mouette.jpg"
+  },
+  {
+    "release_date": "2016-08-31",
+    "title": "First Date",
+    "director": "Richard Tanne",
+    "image_path": "images/2016-08-31_first_date.jpg"
+  },
+  {
+    "release_date": "2016-08-31",
+    "title": "Belladonna",
+    "director": "Eiichi Yamamoto",
+    "image_path": "images/2016-08-31_belladonna.jpg"
+  },
+  {
+    "release_date": "2016-08-31",
+    "title": "Blanka",
+    "director": "Kohki Hasei",
+    "image_path": "images/2016-08-31_blanka.jpg"
+  },
+  {
+    "release_date": "2016-08-31",
+    "title": "Fronteras",
+    "director": "Mikel Rueda",
+    "image_path": "images/2016-08-31_fronteras.jpg"
+  },
+  {
+    "release_date": "2016-08-31",
+    "title": "La mécanique des flux",
+    "director": "Nathalie Loubeyre",
+    "image_path": "images/2016-08-31_la_mecanique_des_flux.jpg"
+  },
+  {
+    "release_date": "2016-08-31",
+    "title": "Nature morte avec des oranges",
+    "director": "Dick Turner"
+  }
+]

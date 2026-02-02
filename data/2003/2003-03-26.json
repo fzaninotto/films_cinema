@@ -1,0 +1,71 @@
+[
+  {
+    "release_date": "2003-03-26",
+    "title": "Pinocchio",
+    "director": "Roberto Benigni , Ned Sparks",
+    "image_path": "images/2003-03-26_pinocchio.jpg"
+  },
+  {
+    "release_date": "2003-03-26",
+    "title": "Adaptation",
+    "director": "Spike Jonze , Anna Amendola",
+    "image_path": "images/2003-03-26_adaptation.jpg"
+  },
+  {
+    "release_date": "2003-03-26",
+    "title": "Historias minimas",
+    "director": "Carlos Sorin",
+    "image_path": "images/2003-03-26_historias_minimas.jpg"
+  },
+  {
+    "release_date": "2003-03-26",
+    "title": "Bouge pas, meurs, ressuscite",
+    "director": "Vitali Kanevski , Jay Gottlieb , Vitali Kanevsky"
+  },
+  {
+    "release_date": "2003-03-26",
+    "title": "Cypher",
+    "director": "Vincenzo Natali"
+  },
+  {
+    "release_date": "2003-03-26",
+    "title": "La Ballade du soldat",
+    "director": "Grigori Tchoukhraï , Grigory Tchoukhrai"
+  },
+  {
+    "release_date": "2003-03-26",
+    "title": "L'Arche russe",
+    "director": "Alexandre Sokourov , Angus Macfadyen",
+    "image_path": "images/2003-03-26_larche_russe.jpg"
+  },
+  {
+    "release_date": "2003-03-26",
+    "title": "La Terre",
+    "director": "Alexandre Dovjenko , Veikko Aaltonen"
+  },
+  {
+    "release_date": "2003-03-26",
+    "title": "Le Bonheur d'Assia",
+    "director": "Andrei Konchalovsky , Andreï Konchalovski"
+  },
+  {
+    "release_date": "2003-03-26",
+    "title": "le Roi Lear",
+    "director": "Grigori Kozintsev"
+  },
+  {
+    "release_date": "2003-03-26",
+    "title": "Le Thème",
+    "director": "Gleb Panfilov"
+  },
+  {
+    "release_date": "2003-03-26",
+    "title": "Okraïna",
+    "director": "Boris Barnet , Seton Miller"
+  },
+  {
+    "release_date": "2003-03-26",
+    "title": "Ziggy Stardust & The Spiders from Mars",
+    "director": "D. -A. Pennebaker , Abel Korzeniowski , DA Pennebaker"
+  }
+]

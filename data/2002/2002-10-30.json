@@ -1,0 +1,31 @@
+[
+  {
+    "release_date": "2002-10-30",
+    "title": "Le Château dans le ciel",
+    "director": "Hayao Miyazaki",
+    "image_path": "images/2002-10-30_le_chateau_dans_le_ciel.jpg"
+  },
+  {
+    "release_date": "2002-10-30",
+    "title": "Les Rivières pourpres",
+    "director": "Mathieu Kassovitz",
+    "image_path": "images/2002-10-30_les_rivieres_pourpres.jpg"
+  },
+  {
+    "release_date": "2002-10-30",
+    "title": "Bloody Sunday",
+    "director": "Paul Greengrass , Werner Finck",
+    "image_path": "images/2002-10-30_bloody_sunday.jpg"
+  },
+  {
+    "release_date": "2002-10-30",
+    "title": "Adolphe",
+    "director": "Benoît Jacquot , Christopher Fairbank",
+    "image_path": "images/2002-10-30_adolphe.jpg"
+  },
+  {
+    "release_date": "2002-10-30",
+    "title": "La quatrième guerre",
+    "director": "John Frankenheimer"
+  }
+]

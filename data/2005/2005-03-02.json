@@ -1,0 +1,48 @@
+[
+  {
+    "release_date": "2005-03-02",
+    "title": "Le Cauchemar de Darwin",
+    "director": "Hubert Sauper",
+    "image_path": "images/2005-03-02_le_cauchemar_de_darwin.jpg"
+  },
+  {
+    "release_date": "2005-03-02",
+    "title": "Le Fils de Chucky",
+    "director": "Don Mancini",
+    "image_path": "images/2005-03-02_le_fils_de_chucky.jpg"
+  },
+  {
+    "release_date": "2005-03-02",
+    "title": "Assaut sur le central 13",
+    "director": "Jean-François Richet",
+    "image_path": "images/2005-03-02_assaut_sur_le_central_13.jpg"
+  },
+  {
+    "release_date": "2005-03-02",
+    "title": "Stage Beauty",
+    "director": "Richard Eyre",
+    "image_path": "images/2005-03-02_stage_beauty.jpg"
+  },
+  {
+    "release_date": "2005-03-02",
+    "title": "9 Songs",
+    "director": "Michael Winterbottom",
+    "image_path": "images/2005-03-02_9_songs.jpg"
+  },
+  {
+    "release_date": "2005-03-02",
+    "title": "Cinéastes à tout prix",
+    "director": "Frédéric Sojcher"
+  },
+  {
+    "release_date": "2005-03-02",
+    "title": "Le Fantôme d'Henri Langlois",
+    "director": "Jacques Richard",
+    "image_path": "images/2005-03-02_le_fantome_dhenri_langlois.jpg"
+  },
+  {
+    "release_date": "2005-03-02",
+    "title": "Le Seigneur des anneaux : le retour du roi (version longue)",
+    "director": "Peter Jackson"
+  }
+]

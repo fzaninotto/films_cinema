@@ -1,0 +1,29 @@
+[
+  {
+    "release_date": "2020-03-25",
+    "title": "Monsieur Je-Sais-Tout",
+    "director": "Stephan Archinard , François Prévôt-Leygonie",
+    "image_path": "images/2020-03-25_monsieur_je-sais-tout.jpg"
+  },
+  {
+    "release_date": "2020-03-25",
+    "title": "Bloodshot",
+    "director": "Dave Wilson",
+    "image_path": "images/2020-03-25_bloodshot.jpeg"
+  },
+  {
+    "release_date": "2020-03-25",
+    "title": "Danser sa peine",
+    "director": "Valérie Müller"
+  },
+  {
+    "release_date": "2020-03-25",
+    "title": "Dernière ligne droite",
+    "director": "Arnaud Mizzon"
+  },
+  {
+    "release_date": "2020-03-25",
+    "title": "Paris-Brest",
+    "director": "Philippe Lioret"
+  }
+]

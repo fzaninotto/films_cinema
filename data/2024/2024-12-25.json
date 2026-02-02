@@ -1,0 +1,90 @@
+[
+  {
+    "release_date": "2024-12-25",
+    "title": "Nosferatu (2024)",
+    "director": "Robert Eggers",
+    "image_path": "images/2024-12-25_nosferatu_2024.jpeg"
+  },
+  {
+    "release_date": "2024-12-25",
+    "title": "Le dernier des Mohicans (version restaurée)",
+    "director": "Michael Mann",
+    "image_path": "images/2024-12-25_le_dernier_des_mohicans_version_restauree.jpg"
+  },
+  {
+    "release_date": "2024-12-25",
+    "title": "Sonic 3-le film",
+    "director": "Jeff Fowler",
+    "image_path": "images/2024-12-25_sonic_3-le_film.jpg"
+  },
+  {
+    "release_date": "2024-12-25",
+    "title": "Le Déluge",
+    "director": "Gianluca Jodice",
+    "image_path": "images/2024-12-25_le_deluge.jpg"
+  },
+  {
+    "release_date": "2024-12-25",
+    "title": "Baby John",
+    "director": "Kalees"
+  },
+  {
+    "release_date": "2024-12-25",
+    "title": "Banzo",
+    "director": "Margarida Cardoso",
+    "image_path": "images/2024-12-25_banzo.jpg"
+  },
+  {
+    "release_date": "2024-12-25",
+    "title": "Barroz",
+    "director": "Mohanlal"
+  },
+  {
+    "release_date": "2024-12-25",
+    "title": "Domas le rêveur (version restaurée)",
+    "director": "Arunas Žebriunas",
+    "image_path": "images/2024-12-25_domas_le_reveur_version_restauree.jpg"
+  },
+  {
+    "release_date": "2024-12-25",
+    "title": "Ernest Cole, photographe",
+    "director": "Raoul Peck",
+    "image_path": "images/2024-12-25_ernest_cole_photographe.jpg"
+  },
+  {
+    "release_date": "2024-12-25",
+    "title": "Joli joli",
+    "director": "Diastème",
+    "image_path": "images/2024-12-25_joli_joli.jpg"
+  },
+  {
+    "release_date": "2024-12-25",
+    "title": "Les cadeaux",
+    "director": "Christophe Offenstein",
+    "image_path": "images/2024-12-25_les_cadeaux.jpg"
+  },
+  {
+    "release_date": "2024-12-25",
+    "title": "Mon Inséparable",
+    "director": "Anne-Sophie Bailly",
+    "image_path": "images/2024-12-25_mon_inseparable.jpg"
+  },
+  {
+    "release_date": "2024-12-25",
+    "title": "Motel Destino",
+    "director": "Karim Aïnouz",
+    "image_path": "images/2024-12-25_motel_destino.jpg"
+  },
+  {
+    "release_date": "2024-12-25",
+    "title": "My Sunshine",
+    "director": "Hiroshi Okuyama",
+    "image_path": "images/2024-12-25_my_sunshine.jpg"
+  },
+  {
+    "release_date": "2024-12-25",
+    "title": "Planète B",
+    "director": "Aude Léa Rapin",
+    "image_path": "images/2024-12-25_planete_b.jpg"
+  }
+]

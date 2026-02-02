@@ -1,0 +1,30 @@
+[
+  {
+    "release_date": "2020-05-06",
+    "title": "La Vie scolaire",
+    "director": "Grand Corps malade , Mehdi Idir , Medhi Idir",
+    "image_path": "images/2020-05-06_la_vie_scolaire.jpg"
+  },
+  {
+    "release_date": "2020-05-06",
+    "title": "La maison sur la colline",
+    "director": "Robert Wise"
+  },
+  {
+    "release_date": "2020-05-06",
+    "title": "Laura nuda",
+    "director": "Nicolò Ferrari",
+    "image_path": "images/2020-05-06_laura_nuda.jpg"
+  },
+  {
+    "release_date": "2020-05-06",
+    "title": "Le Retour d'Afrique",
+    "director": "Michael Jeter , Alain Tanner",
+    "image_path": "images/2020-05-06_le_retour_dafrique.jpg"
+  },
+  {
+    "release_date": "2020-05-06",
+    "title": "the room",
+    "director": "Christian Volckman"
+  }
+]

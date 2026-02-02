@@ -1,0 +1,46 @@
+[
+  {
+    "release_date": "2001-11-28",
+    "title": "The One",
+    "director": "James Wong",
+    "image_path": "images/2001-11-28_the_one.jpg"
+  },
+  {
+    "release_date": "2001-11-28",
+    "title": "Shanghai Express",
+    "director": "Josef von Sternberg",
+    "image_path": "images/2001-11-28_shanghai_express.jpg"
+  },
+  {
+    "release_date": "2001-11-28",
+    "title": "Agent X 27",
+    "director": "Joseph von Sternberg , Josef von Sternberg",
+    "image_path": "images/2001-11-28_agent_x_27.jpg"
+  },
+  {
+    "release_date": "2001-11-28",
+    "title": "Ce vieux rêve qui bouge",
+    "director": "Alain Guiraudie",
+    "image_path": "images/2001-11-28_ce_vieux_reve_qui_bouge.jpg"
+  },
+  {
+    "release_date": "2001-11-28",
+    "title": "De l'eau tiède sous un pont rouge",
+    "director": "Colin Firth , Shohei Imamura"
+  },
+  {
+    "release_date": "2001-11-28",
+    "title": "Paroles de Bibs",
+    "director": "Jocelyne Lemaire-Darnaud"
+  },
+  {
+    "release_date": "2001-11-28",
+    "title": "Storytelling",
+    "director": "Todd Solondz"
+  },
+  {
+    "release_date": "2001-11-28",
+    "title": "Tu ne marcheras jamais seul",
+    "director": "Gilles Chevalier"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "release_date": "2021-05-12",
+    "title": "Certains l'aiment chaud",
+    "director": "Billy Wilder , Camille Delamarre",
+    "image_path": "images/2021-05-12_certains_laiment_chaud.jpg"
+  },
+  {
+    "release_date": "2021-05-12",
+    "title": "Irréversible : inversion intégrale",
+    "director": "Gaspar Noé",
+    "image_path": "images/2021-05-12_irreversible_inversion_integrale.jpg"
+  },
+  {
+    "release_date": "2021-05-12",
+    "title": "Les Tournesols",
+    "director": "David Bickerstaff",
+    "image_path": "images/2021-05-12_les_tournesols.jpg"
+  }
+]

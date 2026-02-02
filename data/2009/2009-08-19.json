@@ -1,0 +1,63 @@
+[
+  {
+    "release_date": "2009-08-19",
+    "title": "Le Lauréat",
+    "director": "Mike Nichols , John Hubbard",
+    "image_path": "images/2009-08-19_le_laureat.jpg"
+  },
+  {
+    "release_date": "2009-08-19",
+    "title": "Inglourious Basterds",
+    "director": "Quentin Tarantino , Eli Roth",
+    "image_path": "images/2009-08-19_inglourious_basterds.jpg"
+  },
+  {
+    "release_date": "2009-08-19",
+    "title": "Reservoir Dogs",
+    "director": "Quentin Tarantino",
+    "image_path": "images/2009-08-19_reservoir_dogs.jpg"
+  },
+  {
+    "release_date": "2009-08-19",
+    "title": "La Copine de mon meilleur ami",
+    "director": "Howard Deutch",
+    "image_path": "images/2009-08-19_la_copine_de_mon_meilleur_ami.jpg"
+  },
+  {
+    "release_date": "2009-08-19",
+    "title": "Le Cri du hibou",
+    "director": "Jamie Thraves"
+  },
+  {
+    "release_date": "2009-08-19",
+    "title": "Memory of Love",
+    "director": "Wang Chao"
+  },
+  {
+    "release_date": "2009-08-19",
+    "title": "Lady Blood",
+    "director": "Jean-Marc Vincent",
+    "image_path": "images/2009-08-19_lady_blood.jpg"
+  },
+  {
+    "release_date": "2009-08-19",
+    "title": "Cas de conscience",
+    "director": "Christopher Hampton , Richard Brooks"
+  },
+  {
+    "release_date": "2009-08-19",
+    "title": "Cinq jours ce printemps-là",
+    "director": "Fred Zinnemann"
+  },
+  {
+    "release_date": "2009-08-19",
+    "title": "En terre étrangère",
+    "director": "Christian Zerbib",
+    "image_path": "images/2009-08-19_en_terre_etrangere.jpg"
+  },
+  {
+    "release_date": "2009-08-19",
+    "title": "Voyages avec ma tante",
+    "director": "George Cukor"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "release_date": "2011-01-26",
+    "title": "Angèle et Tony",
+    "director": "Alix Delaporte",
+    "image_path": "images/2011-01-26_angele_et_tony.jpg"
+  },
+  {
+    "release_date": "2011-01-26",
+    "title": "Shahada",
+    "director": "Burhan Qurbani",
+    "image_path": "images/2011-01-26_shahada.jpg"
+  },
+  {
+    "release_date": "2011-01-26",
+    "title": "L'Avocat",
+    "director": "Cédric Anger",
+    "image_path": "images/2011-01-26_lavocat.jpg"
+  },
+  {
+    "release_date": "2011-01-26",
+    "title": "La Loi du silence",
+    "director": "Alfred Hitchcock",
+    "image_path": "images/2011-01-26_la_loi_du_silence.jpg"
+  },
+  {
+    "release_date": "2011-01-26",
+    "title": "Dessine-toi",
+    "director": "Gilles Porte",
+    "image_path": "images/2011-01-26_dessine-toi.jpg"
+  },
+  {
+    "release_date": "2011-01-26",
+    "title": "Je suis un no man's land",
+    "director": "Thierry Jousse",
+    "image_path": "images/2011-01-26_je_suis_un_no_mans_land.jpg"
+  },
+  {
+    "release_date": "2011-01-26",
+    "title": "93, la belle rebelle",
+    "director": "Jean-Pierre Thorn",
+    "image_path": "images/2011-01-26_93_la_belle_rebelle.jpg"
+  },
+  {
+    "release_date": "2011-01-26",
+    "title": "Engel aus Eisen",
+    "director": "Thomas Brasch"
+  },
+  {
+    "release_date": "2011-01-26",
+    "title": "La BM du Seigneur",
+    "director": "Jean-Charles Hue",
+    "image_path": "images/2011-01-26_la_bm_du_seigneur.jpg"
+  },
+  {
+    "release_date": "2011-01-26",
+    "title": "La Mère de Valentina",
+    "director": "Arik Lubetzky , Matti Harari",
+    "image_path": "images/2011-01-26_la_mere_de_valentina.jpg"
+  },
+  {
+    "release_date": "2011-01-26",
+    "title": "Un été suédois",
+    "director": "Fredrik Edfeldt",
+    "image_path": "images/2011-01-26_un_ete_suedois.jpg"
+  }
+]

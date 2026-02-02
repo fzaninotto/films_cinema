@@ -1,0 +1,56 @@
+[
+  {
+    "release_date": "2013-07-17",
+    "title": "Bienvenue parmi nous",
+    "director": "Jean Becker",
+    "image_path": "images/2013-07-17_bienvenue_parmi_nous.jpg"
+  },
+  {
+    "release_date": "2013-07-17",
+    "title": "Paris à tout prix",
+    "director": "Reem Kherici",
+    "image_path": "images/2013-07-17_paris_a_tout_prix.jpg"
+  },
+  {
+    "release_date": "2013-07-17",
+    "title": "Aya de Yopougon",
+    "director": "Clément Oubrerie , Marguerite Abouet",
+    "image_path": "images/2013-07-17_aya_de_yopougon.jpg"
+  },
+  {
+    "release_date": "2013-07-17",
+    "title": "Une Journée à Rome",
+    "director": "Francesca Comencini",
+    "image_path": "images/2013-07-17_une_journee_a_rome.jpg"
+  },
+  {
+    "release_date": "2013-07-17",
+    "title": "Chez nous c'est trois !",
+    "director": "Claude Duty",
+    "image_path": "images/2013-07-17_chez_nous_cest_trois_.jpg"
+  },
+  {
+    "release_date": "2013-07-17",
+    "title": "It Felt Like Love",
+    "director": "Eliza Hittman",
+    "image_path": "images/2013-07-17_it_felt_like_love.jpg"
+  },
+  {
+    "release_date": "2013-07-17",
+    "title": "Juliette",
+    "director": "Pierre Godeau",
+    "image_path": "images/2013-07-17_juliette.jpg"
+  },
+  {
+    "release_date": "2013-07-17",
+    "title": "Metéora",
+    "director": "Spiros Stathoulopoulos",
+    "image_path": "images/2013-07-17_meteora.jpg"
+  },
+  {
+    "release_date": "2013-07-17",
+    "title": "Transamerica Express",
+    "director": "Arthur Miller , Arthur Hiller",
+    "image_path": "images/2013-07-17_transamerica_express.jpg"
+  }
+]

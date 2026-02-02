@@ -1,0 +1,38 @@
+[
+  {
+    "release_date": "2001-08-22",
+    "title": "La Planète des singes",
+    "director": "Tim Burton",
+    "image_path": "images/2001-08-22_la_planete_des_singes.jpg"
+  },
+  {
+    "release_date": "2001-08-22",
+    "title": "The Mission",
+    "director": "Johnnie To",
+    "image_path": "images/2001-08-22_the_mission.jpg"
+  },
+  {
+    "release_date": "2001-08-22",
+    "title": "La Dilettante",
+    "director": "Pascal Thomas",
+    "image_path": "images/2001-08-22_la_dilettante.jpg"
+  },
+  {
+    "release_date": "2001-08-22",
+    "title": "Bal poussière",
+    "director": "Henri Duparc",
+    "image_path": "images/2001-08-22_bal_poussiere.jpg"
+  },
+  {
+    "release_date": "2001-08-22",
+    "title": "La Répétition",
+    "director": "Catherine Corsini",
+    "image_path": "images/2001-08-22_la_repetition.jpg"
+  },
+  {
+    "release_date": "2001-08-22",
+    "title": "Solo Sunny",
+    "director": "Konrad Wolf , Wolfgang Kohlhaase",
+    "image_path": "images/2001-08-22_solo_sunny.jpg"
+  }
+]

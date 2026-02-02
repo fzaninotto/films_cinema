@@ -1,0 +1,30 @@
+[
+  {
+    "release_date": "2002-04-10",
+    "title": "Le Voyage de Chihiro",
+    "director": "Hayao Miyazaki",
+    "image_path": "images/2002-04-10_le_voyage_de_chihiro.jpg"
+  },
+  {
+    "release_date": "2002-04-10",
+    "title": "Parle avec elle",
+    "director": "Pedro Almodóvar",
+    "image_path": "images/2002-04-10_parle_avec_elle.jpg"
+  },
+  {
+    "release_date": "2002-04-10",
+    "title": "Le Cercle",
+    "director": "Jafar Panahi"
+  },
+  {
+    "release_date": "2002-04-10",
+    "title": "L'homme qui voulut être roi",
+    "director": "John Huston , Thomas Chong",
+    "image_path": "images/2002-04-10_lhomme_qui_voulut_etre_roi.jpg"
+  },
+  {
+    "release_date": "2002-04-10",
+    "title": "Le divorcement",
+    "director": "Pierre Barouh"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "release_date": "2001-06-06",
+    "title": "Les Yeux sans visage",
+    "director": "Georges Franju , Emile Berling",
+    "image_path": "images/2001-06-06_les_yeux_sans_visage.jpg"
+  },
+  {
+    "release_date": "2001-06-06",
+    "title": "Pearl Harbor",
+    "director": "Michael Bay",
+    "image_path": "images/2001-06-06_pearl_harbor.jpg"
+  },
+  {
+    "release_date": "2001-06-06",
+    "title": "La Meilleure façon de marcher",
+    "director": "Claude Miller , Pierre Richard-Willm",
+    "image_path": "images/2001-06-06_la_meilleure_facon_de_marcher.jpg"
+  },
+  {
+    "release_date": "2001-06-06",
+    "title": "Bandits d'amour",
+    "director": "Pierre Le Bret"
+  },
+  {
+    "release_date": "2001-06-06",
+    "title": "Les Canons de Navarone",
+    "director": "J Lee Thompson",
+    "image_path": "images/2001-06-06_les_canons_de_navarone.jpg"
+  },
+  {
+    "release_date": "2001-06-06",
+    "title": "Mandingo",
+    "director": "Richard Fleischer",
+    "image_path": "images/2001-06-06_mandingo.jpg"
+  },
+  {
+    "release_date": "2001-06-06",
+    "title": "The Second Civil War",
+    "director": "Joe Dante"
+  }
+]

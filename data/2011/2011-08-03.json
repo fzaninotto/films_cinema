@@ -1,0 +1,68 @@
+[
+  {
+    "release_date": "2011-08-03",
+    "title": "Super 8",
+    "director": "J.J. Abrams",
+    "image_path": "images/2011-08-03_super_8.jpg"
+  },
+  {
+    "release_date": "2011-08-03",
+    "title": "L'Année dernière à Marienbad",
+    "director": "Alain Resnais",
+    "image_path": "images/2011-08-03_lannee_derniere_a_marienbad.jpg"
+  },
+  {
+    "release_date": "2011-08-03",
+    "title": "Itinéraire bis",
+    "director": "Jean-Luc Perreard",
+    "image_path": "images/2011-08-03_itineraire_bis.jpg"
+  },
+  {
+    "release_date": "2011-08-03",
+    "title": "Killing Bono",
+    "director": "Nick Hamm",
+    "image_path": "images/2011-08-03_killing_bono.jpg"
+  },
+  {
+    "release_date": "2011-08-03",
+    "title": "Voyez comme ils dansent",
+    "director": "Claude Miller , Pierre Richard-Willm",
+    "image_path": "images/2011-08-03_voyez_comme_ils_dansent.jpg"
+  },
+  {
+    "release_date": "2011-08-03",
+    "title": "Une Vie tranquille",
+    "director": "Claudio Cupellini",
+    "image_path": "images/2011-08-03_une_vie_tranquille.jpg"
+  },
+  {
+    "release_date": "2011-08-03",
+    "title": "Le Voyage de Lucia",
+    "director": "Stefano Pasetto",
+    "image_path": "images/2011-08-03_le_voyage_de_lucia.jpg"
+  },
+  {
+    "release_date": "2011-08-03",
+    "title": "All Good Children",
+    "director": "Alicia Duffy",
+    "image_path": "images/2011-08-03_all_good_children.jpg"
+  },
+  {
+    "release_date": "2011-08-03",
+    "title": "Ichi the Killer",
+    "director": "Takashi Miike",
+    "image_path": "images/2011-08-03_ichi_the_killer.jpg"
+  },
+  {
+    "release_date": "2011-08-03",
+    "title": "Une poule, un train et quelques monstres",
+    "director": "Dino Risi",
+    "image_path": "images/2011-08-03_une_poule_un_train_et_quelques_monstres.jpg"
+  },
+  {
+    "release_date": "2011-08-03",
+    "title": "Voltiges",
+    "director": "Lisa Aschan",
+    "image_path": "images/2011-08-03_voltiges.jpg"
+  }
+]

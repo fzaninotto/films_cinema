@@ -1,0 +1,39 @@
+[
+  {
+    "release_date": "2000-05-24",
+    "title": "Héritages",
+    "director": "Daniel , Pascal Cling"
+  },
+  {
+    "release_date": "2000-05-24",
+    "title": "Jules César",
+    "director": "Joseph Mankiewicz"
+  },
+  {
+    "release_date": "2000-05-24",
+    "title": "La Veuve noire",
+    "director": "Bob Rafelson",
+    "image_path": "images/2000-05-24_la_veuve_noire.jpg"
+  },
+  {
+    "release_date": "2000-05-24",
+    "title": "Le Premier du nom"
+  },
+  {
+    "release_date": "2000-05-24",
+    "title": "Marie-Chantal contre docteur Kha",
+    "director": "Claude Chabrol",
+    "image_path": "images/2000-05-24_marie-chantal_contre_docteur_kha.jpg"
+  },
+  {
+    "release_date": "2000-05-24",
+    "title": "Mon grand",
+    "director": "William A Wellman"
+  },
+  {
+    "release_date": "2000-05-24",
+    "title": "Trois hommes à abattre",
+    "director": "Jacques Deray",
+    "image_path": "images/2000-05-24_trois_hommes_a_abattre.jpg"
+  }
+]

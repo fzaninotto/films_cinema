@@ -1,0 +1,54 @@
+[
+  {
+    "release_date": "2005-05-25",
+    "title": "La Maison de Cire",
+    "director": "Jaume Collet-Serra",
+    "image_path": "images/2005-05-25_la_maison_de_cire.jpg"
+  },
+  {
+    "release_date": "2005-05-25",
+    "title": "Cavalcade",
+    "director": "Steve Suissa",
+    "image_path": "images/2005-05-25_cavalcade.jpg"
+  },
+  {
+    "release_date": "2005-05-25",
+    "title": "Joue-la comme Beckham",
+    "director": "Gurinder Chadha",
+    "image_path": "images/2005-05-25_joue-la_comme_beckham.jpg"
+  },
+  {
+    "release_date": "2005-05-25",
+    "title": "Cousin, cousine",
+    "director": "Jean-Charles Tacchella",
+    "image_path": "images/2005-05-25_cousin_cousine.jpg"
+  },
+  {
+    "release_date": "2005-05-25",
+    "title": "Villa Paranoïa",
+    "director": "Erik Clausen"
+  },
+  {
+    "release_date": "2005-05-25",
+    "title": "Quartier VIP",
+    "director": "Laurent Firode",
+    "image_path": "images/2005-05-25_quartier_vip.jpg"
+  },
+  {
+    "release_date": "2005-05-25",
+    "title": "Imposture",
+    "director": "Patrick Bouchitey",
+    "image_path": "images/2005-05-25_imposture.jpg"
+  },
+  {
+    "release_date": "2005-05-25",
+    "title": "Le Pont du roi Saint-Louis",
+    "director": "Mary McGuckian",
+    "image_path": "images/2005-05-25_le_pont_du_roi_saint-louis.jpg"
+  },
+  {
+    "release_date": "2005-05-25",
+    "title": "Sous la peau de la ville",
+    "director": "Rakhshan Bani-Etemad"
+  }
+]

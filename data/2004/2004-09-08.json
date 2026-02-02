@@ -1,0 +1,37 @@
+[
+  {
+    "release_date": "2004-09-08",
+    "title": "N'oublie jamais",
+    "director": "Nick Cassavetes",
+    "image_path": "images/2004-09-08_noublie_jamais.jpg"
+  },
+  {
+    "release_date": "2004-09-08",
+    "title": "Catwoman",
+    "director": "Pitof",
+    "image_path": "images/2004-09-08_catwoman.jpg"
+  },
+  {
+    "release_date": "2004-09-08",
+    "title": "Mensonges et trahisons et plus si affinités...",
+    "director": "Laurent Tirard",
+    "image_path": "images/2004-09-08_mensonges_et_trahisons_et_plus_si_affinites.jpg"
+  },
+  {
+    "release_date": "2004-09-08",
+    "title": "Adieu",
+    "director": "Arnaud des Pallières"
+  },
+  {
+    "release_date": "2004-09-08",
+    "title": "Le Dernier Samaritain",
+    "director": "Tony Scott , James Craig",
+    "image_path": "images/2004-09-08_le_dernier_samaritain.jpg"
+  },
+  {
+    "release_date": "2004-09-08",
+    "title": "Salvador Allende",
+    "director": "Patricio Guzman",
+    "image_path": "images/2004-09-08_salvador_allende.jpg"
+  }
+]

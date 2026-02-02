@@ -1,0 +1,55 @@
+[
+  {
+    "release_date": "2007-08-22",
+    "title": "Paranoiak",
+    "director": "D.J. Caruso",
+    "image_path": "images/2007-08-22_paranoiak.jpg"
+  },
+  {
+    "release_date": "2007-08-22",
+    "title": "Closer (entre adultes consentants)",
+    "director": "Mike Nichols",
+    "image_path": "images/2007-08-22_closer_entre_adultes_consentants.jpg"
+  },
+  {
+    "release_date": "2007-08-22",
+    "title": "3 amis",
+    "director": "Michel Boujenah",
+    "image_path": "images/2007-08-22_3_amis.jpg"
+  },
+  {
+    "release_date": "2007-08-22",
+    "title": "Hot Rod",
+    "director": "Akiva Schaffer",
+    "image_path": "images/2007-08-22_hot_rod.jpg"
+  },
+  {
+    "release_date": "2007-08-22",
+    "title": "L'Ecole paternelle 2",
+    "director": "Fred Savage",
+    "image_path": "images/2007-08-22_lecole_paternelle_2.jpg"
+  },
+  {
+    "release_date": "2007-08-22",
+    "title": "La Maison",
+    "director": "Manuel Poirier",
+    "image_path": "images/2007-08-22_la_maison.jpg"
+  },
+  {
+    "release_date": "2007-08-22",
+    "title": "Le Metteur en scène de mariages",
+    "director": "Marco Bellocchio",
+    "image_path": "images/2007-08-22_le_metteur_en_scene_de_mariages.jpg"
+  },
+  {
+    "release_date": "2007-08-22",
+    "title": "Le Vivarium",
+    "director": "Jacques Richard"
+  },
+  {
+    "release_date": "2007-08-22",
+    "title": "Permis de mariage",
+    "director": "Ken Kwapis",
+    "image_path": "images/2007-08-22_permis_de_mariage.jpg"
+  }
+]

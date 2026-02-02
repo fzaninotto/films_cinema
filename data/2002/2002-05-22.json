@@ -1,0 +1,26 @@
+[
+  {
+    "release_date": "2002-05-22",
+    "title": "Le Défi",
+    "director": "Paulo Cesar Saraceni , Blanca Li , Francesco Rosi",
+    "image_path": "images/2002-05-22_le_defi.jpg"
+  },
+  {
+    "release_date": "2002-05-22",
+    "title": "Belles à mourir",
+    "director": "Michael Jann",
+    "image_path": "images/2002-05-22_belles_a_mourir.jpg"
+  },
+  {
+    "release_date": "2002-05-22",
+    "title": "Kedma",
+    "director": "Amos Gitaï",
+    "image_path": "images/2002-05-22_kedma.jpg"
+  },
+  {
+    "release_date": "2002-05-22",
+    "title": "Voyeur",
+    "director": "Stephan Elliot",
+    "image_path": "images/2002-05-22_voyeur.jpg"
+  }
+]

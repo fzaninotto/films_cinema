@@ -1,0 +1,28 @@
+[
+  {
+    "release_date": "2001-08-01",
+    "title": "La Fille de tes rêves",
+    "director": "Fernando Trueba",
+    "image_path": "images/2001-08-01_la_fille_de_tes_reves.jpg"
+  },
+  {
+    "release_date": "2001-08-01",
+    "title": "Le Bon numéro",
+    "director": "Nora Ephron"
+  },
+  {
+    "release_date": "2001-08-01",
+    "title": "Le Tombeau"
+  },
+  {
+    "release_date": "2001-08-01",
+    "title": "Harvard Story",
+    "director": "James Toback"
+  },
+  {
+    "release_date": "2001-08-01",
+    "title": "Herbes flottantes",
+    "director": "Yasujiro Ozu",
+    "image_path": "images/2001-08-01_herbes_flottantes.jpg"
+  }
+]

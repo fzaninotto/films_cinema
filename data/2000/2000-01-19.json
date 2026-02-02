@@ -1,0 +1,80 @@
+[
+  {
+    "release_date": "2000-01-19",
+    "title": "Dogma",
+    "director": "Kevin Smith",
+    "image_path": "images/2000-01-19_dogma.jpg"
+  },
+  {
+    "release_date": "2000-01-19",
+    "title": "La Rose pourpre du Caire",
+    "director": "Woody Allen",
+    "image_path": "images/2000-01-19_la_rose_pourpre_du_caire.jpg"
+  },
+  {
+    "release_date": "2000-01-19",
+    "title": "Anna Karenine",
+    "director": "Bernard Rose",
+    "image_path": "images/2000-01-19_anna_karenine.jpg"
+  },
+  {
+    "release_date": "2000-01-19",
+    "title": "When Night is Falling",
+    "director": "Patricia Rozema",
+    "image_path": "images/2000-01-19_when_night_is_falling.jpg"
+  },
+  {
+    "release_date": "2000-01-19",
+    "title": "Peur bleue",
+    "director": "Renny Harlin",
+    "image_path": "images/2000-01-19_peur_bleue.jpg"
+  },
+  {
+    "release_date": "2000-01-19",
+    "title": "Wolfen",
+    "director": "Michael Wadleigh",
+    "image_path": "images/2000-01-19_wolfen.jpg"
+  },
+  {
+    "release_date": "2000-01-19",
+    "title": "Marqué par la haine",
+    "director": "Robert Wise",
+    "image_path": "images/2000-01-19_marque_par_la_haine.jpg"
+  },
+  {
+    "release_date": "2000-01-19",
+    "title": "Le Pique-nique de Lulu Kreutz",
+    "director": "Didier Martiny",
+    "image_path": "images/2000-01-19_le_pique-nique_de_lulu_kreutz.jpg"
+  },
+  {
+    "release_date": "2000-01-19",
+    "title": "Bullet Ballet",
+    "director": "Shinya Tsukamoto"
+  },
+  {
+    "release_date": "2000-01-19",
+    "title": "Cours toujours"
+  },
+  {
+    "release_date": "2000-01-19",
+    "title": "Dommage que tu sois une canaille",
+    "director": "Sheryl Lee , Alessandro Blasetti",
+    "image_path": "images/2000-01-19_dommage_que_tu_sois_une_canaille.jpg"
+  },
+  {
+    "release_date": "2000-01-19",
+    "title": "Driver",
+    "director": "Walter Hill",
+    "image_path": "images/2000-01-19_driver.jpg"
+  },
+  {
+    "release_date": "2000-01-19",
+    "title": "Maïa"
+  },
+  {
+    "release_date": "2000-01-19",
+    "title": "White Star",
+    "director": "Roland Klick"
+  }
+]

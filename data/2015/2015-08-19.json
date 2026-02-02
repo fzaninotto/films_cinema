@@ -1,0 +1,46 @@
+[
+  {
+    "release_date": "2015-08-19",
+    "title": "French Connection",
+    "director": "William Friedkin",
+    "image_path": "images/2015-08-19_french_connection.jpg"
+  },
+  {
+    "release_date": "2015-08-19",
+    "title": "La Belle Saison",
+    "director": "Catherine Corsini",
+    "image_path": "images/2015-08-19_la_belle_saison.jpg"
+  },
+  {
+    "release_date": "2015-08-19",
+    "title": "Une Famille à louer",
+    "director": "Jean-Pierre Améris"
+  },
+  {
+    "release_date": "2015-08-19",
+    "title": "More",
+    "director": "Barbet Schroeder",
+    "image_path": "images/2015-08-19_more.jpg"
+  },
+  {
+    "release_date": "2015-08-19",
+    "title": "Antigang",
+    "director": "Benjamin Rocher"
+  },
+  {
+    "release_date": "2015-08-19",
+    "title": "Vacation",
+    "director": "John Francis Daley , Jonathan M Goldstein"
+  },
+  {
+    "release_date": "2015-08-19",
+    "title": "American Ultra",
+    "director": "Nima Nourizadeh"
+  },
+  {
+    "release_date": "2015-08-19",
+    "title": "Zéro motivation",
+    "director": "Talya Lavie",
+    "image_path": "images/2015-08-19_zero_motivation.jpg"
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "release_date": "2009-01-28",
+    "title": "Jacquou le Croquant",
+    "director": "Laurent Boutonnat",
+    "image_path": "images/2009-01-28_jacquou_le_croquant.jpg"
+  },
+  {
+    "release_date": "2009-01-28",
+    "title": "Hairspray",
+    "director": "Adam Shankman , Pepa Pedroche",
+    "image_path": "images/2009-01-28_hairspray.jpg"
+  },
+  {
+    "release_date": "2009-01-28",
+    "title": "Le Bal des actrices",
+    "image_path": "images/2009-01-28_le_bal_des_actrices.jpg"
+  },
+  {
+    "release_date": "2009-01-28",
+    "title": "Espion(s)",
+    "director": "Nicolas Saada",
+    "image_path": "images/2009-01-28_espions.jpg"
+  },
+  {
+    "release_date": "2009-01-28",
+    "title": "Les Seigneurs de la guerre",
+    "director": "Peter Chan , Peter Ho-Sun Chan , Wai Man Yip",
+    "image_path": "images/2009-01-28_les_seigneurs_de_la_guerre.jpg"
+  },
+  {
+    "release_date": "2009-01-28",
+    "title": "Pour un instant, la liberté",
+    "director": "Arash T. Riahi , Arash T Riahi"
+  },
+  {
+    "release_date": "2009-01-28",
+    "title": "King Guillaume",
+    "director": "Pierre-François Martin-Laval",
+    "image_path": "images/2009-01-28_king_guillaume.jpg"
+  },
+  {
+    "release_date": "2009-01-28",
+    "title": "Che, 2e partie : guérilla",
+    "director": "Steven Soderbergh",
+    "image_path": "images/2009-01-28_che_2e_partie_guerilla.jpg"
+  },
+  {
+    "release_date": "2009-01-28",
+    "title": "C&#339ur d'encre",
+    "director": "Iain Softley",
+    "image_path": "images/2009-01-28_c339ur_dencre.jpg"
+  },
+  {
+    "release_date": "2009-01-28",
+    "title": "Los Bastardos",
+    "director": "Amat Escalante",
+    "image_path": "images/2009-01-28_los_bastardos.jpg"
+  },
+  {
+    "release_date": "2009-01-28",
+    "title": "A l'est de moi",
+    "director": "Bojena Horackova"
+  },
+  {
+    "release_date": "2009-01-28",
+    "title": "Boule de suif",
+    "director": "Christian-Jaque , Paul Burke",
+    "image_path": "images/2009-01-28_boule_de_suif.jpg"
+  },
+  {
+    "release_date": "2009-01-28",
+    "title": "Joy Division",
+    "director": "Grant Gee"
+  },
+  {
+    "release_date": "2009-01-28",
+    "title": "Les Ensorcelés",
+    "director": "Vincente Minnelli",
+    "image_path": "images/2009-01-28_les_ensorceles.jpg"
+  },
+  {
+    "release_date": "2009-01-28",
+    "title": "Ricky Bobby : roi du circuit",
+    "director": "Adam McKay",
+    "image_path": "images/2009-01-28_ricky_bobby_roi_du_circuit.jpg"
+  }
+]

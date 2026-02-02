@@ -1,0 +1,43 @@
+[
+  {
+    "release_date": "2009-09-16",
+    "title": "Fish Tank",
+    "director": "Andrea Arnold",
+    "image_path": "images/2009-09-16_fish_tank.jpg"
+  },
+  {
+    "release_date": "2009-09-16",
+    "title": "L'Armée du crime",
+    "director": "Robert Guédiguian",
+    "image_path": "images/2009-09-16_larmee_du_crime.jpg"
+  },
+  {
+    "release_date": "2009-09-16",
+    "title": "Rien de personnel",
+    "director": "Mathias Gokalp",
+    "image_path": "images/2009-09-16_rien_de_personnel.jpg"
+  },
+  {
+    "release_date": "2009-09-16",
+    "title": "The September Issue",
+    "director": "R.J. Cutler",
+    "image_path": "images/2009-09-16_the_september_issue.jpg"
+  },
+  {
+    "release_date": "2009-09-16",
+    "title": "Humpday",
+    "director": "Lynn Shelton",
+    "image_path": "images/2009-09-16_humpday.jpg"
+  },
+  {
+    "release_date": "2009-09-16",
+    "title": "Le Voyage fantastique",
+    "director": "Richard Fleischer",
+    "image_path": "images/2009-09-16_le_voyage_fantastique.jpg"
+  },
+  {
+    "release_date": "2009-09-16",
+    "title": "Violent Days",
+    "director": "Lucile Chaufour"
+  }
+]

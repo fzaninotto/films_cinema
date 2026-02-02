@@ -1,0 +1,55 @@
+[
+  {
+    "release_date": "2016-12-14",
+    "title": "Star Wars Rogue One",
+    "director": "Gareth Edwards , Gareth Edwards (II)",
+    "image_path": "images/2016-12-14_star_wars_rogue_one.jpg"
+  },
+  {
+    "release_date": "2016-12-14",
+    "title": "Cigarettes et chocolat chaud",
+    "director": "Sophie Reine",
+    "image_path": "images/2016-12-14_cigarettes_et_chocolat_chaud.jpg"
+  },
+  {
+    "release_date": "2016-12-14",
+    "title": "A Perfect Day",
+    "director": "Fernando Leon de Aranoa , Fernando de Aranoa",
+    "image_path": "images/2016-12-14_a_perfect_day.jpg"
+  },
+  {
+    "release_date": "2016-12-14",
+    "title": "Paula",
+    "director": "Christian Schwochow",
+    "image_path": "images/2016-12-14_paula.jpg"
+  },
+  {
+    "release_date": "2016-12-14",
+    "title": "Adorable Voisine",
+    "director": "Richard Quine",
+    "image_path": "images/2016-12-14_adorable_voisine.jpg"
+  },
+  {
+    "release_date": "2016-12-14",
+    "title": "Heart of glass",
+    "director": "Jérôme de Gerlache",
+    "image_path": "images/2016-12-14_heart_of_glass.jpg"
+  },
+  {
+    "release_date": "2016-12-14",
+    "title": "La Nuit rebelle",
+    "director": "Michel Léviant",
+    "image_path": "images/2016-12-14_la_nuit_rebelle.jpg"
+  },
+  {
+    "release_date": "2016-12-14",
+    "title": "Personal Shopper",
+    "director": "Olivier Assayas",
+    "image_path": "images/2016-12-14_personal_shopper.jpg"
+  },
+  {
+    "release_date": "2016-12-14",
+    "title": "Roméo & Juliette - All'Opera (San Francisco Ballet)",
+    "image_path": "images/2016-12-14_romeo_juliette_-_allopera_san_francisco_ballet.jpg"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "release_date": "2003-12-31",
+    "title": "Le Kid",
+    "director": "Charlie Chaplin",
+    "image_path": "images/2003-12-31_le_kid.jpg"
+  },
+  {
+    "release_date": "2003-12-31",
+    "title": "Seul au monde",
+    "director": "Robert Zemeckis",
+    "image_path": "images/2003-12-31_seul_au_monde.jpg"
+  },
+  {
+    "release_date": "2003-12-31",
+    "title": "Calendar Girls",
+    "director": "Nigel Cole",
+    "image_path": "images/2003-12-31_calendar_girls.jpg"
+  },
+  {
+    "release_date": "2003-12-31",
+    "title": "On l'appelait Milady",
+    "director": "Richard Lester",
+    "image_path": "images/2003-12-31_on_lappelait_milady.jpg"
+  },
+  {
+    "release_date": "2003-12-31",
+    "title": "Boulevard du rhum",
+    "director": "Robert Enrico",
+    "image_path": "images/2003-12-31_boulevard_du_rhum.jpg"
+  },
+  {
+    "release_date": "2003-12-31",
+    "title": "Comme si de rien n'était",
+    "director": "Pierre-Olivier Mornas",
+    "image_path": "images/2003-12-31_comme_si_de_rien_netait.jpg"
+  },
+  {
+    "release_date": "2003-12-31",
+    "title": "Dracula : Pages From a Virgin's Diary",
+    "director": "Guy Maddin"
+  },
+  {
+    "release_date": "2003-12-31",
+    "title": "Groom Service",
+    "director": "Quentin Tarantino , Robert Rodriguez , Bernie Hamilton , Allison Anders , Alexandre Rockwell"
+  },
+  {
+    "release_date": "2003-12-31",
+    "title": "Ice Storm",
+    "director": "Ang Lee",
+    "image_path": "images/2003-12-31_ice_storm.jpg"
+  },
+  {
+    "release_date": "2003-12-31",
+    "title": "Los Angeles Plays Itself",
+    "director": "Thom Andersen"
+  },
+  {
+    "release_date": "2003-12-31",
+    "title": "Piège fatal",
+    "director": "John Frankenheimer",
+    "image_path": "images/2003-12-31_piege_fatal.jpg"
+  }
+]

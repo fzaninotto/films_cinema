@@ -1,0 +1,30 @@
+[
+  {
+    "release_date": "2001-06-27",
+    "title": "Lara Croft : Tomb raider",
+    "director": "Simon West",
+    "image_path": "images/2001-06-27_lara_croft_tomb_raider.jpg"
+  },
+  {
+    "release_date": "2001-06-27",
+    "title": "Donnie Brasco",
+    "director": "Mike Newell",
+    "image_path": "images/2001-06-27_donnie_brasco.jpg"
+  },
+  {
+    "release_date": "2001-06-27",
+    "title": "Cecil B. DeMented",
+    "director": "John Waters"
+  },
+  {
+    "release_date": "2001-06-27",
+    "title": "La mission du commandant Lex",
+    "director": "André De Toth",
+    "image_path": "images/2001-06-27_la_mission_du_commandant_lex.jpg"
+  },
+  {
+    "release_date": "2001-06-27",
+    "title": "L'étranger au paradis",
+    "director": "Vincente Minnelli"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "release_date": "2025-12-31",
+    "title": "Anaconda",
+    "director": "Tom Gormican",
+    "image_path": "images/2025-12-31_anaconda.jpg"
+  },
+  {
+    "release_date": "2025-12-31",
+    "title": "Sur un air de blues",
+    "director": "Craig Brewer",
+    "image_path": "images/2025-12-31_sur_un_air_de_blues.jpg"
+  },
+  {
+    "release_date": "2025-12-31",
+    "title": "Los Tigres",
+    "director": "Alberto Rodriguez",
+    "image_path": "images/2025-12-31_los_tigres.jpg"
+  },
+  {
+    "release_date": "2025-12-31",
+    "title": "Magellan",
+    "director": "Lav Diaz",
+    "image_path": "images/2025-12-31_magellan.jpg"
+  },
+  {
+    "release_date": "2025-12-31",
+    "title": "Le Pays d'Arto",
+    "director": "Tamara Stepanyan",
+    "image_path": "images/2025-12-31_le_pays_darto.jpg"
+  },
+  {
+    "release_date": "2025-12-31",
+    "title": "Laurent dans le vent",
+    "director": "Anton Balekdjian , Léo Couture , Matteo Eustachon",
+    "image_path": "images/2025-12-31_laurent_dans_le_vent.jpg"
+  },
+  {
+    "release_date": "2025-12-31",
+    "title": "Vade Retro",
+    "director": "Antonin Peretjatko",
+    "image_path": "images/2025-12-31_vade_retro.jpg"
+  },
+  {
+    "release_date": "2025-12-31",
+    "title": "En Garde",
+    "director": "Nelicia Low",
+    "image_path": "images/2025-12-31_en_garde.jpg"
+  },
+  {
+    "release_date": "2025-12-31",
+    "title": "La Dernière valse",
+    "director": "Anselm Chan",
+    "image_path": "images/2025-12-31_la_derniere_valse.jpg"
+  },
+  {
+    "release_date": "2025-12-31",
+    "title": "Le Secret de l'Angelus, la fascination de Dali",
+    "director": "Joan Charansonnet",
+    "image_path": "images/2025-12-31_le_secret_de_langelus_la_fascination_de_dali.jpg"
+  },
+  {
+    "release_date": "2025-12-31",
+    "title": "À perte de vue",
+    "image_path": "images/2025-12-31_a_perte_de_vue.jpg"
+  },
+  {
+    "release_date": "2025-12-31",
+    "title": "Ikkis",
+    "director": "Sriram Raghavan"
+  }
+]

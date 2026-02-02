@@ -1,0 +1,60 @@
+[
+  {
+    "release_date": "2003-09-24",
+    "title": "Hero",
+    "director": "Zhang Yimou",
+    "image_path": "images/2003-09-24_hero.jpg"
+  },
+  {
+    "release_date": "2003-09-24",
+    "title": "Les Invasions barbares",
+    "director": "Denys Arcand",
+    "image_path": "images/2003-09-24_les_invasions_barbares.jpg"
+  },
+  {
+    "release_date": "2003-09-24",
+    "title": "Underworld",
+    "director": "Len Wiseman",
+    "image_path": "images/2003-09-24_underworld.jpg"
+  },
+  {
+    "release_date": "2003-09-24",
+    "title": "Thomas Crown",
+    "director": "John McTiernan",
+    "image_path": "images/2003-09-24_thomas_crown.jpg"
+  },
+  {
+    "release_date": "2003-09-24",
+    "title": "Beat Street",
+    "director": "Stan Lathan , Eric Prat , Adria Garcia",
+    "image_path": "images/2003-09-24_beat_street.jpg"
+  },
+  {
+    "release_date": "2003-09-24",
+    "title": "Un crocodile dans mon jardin",
+    "director": "Gun Jacobson , Co Hoedeman , Ingo Panke"
+  },
+  {
+    "release_date": "2003-09-24",
+    "title": "Lovely Rita Sainte patronne des cas désespérés",
+    "director": "Stéphane Clavier",
+    "image_path": "images/2003-09-24_lovely_rita_sainte_patronne_des_cas_desesperes.jpg"
+  },
+  {
+    "release_date": "2003-09-24",
+    "title": "Elle est des nôtres",
+    "director": "Siegrid Alnoy",
+    "image_path": "images/2003-09-24_elle_est_des_notres.jpg"
+  },
+  {
+    "release_date": "2003-09-24",
+    "title": "Niki et Flo",
+    "director": "Lucian Pintilie",
+    "image_path": "images/2003-09-24_niki_et_flo.jpg"
+  },
+  {
+    "release_date": "2003-09-24",
+    "title": "On n'est pas des marques de vélos",
+    "director": "Jean-Pierre Thorn"
+  }
+]

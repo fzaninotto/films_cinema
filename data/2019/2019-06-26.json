@@ -1,0 +1,118 @@
+[
+  {
+    "release_date": "2019-06-26",
+    "title": "Les Doors",
+    "director": "Oliver Stone , Françoise Verley",
+    "image_path": "images/2019-06-26_les_doors.jpg"
+  },
+  {
+    "release_date": "2019-06-26",
+    "title": "Toy Story 4",
+    "director": "Josh Cooley",
+    "image_path": "images/2019-06-26_toy_story_4.jpg"
+  },
+  {
+    "release_date": "2019-06-26",
+    "title": "Beau joueur",
+    "director": "Delphine Gleize",
+    "image_path": "images/2019-06-26_beau_joueur.jpg"
+  },
+  {
+    "release_date": "2019-06-26",
+    "title": "Bixa Travesty",
+    "director": "Kiko Goifman , Claudia Priscilla",
+    "image_path": "images/2019-06-26_bixa_travesty.jpg"
+  },
+  {
+    "release_date": "2019-06-26",
+    "title": "BrightBurn : l'enfant du mal",
+    "director": "David Yarovesky",
+    "image_path": "images/2019-06-26_brightburn_lenfant_du_mal.jpg"
+  },
+  {
+    "release_date": "2019-06-26",
+    "title": "Consequences",
+    "director": "Darko Stante",
+    "image_path": "images/2019-06-26_consequences.jpg"
+  },
+  {
+    "release_date": "2019-06-26",
+    "title": "Des ados pas comme il faut",
+    "director": "Marc Dubois",
+    "image_path": "images/2019-06-26_des_ados_pas_comme_il_faut.jpg"
+  },
+  {
+    "release_date": "2019-06-26",
+    "title": "Deux ou trois choses que je sais de lui",
+    "director": "Malte Ludin",
+    "image_path": "images/2019-06-26_deux_ou_trois_choses_que_je_sais_de_lui.jpg"
+  },
+  {
+    "release_date": "2019-06-26",
+    "title": "Fighting With My Family",
+    "director": "Stephen Merchant"
+  },
+  {
+    "release_date": "2019-06-26",
+    "title": "Gaza, la vie"
+  },
+  {
+    "release_date": "2019-06-26",
+    "title": "Golden Glove",
+    "director": "Fatih Akin",
+    "image_path": "images/2019-06-26_golden_glove.jpg"
+  },
+  {
+    "release_date": "2019-06-26",
+    "title": "Je la rencontrerai",
+    "director": "Raphaël Kirgo",
+    "image_path": "images/2019-06-26_je_la_rencontrerai.jpg"
+  },
+  {
+    "release_date": "2019-06-26",
+    "title": "La Femme de mon frère",
+    "director": "Monia Chokri",
+    "image_path": "images/2019-06-26_la_femme_de_mon_frere.jpg"
+  },
+  {
+    "release_date": "2019-06-26",
+    "title": "La Foire agricole",
+    "director": "Stéphane Aubier , Vincent Patar",
+    "image_path": "images/2019-06-26_la_foire_agricole.jpg"
+  },
+  {
+    "release_date": "2019-06-26",
+    "title": "Les Tombeaux sans noms",
+    "director": "Rithy Panh"
+  },
+  {
+    "release_date": "2019-06-26",
+    "title": "Made in China",
+    "director": "Julien Abraham",
+    "image_path": "images/2019-06-26_made_in_china.jpg"
+  },
+  {
+    "release_date": "2019-06-26",
+    "title": "Teen Spirit",
+    "director": "Max Minghella",
+    "image_path": "images/2019-06-26_teen_spirit.jpg"
+  },
+  {
+    "release_date": "2019-06-26",
+    "title": "The Mountain : une odyssée américaine",
+    "director": "Rick Alverson",
+    "image_path": "images/2019-06-26_the_mountain_une_odyssee_americaine.jpg"
+  },
+  {
+    "release_date": "2019-06-26",
+    "title": "Ville Neuve",
+    "director": "Félix Dufour-laperrière",
+    "image_path": "images/2019-06-26_ville_neuve.jpg"
+  },
+  {
+    "release_date": "2019-06-26",
+    "title": "Yves",
+    "director": "Benoît Forgeard",
+    "image_path": "images/2019-06-26_yves.jpg"
+  }
+]

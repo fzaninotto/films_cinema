@@ -1,0 +1,63 @@
+[
+  {
+    "release_date": "2000-08-23",
+    "title": "Ghost",
+    "director": "Jerry Zucker",
+    "image_path": "images/2000-08-23_ghost.jpg"
+  },
+  {
+    "release_date": "2000-08-23",
+    "title": "60 secondes chrono",
+    "director": "Dominic Sena",
+    "image_path": "images/2000-08-23_60_secondes_chrono.jpg"
+  },
+  {
+    "release_date": "2000-08-23",
+    "title": "Meurtre d'un bookmaker chinois",
+    "director": "John Cassavetes",
+    "image_path": "images/2000-08-23_meurtre_dun_bookmaker_chinois.jpg"
+  },
+  {
+    "release_date": "2000-08-23",
+    "title": "Les Liaisons dangereuses",
+    "director": "Roger Vadim",
+    "image_path": "images/2000-08-23_les_liaisons_dangereuses.jpg"
+  },
+  {
+    "release_date": "2000-08-23",
+    "title": "Amiral Canaris",
+    "director": "Alfred Weidenmann"
+  },
+  {
+    "release_date": "2000-08-23",
+    "title": "Cuba",
+    "director": "Richard Lester"
+  },
+  {
+    "release_date": "2000-08-23",
+    "title": "Demain ne meurt jamais",
+    "director": "Roger Spottiswoode",
+    "image_path": "images/2000-08-23_demain_ne_meurt_jamais.jpg"
+  },
+  {
+    "release_date": "2000-08-23",
+    "title": "La Secte sans nom",
+    "director": "Jaume Balaguero , Jaume Balguero , Delphine Bibet",
+    "image_path": "images/2000-08-23_la_secte_sans_nom.jpg"
+  },
+  {
+    "release_date": "2000-08-23",
+    "title": "Le Roi des roses",
+    "director": "Werner Schroeter"
+  },
+  {
+    "release_date": "2000-08-23",
+    "title": "Le Sens des affaires",
+    "director": "Guy-Philippe Bertin"
+  },
+  {
+    "release_date": "2000-08-23",
+    "title": "Tue et fais ta prière",
+    "director": "Carlo Lizzani"
+  }
+]

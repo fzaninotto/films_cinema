@@ -1,0 +1,51 @@
+[
+  {
+    "release_date": "2001-10-10",
+    "title": "Alexandre le Bienheureux",
+    "director": "Yves Robert",
+    "image_path": "images/2001-10-10_alexandre_le_bienheureux.jpg"
+  },
+  {
+    "release_date": "2001-10-10",
+    "title": "Cours, Lola, cours",
+    "director": "Tom Tykwer",
+    "image_path": "images/2001-10-10_cours_lola_cours.jpg"
+  },
+  {
+    "release_date": "2001-10-10",
+    "title": "Treize jours",
+    "director": "Roger Donaldson"
+  },
+  {
+    "release_date": "2001-10-10",
+    "title": "Capitaine sans peur",
+    "director": "Raoul Walsh",
+    "image_path": "images/2001-10-10_capitaine_sans_peur.jpg"
+  },
+  {
+    "release_date": "2001-10-10",
+    "title": "La Fille de son père",
+    "director": "Jacques Deschamps"
+  },
+  {
+    "release_date": "2001-10-10",
+    "title": "Le Cas Pinochet",
+    "director": "Patricio Guzman"
+  },
+  {
+    "release_date": "2001-10-10",
+    "title": "Le silence du fleuve",
+    "director": "Mehdi Lallaoui , Agnès Denis"
+  },
+  {
+    "release_date": "2001-10-10",
+    "title": "Super-8 Stories",
+    "director": "Emir Kusturica"
+  },
+  {
+    "release_date": "2001-10-10",
+    "title": "Va savoir",
+    "director": "Jacques Rivette , Michael Rivette",
+    "image_path": "images/2001-10-10_va_savoir.jpg"
+  }
+]

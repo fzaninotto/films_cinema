@@ -1,0 +1,44 @@
+[
+  {
+    "release_date": "2002-01-23",
+    "title": "Brook by Brook"
+  },
+  {
+    "release_date": "2002-01-23",
+    "title": "Froid comme la mort",
+    "director": "Arthur Penn",
+    "image_path": "images/2002-01-23_froid_comme_la_mort.jpg"
+  },
+  {
+    "release_date": "2002-01-23",
+    "title": "King Kong (version intégrale)",
+    "director": "Merian C Cooper , Ernest B Schoedsack",
+    "image_path": "images/2002-01-23_king_kong_version_integrale.jpg"
+  },
+  {
+    "release_date": "2002-01-23",
+    "title": "La belle espionne",
+    "director": "Raoul Walsh"
+  },
+  {
+    "release_date": "2002-01-23",
+    "title": "Les Cent Pas",
+    "director": "Marco Tullio Giordana , Anne Tonietti",
+    "image_path": "images/2002-01-23_les_cent_pas.jpg"
+  },
+  {
+    "release_date": "2002-01-23",
+    "title": "Mama Aloko",
+    "director": "Jean Odoutan"
+  },
+  {
+    "release_date": "2002-01-23",
+    "title": "Porto de mon enfance",
+    "director": "Manoël de Oliveira"
+  },
+  {
+    "release_date": "2002-01-23",
+    "title": "Yves Saint Laurent: 5 avenue Marceau 75116 Paris",
+    "director": "David Teboul"
+  }
+]

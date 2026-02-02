@@ -1,0 +1,60 @@
+[
+  {
+    "release_date": "2015-08-12",
+    "title": "Floride",
+    "director": "Philippe Le Guay",
+    "image_path": "images/2015-08-12_floride.jpg"
+  },
+  {
+    "release_date": "2015-08-12",
+    "title": "Crazy Amy",
+    "director": "Judd Apatow",
+    "image_path": "images/2015-08-12_crazy_amy.jpg"
+  },
+  {
+    "release_date": "2015-08-12",
+    "title": "Kaboom",
+    "director": "Gregg Araki , William Frankfather",
+    "image_path": "images/2015-08-12_kaboom.jpg"
+  },
+  {
+    "release_date": "2015-08-12",
+    "title": "La Face cachée de Margo",
+    "director": "Jake Schreier"
+  },
+  {
+    "release_date": "2015-08-12",
+    "title": "La peur",
+    "director": "Damien Odoul",
+    "image_path": "images/2015-08-12_la_peur.jpg"
+  },
+  {
+    "release_date": "2015-08-12",
+    "title": "Coup de chaud",
+    "director": "Raphaël Jacoulot",
+    "image_path": "images/2015-08-12_coup_de_chaud.jpg"
+  },
+  {
+    "release_date": "2015-08-12",
+    "title": "Absolutely Anything",
+    "director": "Terry Jones",
+    "image_path": "images/2015-08-12_absolutely_anything.jpg"
+  },
+  {
+    "release_date": "2015-08-12",
+    "title": "La Niña de Fuego",
+    "director": "Carlos Vermut",
+    "image_path": "images/2015-08-12_la_nina_de_fuego.jpg"
+  },
+  {
+    "release_date": "2015-08-12",
+    "title": "Dragon Inn",
+    "director": "King Hu",
+    "image_path": "images/2015-08-12_dragon_inn.jpg"
+  },
+  {
+    "release_date": "2015-08-12",
+    "title": "Tsili",
+    "director": "Amos Gitaï"
+  }
+]

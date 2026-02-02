@@ -1,0 +1,42 @@
+[
+  {
+    "release_date": "2005-05-11",
+    "title": "Princess Bride",
+    "director": "Rob Reiner",
+    "image_path": "images/2005-05-11_princess_bride.jpg"
+  },
+  {
+    "release_date": "2005-05-11",
+    "title": "Frères de Sang",
+    "director": "Kang JeGyu , Kang Je-gyu , Kang Je-kyu",
+    "image_path": "images/2005-05-11_freres_de_sang.jpg"
+  },
+  {
+    "release_date": "2005-05-11",
+    "title": "Ella au Pays Enchante",
+    "director": "Tommy OHaver",
+    "image_path": "images/2005-05-11_ella_au_pays_enchante.jpg"
+  },
+  {
+    "release_date": "2005-05-11",
+    "title": "En bonne compagnie",
+    "director": "Paul Weitz",
+    "image_path": "images/2005-05-11_en_bonne_compagnie.jpg"
+  },
+  {
+    "release_date": "2005-05-11",
+    "title": "Le Vol du Phoenix",
+    "director": "John Moore",
+    "image_path": "images/2005-05-11_le_vol_du_phoenix.jpg"
+  },
+  {
+    "release_date": "2005-05-11",
+    "title": "The Power of Nightmares",
+    "director": "Adam Curtis"
+  },
+  {
+    "release_date": "2005-05-11",
+    "title": "Ultranova",
+    "director": "Bouli Lanners"
+  }
+]

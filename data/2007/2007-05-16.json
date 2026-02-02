@@ -1,0 +1,36 @@
+[
+  {
+    "release_date": "2007-05-16",
+    "title": "Shinobi",
+    "director": "Ten Shimoyama",
+    "image_path": "images/2007-05-16_shinobi.jpg"
+  },
+  {
+    "release_date": "2007-05-16",
+    "title": "Cockfighter",
+    "director": "Monte Hellman",
+    "image_path": "images/2007-05-16_cockfighter.jpg"
+  },
+  {
+    "release_date": "2007-05-16",
+    "title": "El Cielo Dividido",
+    "director": "Julián Hernández",
+    "image_path": "images/2007-05-16_el_cielo_dividido.jpg"
+  },
+  {
+    "release_date": "2007-05-16",
+    "title": "Héros fragiles",
+    "director": "Emilio Pacull"
+  },
+  {
+    "release_date": "2007-05-16",
+    "title": "Le Bénévole",
+    "director": "Jean-Pierre Mocky"
+  },
+  {
+    "release_date": "2007-05-16",
+    "title": "L'Ecole des dragueurs",
+    "director": "Todd Phillips",
+    "image_path": "images/2007-05-16_lecole_des_dragueurs.jpg"
+  }
+]

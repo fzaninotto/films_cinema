@@ -1,0 +1,99 @@
+[
+  {
+    "release_date": "2006-11-22",
+    "title": "Saw 3",
+    "director": "Darren Lynn Bousman",
+    "image_path": "images/2006-11-22_saw_3.jpg"
+  },
+  {
+    "release_date": "2006-11-22",
+    "title": "Ghost in the Shell",
+    "director": "Mamoru Oshii , Mizuho Nishikubo , Hubert Clifford",
+    "image_path": "images/2006-11-22_ghost_in_the_shell.jpg"
+  },
+  {
+    "release_date": "2006-11-22",
+    "title": "Fast Food Nation",
+    "director": "Richard Linklater",
+    "image_path": "images/2006-11-22_fast_food_nation.jpg"
+  },
+  {
+    "release_date": "2006-11-22",
+    "title": "Pardonnez-moi",
+    "director": "Array",
+    "image_path": "images/2006-11-22_pardonnez-moi.jpg"
+  },
+  {
+    "release_date": "2006-11-22",
+    "title": "Rock Academy",
+    "director": "Richard Linklater",
+    "image_path": "images/2006-11-22_rock_academy.jpg"
+  },
+  {
+    "release_date": "2006-11-22",
+    "title": "Le Coût de la vie",
+    "director": "Philippe Le Guay , Abel Jaquin",
+    "image_path": "images/2006-11-22_le_cout_de_la_vie.jpg"
+  },
+  {
+    "release_date": "2006-11-22",
+    "title": "Hustle & Flow",
+    "director": "Craig Brewer",
+    "image_path": "images/2006-11-22_hustle_flow.jpg"
+  },
+  {
+    "release_date": "2006-11-22",
+    "title": "L'Etoile du soldat",
+    "director": "Christophe de Ponfilly",
+    "image_path": "images/2006-11-22_letoile_du_soldat.jpg"
+  },
+  {
+    "release_date": "2006-11-22",
+    "title": "Coeurs",
+    "director": "Alain Resnais",
+    "image_path": "images/2006-11-22_coeurs.jpg"
+  },
+  {
+    "release_date": "2006-11-22",
+    "title": "Allez Yallah",
+    "director": "Jean-Pierre Thorn"
+  },
+  {
+    "release_date": "2006-11-22",
+    "title": "La lune était bleue",
+    "director": "Otto Preminger"
+  },
+  {
+    "release_date": "2006-11-22",
+    "title": "Le Dernier Caravansérail",
+    "director": "Ariane Mnouchkine , Bruno Balp"
+  },
+  {
+    "release_date": "2006-11-22",
+    "title": "Le Petit Monde de Bahador",
+    "director": "Abdollah Alimorad , Ali Asgharzadeh , Behzad Farahat",
+    "image_path": "images/2006-11-22_le_petit_monde_de_bahador.jpg"
+  },
+  {
+    "release_date": "2006-11-22",
+    "title": "Monsieur La Souris",
+    "director": "Georges Lacombe"
+  },
+  {
+    "release_date": "2006-11-22",
+    "title": "Montag",
+    "director": "Ulrich Köhler"
+  },
+  {
+    "release_date": "2006-11-22",
+    "title": "Perhaps Love",
+    "director": "Peter Chan",
+    "image_path": "images/2006-11-22_perhaps_love.jpg"
+  },
+  {
+    "release_date": "2006-11-22",
+    "title": "Trust the man",
+    "director": "Bart Freundlich",
+    "image_path": "images/2006-11-22_trust_the_man.jpg"
+  }
+]

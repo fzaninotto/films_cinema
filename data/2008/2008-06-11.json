@@ -1,0 +1,50 @@
+[
+  {
+    "release_date": "2008-06-11",
+    "title": "La Guerre des mondes",
+    "director": "Steven Spielberg",
+    "image_path": "images/2008-06-11_la_guerre_des_mondes.jpg"
+  },
+  {
+    "release_date": "2008-06-11",
+    "title": "Sagan",
+    "director": "Diane Kurys",
+    "image_path": "images/2008-06-11_sagan.jpg"
+  },
+  {
+    "release_date": "2008-06-11",
+    "title": "Les Orphelins de Huang Shui",
+    "director": "Roger Spottiswoode",
+    "image_path": "images/2008-06-11_les_orphelins_de_huang_shui.jpg"
+  },
+  {
+    "release_date": "2008-06-11",
+    "title": "Hannah Montana et Miley Cyrus : le film concert événement en 3D",
+    "director": "Bruce Hendricks",
+    "image_path": "images/2008-06-11_hannah_montana_et_miley_cyrus_le_film_concert_evenement_en_3d.jpg"
+  },
+  {
+    "release_date": "2008-06-11",
+    "title": "Skate or Die",
+    "director": "Miguel Courtois",
+    "image_path": "images/2008-06-11_skate_or_die.jpg"
+  },
+  {
+    "release_date": "2008-06-11",
+    "title": "Les Insoumis",
+    "director": "Claude-Michel Rome",
+    "image_path": "images/2008-06-11_les_insoumis.jpg"
+  },
+  {
+    "release_date": "2008-06-11",
+    "title": "La soledad",
+    "director": "Jaime Rosales",
+    "image_path": "images/2008-06-11_la_soledad.jpg"
+  },
+  {
+    "release_date": "2008-06-11",
+    "title": "Les Hommes",
+    "director": "Ariane Michel",
+    "image_path": "images/2008-06-11_les_hommes.jpg"
+  }
+]

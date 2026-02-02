@@ -1,0 +1,113 @@
+[
+  {
+    "release_date": "2020-01-08",
+    "title": "Bad Lieutenant",
+    "director": "Abel Ferrara",
+    "image_path": "images/2020-01-08_bad_lieutenant.jpg"
+  },
+  {
+    "release_date": "2020-01-08",
+    "title": "Les Siffleurs",
+    "director": "Corneliu Porumboiu , Agusti Villaronga , Catrinel Marlon",
+    "image_path": "images/2020-01-08_les_siffleurs.jpg"
+  },
+  {
+    "release_date": "2020-01-08",
+    "title": "L'Adieu",
+    "director": "Lulu Wang",
+    "image_path": "images/2020-01-08_ladieu.jpg"
+  },
+  {
+    "release_date": "2020-01-08",
+    "title": "Scandale",
+    "director": "Jay Roach",
+    "image_path": "images/2020-01-08_scandale.jpg"
+  },
+  {
+    "release_date": "2020-01-08",
+    "title": "Underwater",
+    "director": "William Eubank",
+    "image_path": "images/2020-01-08_underwater.jpg"
+  },
+  {
+    "release_date": "2020-01-08",
+    "title": "Go Go Tales",
+    "director": "Abel Ferrara",
+    "image_path": "images/2020-01-08_go_go_tales.jpg"
+  },
+  {
+    "release_date": "2020-01-08",
+    "title": "La Sincérité",
+    "director": "Charles Guérin Surville",
+    "image_path": "images/2020-01-08_la_sincerite.jpg"
+  },
+  {
+    "release_date": "2020-01-08",
+    "title": "L'Autre",
+    "director": "Charlotte Dauphin",
+    "image_path": "images/2020-01-08_lautre.jpg"
+  },
+  {
+    "release_date": "2020-01-08",
+    "title": "Le Goût du secret",
+    "director": "Guillaume Suon",
+    "image_path": "images/2020-01-08_le_gout_du_secret.jpg"
+  },
+  {
+    "release_date": "2020-01-08",
+    "title": "Les Enfants du temps",
+    "director": "Makoto Shinkai",
+    "image_path": "images/2020-01-08_les_enfants_du_temps.jpg"
+  },
+  {
+    "release_date": "2020-01-08",
+    "title": "Les mémoires du ciel",
+    "director": "Nicolas Dattilesi"
+  },
+  {
+    "release_date": "2020-01-08",
+    "title": "L'Extraordinaire Voyage de Marona",
+    "director": "Anca Damian",
+    "image_path": "images/2020-01-08_lextraordinaire_voyage_de_marona.jpg"
+  },
+  {
+    "release_date": "2020-01-08",
+    "title": "Merveilles à Montfermeil",
+    "director": "Jeanne Balibar",
+    "image_path": "images/2020-01-08_merveilles_a_montfermeil.jpg"
+  },
+  {
+    "release_date": "2020-01-08",
+    "title": "Nimona"
+  },
+  {
+    "release_date": "2020-01-08",
+    "title": "Nina Wu",
+    "director": "Midi Z",
+    "image_path": "images/2020-01-08_nina_wu.jpg"
+  },
+  {
+    "release_date": "2020-01-08",
+    "title": "SOL",
+    "director": "Jézabel Marques",
+    "image_path": "images/2020-01-08_sol.jpg"
+  },
+  {
+    "release_date": "2020-01-08",
+    "title": "Tanhaji",
+    "director": "Om Raut",
+    "image_path": "images/2020-01-08_tanhaji.jpg"
+  },
+  {
+    "release_date": "2020-01-08",
+    "title": "Tommaso",
+    "director": "Abel Ferrara",
+    "image_path": "images/2020-01-08_tommaso.jpg"
+  },
+  {
+    "release_date": "2020-01-08",
+    "title": "Un vrai bonhomme",
+    "director": "Benjamin Parent",
+    "image_path": "images/2020-01-08_un_vrai_bonhomme.jpg"
+  }
+]

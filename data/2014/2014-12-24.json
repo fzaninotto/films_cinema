@@ -1,0 +1,79 @@
+[
+  {
+    "release_date": "2014-12-24",
+    "title": "La Vie est belle",
+    "director": "Frank Capra",
+    "image_path": "images/2014-12-24_la_vie_est_belle.jpg"
+  },
+  {
+    "release_date": "2014-12-24",
+    "title": "César et Rosalie",
+    "director": "Claude Sautet",
+    "image_path": "images/2014-12-24_cesar_et_rosalie.jpg"
+  },
+  {
+    "release_date": "2014-12-24",
+    "title": "Les Choses de la Vie",
+    "director": "Claude Sautet",
+    "image_path": "images/2014-12-24_les_choses_de_la_vie.jpg"
+  },
+  {
+    "release_date": "2014-12-24",
+    "title": "Une Merveilleuse Histoire du temps",
+    "director": "David Thewlis , James Marsh",
+    "image_path": "images/2014-12-24_une_merveilleuse_histoire_du_temps.jpg"
+  },
+  {
+    "release_date": "2014-12-24",
+    "title": "Exodus : Gods and Kings",
+    "director": "Ridley Scott",
+    "image_path": "images/2014-12-24_exodus_gods_and_kings.jpg"
+  },
+  {
+    "release_date": "2014-12-24",
+    "title": "Hellzapoppin",
+    "director": "Henry C. Potter , HC Potter",
+    "image_path": "images/2014-12-24_hellzapoppin.jpg"
+  },
+  {
+    "release_date": "2014-12-24",
+    "title": "Max et les Ferrailleurs",
+    "director": "Claude Sautet",
+    "image_path": "images/2014-12-24_max_et_les_ferrailleurs.jpg"
+  },
+  {
+    "release_date": "2014-12-24",
+    "title": "Zouzou",
+    "director": "Blandine Lenoir",
+    "image_path": "images/2014-12-24_zouzou.jpg"
+  },
+  {
+    "release_date": "2014-12-24",
+    "title": "Cours sans te retourner",
+    "director": "Pepe Danquart",
+    "image_path": "images/2014-12-24_cours_sans_te_retourner.jpg"
+  },
+  {
+    "release_date": "2014-12-24",
+    "title": "La Terre éphémère",
+    "director": "George Ovashvili",
+    "image_path": "images/2014-12-24_la_terre_ephemere.jpg"
+  },
+  {
+    "release_date": "2014-12-24",
+    "title": "Passion",
+    "director": "Brian de Palma",
+    "image_path": "images/2014-12-24_passion.jpg"
+  },
+  {
+    "release_date": "2014-12-24",
+    "title": "Aaron Swartz : itinéraire tragique d'un enfant du net",
+    "director": "Brian Knappenberger"
+  },
+  {
+    "release_date": "2014-12-24",
+    "title": "La Blonde et moi",
+    "director": "Bob Swaim , Frank Tashlin",
+    "image_path": "images/2014-12-24_la_blonde_et_moi.jpg"
+  }
+]

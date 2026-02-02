@@ -1,0 +1,73 @@
+[
+  {
+    "release_date": "2024-01-03",
+    "title": "Moi, capitaine",
+    "director": "Matteo Garrone",
+    "image_path": "images/2024-01-03_moi_capitaine.jpeg"
+  },
+  {
+    "release_date": "2024-01-03",
+    "title": "Amours à la finlandaise",
+    "director": "Selma Vilhunen",
+    "image_path": "images/2024-01-03_amours_a_la_finlandaise.jpg"
+  },
+  {
+    "release_date": "2024-01-03",
+    "title": "Iris et les hommes",
+    "director": "Caroline Vignal",
+    "image_path": "images/2024-01-03_iris_et_les_hommes.jpg"
+  },
+  {
+    "release_date": "2024-01-03",
+    "title": "Jeunesse",
+    "director": "Wang Bing",
+    "image_path": "images/2024-01-03_jeunesse.jpg"
+  },
+  {
+    "release_date": "2024-01-03",
+    "title": "Koban Louzoù",
+    "director": "Brieuc Schieb",
+    "image_path": "images/2024-01-03_koban_louzou.jpg"
+  },
+  {
+    "release_date": "2024-01-03",
+    "title": "La Hess",
+    "image_path": "images/2024-01-03_la_hess.jpg"
+  },
+  {
+    "release_date": "2024-01-03",
+    "title": "Le plongeur",
+    "director": "Francis Leclerc",
+    "image_path": "images/2024-01-03_le_plongeur.jpg"
+  },
+  {
+    "release_date": "2024-01-03",
+    "title": "L'usine, le bon, la brute, et le truand",
+    "director": "Marianne Lafitte , Marianne Laffitte",
+    "image_path": "images/2024-01-03_lusine_le_bon_la_brute_et_le_truand.jpg"
+  },
+  {
+    "release_date": "2024-01-03",
+    "title": "Nabucco (Metropolitan Opera)",
+    "director": "Elijah Moshinsky",
+    "image_path": "images/2024-01-03_nabucco_metropolitan_opera.jpg"
+  },
+  {
+    "release_date": "2024-01-03",
+    "title": "NCT Nation: To The World in Cinemas",
+    "director": "Oh Yoon-Dong",
+    "image_path": "images/2024-01-03_nct_nation_to_the_world_in_cinemas.jpg"
+  },
+  {
+    "release_date": "2024-01-03",
+    "title": "Night Swim",
+    "director": "Bryce McGuire",
+    "image_path": "images/2024-01-03_night_swim.jpg"
+  },
+  {
+    "release_date": "2024-01-03",
+    "title": "Priscilla",
+    "director": "Sofia Coppola",
+    "image_path": "images/2024-01-03_priscilla.jpg"
+  }
+]

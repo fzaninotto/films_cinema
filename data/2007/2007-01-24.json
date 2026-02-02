@@ -1,0 +1,82 @@
+[
+  {
+    "release_date": "2007-01-24",
+    "title": "Rocky Balboa",
+    "director": "Sylvester Stallone",
+    "image_path": "images/2007-01-24_rocky_balboa.jpg"
+  },
+  {
+    "release_date": "2007-01-24",
+    "title": "Little Children",
+    "director": "Todd Field",
+    "image_path": "images/2007-01-24_little_children.jpg"
+  },
+  {
+    "release_date": "2007-01-24",
+    "title": "Pars vite et reviens tard",
+    "director": "Régis Wargnier",
+    "image_path": "images/2007-01-24_pars_vite_et_reviens_tard.jpg"
+  },
+  {
+    "release_date": "2007-01-24",
+    "title": "Bobby",
+    "director": "Emilio Estevez",
+    "image_path": "images/2007-01-24_bobby.jpg"
+  },
+  {
+    "release_date": "2007-01-24",
+    "title": "La Vallée des fleurs",
+    "director": "Pan Nalin",
+    "image_path": "images/2007-01-24_la_vallee_des_fleurs.jpg"
+  },
+  {
+    "release_date": "2007-01-24",
+    "title": "Moi César, 10 ans 1/2, 1,39 m",
+    "director": "Richard Berry , Kevin Dunn",
+    "image_path": "images/2007-01-24_moi_cesar_10_ans_12_139_m.jpg"
+  },
+  {
+    "release_date": "2007-01-24",
+    "title": "Les Lumières du Faubourg",
+    "director": "Aki Kaurimäski , Aki Kaurismaki",
+    "image_path": "images/2007-01-24_les_lumieres_du_faubourg.jpg"
+  },
+  {
+    "release_date": "2007-01-24",
+    "title": "Les Petites Vacances",
+    "director": "Olivier Peyon",
+    "image_path": "images/2007-01-24_les_petites_vacances.jpg"
+  },
+  {
+    "release_date": "2007-01-24",
+    "title": "Les Ambitieux",
+    "director": "Catherine Corsini",
+    "image_path": "images/2007-01-24_les_ambitieux.jpg"
+  },
+  {
+    "release_date": "2007-01-24",
+    "title": "Hantise",
+    "director": "Treat Williams , George Cukor",
+    "image_path": "images/2007-01-24_hantise.jpg"
+  },
+  {
+    "release_date": "2007-01-24",
+    "title": "PingPong",
+    "director": "Matthias Luthardt"
+  },
+  {
+    "release_date": "2007-01-24",
+    "title": "Dol ou la Vallée des tambours",
+    "director": "Hiner Saleem"
+  },
+  {
+    "release_date": "2007-01-24",
+    "title": "La Sagrada Familia",
+    "director": "Sebastian Campos , Sebastian Lelio"
+  },
+  {
+    "release_date": "2007-01-24",
+    "title": "Qui était Kafka ?",
+    "director": "Richard Dindo"
+  }
+]

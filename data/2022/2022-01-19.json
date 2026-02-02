@@ -1,0 +1,113 @@
+[
+  {
+    "release_date": "2022-01-19",
+    "title": "Lynx",
+    "director": "Laurent Geslin",
+    "image_path": "images/2022-01-19_lynx.jpg"
+  },
+  {
+    "release_date": "2022-01-19",
+    "title": "Nightmare Alley",
+    "director": "Guillermo Del Toro , Edmund Goulding",
+    "image_path": "images/2022-01-19_nightmare_alley.jpeg"
+  },
+  {
+    "release_date": "2022-01-19",
+    "title": "Les Leçons persanes",
+    "director": "Vadim Perelman",
+    "image_path": "images/2022-01-19_les_lecons_persanes.jpg"
+  },
+  {
+    "release_date": "2022-01-19",
+    "title": "Composer les mondes",
+    "image_path": "images/2022-01-19_composer_les_mondes.jpg"
+  },
+  {
+    "release_date": "2022-01-19",
+    "title": "Eurídice, là-bas...",
+    "director": "Susana Lastreto Prieto , Susana Lastreto",
+    "image_path": "images/2022-01-19_euridice_la-bas.jpg"
+  },
+  {
+    "release_date": "2022-01-19",
+    "title": "Hors du monde",
+    "director": "Marc Fouchard",
+    "image_path": "images/2022-01-19_hors_du_monde.jpg"
+  },
+  {
+    "release_date": "2022-01-19",
+    "title": "Joyaux (Ballet du Bolchoï)",
+    "image_path": "images/2022-01-19_joyaux_ballet_du_bolchoi.jpg"
+  },
+  {
+    "release_date": "2022-01-19",
+    "title": "Ladakh - Songs of the water spirits",
+    "director": "Nicolò Bongiorno",
+    "image_path": "images/2022-01-19_ladakh_-_songs_of_the_water_spirits.jpg"
+  },
+  {
+    "release_date": "2022-01-19",
+    "title": "L'Amour c'est mieux que la vie",
+    "director": "Claude Lelouch",
+    "image_path": "images/2022-01-19_lamour_cest_mieux_que_la_vie.jpeg"
+  },
+  {
+    "release_date": "2022-01-19",
+    "title": "La Place d'une autre",
+    "director": "Aurélia Georges",
+    "image_path": "images/2022-01-19_la_place_dune_autre.jpg"
+  },
+  {
+    "release_date": "2022-01-19",
+    "title": "L'Élu",
+    "director": "Jeremy Kagan",
+    "image_path": "images/2022-01-19_lelu.jpg"
+  },
+  {
+    "release_date": "2022-01-19",
+    "title": "Le Mari de la femme à barbe",
+    "director": "Marco Ferreri",
+    "image_path": "images/2022-01-19_le_mari_de_la_femme_a_barbe.jpg"
+  },
+  {
+    "release_date": "2022-01-19",
+    "title": "Los lobos",
+    "director": "Samuel Kishi",
+    "image_path": "images/2022-01-19_los_lobos.jpg"
+  },
+  {
+    "release_date": "2022-01-19",
+    "title": "Marie Trintignant : Tes rêves brisés",
+    "director": "Nadine Trintignant"
+  },
+  {
+    "release_date": "2022-01-19",
+    "title": "Memory Box",
+    "director": "Khalil Joreige , Joana Hadjithomas",
+    "image_path": "images/2022-01-19_memory_box.jpg"
+  },
+  {
+    "release_date": "2022-01-19",
+    "title": "Michael Cimino, un mirage américain",
+    "director": "Jean-Baptiste Thoret",
+    "image_path": "images/2022-01-19_michael_cimino_un_mirage_americain.jpg"
+  },
+  {
+    "release_date": "2022-01-19",
+    "title": "Tendre et saignant",
+    "director": "Christopher Thompson",
+    "image_path": "images/2022-01-19_tendre_et_saignant.jpeg"
+  },
+  {
+    "release_date": "2022-01-19",
+    "title": "The Chef",
+    "director": "Phil Barantini , Philip Barantini",
+    "image_path": "images/2022-01-19_the_chef.jpeg"
+  },
+  {
+    "release_date": "2022-01-19",
+    "title": "Variety",
+    "director": "Bette Gordon",
+    "image_path": "images/2022-01-19_variety.jpg"
+  }
+]

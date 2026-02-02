@@ -1,0 +1,19 @@
+[
+  {
+    "release_date": "2002-05-15",
+    "title": "Hollywood Ending",
+    "director": "Woody Allen",
+    "image_path": "images/2002-05-15_hollywood_ending.jpg"
+  },
+  {
+    "release_date": "2002-05-15",
+    "title": "George Washington",
+    "director": "David Gordon Green"
+  },
+  {
+    "release_date": "2002-05-15",
+    "title": "L'Oiseau d'argile",
+    "director": "Tareque Masud",
+    "image_path": "images/2002-05-15_loiseau_dargile.jpg"
+  }
+]

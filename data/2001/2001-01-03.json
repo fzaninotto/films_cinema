@@ -1,0 +1,25 @@
+[
+  {
+    "release_date": "2001-01-03",
+    "title": "Anastasia",
+    "director": "Don Bluth , Kent Smith",
+    "image_path": "images/2001-01-03_anastasia.jpg"
+  },
+  {
+    "release_date": "2001-01-03",
+    "title": "Samia",
+    "director": "Philippe Faucon",
+    "image_path": "images/2001-01-03_samia.jpg"
+  },
+  {
+    "release_date": "2001-01-03",
+    "title": "Folle à tuer",
+    "director": "Yves Boisset",
+    "image_path": "images/2001-01-03_folle_a_tuer.jpg"
+  },
+  {
+    "release_date": "2001-01-03",
+    "title": "Les Silencieuses",
+    "director": "Valery Todorovski , Valéri Todorovski"
+  }
+]

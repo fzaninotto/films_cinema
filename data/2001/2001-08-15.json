@@ -1,0 +1,36 @@
+[
+  {
+    "release_date": "2001-08-15",
+    "title": "Final Fantasy : les créatures de l'esprit",
+    "director": "Hironobu Sakaguchi , Motonori Sakakibara",
+    "image_path": "images/2001-08-15_final_fantasy_les_creatures_de_lesprit.jpg"
+  },
+  {
+    "release_date": "2001-08-15",
+    "title": "Règlement de comptes",
+    "director": "Michael Curtiz , Fritz Lang , Akira Nagoya",
+    "image_path": "images/2001-08-15_reglement_de_comptes.jpg"
+  },
+  {
+    "release_date": "2001-08-15",
+    "title": "Getting Any?",
+    "director": "Takeshi Kitano"
+  },
+  {
+    "release_date": "2001-08-15",
+    "title": "Le cygne",
+    "director": "Charles Vidor"
+  },
+  {
+    "release_date": "2001-08-15",
+    "title": "Psycho Beach Party",
+    "director": "Robert Lee King , Robert King",
+    "image_path": "images/2001-08-15_psycho_beach_party.jpg"
+  },
+  {
+    "release_date": "2001-08-15",
+    "title": "Vengeance secrète",
+    "director": "John Irvin",
+    "image_path": "images/2001-08-15_vengeance_secrete.jpg"
+  }
+]

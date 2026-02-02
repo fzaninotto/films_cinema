@@ -1,0 +1,54 @@
+[
+  {
+    "release_date": "2006-08-09",
+    "title": "Bleu d'enfer",
+    "director": "John Stockwell",
+    "image_path": "images/2006-08-09_bleu_denfer.jpg"
+  },
+  {
+    "release_date": "2006-08-09",
+    "title": "Le Parrain 2",
+    "director": "Francis Coppola , Francis Ford Coppola",
+    "image_path": "images/2006-08-09_le_parrain_2.jpg"
+  },
+  {
+    "release_date": "2006-08-09",
+    "title": "La Tourneuse de pages",
+    "director": "Denis Dercourt",
+    "image_path": "images/2006-08-09_la_tourneuse_de_pages.jpg"
+  },
+  {
+    "release_date": "2006-08-09",
+    "title": "Adieu Cuba",
+    "director": "Andy Garcia",
+    "image_path": "images/2006-08-09_adieu_cuba.jpg"
+  },
+  {
+    "release_date": "2006-08-09",
+    "title": "Wolf Creek",
+    "director": "Greg McLean , Anne-Marie Deschott",
+    "image_path": "images/2006-08-09_wolf_creek.jpg"
+  },
+  {
+    "release_date": "2006-08-09",
+    "title": "Lucas, fourmi malgré lui",
+    "director": "John A. Davies",
+    "image_path": "images/2006-08-09_lucas_fourmi_malgre_lui.jpg"
+  },
+  {
+    "release_date": "2006-08-09",
+    "title": "Familia",
+    "director": "Louise Archambault"
+  },
+  {
+    "release_date": "2006-08-09",
+    "title": "Le flic se rebiffe",
+    "director": "Robert Wise , Burt , Roland Kibbee"
+  },
+  {
+    "release_date": "2006-08-09",
+    "title": "Pollock",
+    "director": "Ed Harris",
+    "image_path": "images/2006-08-09_pollock.jpg"
+  }
+]

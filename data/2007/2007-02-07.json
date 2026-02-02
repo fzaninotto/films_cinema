@@ -1,0 +1,53 @@
+[
+  {
+    "release_date": "2007-02-07",
+    "title": "La Panthère rose",
+    "director": "Blake Edwards",
+    "image_path": "images/2007-02-07_la_panthere_rose.jpg"
+  },
+  {
+    "release_date": "2007-02-07",
+    "title": "Hannibal Lecter : les origines du mal",
+    "director": "Peter Webber",
+    "image_path": "images/2007-02-07_hannibal_lecter_les_origines_du_mal.jpg"
+  },
+  {
+    "release_date": "2007-02-07",
+    "title": "La Petite Sirène",
+    "director": "John Musker , Ron Clements , Larry Drake",
+    "image_path": "images/2007-02-07_la_petite_sirene.jpg"
+  },
+  {
+    "release_date": "2007-02-07",
+    "title": "Massacre à la tronçonneuse : le commencement",
+    "director": "Jonathan Liebesman",
+    "image_path": "images/2007-02-07_massacre_a_la_tronconneuse_le_commencement.jpg"
+  },
+  {
+    "release_date": "2007-02-07",
+    "title": "Le Petit Monde de Charlotte",
+    "director": "Gary Winick",
+    "image_path": "images/2007-02-07_le_petit_monde_de_charlotte.jpg"
+  },
+  {
+    "release_date": "2007-02-07",
+    "title": "By the Ways, A Journey with William Eggleston",
+    "director": "Cédric Laty , Vincent Gérard"
+  },
+  {
+    "release_date": "2007-02-07",
+    "title": "Fabuleuses Fabulettes : une autre saison des fables",
+    "director": "Fabrice Luang-Vija , Cécilia Marreiros Marum , T. Hinke , J. Locher , Heikki Prepula , Jan Locher"
+  },
+  {
+    "release_date": "2007-02-07",
+    "title": "Itchkeri Kenti",
+    "director": "Florent Marcie"
+  },
+  {
+    "release_date": "2007-02-07",
+    "title": "L'Année suivante",
+    "director": "Isabelle Czajka",
+    "image_path": "images/2007-02-07_lannee_suivante.jpg"
+  }
+]

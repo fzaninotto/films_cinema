@@ -1,0 +1,55 @@
+[
+  {
+    "release_date": "2011-08-17",
+    "title": "La Piel Que Habito",
+    "director": "Pedro Almodóvar",
+    "image_path": "images/2011-08-17_la_piel_que_habito.jpg"
+  },
+  {
+    "release_date": "2011-08-17",
+    "title": "Captain America : First Avenger",
+    "director": "Joe Johnston",
+    "image_path": "images/2011-08-17_captain_america_first_avenger.jpg"
+  },
+  {
+    "release_date": "2011-08-17",
+    "title": "Impardonnables",
+    "director": "André Téchiné",
+    "image_path": "images/2011-08-17_impardonnables.jpg"
+  },
+  {
+    "release_date": "2011-08-17",
+    "title": "Conan",
+    "director": "Marcus Nispel",
+    "image_path": "images/2011-08-17_conan.jpg"
+  },
+  {
+    "release_date": "2011-08-17",
+    "title": "Zookeeper",
+    "director": "Frank Coraci",
+    "image_path": "images/2011-08-17_zookeeper.jpg"
+  },
+  {
+    "release_date": "2011-08-17",
+    "title": "La Flèche brisée",
+    "director": "Delmer Daves",
+    "image_path": "images/2011-08-17_la_fleche_brisee.jpg"
+  },
+  {
+    "release_date": "2011-08-17",
+    "title": "L'Homme qui n'a pas d'étoile",
+    "director": "King Vidor , José Dumont",
+    "image_path": "images/2011-08-17_lhomme_qui_na_pas_detoile.jpg"
+  },
+  {
+    "release_date": "2011-08-17",
+    "title": "Ces dames qui vont au loin",
+    "director": "Colin Firth , Shohei Imamura"
+  },
+  {
+    "release_date": "2011-08-17",
+    "title": "The Future",
+    "director": "Miranda July",
+    "image_path": "images/2011-08-17_the_future.jpg"
+  }
+]

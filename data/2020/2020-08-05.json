@@ -1,0 +1,86 @@
+[
+  {
+    "release_date": "2020-08-05",
+    "title": "Les Saisons",
+    "director": "Jacques Perrin , Bibi Andersson , Jacques Cluzaud , Alexandre Poulichot",
+    "image_path": "images/2020-08-05_les_saisons.jpg"
+  },
+  {
+    "release_date": "2020-08-05",
+    "title": "Bigfoot Family",
+    "director": "Ben Stassen , Jérémie Degruson",
+    "image_path": "images/2020-08-05_bigfoot_family.jpg"
+  },
+  {
+    "release_date": "2020-08-05",
+    "title": "Chongqing Blues",
+    "director": "Wang Xiaoshuai",
+    "image_path": "images/2020-08-05_chongqing_blues.jpg"
+  },
+  {
+    "release_date": "2020-08-05",
+    "title": "Dawson City : le temps suspendu",
+    "director": "Bill Morrison",
+    "image_path": "images/2020-08-05_dawson_city_le_temps_suspendu.jpg"
+  },
+  {
+    "release_date": "2020-08-05",
+    "title": "Dernier Caprice",
+    "director": "Yasujiro Ozu",
+    "image_path": "images/2020-08-05_dernier_caprice.jpg"
+  },
+  {
+    "release_date": "2020-08-05",
+    "title": "Eva en août",
+    "director": "Jonas Trueba , Itsaso Arana",
+    "image_path": "images/2020-08-05_eva_en_aout.jpeg"
+  },
+  {
+    "release_date": "2020-08-05",
+    "title": "Just Kids",
+    "director": "Christophe Blanc",
+    "image_path": "images/2020-08-05_just_kids.jpg"
+  },
+  {
+    "release_date": "2020-08-05",
+    "title": "Le Défi du Champion",
+    "director": "Leonardo d'Agostini",
+    "image_path": "images/2020-08-05_le_defi_du_champion.jpg"
+  },
+  {
+    "release_date": "2020-08-05",
+    "title": "Les Blagues de Toto",
+    "director": "Pascal Bourdiaux",
+    "image_path": "images/2020-08-05_les_blagues_de_toto.jpg"
+  },
+  {
+    "release_date": "2020-08-05",
+    "title": "L'Homme du Sud",
+    "director": "Jean Renoir",
+    "image_path": "images/2020-08-05_lhomme_du_sud.jpg"
+  },
+  {
+    "release_date": "2020-08-05",
+    "title": "L'Infirmière",
+    "director": "Koji Fukada",
+    "image_path": "images/2020-08-05_linfirmiere.jpg"
+  },
+  {
+    "release_date": "2020-08-05",
+    "title": "Quelle joie de vivre !",
+    "director": "René Clément",
+    "image_path": "images/2020-08-05_quelle_joie_de_vivre_.jpg"
+  },
+  {
+    "release_date": "2020-08-05",
+    "title": "The Vigil",
+    "director": "Keith Thomas",
+    "image_path": "images/2020-08-05_the_vigil.jpg"
+  },
+  {
+    "release_date": "2020-08-05",
+    "title": "White Riot",
+    "director": "Rubika Shah",
+    "image_path": "images/2020-08-05_white_riot.jpg"
+  }
+]

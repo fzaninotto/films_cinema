@@ -1,0 +1,124 @@
+[
+  {
+    "release_date": "2018-01-24",
+    "title": "Annie Hall",
+    "director": "Woody Allen",
+    "image_path": "images/2018-01-24_annie_hall.jpg"
+  },
+  {
+    "release_date": "2018-01-24",
+    "title": "The Greatest Showman",
+    "director": "Michael Gracey",
+    "image_path": "images/2018-01-24_the_greatest_showman.jpg"
+  },
+  {
+    "release_date": "2018-01-24",
+    "title": "Pentagon Papers",
+    "director": "Steven Spielberg",
+    "image_path": "images/2018-01-24_pentagon_papers.jpg"
+  },
+  {
+    "release_date": "2018-01-24",
+    "title": "La Douleur",
+    "director": "Emmanuel Finkiel",
+    "image_path": "images/2018-01-24_la_douleur.jpg"
+  },
+  {
+    "release_date": "2018-01-24",
+    "title": "Mother!",
+    "director": "Darren Aronofsky",
+    "image_path": "images/2018-01-24_mother.jpg"
+  },
+  {
+    "release_date": "2018-01-24",
+    "title": "The Passenger",
+    "director": "Jaume Collet-Serra",
+    "image_path": "images/2018-01-24_the_passenger.jpg"
+  },
+  {
+    "release_date": "2018-01-24",
+    "title": "Fortunata",
+    "director": "Sergio Castellitto",
+    "image_path": "images/2018-01-24_fortunata.jpg"
+  },
+  {
+    "release_date": "2018-01-24",
+    "title": "Femme et mari",
+    "director": "Simone Godano",
+    "image_path": "images/2018-01-24_femme_et_mari.jpg"
+  },
+  {
+    "release_date": "2018-01-24",
+    "title": "Handia",
+    "director": "Aitor Arregi , Jose Mari Goenaga , Jon Garano",
+    "image_path": "images/2018-01-24_handia.jpg"
+  },
+  {
+    "release_date": "2018-01-24",
+    "title": "Marie Curie",
+    "director": "Marie Noëlle",
+    "image_path": "images/2018-01-24_marie_curie.jpg"
+  },
+  {
+    "release_date": "2018-01-24",
+    "title": "Ami Ami"
+  },
+  {
+    "release_date": "2018-01-24",
+    "title": "Beach Rats",
+    "director": "Eliza Hittman",
+    "image_path": "images/2018-01-24_beach_rats.jpg"
+  },
+  {
+    "release_date": "2018-01-24",
+    "title": "Cache Cache",
+    "director": "Guillaume Chemouili",
+    "image_path": "images/2018-01-24_cache_cache.jpg"
+  },
+  {
+    "release_date": "2018-01-24",
+    "title": "Extinction"
+  },
+  {
+    "release_date": "2018-01-24",
+    "title": "Hannah",
+    "director": "Andrea Pallaoro",
+    "image_path": "images/2018-01-24_hannah.jpg"
+  },
+  {
+    "release_date": "2018-01-24",
+    "title": "Jean Douchet, l'enfant agité",
+    "director": "Vincent Haasser , Guillaume Namur , Fabien Hagège",
+    "image_path": "images/2018-01-24_jean_douchet_lenfant_agite.jpg"
+  },
+  {
+    "release_date": "2018-01-24",
+    "title": "La Bohème (Met-Pathé live)",
+    "director": "Franco Zeffirelli"
+  },
+  {
+    "release_date": "2018-01-24",
+    "title": "Le Conte d'Hiver (Royal Opera House)"
+  },
+  {
+    "release_date": "2018-01-24",
+    "title": "On the Beach at Night Alone",
+    "director": "Hong Sang-Soo",
+    "image_path": "images/2018-01-24_on_the_beach_at_night_alone.jpg"
+  },
+  {
+    "release_date": "2018-01-24",
+    "title": "Roméo et Juliettte (Gran Teatre del Liceu-FRA Cinéma)"
+  },
+  {
+    "release_date": "2018-01-24",
+    "title": "Sugarland",
+    "director": "Damon Gameau",
+    "image_path": "images/2018-01-24_sugarland.jpg"
+  },
+  {
+    "release_date": "2018-01-24",
+    "title": "Tosca (Met-Pathé-Live)",
+    "director": "David McVicar"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "release_date": "2000-03-08",
+    "title": "Cotton Mary",
+    "director": "Ismail Merchant"
+  },
+  {
+    "release_date": "2000-03-08",
+    "title": "Les Anges sauvages",
+    "director": "Roger Corman"
+  },
+  {
+    "release_date": "2000-03-08",
+    "title": "Les Bijoutiers du clair de lune",
+    "director": "Roger Vadim",
+    "image_path": "images/2000-03-08_les_bijoutiers_du_clair_de_lune.jpg"
+  },
+  {
+    "release_date": "2000-03-08",
+    "title": "Les Savates du Bon Dieu",
+    "director": "Jean-Claude Brisseau",
+    "image_path": "images/2000-03-08_les_savates_du_bon_dieu.jpg"
+  },
+  {
+    "release_date": "2000-03-08",
+    "title": "L'Or du Hollandais",
+    "director": "Delmer Daves",
+    "image_path": "images/2000-03-08_lor_du_hollandais.jpg"
+  },
+  {
+    "release_date": "2000-03-08",
+    "title": "Passeurs de rêves",
+    "director": "Hiner Saleem"
+  },
+  {
+    "release_date": "2000-03-08",
+    "title": "Tu m'appartiens",
+    "director": "Wesley Ruggles"
+  }
+]

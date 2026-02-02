@@ -1,0 +1,45 @@
+[
+  {
+    "release_date": "2001-10-17",
+    "title": "Ma meilleure ennemie",
+    "image_path": "images/2001-10-17_ma_meilleure_ennemie.jpg"
+  },
+  {
+    "release_date": "2001-10-17",
+    "title": "Sur mes lèvres",
+    "director": "Jacques Audiard",
+    "image_path": "images/2001-10-17_sur_mes_levres.jpg"
+  },
+  {
+    "release_date": "2001-10-17",
+    "title": "Sobibor, 14 octobre 1943, 16 heures",
+    "director": "Claude Lanzmann , Gaston Orbal"
+  },
+  {
+    "release_date": "2001-10-17",
+    "title": "Le Petit Poucet",
+    "director": "Olivier Dahan",
+    "image_path": "images/2001-10-17_le_petit_poucet.jpg"
+  },
+  {
+    "release_date": "2001-10-17",
+    "title": "H-Story",
+    "director": "Nobuhiro Suwa"
+  },
+  {
+    "release_date": "2001-10-17",
+    "title": "La Bête de miséricorde",
+    "director": "Jean-Pierre Mocky",
+    "image_path": "images/2001-10-17_la_bete_de_misericorde.jpg"
+  },
+  {
+    "release_date": "2001-10-17",
+    "title": "La Voie lactée",
+    "director": "Ali Nasser"
+  },
+  {
+    "release_date": "2001-10-17",
+    "title": "Vacances au pays",
+    "director": "Jean-Marie Teno"
+  }
+]

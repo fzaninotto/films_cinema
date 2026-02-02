@@ -1,0 +1,38 @@
+[
+  {
+    "release_date": "2003-03-12",
+    "title": "Stupeur et tremblements",
+    "director": "Alain Corneau",
+    "image_path": "images/2003-03-12_stupeur_et_tremblements.jpg"
+  },
+  {
+    "release_date": "2003-03-12",
+    "title": "Star Trek Nemesis",
+    "director": "Stuart Baird",
+    "image_path": "images/2003-03-12_star_trek_nemesis.jpg"
+  },
+  {
+    "release_date": "2003-03-12",
+    "title": "Le Violent",
+    "director": "Nicholas Ray",
+    "image_path": "images/2003-03-12_le_violent.jpg"
+  },
+  {
+    "release_date": "2003-03-12",
+    "title": "Chang",
+    "director": "E. B Schoedsack , M. C Cooper , Merian C Cooper , Ernest B Schoedsack , Michel Flavius , Michel Duchezeau",
+    "image_path": "images/2003-03-12_chang.jpg"
+  },
+  {
+    "release_date": "2003-03-12",
+    "title": "La Chambre des tortures",
+    "director": "Roger Corman , Georges Desmouceaux",
+    "image_path": "images/2003-03-12_la_chambre_des_tortures.jpg"
+  },
+  {
+    "release_date": "2003-03-12",
+    "title": "Les Lundis au soleil",
+    "director": "Fernando Leon de Aranoa , Fernando de Aranoa",
+    "image_path": "images/2003-03-12_les_lundis_au_soleil.jpg"
+  }
+]

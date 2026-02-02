@@ -1,0 +1,58 @@
+[
+  {
+    "release_date": "2001-02-21",
+    "title": "Mary Poppins",
+    "director": "Robert Stevenson",
+    "image_path": "images/2001-02-21_mary_poppins.jpg"
+  },
+  {
+    "release_date": "2001-02-21",
+    "title": "Indiscrétions",
+    "director": "Treat Williams , George Cukor",
+    "image_path": "images/2001-02-21_indiscretions.jpg"
+  },
+  {
+    "release_date": "2001-02-21",
+    "title": "Le Voyou",
+    "director": "Claude Lelouch",
+    "image_path": "images/2001-02-21_le_voyou.jpg"
+  },
+  {
+    "release_date": "2001-02-21",
+    "title": "Viva Maria !",
+    "director": "Louis Malle",
+    "image_path": "images/2001-02-21_viva_maria_.jpg"
+  },
+  {
+    "release_date": "2001-02-21",
+    "title": "De l'histoire ancienne",
+    "director": "Orso Miret"
+  },
+  {
+    "release_date": "2001-02-21",
+    "title": "La diable",
+    "director": "Susan Seidelman",
+    "image_path": "images/2001-02-21_la_diable.jpg"
+  },
+  {
+    "release_date": "2001-02-21",
+    "title": "La fièvre du pétrole",
+    "director": "Jack Conway"
+  },
+  {
+    "release_date": "2001-02-21",
+    "title": "Mad Cows",
+    "director": "Sara Sugarman",
+    "image_path": "images/2001-02-21_mad_cows.jpg"
+  },
+  {
+    "release_date": "2001-02-21",
+    "title": "Pic Pic, André et leurs amis",
+    "director": "Stéphane Aubier , Vincent Patar"
+  },
+  {
+    "release_date": "2001-02-21",
+    "title": "Vertical Limit",
+    "director": "Martin Campbell"
+  }
+]

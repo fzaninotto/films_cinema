@@ -1,0 +1,56 @@
+[
+  {
+    "release_date": "2012-07-04",
+    "title": "Inside",
+    "director": "Andrés Baiz",
+    "image_path": "images/2012-07-04_inside.jpg"
+  },
+  {
+    "release_date": "2012-07-04",
+    "title": "Holy Motors",
+    "director": "Debra Messing , Leos Carax , Jacques Hilling",
+    "image_path": "images/2012-07-04_holy_motors.jpg"
+  },
+  {
+    "release_date": "2012-07-04",
+    "title": "Restless",
+    "director": "Gus van Sant",
+    "image_path": "images/2012-07-04_restless.jpg"
+  },
+  {
+    "release_date": "2012-07-04",
+    "title": "Summertime",
+    "director": "Matthew Gordon",
+    "image_path": "images/2012-07-04_summertime.jpg"
+  },
+  {
+    "release_date": "2012-07-04",
+    "title": "L'été de Giacomo",
+    "director": "Alessandro Comodin",
+    "image_path": "images/2012-07-04_lete_de_giacomo.jpg"
+  },
+  {
+    "release_date": "2012-07-04",
+    "title": "Pain, Amour et Fantaisie",
+    "director": "Luigi Comencini",
+    "image_path": "images/2012-07-04_pain_amour_et_fantaisie.jpg"
+  },
+  {
+    "release_date": "2012-07-04",
+    "title": "Paradis perdu",
+    "director": "Eve Deboise",
+    "image_path": "images/2012-07-04_paradis_perdu.jpg"
+  },
+  {
+    "release_date": "2012-07-04",
+    "title": "Playoff",
+    "director": "Eran Riklis",
+    "image_path": "images/2012-07-04_playoff.jpg"
+  },
+  {
+    "release_date": "2012-07-04",
+    "title": "The Dirty Picture",
+    "director": "Milan Luthria",
+    "image_path": "images/2012-07-04_the_dirty_picture.jpg"
+  }
+]

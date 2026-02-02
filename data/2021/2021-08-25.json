@@ -1,0 +1,89 @@
+[
+  {
+    "release_date": "2021-08-25",
+    "title": "Les Sorcières d'Akelarre",
+    "director": "Pablo Aguero",
+    "image_path": "images/2021-08-25_les_sorcieres_dakelarre.jpg"
+  },
+  {
+    "release_date": "2021-08-25",
+    "title": "Petites danseuses",
+    "director": "Anne-Claire Dolivet",
+    "image_path": "images/2021-08-25_petites_danseuses.jpg"
+  },
+  {
+    "release_date": "2021-08-25",
+    "title": "Chasse à l'homme",
+    "director": "Michael Curtiz , Fritz Lang , Akira Nagoya",
+    "image_path": "images/2021-08-25_chasse_a_lhomme.jpg"
+  },
+  {
+    "release_date": "2021-08-25",
+    "title": "Les Derniers Jours du monde",
+    "director": "Jean-Marie Larrieu , Arnaud Larrieu",
+    "image_path": "images/2021-08-25_les_derniers_jours_du_monde.jpg"
+  },
+  {
+    "release_date": "2021-08-25",
+    "title": "A la recherche de l'excellence",
+    "director": "Gabe Polsky",
+    "image_path": "images/2021-08-25_a_la_recherche_de_lexcellence.jpg"
+  },
+  {
+    "release_date": "2021-08-25",
+    "title": "D'Artagnan et les trois Mousquetaires",
+    "director": "Stephen Hughes , Toni Garcia",
+    "image_path": "images/2021-08-25_dartagnan_et_les_trois_mousquetaires.jpeg"
+  },
+  {
+    "release_date": "2021-08-25",
+    "title": "Don't Breathe 2",
+    "image_path": "images/2021-08-25_dont_breathe_2.jpeg"
+  },
+  {
+    "release_date": "2021-08-25",
+    "title": "Fragile",
+    "director": "Emma Benestan",
+    "image_path": "images/2021-08-25_fragile.jpg"
+  },
+  {
+    "release_date": "2021-08-25",
+    "title": "France",
+    "director": "Bruno Dumont",
+    "image_path": "images/2021-08-25_france.jpg"
+  },
+  {
+    "release_date": "2021-08-25",
+    "title": "L'Arche magique",
+    "director": "Vasiliy Rovenskiy"
+  },
+  {
+    "release_date": "2021-08-25",
+    "title": "La Terre des hommes",
+    "director": "Naël Marandin",
+    "image_path": "images/2021-08-25_la_terre_des_hommes.jpg"
+  },
+  {
+    "release_date": "2021-08-25",
+    "title": "Peaux de vaches",
+    "director": "Patricia Mazuy",
+    "image_path": "images/2021-08-25_peaux_de_vaches.jpg"
+  },
+  {
+    "release_date": "2021-08-25",
+    "title": "Reminiscence",
+    "director": "Lisa Joy",
+    "image_path": "images/2021-08-25_reminiscence.jpeg"
+  },
+  {
+    "release_date": "2021-08-25",
+    "title": "Sometimes Always Never",
+    "director": "Carl Hunter"
+  },
+  {
+    "release_date": "2021-08-25",
+    "title": "The Hours and Times",
+    "director": "Christopher Münch",
+    "image_path": "images/2021-08-25_the_hours_and_times.jpg"
+  }
+]

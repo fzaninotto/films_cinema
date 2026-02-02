@@ -1,0 +1,85 @@
+[
+  {
+    "release_date": "2013-03-20",
+    "title": "Le Cri",
+    "director": "Michelangelo Antonioni",
+    "image_path": "images/2013-03-20_le_cri.jpg"
+  },
+  {
+    "release_date": "2013-03-20",
+    "title": "Sous le figuier",
+    "director": "Anne-Marie Etienne",
+    "image_path": "images/2013-03-20_sous_le_figuier.jpg"
+  },
+  {
+    "release_date": "2013-03-20",
+    "title": "La Religieuse",
+    "director": "Guillaume Nicloux",
+    "image_path": "images/2013-03-20_la_religieuse.jpg"
+  },
+  {
+    "release_date": "2013-03-20",
+    "title": "Un P'tit gars de Ménilmontant",
+    "director": "Alain Minier",
+    "image_path": "images/2013-03-20_un_ptit_gars_de_menilmontant.jpg"
+  },
+  {
+    "release_date": "2013-03-20",
+    "title": "La Chute de la Maison Blanche",
+    "director": "Antoine Fuqua",
+    "image_path": "images/2013-03-20_la_chute_de_la_maison_blanche.jpg"
+  },
+  {
+    "release_date": "2013-03-20",
+    "title": "Queen of Montreuil",
+    "director": "Solveig Anspach , Sólveig Anspach",
+    "image_path": "images/2013-03-20_queen_of_montreuil.jpg"
+  },
+  {
+    "release_date": "2013-03-20",
+    "title": "Cirque du Soleil 3D : le voyage imaginaire",
+    "director": "Andrew Adamson",
+    "image_path": "images/2013-03-20_cirque_du_soleil_3d_le_voyage_imaginaire.jpg"
+  },
+  {
+    "release_date": "2013-03-20",
+    "title": "Les Coquillettes",
+    "director": "Sophie Letourneur",
+    "image_path": "images/2013-03-20_les_coquillettes.jpg"
+  },
+  {
+    "release_date": "2013-03-20",
+    "title": "31st Haul",
+    "director": "Denis Klebleyev"
+  },
+  {
+    "release_date": "2013-03-20",
+    "title": "Djeca : enfants de Sarajevo",
+    "director": "Aida Begic",
+    "image_path": "images/2013-03-20_djeca_enfants_de_sarajevo.jpg"
+  },
+  {
+    "release_date": "2013-03-20",
+    "title": "La Saga des Conti",
+    "director": "Jérôme Palteau",
+    "image_path": "images/2013-03-20_la_saga_des_conti.jpg"
+  },
+  {
+    "release_date": "2013-03-20",
+    "title": "Love love love",
+    "director": "Bruno Mercier",
+    "image_path": "images/2013-03-20_love_love_love.jpg"
+  },
+  {
+    "release_date": "2013-03-20",
+    "title": "Mystery",
+    "director": "Lou Ye",
+    "image_path": "images/2013-03-20_mystery.jpg"
+  },
+  {
+    "release_date": "2013-03-20",
+    "title": "Spectres",
+    "director": "Sven Augustijnen",
+    "image_path": "images/2013-03-20_spectres.jpg"
+  }
+]

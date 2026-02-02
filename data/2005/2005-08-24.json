@@ -1,0 +1,70 @@
+[
+  {
+    "release_date": "2005-08-24",
+    "title": "L'opérateur",
+    "director": "Buster Keaton , Edward Sedgwick"
+  },
+  {
+    "release_date": "2005-08-24",
+    "title": "The Jacket",
+    "director": "John Maybury",
+    "image_path": "images/2005-08-24_the_jacket.jpg"
+  },
+  {
+    "release_date": "2005-08-24",
+    "title": "Furtif",
+    "director": "Rob Cohen",
+    "image_path": "images/2005-08-24_furtif.jpg"
+  },
+  {
+    "release_date": "2005-08-24",
+    "title": "Shérif fais-moi peur, le film",
+    "director": "Jay Chandasekhar",
+    "image_path": "images/2005-08-24_sherif_fais-moi_peur_le_film.jpg"
+  },
+  {
+    "release_date": "2005-08-24",
+    "title": "Winn-Dixie mon meilleur ami",
+    "director": "Wayne Wang",
+    "image_path": "images/2005-08-24_winn-dixie_mon_meilleur_ami.jpg"
+  },
+  {
+    "release_date": "2005-08-24",
+    "title": "Les Bienfaits de la colère",
+    "director": "Mike Binder",
+    "image_path": "images/2005-08-24_les_bienfaits_de_la_colere.jpg"
+  },
+  {
+    "release_date": "2005-08-24",
+    "title": "Fat Albert",
+    "director": "Joel Zwick",
+    "image_path": "images/2005-08-24_fat_albert.jpg"
+  },
+  {
+    "release_date": "2005-08-24",
+    "title": "Le Caméraman",
+    "director": "Edward Sedgwick",
+    "image_path": "images/2005-08-24_le_cameraman.jpg"
+  },
+  {
+    "release_date": "2005-08-24",
+    "title": "Baby Cart 2, l'enfant massacre",
+    "director": "Kenji Misumi",
+    "image_path": "images/2005-08-24_baby_cart_2_lenfant_massacre.jpg"
+  },
+  {
+    "release_date": "2005-08-24",
+    "title": "Baby Cart 3, dans la terre de l'ombre",
+    "director": "Kenji Misumi"
+  },
+  {
+    "release_date": "2005-08-24",
+    "title": "Daguerréotypes",
+    "director": "Agnès Varda"
+  },
+  {
+    "release_date": "2005-08-24",
+    "title": "Dans le sillon du juge sans robe",
+    "director": "Mika Gianotti"
+  }
+]

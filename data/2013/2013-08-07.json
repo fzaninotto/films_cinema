@@ -1,0 +1,50 @@
+[
+  {
+    "release_date": "2013-08-07",
+    "title": "Lone Ranger",
+    "director": "Gore Verbinski , Patrick Descamps",
+    "image_path": "images/2013-08-07_lone_ranger.jpg"
+  },
+  {
+    "release_date": "2013-08-07",
+    "title": "Je ne suis pas mort",
+    "director": "Mehdi ben Attia , Medhi Ben Attia",
+    "image_path": "images/2013-08-07_je_ne_suis_pas_mort.jpg"
+  },
+  {
+    "release_date": "2013-08-07",
+    "title": "Cha Cha Cha",
+    "director": "Marco Risi",
+    "image_path": "images/2013-08-07_cha_cha_cha.jpg"
+  },
+  {
+    "release_date": "2013-08-07",
+    "title": "Imogene",
+    "director": "Robert Pulcini , Shari Springer Berman",
+    "image_path": "images/2013-08-07_imogene.jpg"
+  },
+  {
+    "release_date": "2013-08-07",
+    "title": "Leave It On The Floor",
+    "director": "Sheldon Larry",
+    "image_path": "images/2013-08-07_leave_it_on_the_floor.jpg"
+  },
+  {
+    "release_date": "2013-08-07",
+    "title": "Leones",
+    "director": "Jazmin Lopez",
+    "image_path": "images/2013-08-07_leones.jpg"
+  },
+  {
+    "release_date": "2013-08-07",
+    "title": "Les Derniers jours",
+    "director": "David Pastor , Alex Pastor",
+    "image_path": "images/2013-08-07_les_derniers_jours.jpg"
+  },
+  {
+    "release_date": "2013-08-07",
+    "title": "The Hunter",
+    "director": "Rafi Pitts",
+    "image_path": "images/2013-08-07_the_hunter.jpg"
+  }
+]

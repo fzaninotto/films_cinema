@@ -1,0 +1,95 @@
+[
+  {
+    "release_date": "2020-09-16",
+    "title": "La Maquisarde",
+    "director": "Nora Hamdi",
+    "image_path": "images/2020-09-16_la_maquisarde.jpg"
+  },
+  {
+    "release_date": "2020-09-16",
+    "title": "Total Recall",
+    "director": "Paul Verhoeven , Shecky Greene",
+    "image_path": "images/2020-09-16_total_recall.jpg"
+  },
+  {
+    "release_date": "2020-09-16",
+    "title": "Antoinette dans les Cévennes",
+    "director": "Caroline Vignal",
+    "image_path": "images/2020-09-16_antoinette_dans_les_cevennes.jpg"
+  },
+  {
+    "release_date": "2020-09-16",
+    "title": "Les choses qu'on dit, les choses qu'on fait",
+    "director": "Emmanuel Mouret",
+    "image_path": "images/2020-09-16_les_choses_quon_dit_les_choses_quon_fait.jpg"
+  },
+  {
+    "release_date": "2020-09-16",
+    "title": "Dernières nouvelles du cosmos",
+    "director": "Julie Bertuccelli",
+    "image_path": "images/2020-09-16_dernieres_nouvelles_du_cosmos.jpg"
+  },
+  {
+    "release_date": "2020-09-16",
+    "title": "Africa Mia",
+    "director": "Edouard Salier , Richard Minier",
+    "image_path": "images/2020-09-16_africa_mia.jpg"
+  },
+  {
+    "release_date": "2020-09-16",
+    "title": "J'irai mourir dans les Carpates",
+    "director": "Antoine de Maximy",
+    "image_path": "images/2020-09-16_jirai_mourir_dans_les_carpates.jpeg"
+  },
+  {
+    "release_date": "2020-09-16",
+    "title": "Brutus VS César",
+    "director": "Kheiron",
+    "image_path": "images/2020-09-16_brutus_vs_cesar.png"
+  },
+  {
+    "release_date": "2020-09-16",
+    "title": "Honeyland",
+    "director": "Ljubomir Stefanov , Tamara Kotevska",
+    "image_path": "images/2020-09-16_honeyland.jpg"
+  },
+  {
+    "release_date": "2020-09-16",
+    "title": "Les mal aimés",
+    "director": "Hélène Ducrocq"
+  },
+  {
+    "release_date": "2020-09-16",
+    "title": "Les Mal aimés",
+    "director": "Hélène Ducrocq"
+  },
+  {
+    "release_date": "2020-09-16",
+    "title": "Mathilde et Rosette",
+    "director": "Alice Ekman",
+    "image_path": "images/2020-09-16_mathilde_et_rosette.jpg"
+  },
+  {
+    "release_date": "2020-09-16",
+    "title": "Ne vous retournez pas",
+    "director": "Nicolas Roeg , Nicholas Roeg , Malvin Wald",
+    "image_path": "images/2020-09-16_ne_vous_retournez_pas.jpg"
+  },
+  {
+    "release_date": "2020-09-16",
+    "title": "The Last Tree",
+    "director": "Shola Amoo"
+  },
+  {
+    "release_date": "2020-09-16",
+    "title": "Trio",
+    "director": "Ana Dumitrescu",
+    "image_path": "images/2020-09-16_trio.jpg"
+  },
+  {
+    "release_date": "2020-09-16",
+    "title": "Une Nuit au Louvre : Léonard de Vinci",
+    "director": "Pierre-Hubert Martin",
+    "image_path": "images/2020-09-16_une_nuit_au_louvre_leonard_de_vinci.jpg"
+  }
+]

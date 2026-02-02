@@ -1,0 +1,36 @@
+[
+  {
+    "release_date": "2001-05-16",
+    "title": "La Chambre du fils",
+    "director": "Nanni Moretti , Richard Constantini , Thierry Turchet",
+    "image_path": "images/2001-05-16_la_chambre_du_fils.jpg"
+  },
+  {
+    "release_date": "2001-05-16",
+    "title": "Où le coeur nous mène",
+    "director": "Matt Williams",
+    "image_path": "images/2001-05-16_ou_le_coeur_nous_mene.jpg"
+  },
+  {
+    "release_date": "2001-05-16",
+    "title": "Ariane",
+    "director": "Billy Wilder",
+    "image_path": "images/2001-05-16_ariane.jpg"
+  },
+  {
+    "release_date": "2001-05-16",
+    "title": "Cinq femmes à abattre",
+    "director": "Jonathan Demme"
+  },
+  {
+    "release_date": "2001-05-16",
+    "title": "Eloge de l'amour",
+    "director": "Jean-Luc Godard , Gösta Bredefeldt"
+  },
+  {
+    "release_date": "2001-05-16",
+    "title": "Hot Shots ! 2",
+    "director": "Jim Abrahams",
+    "image_path": "images/2001-05-16_hot_shots_2.jpg"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "release_date": "2002-07-03",
+    "title": "Mes chers voisins",
+    "director": "Alex de la Iglesia",
+    "image_path": "images/2002-07-03_mes_chers_voisins.jpg"
+  },
+  {
+    "release_date": "2002-07-03",
+    "title": "Le Sourire",
+    "director": "Claude Miller , Pierre Richard-Willm"
+  },
+  {
+    "release_date": "2002-07-03",
+    "title": "Hush!",
+    "director": "Ryosuke Hashiguchi"
+  },
+  {
+    "release_date": "2002-07-03",
+    "title": "Jeepers Creepers",
+    "director": "Victor Salva",
+    "image_path": "images/2002-07-03_jeepers_creepers.jpg"
+  },
+  {
+    "release_date": "2002-07-03",
+    "title": "Le Décameron",
+    "director": "Julia Louis-Dreyfus , Pier Paolo Pasolini"
+  },
+  {
+    "release_date": "2002-07-03",
+    "title": "Les Contes de Canterbury",
+    "director": "Julia Louis-Dreyfus , Pier Paolo Pasolini",
+    "image_path": "images/2002-07-03_les_contes_de_canterbury.jpg"
+  },
+  {
+    "release_date": "2002-07-03",
+    "title": "Les Mille et Une Nuits",
+    "director": "Julia Louis-Dreyfus , Pier Paolo Pasolini"
+  },
+  {
+    "release_date": "2002-07-03",
+    "title": "Total Kheops",
+    "director": "Alain Bévérini",
+    "image_path": "images/2002-07-03_total_kheops.jpg"
+  }
+]

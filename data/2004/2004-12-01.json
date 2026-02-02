@@ -1,0 +1,52 @@
+[
+  {
+    "release_date": "2004-12-01",
+    "title": "Le Grand Couteau",
+    "director": "Robert Aldrich"
+  },
+  {
+    "release_date": "2004-12-01",
+    "title": "Le Pôle Express",
+    "director": "Robert Zemeckis",
+    "image_path": "images/2004-12-01_le_pole_express.jpg"
+  },
+  {
+    "release_date": "2004-12-01",
+    "title": "Hulk",
+    "director": "Ang Lee",
+    "image_path": "images/2004-12-01_hulk.jpg"
+  },
+  {
+    "release_date": "2004-12-01",
+    "title": "Innocence, Ghost in The Shell 2",
+    "director": "Mamoru Oshii",
+    "image_path": "images/2004-12-01_innocence_ghost_in_the_shell_2.jpg"
+  },
+  {
+    "release_date": "2004-12-01",
+    "title": "Mon trésor",
+    "director": "Keren Yedaya",
+    "image_path": "images/2004-12-01_mon_tresor.jpg"
+  },
+  {
+    "release_date": "2004-12-01",
+    "title": "Kamchatka",
+    "director": "Marcelo Pineyro"
+  },
+  {
+    "release_date": "2004-12-01",
+    "title": "Au soleil de Marseille",
+    "director": "Pierre-Jean Ducis"
+  },
+  {
+    "release_date": "2004-12-01",
+    "title": "Innocence, Ghost in The Shell 2",
+    "director": "Mamoru Oshii",
+    "image_path": "images/2004-12-01_innocence_ghost_in_the_shell_2.jpg"
+  },
+  {
+    "release_date": "2004-12-01",
+    "title": "Voyage en famille",
+    "director": "Pablo Trapero"
+  }
+]

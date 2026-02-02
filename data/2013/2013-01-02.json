@@ -1,0 +1,73 @@
+[
+  {
+    "release_date": "2013-01-02",
+    "title": "Renoir",
+    "director": "Gilles Bourdos , Solange Zeitoun",
+    "image_path": "images/2013-01-02_renoir.jpg"
+  },
+  {
+    "release_date": "2013-01-02",
+    "title": "La Stratégie de la poussette",
+    "director": "Clément Michel",
+    "image_path": "images/2013-01-02_la_strategie_de_la_poussette.jpg"
+  },
+  {
+    "release_date": "2013-01-02",
+    "title": "Maniac",
+    "director": "Franck Khalfoun",
+    "image_path": "images/2013-01-02_maniac.jpg"
+  },
+  {
+    "release_date": "2013-01-02",
+    "title": "Foxfire, confessions d'un gang de filles",
+    "director": "Laurent Cantet , Jill Jones",
+    "image_path": "images/2013-01-02_foxfire_confessions_dun_gang_de_filles.jpg"
+  },
+  {
+    "release_date": "2013-01-02",
+    "title": "Faire quelque chose",
+    "director": "Vincent Goubet",
+    "image_path": "images/2013-01-02_faire_quelque_chose.jpg"
+  },
+  {
+    "release_date": "2013-01-02",
+    "title": "Gimme The Loot",
+    "director": "Adam Léon , Léonard Cobiant",
+    "image_path": "images/2013-01-02_gimme_the_loot.jpg"
+  },
+  {
+    "release_date": "2013-01-02",
+    "title": "Hot Hot hot",
+    "director": "Beryl Koltz",
+    "image_path": "images/2013-01-02_hot_hot_hot.jpg"
+  },
+  {
+    "release_date": "2013-01-02",
+    "title": "Il était une foi",
+    "director": "Pierre Barnérias"
+  },
+  {
+    "release_date": "2013-01-02",
+    "title": "Le Plus Sauvage d'entre tous",
+    "director": "Martin Ritt , Kurtwood Smith",
+    "image_path": "images/2013-01-02_le_plus_sauvage_dentre_tous.jpg"
+  },
+  {
+    "release_date": "2013-01-02",
+    "title": "L'Homme aux poings de fer",
+    "director": "RZA",
+    "image_path": "images/2013-01-02_lhomme_aux_poings_de_fer.jpg"
+  },
+  {
+    "release_date": "2013-01-02",
+    "title": "Mon Père va me tuer",
+    "director": "Daniele Cipri",
+    "image_path": "images/2013-01-02_mon_pere_va_me_tuer.jpg"
+  },
+  {
+    "release_date": "2013-01-02",
+    "title": "Yossi",
+    "director": "Eytan Fox",
+    "image_path": "images/2013-01-02_yossi.jpg"
+  }
+]

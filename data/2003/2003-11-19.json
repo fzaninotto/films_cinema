@@ -1,0 +1,65 @@
+[
+  {
+    "release_date": "2003-11-19",
+    "title": "Sixième Sens",
+    "director": "M. Night Shyamalan",
+    "image_path": "images/2003-11-19_sixieme_sens.jpg"
+  },
+  {
+    "release_date": "2003-11-19",
+    "title": "Le Samouraï",
+    "director": "Jean-Pierre Melville",
+    "image_path": "images/2003-11-19_le_samourai.jpg"
+  },
+  {
+    "release_date": "2003-11-19",
+    "title": "Le Silence de la mer",
+    "director": "Jean-Pierre Melville",
+    "image_path": "images/2003-11-19_le_silence_de_la_mer.jpg"
+  },
+  {
+    "release_date": "2003-11-19",
+    "title": "Le Purificateur",
+    "director": "Brian Helgeland",
+    "image_path": "images/2003-11-19_le_purificateur.jpg"
+  },
+  {
+    "release_date": "2003-11-19",
+    "title": "Motown: la véritable histoire",
+    "director": "Paul Justman , Guillaume Bacquet"
+  },
+  {
+    "release_date": "2003-11-19",
+    "title": "Mon voyage d'hiver",
+    "director": "Vincent Dieutre , Kwak Ji-kyun , Kwak Chi-Gyoon"
+  },
+  {
+    "release_date": "2003-11-19",
+    "title": "Deux anges",
+    "director": "Mamad Haghighat"
+  },
+  {
+    "release_date": "2003-11-19",
+    "title": "Deux hommes dans Manhattan",
+    "director": "Jean-Pierre Melville",
+    "image_path": "images/2003-11-19_deux_hommes_dans_manhattan.jpg"
+  },
+  {
+    "release_date": "2003-11-19",
+    "title": "Intolérable Cruauté",
+    "director": "Joel Coen , Ethan Coen",
+    "image_path": "images/2003-11-19_intolerable_cruaute.jpg"
+  },
+  {
+    "release_date": "2003-11-19",
+    "title": "Les Enfants terribles",
+    "director": "Jean-Pierre Melville",
+    "image_path": "images/2003-11-19_les_enfants_terribles.jpg"
+  },
+  {
+    "release_date": "2003-11-19",
+    "title": "Stormy Weather",
+    "director": "Solveig Anspach",
+    "image_path": "images/2003-11-19_stormy_weather.jpg"
+  }
+]

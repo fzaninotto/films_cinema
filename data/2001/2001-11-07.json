@@ -1,0 +1,41 @@
+[
+  {
+    "release_date": "2001-11-07",
+    "title": "The Barber, l'homme qui n'était pas là",
+    "director": "Joel , Joel Coen , Ethan Coen , Jeff Chamberlain , Buddy Baker",
+    "image_path": "images/2001-11-07_the_barber_lhomme_qui_netait_pas_la.jpg"
+  },
+  {
+    "release_date": "2001-11-07",
+    "title": "C'est la vie",
+    "director": "Jean-Pierre Améris , Arturo Ripstein",
+    "image_path": "images/2001-11-07_cest_la_vie.jpg"
+  },
+  {
+    "release_date": "2001-11-07",
+    "title": "The Barber (L'homme qui n'était pas là)",
+    "director": "Joel Coen , Ethan Coen",
+    "image_path": "images/2001-11-07_the_barber_lhomme_qui_netait_pas_la.jpg"
+  },
+  {
+    "release_date": "2001-11-07",
+    "title": "Etats de service",
+    "director": "Jean-Paul Andrieu"
+  },
+  {
+    "release_date": "2001-11-07",
+    "title": "Le Souffle",
+    "director": "Damien Odoul",
+    "image_path": "images/2001-11-07_le_souffle.jpg"
+  },
+  {
+    "release_date": "2001-11-07",
+    "title": "Paria",
+    "director": "Nicolas Klotz"
+  },
+  {
+    "release_date": "2001-11-07",
+    "title": "Scratch",
+    "director": "Doug Pray"
+  }
+]

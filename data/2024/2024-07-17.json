@@ -1,0 +1,73 @@
+[
+  {
+    "release_date": "2024-07-17",
+    "title": "Santosh",
+    "director": "Sandhya Suri",
+    "image_path": "images/2024-07-17_santosh.jpg"
+  },
+  {
+    "release_date": "2024-07-17",
+    "title": "Bad Newz",
+    "director": "Anand Tiwari"
+  },
+  {
+    "release_date": "2024-07-17",
+    "title": "Dîner à l'anglaise",
+    "director": "Matt Winn",
+    "image_path": "images/2024-07-17_diner_a_langlaise.jpg"
+  },
+  {
+    "release_date": "2024-07-17",
+    "title": "Dos Madres",
+    "director": "Víctor Iriarte",
+    "image_path": "images/2024-07-17_dos_madres.jpg"
+  },
+  {
+    "release_date": "2024-07-17",
+    "title": "Eat the Night",
+    "director": "Caroline Poggi , Jonathan Vinel",
+    "image_path": "images/2024-07-17_eat_the_night.jpg"
+  },
+  {
+    "release_date": "2024-07-17",
+    "title": "Karmapolice",
+    "director": "Julien Paolini",
+    "image_path": "images/2024-07-17_karmapolice.jpg"
+  },
+  {
+    "release_date": "2024-07-17",
+    "title": "Le larbin",
+    "director": "Franck Magnier",
+    "image_path": "images/2024-07-17_le_larbin.jpg"
+  },
+  {
+    "release_date": "2024-07-17",
+    "title": "Les tricheurs",
+    "director": "Louis Godbout",
+    "image_path": "images/2024-07-17_les_tricheurs.jpg"
+  },
+  {
+    "release_date": "2024-07-17",
+    "title": "Les Tsiganes montent au ciel (version restaurée)",
+    "director": "Emil Loteanu",
+    "image_path": "images/2024-07-17_les_tsiganes_montent_au_ciel_version_restauree.jpg"
+  },
+  {
+    "release_date": "2024-07-17",
+    "title": "Mad Fate",
+    "director": "Soi Cheang",
+    "image_path": "images/2024-07-17_mad_fate.jpg"
+  },
+  {
+    "release_date": "2024-07-17",
+    "title": "Presque légal",
+    "director": "Max Mauroux",
+    "image_path": "images/2024-07-17_presque_legal.jpg"
+  },
+  {
+    "release_date": "2024-07-17",
+    "title": "Twisters",
+    "director": "Lee Chung",
+    "image_path": "images/2024-07-17_twisters.jpg"
+  }
+]

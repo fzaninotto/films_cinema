@@ -1,0 +1,84 @@
+[
+  {
+    "release_date": "2020-10-14",
+    "title": "The Good Criminal",
+    "director": "Mark Williams",
+    "image_path": "images/2020-10-14_the_good_criminal.jpg"
+  },
+  {
+    "release_date": "2020-10-14",
+    "title": "Les Trolls 2",
+    "director": "Walt Dohrn , David P Smith",
+    "image_path": "images/2020-10-14_les_trolls_2.jpeg"
+  },
+  {
+    "release_date": "2020-10-14",
+    "title": "India Song",
+    "director": "Marguerite Duras , Sébastien Japrisot",
+    "image_path": "images/2020-10-14_india_song.jpg"
+  },
+  {
+    "release_date": "2020-10-14",
+    "title": "Parents d'élèves",
+    "director": "Noémie Saglio",
+    "image_path": "images/2020-10-14_parents_deleves.jpg"
+  },
+  {
+    "release_date": "2020-10-14",
+    "title": "A Dark-Dark Man",
+    "director": "Adilkhan Yerzhanov",
+    "image_path": "images/2020-10-14_a_dark-dark_man.jpg"
+  },
+  {
+    "release_date": "2020-10-14",
+    "title": "A Lua Platz",
+    "director": "Jérémy Gravayat"
+  },
+  {
+    "release_date": "2020-10-14",
+    "title": "Babylon",
+    "director": "Franco Rosso , Hend El Fahem",
+    "image_path": "images/2020-10-14_babylon.jpg"
+  },
+  {
+    "release_date": "2020-10-14",
+    "title": "Déconnectés",
+    "director": "Jeff Rowe , Michael Rianda",
+    "image_path": "images/2020-10-14_deconnectes.jpg"
+  },
+  {
+    "release_date": "2020-10-14",
+    "title": "Israël, le voyage interdit, partie II : Hanouka",
+    "director": "Jean-Pierre Lledo",
+    "image_path": "images/2020-10-14_israel_le_voyage_interdit_partie_ii_hanouka.jpg"
+  },
+  {
+    "release_date": "2020-10-14",
+    "title": "La Première Marche",
+    "director": "Baptiste Etchegaray , Hakim Atoui",
+    "image_path": "images/2020-10-14_la_premiere_marche.jpg"
+  },
+  {
+    "release_date": "2020-10-14",
+    "title": "Les Équilibristes",
+    "director": "Perrine Michel",
+    "image_path": "images/2020-10-14_les_equilibristes.jpg"
+  },
+  {
+    "release_date": "2020-10-14",
+    "title": "Les Petites Fièvres",
+    "director": "Lise Thibeault"
+  },
+  {
+    "release_date": "2020-10-14",
+    "title": "Princesse Europe",
+    "director": "Camille Lotteau",
+    "image_path": "images/2020-10-14_princesse_europe.jpg"
+  },
+  {
+    "release_date": "2020-10-14",
+    "title": "Una promessa",
+    "director": "Massimiliano De Serio , Gianluca De Serio",
+    "image_path": "images/2020-10-14_una_promessa.jpg"
+  }
+]

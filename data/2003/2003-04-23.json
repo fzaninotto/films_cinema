@@ -1,0 +1,43 @@
+[
+  {
+    "release_date": "2003-04-23",
+    "title": "Rain Man",
+    "director": "Barry Levinson , Carl Boese",
+    "image_path": "images/2003-04-23_rain_man.jpg"
+  },
+  {
+    "release_date": "2003-04-23",
+    "title": "Le Chemin de la liberté",
+    "director": "Phillip Noyce , Philip Noyce",
+    "image_path": "images/2003-04-23_le_chemin_de_la_liberte.jpg"
+  },
+  {
+    "release_date": "2003-04-23",
+    "title": "Cette sacrée gamine",
+    "director": "Michel Boisrond",
+    "image_path": "images/2003-04-23_cette_sacree_gamine.jpg"
+  },
+  {
+    "release_date": "2003-04-23",
+    "title": "De quelle planète viens-tu ?",
+    "director": "Mike Nichols",
+    "image_path": "images/2003-04-23_de_quelle_planete_viens-tu_.jpg"
+  },
+  {
+    "release_date": "2003-04-23",
+    "title": "Le Retour du fils prodigue-humiliés",
+    "director": "Jean-Marie Straub , Danielle Huillet"
+  },
+  {
+    "release_date": "2003-04-23",
+    "title": "Love is the Devil",
+    "director": "John Maybury",
+    "image_path": "images/2003-04-23_love_is_the_devil.jpg"
+  },
+  {
+    "release_date": "2003-04-23",
+    "title": "Un nouveau Russe",
+    "director": "Raymond Rouleau , Pavel Lounguine",
+    "image_path": "images/2003-04-23_un_nouveau_russe.jpg"
+  }
+]

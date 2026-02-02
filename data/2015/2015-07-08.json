@@ -1,0 +1,97 @@
+[
+  {
+    "release_date": "2015-07-08",
+    "title": "Les Tontons flingueurs",
+    "director": "Georges Lautner",
+    "image_path": "images/2015-07-08_les_tontons_flingueurs.jpg"
+  },
+  {
+    "release_date": "2015-07-08",
+    "title": "Les Minions",
+    "director": "Pierre Coffin , Kyle Balda , Eric Guillon",
+    "image_path": "images/2015-07-08_les_minions.jpg"
+  },
+  {
+    "release_date": "2015-07-08",
+    "title": "Ant-Man",
+    "director": "Peyton Reed",
+    "image_path": "images/2015-07-08_ant-man.jpg"
+  },
+  {
+    "release_date": "2015-07-08",
+    "title": "Amy",
+    "director": "Asif Kapadia",
+    "image_path": "images/2015-07-08_amy.jpg"
+  },
+  {
+    "release_date": "2015-07-08",
+    "title": "Insidious : Chapitre 3",
+    "director": "Leigh Whannell",
+    "image_path": "images/2015-07-08_insidious_chapitre_3.jpg"
+  },
+  {
+    "release_date": "2015-07-08",
+    "title": "Magic Mike XXL",
+    "director": "Gregory Jacobs , Etsushi Takahashi",
+    "image_path": "images/2015-07-08_magic_mike_xxl.jpg"
+  },
+  {
+    "release_date": "2015-07-08",
+    "title": "Que viva Eisenstein !",
+    "director": "Peter Greenaway"
+  },
+  {
+    "release_date": "2015-07-08",
+    "title": "Elefante blanco",
+    "director": "Pablo Trapero , Jon Van Ness",
+    "image_path": "images/2015-07-08_elefante_blanco.jpg"
+  },
+  {
+    "release_date": "2015-07-08",
+    "title": "Hill of Freedom",
+    "director": "Hong Sang-Soo",
+    "image_path": "images/2015-07-08_hill_of_freedom.jpg"
+  },
+  {
+    "release_date": "2015-07-08",
+    "title": "Self Made",
+    "director": "Shira Geffen",
+    "image_path": "images/2015-07-08_self_made.jpg"
+  },
+  {
+    "release_date": "2015-07-08",
+    "title": "Baleines",
+    "director": "Greg MacGillivray",
+    "image_path": "images/2015-07-08_baleines.jpg"
+  },
+  {
+    "release_date": "2015-07-08",
+    "title": "Dior et moi",
+    "director": "Frédéric Tcheng",
+    "image_path": "images/2015-07-08_dior_et_moi.jpg"
+  },
+  {
+    "release_date": "2015-07-08",
+    "title": "Le Café des Jules",
+    "director": "Paul Vecchiali",
+    "image_path": "images/2015-07-08_le_cafe_des_jules.jpg"
+  },
+  {
+    "release_date": "2015-07-08",
+    "title": "Microbe et gasoil",
+    "director": "Michel Gondry , Edwine Moatti",
+    "image_path": "images/2015-07-08_microbe_et_gasoil.jpg"
+  },
+  {
+    "release_date": "2015-07-08",
+    "title": "Rosa la rose, fille publique",
+    "director": "Paul Vecchiali",
+    "image_path": "images/2015-07-08_rosa_la_rose_fille_publique.jpg"
+  },
+  {
+    "release_date": "2015-07-08",
+    "title": "Wanda",
+    "director": "Barbara Loden",
+    "image_path": "images/2015-07-08_wanda.jpg"
+  }
+]

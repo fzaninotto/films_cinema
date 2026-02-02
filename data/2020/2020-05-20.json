@@ -1,0 +1,42 @@
+[
+  {
+    "release_date": "2020-05-20",
+    "title": "A bout de souffle",
+    "director": "Jean-Luc Godard , Gösta Bredefeldt",
+    "image_path": "images/2020-05-20_a_bout_de_souffle.jpg"
+  },
+  {
+    "release_date": "2020-05-20",
+    "title": "Le Correspondant",
+    "director": "Jean-Michel Ben Soussan , Jean-Michel Soussan",
+    "image_path": "images/2020-05-20_le_correspondant.jpg"
+  },
+  {
+    "release_date": "2020-05-20",
+    "title": "Rue des cascades",
+    "director": "Maurice Delbez",
+    "image_path": "images/2020-05-20_rue_des_cascades.jpg"
+  },
+  {
+    "release_date": "2020-05-20",
+    "title": "Gipsy Queen",
+    "director": "Hüseyin Tabak"
+  },
+  {
+    "release_date": "2020-05-20",
+    "title": "Golgotha",
+    "director": "Julien Duvivier",
+    "image_path": "images/2020-05-20_golgotha.jpg"
+  },
+  {
+    "release_date": "2020-05-20",
+    "title": "Lea Tsemel, avocate",
+    "director": "Rachel Leah Jones"
+  },
+  {
+    "release_date": "2020-05-20",
+    "title": "The Age of Shadows",
+    "director": "Michael Apted , Kim Jee-woon , Jee-woon Kim",
+    "image_path": "images/2020-05-20_the_age_of_shadows.jpg"
+  }
+]

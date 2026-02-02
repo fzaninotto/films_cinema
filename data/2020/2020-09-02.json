@@ -1,0 +1,84 @@
+[
+  {
+    "release_date": "2020-09-02",
+    "title": "Police",
+    "director": "Anne Fontaine",
+    "image_path": "images/2020-09-02_police.jpg"
+  },
+  {
+    "release_date": "2020-09-02",
+    "title": "Enorme",
+    "director": "Sophie Letourneur",
+    "image_path": "images/2020-09-02_enorme.jpg"
+  },
+  {
+    "release_date": "2020-09-02",
+    "title": "Antigone",
+    "director": "Sophie Deraspe",
+    "image_path": "images/2020-09-02_antigone.jpg"
+  },
+  {
+    "release_date": "2020-09-02",
+    "title": "Ema",
+    "director": "Pablo Larrain",
+    "image_path": "images/2020-09-02_ema.jpg"
+  },
+  {
+    "release_date": "2020-09-02",
+    "title": "Grand_frère",
+    "director": "Liang Ming , Ming-liang Tsai",
+    "image_path": "images/2020-09-02_grand_frere.jpg"
+  },
+  {
+    "release_date": "2020-09-02",
+    "title": "Ju Dou",
+    "director": "Zhang Yimou , Yang Fengliang , Fengliang Yang",
+    "image_path": "images/2020-09-02_ju_dou.jpg"
+  },
+  {
+    "release_date": "2020-09-02",
+    "title": "La Chouette en toque",
+    "director": "Arnaud Demuynck , Pascale Hecquet , Frits Standaert , Célia Tocco , Célia Tisserant , Fritz Standaert",
+    "image_path": "images/2020-09-02_la_chouette_en_toque.jpg"
+  },
+  {
+    "release_date": "2020-09-02",
+    "title": "La Chouette en toque",
+    "director": "Arnaud Demuynck , Pascale Hecquet , Frits Standaert , Célia Tocco , Célia Tisserant",
+    "image_path": "images/2020-09-02_la_chouette_en_toque.jpg"
+  },
+  {
+    "release_date": "2020-09-02",
+    "title": "La Jeune fille à l'écho",
+    "director": "Arunas Žebriunas",
+    "image_path": "images/2020-09-02_la_jeune_fille_a_lecho.jpg"
+  },
+  {
+    "release_date": "2020-09-02",
+    "title": "Le royaume glacé de la panthère des neiges",
+    "director": "Frédéric Larrey"
+  },
+  {
+    "release_date": "2020-09-02",
+    "title": "Numéro 387, disparu en Méditerranée",
+    "director": "Madeleine Leroyer",
+    "image_path": "images/2020-09-02_numero_387_disparu_en_mediterranee.jpg"
+  },
+  {
+    "release_date": "2020-09-02",
+    "title": "Où est passé Tom ?",
+    "director": "José Giovanni"
+  },
+  {
+    "release_date": "2020-09-02",
+    "title": "Poissonsexe",
+    "director": "Olivier Babinet",
+    "image_path": "images/2020-09-02_poissonsexe.jpg"
+  },
+  {
+    "release_date": "2020-09-02",
+    "title": "Vacances à Venise",
+    "director": "David Lean",
+    "image_path": "images/2020-09-02_vacances_a_venise.jpg"
+  }
+]

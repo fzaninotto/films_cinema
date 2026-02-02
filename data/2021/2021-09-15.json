@@ -1,0 +1,128 @@
+[
+  {
+    "release_date": "2021-09-15",
+    "title": "Blue Bayou",
+    "director": "Justin Chon",
+    "image_path": "images/2021-09-15_blue_bayou.jpg"
+  },
+  {
+    "release_date": "2021-09-15",
+    "title": "Dune",
+    "director": "Denis Villeneuve",
+    "image_path": "images/2021-09-15_dune.jpeg"
+  },
+  {
+    "release_date": "2021-09-15",
+    "title": "Pourris gâtés",
+    "director": "Nicolas Cuche",
+    "image_path": "images/2021-09-15_pourris_gates.jpg"
+  },
+  {
+    "release_date": "2021-09-15",
+    "title": "L'Origine du monde",
+    "director": "Laurent Lafitte",
+    "image_path": "images/2021-09-15_lorigine_du_monde.jpg"
+  },
+  {
+    "release_date": "2021-09-15",
+    "title": "Avec un sourire, la révolution !",
+    "director": "Alexandre Chartrand",
+    "image_path": "images/2021-09-15_avec_un_sourire_la_revolution_.jpg"
+  },
+  {
+    "release_date": "2021-09-15",
+    "title": "Bayan ko",
+    "director": "Lino Brocka",
+    "image_path": "images/2021-09-15_bayan_ko.jpg"
+  },
+  {
+    "release_date": "2021-09-15",
+    "title": "Grand Paris Express",
+    "image_path": "images/2021-09-15_grand_paris_express.jpg"
+  },
+  {
+    "release_date": "2021-09-15",
+    "title": "La Ferme qui soigne",
+    "director": "Caroline Breton",
+    "image_path": "images/2021-09-15_la_ferme_qui_soigne.jpg"
+  },
+  {
+    "release_date": "2021-09-15",
+    "title": "L'Affaire Collective",
+    "director": "Alexander Nanau",
+    "image_path": "images/2021-09-15_laffaire_collective.jpg"
+  },
+  {
+    "release_date": "2021-09-15",
+    "title": "La Proie d'une ombre",
+    "director": "David Bruckner",
+    "image_path": "images/2021-09-15_la_proie_dune_ombre.jpg"
+  },
+  {
+    "release_date": "2021-09-15",
+    "title": "Le Genou d'Ahed",
+    "director": "Nadav Lapid",
+    "image_path": "images/2021-09-15_le_genou_dahed.jpg"
+  },
+  {
+    "release_date": "2021-09-15",
+    "title": "Les Amours d'Anaïs",
+    "director": "Charline Bourgeois-Tacquet",
+    "image_path": "images/2021-09-15_les_amours_danais.jpg"
+  },
+  {
+    "release_date": "2021-09-15",
+    "title": "L'État du Texas contre Melissa",
+    "director": "Sabrina Van Tassel , Cyril Thomas",
+    "image_path": "images/2021-09-15_letat_du_texas_contre_melissa.jpg"
+  },
+  {
+    "release_date": "2021-09-15",
+    "title": "Le Traducteur",
+    "director": "Rana Kazkaz , Anas Khalaf",
+    "image_path": "images/2021-09-15_le_traducteur.jpg"
+  },
+  {
+    "release_date": "2021-09-15",
+    "title": "L'Inventaire"
+  },
+  {
+    "release_date": "2021-09-15",
+    "title": "Miracle: Letters to the President"
+  },
+  {
+    "release_date": "2021-09-15",
+    "title": "Mush-Mush et le petit monde de la forêt",
+    "director": "Joeri Christiaen",
+    "image_path": "images/2021-09-15_mush-mush_et_le_petit_monde_de_la_foret.jpg"
+  },
+  {
+    "release_date": "2021-09-15",
+    "title": "Mush-Mush et le petit monde de la forêt",
+    "director": "Joeri Christiaen",
+    "image_path": "images/2021-09-15_mush-mush_et_le_petit_monde_de_la_foret.jpg"
+  },
+  {
+    "release_date": "2021-09-15",
+    "title": "Spiral",
+    "director": "Sofiene Mamdi",
+    "image_path": "images/2021-09-15_spiral.jpg"
+  },
+  {
+    "release_date": "2021-09-15",
+    "title": "Summer of Soul",
+    "director": "Ahmir-Khalib Thompson"
+  },
+  {
+    "release_date": "2021-09-15",
+    "title": "Summertime",
+    "director": "Carlos Lopez Estrada",
+    "image_path": "images/2021-09-15_summertime.jpg"
+  },
+  {
+    "release_date": "2021-09-15",
+    "title": "Walking on water",
+    "director": "Andrey Paounov , Andrey M Paounov",
+    "image_path": "images/2021-09-15_walking_on_water.jpg"
+  }
+]

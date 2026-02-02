@@ -1,0 +1,210 @@
+[
+  {
+    "release_date": "2024-01-31",
+    "title": "La Zone d'intérêt",
+    "director": "Jonathan Glazer",
+    "image_path": "images/2024-01-31_la_zone_dinteret.jpg"
+  },
+  {
+    "release_date": "2024-01-31",
+    "title": "La ferme des Bertrand",
+    "director": "Gilles Perret",
+    "image_path": "images/2024-01-31_la_ferme_des_bertrand.jpg"
+  },
+  {
+    "release_date": "2024-01-31",
+    "title": "Léo, la fabuleuse histoire de Léonard de Vinci",
+    "director": "Pierre-Luc Granjon , Jim Capobianco",
+    "image_path": "images/2024-01-31_leo_la_fabuleuse_histoire_de_leonard_de_vinci.jpg"
+  },
+  {
+    "release_date": "2024-01-31",
+    "title": "A Man",
+    "director": "Kei Ishikawa",
+    "image_path": "images/2024-01-31_a_man.jpg"
+  },
+  {
+    "release_date": "2024-01-31",
+    "title": "Amelia's Children",
+    "director": "Gabriel Abrantes",
+    "image_path": "images/2024-01-31_amelias_children.jpg"
+  },
+  {
+    "release_date": "2024-01-31",
+    "title": "Anatomie d'un rapport",
+    "director": "Luc Moullet , Antonietta Pizzorno , Gustaw Holoubek",
+    "image_path": "images/2024-01-31_anatomie_dun_rapport.jpg"
+  },
+  {
+    "release_date": "2024-01-31",
+    "title": "Argylle",
+    "director": "Matthew Vaughn",
+    "image_path": "images/2024-01-31_argylle.jpg"
+  },
+  {
+    "release_date": "2024-01-31",
+    "title": "Bellissima",
+    "director": "Luchino Visconti",
+    "image_path": "images/2024-01-31_bellissima.jpg"
+  },
+  {
+    "release_date": "2024-01-31",
+    "title": "Brigitte et Brigitte",
+    "director": "Luc Moullet , John Allen Nelson",
+    "image_path": "images/2024-01-31_brigitte_et_brigitte.jpg"
+  },
+  {
+    "release_date": "2024-01-31",
+    "title": "Cyril Lignac, qu'est-ce qu'on va faire de toi ?",
+    "director": "Magali Debrabandere",
+    "image_path": "images/2024-01-31_cyril_lignac_quest-ce_quon_va_faire_de_toi_.jpg"
+  },
+  {
+    "release_date": "2024-01-31",
+    "title": "Du rouge pour un truand",
+    "director": "Lewis Teague",
+    "image_path": "images/2024-01-31_du_rouge_pour_un_truand.jpg"
+  },
+  {
+    "release_date": "2024-01-31",
+    "title": "Genèse d'un repas",
+    "director": "Luc Moullet , John Allen Nelson",
+    "image_path": "images/2024-01-31_genese_dun_repas.jpg"
+  },
+  {
+    "release_date": "2024-01-31",
+    "title": "La Comédie du travail",
+    "director": "Luc Moullet",
+    "image_path": "images/2024-01-31_la_comedie_du_travail.jpg"
+  },
+  {
+    "release_date": "2024-01-31",
+    "title": "La forêt, c'est la classe !",
+    "director": "Daniel Schlosser",
+    "image_path": "images/2024-01-31_la_foret_cest_la_classe_.jpg"
+  },
+  {
+    "release_date": "2024-01-31",
+    "title": "La Terre de la folie",
+    "director": "Luc Moullet",
+    "image_path": "images/2024-01-31_la_terre_de_la_folie.jpg"
+  },
+  {
+    "release_date": "2024-01-31",
+    "title": "Le bonheur est pour demain",
+    "director": "Brigitte Sy",
+    "image_path": "images/2024-01-31_le_bonheur_est_pour_demain.jpg"
+  },
+  {
+    "release_date": "2024-01-31",
+    "title": "Le Prestige de la mort",
+    "director": "Luc Moullet",
+    "image_path": "images/2024-01-31_le_prestige_de_la_mort.jpg"
+  },
+  {
+    "release_date": "2024-01-31",
+    "title": "Les affaires sont les affaires",
+    "director": "Christian Chauvaud",
+    "image_path": "images/2024-01-31_les_affaires_sont_les_affaires.jpg"
+  },
+  {
+    "release_date": "2024-01-31",
+    "title": "Les Contrebandières",
+    "director": "Luc Moullet , John Allen Nelson",
+    "image_path": "images/2024-01-31_les_contrebandieres.jpg"
+  },
+  {
+    "release_date": "2024-01-31",
+    "title": "Les Lueurs d'Aden",
+    "director": "Amr Gamal",
+    "image_path": "images/2024-01-31_les_lueurs_daden.jpg"
+  },
+  {
+    "release_date": "2024-01-31",
+    "title": "Les mystérieuses aventures de Claude Conseil",
+    "director": "Paul Jousselin , Marie-Lola Terver",
+    "image_path": "images/2024-01-31_les_mysterieuses_aventures_de_claude_conseil.jpg"
+  },
+  {
+    "release_date": "2024-01-31",
+    "title": "Les Naufragés de la D17",
+    "director": "Luc Moullet",
+    "image_path": "images/2024-01-31_les_naufrages_de_la_d17.jpg"
+  },
+  {
+    "release_date": "2024-01-31",
+    "title": "Les prières de Delphine",
+    "director": "Rosine MBakam",
+    "image_path": "images/2024-01-31_les_prieres_de_delphine.jpg"
+  },
+  {
+    "release_date": "2024-01-31",
+    "title": "L'étoile filante",
+    "director": "Fiona Gordon , Dominique Abel",
+    "image_path": "images/2024-01-31_letoile_filante.jpg"
+  },
+  {
+    "release_date": "2024-01-31",
+    "title": "Mambar Pierrette",
+    "director": "Rosine MBakam",
+    "image_path": "images/2024-01-31_mambar_pierrette.jpg"
+  },
+  {
+    "release_date": "2024-01-31",
+    "title": "Ma part de Gaulois",
+    "director": "Malik Chibane , Myriam Chibane",
+    "image_path": "images/2024-01-31_ma_part_de_gaulois.jpg"
+  },
+  {
+    "release_date": "2024-01-31",
+    "title": "M. & Mme Toutlemonde",
+    "director": "Jean-Michel Noirey",
+    "image_path": "images/2024-01-31_m_mme_toutlemonde.jpg"
+  },
+  {
+    "release_date": "2024-01-31",
+    "title": "Na marei",
+    "director": "Léa-Jade , Léa-Jade Horlier"
+  },
+  {
+    "release_date": "2024-01-31",
+    "title": "Nous les singes",
+    "director": "Clarence Larrivoire"
+  },
+  {
+    "release_date": "2024-01-31",
+    "title": "Parpaillon (version restaurée)",
+    "director": "Luc Moullet",
+    "image_path": "images/2024-01-31_parpaillon_version_restauree.jpg"
+  },
+  {
+    "release_date": "2024-01-31",
+    "title": "Petit Spartacus",
+    "director": "Sara Ganem",
+    "image_path": "images/2024-01-31_petit_spartacus.jpg"
+  },
+  {
+    "release_date": "2024-01-31",
+    "title": "Pet Shop Boys Dreamworld : The greatest hits live at The Royal Arena Copenhagen",
+    "director": "David Barnard",
+    "image_path": "images/2024-01-31_pet_shop_boys_dreamworld_the_greatest_hits_live_at_the_royal_arena_copenhagen.jpg"
+  },
+  {
+    "release_date": "2024-01-31",
+    "title": "Sous le vent des marquises",
+    "director": "Pierre Godeau",
+    "image_path": "images/2024-01-31_sous_le_vent_des_marquises.jpg"
+  },
+  {
+    "release_date": "2024-01-31",
+    "title": "They Shot The Piano Player",
+    "director": "Fernando Trueba , Javier Mariscal",
+    "image_path": "images/2024-01-31_they_shot_the_piano_player.jpg"
+  },
+  {
+    "release_date": "2024-01-31",
+    "title": "Une aventure de Billy le Kid",
+    "director": "Luc Moullet",
+    "image_path": "images/2024-01-31_une_aventure_de_billy_le_kid.jpg"
+  }
+]

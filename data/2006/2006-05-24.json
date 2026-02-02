@@ -1,0 +1,38 @@
+[
+  {
+    "release_date": "2006-05-24",
+    "title": "Shaolin Soccer",
+    "director": "Stephen Chow",
+    "image_path": "images/2006-05-24_shaolin_soccer.jpg"
+  },
+  {
+    "release_date": "2006-05-24",
+    "title": "X-Men : l'affrontement final",
+    "director": "Nia Long , Brett Ratner",
+    "image_path": "images/2006-05-24_x-men_laffrontement_final.jpg"
+  },
+  {
+    "release_date": "2006-05-24",
+    "title": "Cris et chuchotements",
+    "director": "Clark Gable , Ingmar Bergman",
+    "image_path": "images/2006-05-24_cris_et_chuchotements.jpg"
+  },
+  {
+    "release_date": "2006-05-24",
+    "title": "Wallace et Gromit : le mystère du lapin-garou",
+    "director": "Nick Park , Steve Box",
+    "image_path": "images/2006-05-24_wallace_et_gromit_le_mystere_du_lapin-garou.jpg"
+  },
+  {
+    "release_date": "2006-05-24",
+    "title": "Raymond",
+    "director": "Brian Robins , Bif , Jules Janaud , François Roisin , Fabrice Le Nezet",
+    "image_path": "images/2006-05-24_raymond.jpg"
+  },
+  {
+    "release_date": "2006-05-24",
+    "title": "On ne devrait pas exister",
+    "director": "Hervé-Pierre Gustave , HPG",
+    "image_path": "images/2006-05-24_on_ne_devrait_pas_exister.jpg"
+  }
+]

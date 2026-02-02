@@ -1,0 +1,64 @@
+[
+  {
+    "release_date": "2003-10-29",
+    "title": "Toy story",
+    "director": "John Lasseter",
+    "image_path": "images/2003-10-29_toy_story.jpg"
+  },
+  {
+    "release_date": "2003-10-29",
+    "title": "Hop",
+    "director": "Dominique Standaert"
+  },
+  {
+    "release_date": "2003-10-29",
+    "title": "L'Avventura",
+    "director": "Michelangelo Antonioni",
+    "image_path": "images/2003-10-29_lavventura.jpg"
+  },
+  {
+    "release_date": "2003-10-29",
+    "title": "Le Furet",
+    "director": "Jean-Pierre Mocky",
+    "image_path": "images/2003-10-29_le_furet.jpg"
+  },
+  {
+    "release_date": "2003-10-29",
+    "title": "Allons z'enfants",
+    "director": "Yves Boisset",
+    "image_path": "images/2003-10-29_allons_zenfants.jpg"
+  },
+  {
+    "release_date": "2003-10-29",
+    "title": "De guerre lasse",
+    "director": "Robert Enrico"
+  },
+  {
+    "release_date": "2003-10-29",
+    "title": "Hôtel des deux mondes",
+    "director": "Philippe Miquel"
+  },
+  {
+    "release_date": "2003-10-29",
+    "title": "In This World",
+    "director": "Michael Winterbottom"
+  },
+  {
+    "release_date": "2003-10-29",
+    "title": "La Femme et le Pantin",
+    "director": "Julien Duvivier , Stan Egi",
+    "image_path": "images/2003-10-29_la_femme_et_le_pantin.jpg"
+  },
+  {
+    "release_date": "2003-10-29",
+    "title": "La Morsure du lézard",
+    "director": "Andrew Davis",
+    "image_path": "images/2003-10-29_la_morsure_du_lezard.jpg"
+  },
+  {
+    "release_date": "2003-10-29",
+    "title": "No pasaran, album souvenir",
+    "director": "Henri-François Imbert",
+    "image_path": "images/2003-10-29_no_pasaran_album_souvenir.jpg"
+  }
+]

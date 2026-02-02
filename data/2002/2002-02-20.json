@@ -1,0 +1,36 @@
+[
+  {
+    "release_date": "2002-02-20",
+    "title": "Un amour à New York",
+    "director": "Peter Chelsom",
+    "image_path": "images/2002-02-20_un_amour_a_new_york.jpg"
+  },
+  {
+    "release_date": "2002-02-20",
+    "title": "Casino Royale",
+    "director": "John Huston , Joe McGrath , Robert Parrish , Val Guest , Ken Hughes",
+    "image_path": "images/2002-02-20_casino_royale.jpg"
+  },
+  {
+    "release_date": "2002-02-20",
+    "title": "Laisse aller, C'est Une Valse",
+    "director": "Georges Lautner , Marg Helgenberger",
+    "image_path": "images/2002-02-20_laisse_aller_cest_une_valse.jpg"
+  },
+  {
+    "release_date": "2002-02-20",
+    "title": "La Nounou et les Pirates",
+    "director": "Garri Bardine"
+  },
+  {
+    "release_date": "2002-02-20",
+    "title": "Lundi matin",
+    "director": "Otar Iosseliani"
+  },
+  {
+    "release_date": "2002-02-20",
+    "title": "Peppermint Candy",
+    "director": "Lee Chang-dong",
+    "image_path": "images/2002-02-20_peppermint_candy.jpg"
+  }
+]

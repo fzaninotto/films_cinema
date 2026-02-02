@@ -1,0 +1,189 @@
+[
+  {
+    "release_date": "2021-11-17",
+    "title": "On est fait pour s'entendre",
+    "director": "Pascal Elbé",
+    "image_path": "images/2021-11-17_on_est_fait_pour_sentendre.jpg"
+  },
+  {
+    "release_date": "2021-11-17",
+    "title": "Le Noël de petit lièvre brun",
+    "director": "Isabelle Favez , Jo Boag , Sophie Martin , Samantha Leriche-Gionet",
+    "image_path": "images/2021-11-17_le_noel_de_petit_lievre_brun.jpg"
+  },
+  {
+    "release_date": "2021-11-17",
+    "title": "Le Quatuor à cornes : là-haut sur la montagne",
+    "director": "Arnaud Demuynck , Emmanuelle Gorgiard , Benjamin Botella",
+    "image_path": "images/2021-11-17_le_quatuor_a_cornes_la-haut_sur_la_montagne.jpg"
+  },
+  {
+    "release_date": "2021-11-17",
+    "title": "Olga",
+    "director": "Elie Grappe",
+    "image_path": "images/2021-11-17_olga.jpg"
+  },
+  {
+    "release_date": "2021-11-17",
+    "title": "Django",
+    "director": "Edward Furlong , Sergio Corbucci",
+    "image_path": "images/2021-11-17_django.jpg"
+  },
+  {
+    "release_date": "2021-11-17",
+    "title": "Amants",
+    "director": "Nicole Garcia",
+    "image_path": "images/2021-11-17_amants.jpg"
+  },
+  {
+    "release_date": "2021-11-17",
+    "title": "Les Bodin's en Thaïlande",
+    "director": "Frédéric Forestier",
+    "image_path": "images/2021-11-17_les_bodins_en_thailande.jpg"
+  },
+  {
+    "release_date": "2021-11-17",
+    "title": "Le Dossier 51",
+    "director": "Alexandra Vandernoot , Michel Deville"
+  },
+  {
+    "release_date": "2021-11-17",
+    "title": "Affamés",
+    "director": "Scott Cooper",
+    "image_path": "images/2021-11-17_affames.jpg"
+  },
+  {
+    "release_date": "2021-11-17",
+    "title": "Brother",
+    "director": "Arnaud Fournier Montgieux",
+    "image_path": "images/2021-11-17_brother.jpg"
+  },
+  {
+    "release_date": "2021-11-17",
+    "title": "Brother",
+    "director": "Arnaud Fournier Montgieux",
+    "image_path": "images/2021-11-17_brother.jpg"
+  },
+  {
+    "release_date": "2021-11-17",
+    "title": "Bunty Aur Babli 2",
+    "director": "Varun V. Sharma"
+  },
+  {
+    "release_date": "2021-11-17",
+    "title": "El Chuncho",
+    "director": "Damiano Damiani",
+    "image_path": "images/2021-11-17_el_chuncho.jpg"
+  },
+  {
+    "release_date": "2021-11-17",
+    "title": "Elles dansent",
+    "director": "Alexandre Messina",
+    "image_path": "images/2021-11-17_elles_dansent.jpg"
+  },
+  {
+    "release_date": "2021-11-17",
+    "title": "Encanto, la fantastique famille Madrigal",
+    "director": "Byron Howard , Jared Bush , Charise Castro Smith , Charise Castro Smith",
+    "image_path": "images/2021-11-17_encanto_la_fantastique_famille_madrigal.jpeg"
+  },
+  {
+    "release_date": "2021-11-17",
+    "title": "Hacking Justice : Julian Assange",
+    "director": "Juan Pancorbo , Clara Lopez Rubio",
+    "image_path": "images/2021-11-17_hacking_justice_julian_assange.jpg"
+  },
+  {
+    "release_date": "2021-11-17",
+    "title": "Haut et Fort",
+    "director": "Nabil Ayouch",
+    "image_path": "images/2021-11-17_haut_et_fort.jpg"
+  },
+  {
+    "release_date": "2021-11-17",
+    "title": "Laurent Garnier: Off the Record",
+    "director": "Gabin Rivoire",
+    "image_path": "images/2021-11-17_laurent_garnier_off_the_record.jpg"
+  },
+  {
+    "release_date": "2021-11-17",
+    "title": "Les Dolomites d'Ilio",
+    "director": "Michele Coppari",
+    "image_path": "images/2021-11-17_les_dolomites_dilio.jpg"
+  },
+  {
+    "release_date": "2021-11-17",
+    "title": "Les Magnétiques",
+    "director": "Vincent Cardona",
+    "image_path": "images/2021-11-17_les_magnetiques.jpg"
+  },
+  {
+    "release_date": "2021-11-17",
+    "title": "Loin de vous, j'ai grandi",
+    "director": "Marie Dumora",
+    "image_path": "images/2021-11-17_loin_de_vous_jai_grandi.jpg"
+  },
+  {
+    "release_date": "2021-11-17",
+    "title": "Maudit !",
+    "director": "Emmanuel Parraud",
+    "image_path": "images/2021-11-17_maudit_.jpg"
+  },
+  {
+    "release_date": "2021-11-17",
+    "title": "Memoria",
+    "director": "Apichatpong Weerasethakul",
+    "image_path": "images/2021-11-17_memoria.jpg"
+  },
+  {
+    "release_date": "2021-11-17",
+    "title": "Nick's Movie",
+    "director": "Wim Wenders , Nicholas Ray",
+    "image_path": "images/2021-11-17_nicks_movie.jpg"
+  },
+  {
+    "release_date": "2021-11-17",
+    "title": "No Straight Lines: The Rise of Queer Comics",
+    "director": "Vivian Kleiman"
+  },
+  {
+    "release_date": "2021-11-17",
+    "title": "Oranges sanguines",
+    "director": "Jean-Christophe Meurisse",
+    "image_path": "images/2021-11-17_oranges_sanguines.jpg"
+  },
+  {
+    "release_date": "2021-11-17",
+    "title": "Orfeo ed Euridice (Théâtre des Champs-Elysées)",
+    "director": "Robert Carsen"
+  },
+  {
+    "release_date": "2021-11-17",
+    "title": "Permaculture en France, un Art de vivre pour demain",
+    "director": "Olivier Goujon",
+    "image_path": "images/2021-11-17_permaculture_en_france_un_art_de_vivre_pour_demain.jpg"
+  },
+  {
+    "release_date": "2021-11-17",
+    "title": "Queendom",
+    "director": "Simon Vivier , Marco Novoa",
+    "image_path": "images/2021-11-17_queendom.jpg"
+  },
+  {
+    "release_date": "2021-11-17",
+    "title": "Retourner à Sölöz",
+    "director": "Serge Avedikian",
+    "image_path": "images/2021-11-17_retourner_a_soloz.jpg"
+  },
+  {
+    "release_date": "2021-11-17",
+    "title": "Sabhaapathy",
+    "director": "R. Srinivasa Rao , R. Srinivasa Rao"
+  },
+  {
+    "release_date": "2021-11-17",
+    "title": "Temps morts",
+    "director": "Vincent Dieutre",
+    "image_path": "images/2021-11-17_temps_morts.jpg"
+  }
+]

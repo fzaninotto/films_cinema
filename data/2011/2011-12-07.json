@@ -1,0 +1,83 @@
+[
+  {
+    "release_date": "2011-12-07",
+    "title": "Hollywoo",
+    "director": "Frédéric Berthe , Pascal Serieis",
+    "image_path": "images/2011-12-07_hollywoo.jpg"
+  },
+  {
+    "release_date": "2011-12-07",
+    "title": "Carnage",
+    "director": "Roman Polanski , Dan Duryea",
+    "image_path": "images/2011-12-07_carnage.jpg"
+  },
+  {
+    "release_date": "2011-12-07",
+    "title": "Alien Girl",
+    "director": "Anton Bormatov",
+    "image_path": "images/2011-12-07_alien_girl.jpg"
+  },
+  {
+    "release_date": "2011-12-07",
+    "title": "Une Soirée d'enfer",
+    "director": "Michael Dowse",
+    "image_path": "images/2011-12-07_une_soiree_denfer.jpg"
+  },
+  {
+    "release_date": "2011-12-07",
+    "title": "Dernière Séance",
+    "director": "Laurent Achard",
+    "image_path": "images/2011-12-07_derniere_seance.jpg"
+  },
+  {
+    "release_date": "2011-12-07",
+    "title": "Entre chien et loup",
+    "director": "Jeon Soo-il",
+    "image_path": "images/2011-12-07_entre_chien_et_loup.jpg"
+  },
+  {
+    "release_date": "2011-12-07",
+    "title": "Ex Drummer",
+    "director": "Koen Mortier"
+  },
+  {
+    "release_date": "2011-12-07",
+    "title": "In the Meantime, Darling",
+    "director": "Otto Preminger"
+  },
+  {
+    "release_date": "2011-12-07",
+    "title": "La Fin du silence",
+    "director": "Roland Edzard , William E Snyder",
+    "image_path": "images/2011-12-07_la_fin_du_silence.jpg"
+  },
+  {
+    "release_date": "2011-12-07",
+    "title": "La Proie du vent",
+    "director": "René Clair"
+  },
+  {
+    "release_date": "2011-12-07",
+    "title": "L.A. Zombie",
+    "director": "Bruce LaBruce",
+    "image_path": "images/2011-12-07_la_zombie.jpg"
+  },
+  {
+    "release_date": "2011-12-07",
+    "title": "Livide",
+    "director": "Alexandre Bustillo , Julien Maury",
+    "image_path": "images/2011-12-07_livide.jpg"
+  },
+  {
+    "release_date": "2011-12-07",
+    "title": "Oki's Movie",
+    "director": "Hong Sang-Soo",
+    "image_path": "images/2011-12-07_okis_movie.jpg"
+  },
+  {
+    "release_date": "2011-12-07",
+    "title": "Soudain le 22 mai",
+    "director": "Koen Mortier",
+    "image_path": "images/2011-12-07_soudain_le_22_mai.jpg"
+  }
+]

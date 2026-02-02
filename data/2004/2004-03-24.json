@@ -1,0 +1,30 @@
+[
+  {
+    "release_date": "2004-03-24",
+    "title": "Hidalgo",
+    "director": "Joe Johnston",
+    "image_path": "images/2004-03-24_hidalgo.jpg"
+  },
+  {
+    "release_date": "2004-03-24",
+    "title": "Au bout du monde à gauche",
+    "director": "Avi Nesher",
+    "image_path": "images/2004-03-24_au_bout_du_monde_a_gauche.jpg"
+  },
+  {
+    "release_date": "2004-03-24",
+    "title": "Du Mali au Mississippi",
+    "director": "Martin Scorsese",
+    "image_path": "images/2004-03-24_du_mali_au_mississippi.jpg"
+  },
+  {
+    "release_date": "2004-03-24",
+    "title": "La surprise",
+    "director": "Richard Benjamin"
+  },
+  {
+    "release_date": "2004-03-24",
+    "title": "Le Bandit",
+    "director": "Edgar G. Ulmer , Edgar G Ulmer"
+  }
+]

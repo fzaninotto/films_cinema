@@ -1,0 +1,26 @@
+[
+  {
+    "release_date": "2004-05-12",
+    "title": "Troie",
+    "director": "Wolfgang Petersen",
+    "image_path": "images/2004-05-12_troie.jpg"
+  },
+  {
+    "release_date": "2004-05-12",
+    "title": "Chevalier",
+    "director": "Brian Helgeland",
+    "image_path": "images/2004-05-12_chevalier.jpg"
+  },
+  {
+    "release_date": "2004-05-12",
+    "title": "La Mauvaise Éducation",
+    "director": "Pedro Almodóvar",
+    "image_path": "images/2004-05-12_la_mauvaise_education.jpg"
+  },
+  {
+    "release_date": "2004-05-12",
+    "title": "Razzia sur la chnouf",
+    "director": "Henri Decoin , Juanita Moore",
+    "image_path": "images/2004-05-12_razzia_sur_la_chnouf.jpg"
+  }
+]

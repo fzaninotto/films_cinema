@@ -1,0 +1,41 @@
+[
+  {
+    "release_date": "2004-11-24",
+    "title": "Le Grand Voyage",
+    "director": "Ismaël Ferroukhi"
+  },
+  {
+    "release_date": "2004-11-24",
+    "title": "Si seulement...",
+    "director": "Gil Junger",
+    "image_path": "images/2004-11-24_si_seulement.jpg"
+  },
+  {
+    "release_date": "2004-11-24",
+    "title": "Les Indestructibles",
+    "director": "Brad Bird",
+    "image_path": "images/2004-11-24_les_indestructibles.jpg"
+  },
+  {
+    "release_date": "2004-11-24",
+    "title": "Mort un dimanche de pluie",
+    "director": "Joël Santoni",
+    "image_path": "images/2004-11-24_mort_un_dimanche_de_pluie.jpg"
+  },
+  {
+    "release_date": "2004-11-24",
+    "title": "Tropical malady",
+    "director": "Weerasethakul Apichatpong , Apichatpong Weerasethakul",
+    "image_path": "images/2004-11-24_tropical_malady.jpg"
+  },
+  {
+    "release_date": "2004-11-24",
+    "title": "Caterina va en ville",
+    "director": "Paolo Virzi"
+  },
+  {
+    "release_date": "2004-11-24",
+    "title": "One Dollar Curry",
+    "director": "Vijay Singh"
+  }
+]

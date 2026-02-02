@@ -1,0 +1,44 @@
+[
+  {
+    "release_date": "2006-08-23",
+    "title": "Nausicaä de la vallée du vent",
+    "director": "Hayao Miyazaki",
+    "image_path": "images/2006-08-23_nausicaa_de_la_vallee_du_vent.jpg"
+  },
+  {
+    "release_date": "2006-08-23",
+    "title": "Saw",
+    "director": "James Wan",
+    "image_path": "images/2006-08-23_saw.jpg"
+  },
+  {
+    "release_date": "2006-08-23",
+    "title": "La Jeune fille de l'eau",
+    "director": "M. Night Shyamalan",
+    "image_path": "images/2006-08-23_la_jeune_fille_de_leau.jpg"
+  },
+  {
+    "release_date": "2006-08-23",
+    "title": "Taxidermie",
+    "director": "György Palfi , Gyorgi Palfi",
+    "image_path": "images/2006-08-23_taxidermie.jpg"
+  },
+  {
+    "release_date": "2006-08-23",
+    "title": "L'Immeuble Yacoubian",
+    "director": "Marwan Hamed , Hamed Marwan , Joe Maffei",
+    "image_path": "images/2006-08-23_limmeuble_yacoubian.jpg"
+  },
+  {
+    "release_date": "2006-08-23",
+    "title": "Selon Charlie",
+    "director": "Nicole Garcia , David Marshall Grant",
+    "image_path": "images/2006-08-23_selon_charlie.jpg"
+  },
+  {
+    "release_date": "2006-08-23",
+    "title": "L'Esclave libre",
+    "director": "Raoul Walsh",
+    "image_path": "images/2006-08-23_lesclave_libre.jpg"
+  }
+]

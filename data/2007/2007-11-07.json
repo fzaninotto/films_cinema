@@ -1,0 +1,44 @@
+[
+  {
+    "release_date": "2007-11-07",
+    "title": "Ecrire pour exister",
+    "director": "Richard LaGravenese",
+    "image_path": "images/2007-11-07_ecrire_pour_exister.jpg"
+  },
+  {
+    "release_date": "2007-11-07",
+    "title": "Les Promesses de l'ombre",
+    "director": "David Cronenberg , Josef Wladyka",
+    "image_path": "images/2007-11-07_les_promesses_de_lombre.jpg"
+  },
+  {
+    "release_date": "2007-11-07",
+    "title": "Darling",
+    "director": "Tim Pigott-Smith , Christine Carrière",
+    "image_path": "images/2007-11-07_darling.jpg"
+  },
+  {
+    "release_date": "2007-11-07",
+    "title": "Dans la vallée d'Elah",
+    "director": "Paul Haggis",
+    "image_path": "images/2007-11-07_dans_la_vallee_delah.jpg"
+  },
+  {
+    "release_date": "2007-11-07",
+    "title": "Tête d'or",
+    "director": "Gilles Blanchard",
+    "image_path": "images/2007-11-07_tete_dor.jpg"
+  },
+  {
+    "release_date": "2007-11-07",
+    "title": "La Commune",
+    "director": "Peter Watkins",
+    "image_path": "images/2007-11-07_la_commune.jpg"
+  },
+  {
+    "release_date": "2007-11-07",
+    "title": "Le Vaisseau fantôme",
+    "director": "Michael Curtiz",
+    "image_path": "images/2007-11-07_le_vaisseau_fantome.jpg"
+  }
+]

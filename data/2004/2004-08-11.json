@@ -1,0 +1,26 @@
+[
+  {
+    "release_date": "2004-08-11",
+    "title": "Garfield le film",
+    "director": "Peter Hewitt",
+    "image_path": "images/2004-08-11_garfield_le_film.jpg"
+  },
+  {
+    "release_date": "2004-08-11",
+    "title": "Hellboy",
+    "director": "Guillermo Del Toro",
+    "image_path": "images/2004-08-11_hellboy.jpg"
+  },
+  {
+    "release_date": "2004-08-11",
+    "title": "Open Water: en eaux profondes",
+    "director": "Chris Kentis",
+    "image_path": "images/2004-08-11_open_water_en_eaux_profondes.jpg"
+  },
+  {
+    "release_date": "2004-08-11",
+    "title": "Violence et passion",
+    "director": "Luchino Visconti",
+    "image_path": "images/2004-08-11_violence_et_passion.jpg"
+  }
+]

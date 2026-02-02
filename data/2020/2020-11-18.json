@@ -1,0 +1,30 @@
+[
+  {
+    "release_date": "2020-11-18",
+    "title": "En attendant la neige",
+    "director": "Nina Bisyarina , Svetlana Andrianova , Chaïtane Conversat , Nina Bisiarina , Lenka Ivancikova , Raúl Robin Morales Reyes",
+    "image_path": "images/2020-11-18_en_attendant_la_neige.jpg"
+  },
+  {
+    "release_date": "2020-11-18",
+    "title": "Balloon",
+    "director": "Michael Herbig , Pema Tseden",
+    "image_path": "images/2020-11-18_balloon.jpg"
+  },
+  {
+    "release_date": "2020-11-18",
+    "title": "Faustine, apôtre de la miséricorde",
+    "director": "Michal Kondrat",
+    "image_path": "images/2020-11-18_faustine_apotre_de_la_misericorde.jpg"
+  },
+  {
+    "release_date": "2020-11-18",
+    "title": "La face cachée des énergies vertes",
+    "director": "Guillaume Pitron , Jean-Louis Perez"
+  },
+  {
+    "release_date": "2020-11-18",
+    "title": "Leni Riefenstahl : La fin d'un mythe",
+    "director": "Michael Kloft"
+  }
+]

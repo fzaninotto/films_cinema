@@ -1,0 +1,94 @@
+[
+  {
+    "release_date": "2019-01-02",
+    "title": "Bienvenue à Marwen",
+    "director": "Robert Zemeckis",
+    "image_path": "images/2019-01-02_bienvenue_a_marwen.jpg"
+  },
+  {
+    "release_date": "2019-01-02",
+    "title": "Butch Cassidy et le Kid",
+    "director": "George Roy Hill , George Roy Hill",
+    "image_path": "images/2019-01-02_butch_cassidy_et_le_kid.jpg"
+  },
+  {
+    "release_date": "2019-01-02",
+    "title": "Invasion Los Angeles",
+    "director": "John Carpenter",
+    "image_path": "images/2019-01-02_invasion_los_angeles.jpg"
+  },
+  {
+    "release_date": "2019-01-02",
+    "title": "Premières vacances",
+    "director": "Patrick Cassir",
+    "image_path": "images/2019-01-02_premieres_vacances.jpg"
+  },
+  {
+    "release_date": "2019-01-02",
+    "title": "Un beau voyou",
+    "director": "Lucas Bernard",
+    "image_path": "images/2019-01-02_un_beau_voyou.jpg"
+  },
+  {
+    "release_date": "2019-01-02",
+    "title": "Undercover - Une histoire vraie",
+    "director": "Yann Demange",
+    "image_path": "images/2019-01-02_undercover_-_une_histoire_vraie.jpg"
+  },
+  {
+    "release_date": "2019-01-02",
+    "title": "Qui a tué Lady Winsley ?",
+    "director": "Hiner Saleem",
+    "image_path": "images/2019-01-02_qui_a_tue_lady_winsley_.jpg"
+  },
+  {
+    "release_date": "2019-01-02",
+    "title": "Never-Ending Man : Hayao Miyazaki",
+    "director": "Kaku Arakawa",
+    "image_path": "images/2019-01-02_never-ending_man_hayao_miyazaki.jpg"
+  },
+  {
+    "release_date": "2019-01-02",
+    "title": "A Bread Factory, Part 2 : un petit coin de paradis",
+    "director": "Patrick Wang",
+    "image_path": "images/2019-01-02_a_bread_factory_part_2_un_petit_coin_de_paradis.jpg"
+  },
+  {
+    "release_date": "2019-01-02",
+    "title": "Carmen (Met -Pathé Live)",
+    "director": "Richard Eyre"
+  },
+  {
+    "release_date": "2019-01-02",
+    "title": "Hyènes",
+    "director": "Djibril Diop Mambety , Ed Begley",
+    "image_path": "images/2019-01-02_hyenes.jpg"
+  },
+  {
+    "release_date": "2019-01-02",
+    "title": "Les Garçons sauvages",
+    "director": "Bertrand Mandico",
+    "image_path": "images/2019-01-02_les_garcons_sauvages.jpg"
+  },
+  {
+    "release_date": "2019-01-02",
+    "title": "Moonwalk One",
+    "director": "Theo Kamecke",
+    "image_path": "images/2019-01-02_moonwalk_one.jpg"
+  },
+  {
+    "release_date": "2019-01-02",
+    "title": "Pigeon Impossible"
+  },
+  {
+    "release_date": "2019-01-02",
+    "title": "Une Nuit à Casablanca",
+    "director": "Archie Mayo",
+    "image_path": "images/2019-01-02_une_nuit_a_casablanca.jpg"
+  },
+  {
+    "release_date": "2019-01-02",
+    "title": "Un homme qui me plaît",
+    "director": "Claude Lelouch"
+  }
+]

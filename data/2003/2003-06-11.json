@@ -1,0 +1,29 @@
+[
+  {
+    "release_date": "2003-06-11",
+    "title": "La Recrue",
+    "director": "Roger Donaldson",
+    "image_path": "images/2003-06-11_la_recrue.jpg"
+  },
+  {
+    "release_date": "2003-06-11",
+    "title": "Ginger Wolf",
+    "director": "John Fawcett",
+    "image_path": "images/2003-06-11_ginger_wolf.jpg"
+  },
+  {
+    "release_date": "2003-06-11",
+    "title": "Les 9 Vies de Tomas Katz",
+    "director": "Ben Hopkins"
+  },
+  {
+    "release_date": "2003-06-11",
+    "title": "Paris selon Moussa",
+    "director": "Cheik Doukouré"
+  },
+  {
+    "release_date": "2003-06-11",
+    "title": "Postman",
+    "director": "Kevin Costner"
+  }
+]

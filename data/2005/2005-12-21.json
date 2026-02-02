@@ -1,0 +1,58 @@
+[
+  {
+    "release_date": "2005-12-21",
+    "title": "Ali G",
+    "director": "Mark Mylod"
+  },
+  {
+    "release_date": "2005-12-21",
+    "title": "La Mélodie du bonheur",
+    "director": "Robert Wise , Charles Krohn",
+    "image_path": "images/2005-12-21_la_melodie_du_bonheur.jpg"
+  },
+  {
+    "release_date": "2005-12-21",
+    "title": "Angel-A",
+    "director": "Luc Besson",
+    "image_path": "images/2005-12-21_angel-a.jpg"
+  },
+  {
+    "release_date": "2005-12-21",
+    "title": "Antares",
+    "director": "Götz Spielmann , Götz Spielman",
+    "image_path": "images/2005-12-21_antares.jpg"
+  },
+  {
+    "release_date": "2005-12-21",
+    "title": "Mary",
+    "director": "Abel Ferrara",
+    "image_path": "images/2005-12-21_mary.jpg"
+  },
+  {
+    "release_date": "2005-12-21",
+    "title": "Viva Zapatero",
+    "director": "Sabina Guzzanti",
+    "image_path": "images/2005-12-21_viva_zapatero.jpg"
+  },
+  {
+    "release_date": "2005-12-21",
+    "title": "Alice au pays des merveilles",
+    "director": "Norman Z McLeod"
+  },
+  {
+    "release_date": "2005-12-21",
+    "title": "Charlot fait du ciné",
+    "director": "George Nichols , Mack Sennett",
+    "image_path": "images/2005-12-21_charlot_fait_du_cine.jpg"
+  },
+  {
+    "release_date": "2005-12-21",
+    "title": "Charlot pompier"
+  },
+  {
+    "release_date": "2005-12-21",
+    "title": "Milwaukee, Minnesota",
+    "director": "Allan Mindel",
+    "image_path": "images/2005-12-21_milwaukee_minnesota.jpg"
+  }
+]

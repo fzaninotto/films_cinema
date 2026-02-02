@@ -1,0 +1,86 @@
+[
+  {
+    "release_date": "2013-09-04",
+    "title": "Rashômon",
+    "director": "Akira Kurosawa",
+    "image_path": "images/2013-09-04_rashomon.jpg"
+  },
+  {
+    "release_date": "2013-09-04",
+    "title": "Argo",
+    "director": "Ben Affleck , Thom Mathews",
+    "image_path": "images/2013-09-04_argo.jpg"
+  },
+  {
+    "release_date": "2013-09-04",
+    "title": "White House Down",
+    "director": "Roland Emmerich",
+    "image_path": "images/2013-09-04_white_house_down.jpg"
+  },
+  {
+    "release_date": "2013-09-04",
+    "title": "Very Bad Cops",
+    "director": "Adam McKay",
+    "image_path": "images/2013-09-04_very_bad_cops.jpg"
+  },
+  {
+    "release_date": "2013-09-04",
+    "title": "Very Bad Trip 2",
+    "director": "Todd Phillips , Elizabeth Daily , Todd Philipps",
+    "image_path": "images/2013-09-04_very_bad_trip_2.jpg"
+  },
+  {
+    "release_date": "2013-09-04",
+    "title": "You're Next",
+    "director": "Adam Wingard",
+    "image_path": "images/2013-09-04_youre_next.jpg"
+  },
+  {
+    "release_date": "2013-09-04",
+    "title": "Gare du Nord",
+    "director": "Claire Simon",
+    "image_path": "images/2013-09-04_gare_du_nord.jpg"
+  },
+  {
+    "release_date": "2013-09-04",
+    "title": "La Danza de la Realidad",
+    "director": "Alejandro Jodorowsky",
+    "image_path": "images/2013-09-04_la_danza_de_la_realidad.jpg"
+  },
+  {
+    "release_date": "2013-09-04",
+    "title": "Runaway Train",
+    "director": "Andrei Konchalovsky , Andrey Konchalovskiy",
+    "image_path": "images/2013-09-04_runaway_train.jpg"
+  },
+  {
+    "release_date": "2013-09-04",
+    "title": "Tirez la langue, mademoiselle",
+    "director": "Axelle Ropert",
+    "image_path": "images/2013-09-04_tirez_la_langue_mademoiselle.jpg"
+  },
+  {
+    "release_date": "2013-09-04",
+    "title": "Chaque jour que Dieu fait",
+    "director": "Paolo Virzi",
+    "image_path": "images/2013-09-04_chaque_jour_que_dieu_fait.jpg"
+  },
+  {
+    "release_date": "2013-09-04",
+    "title": "Khmers Rouges, une simple question de justice",
+    "director": "Rémi Lainé , Jean Reynaud",
+    "image_path": "images/2013-09-04_khmers_rouges_une_simple_question_de_justice.jpg"
+  },
+  {
+    "release_date": "2013-09-04",
+    "title": "Les Aventures fantastiques",
+    "director": "Karel Zeman",
+    "image_path": "images/2013-09-04_les_aventures_fantastiques.jpg"
+  },
+  {
+    "release_date": "2013-09-04",
+    "title": "Vic + Flo ont vu un ours",
+    "director": "Denis Côté",
+    "image_path": "images/2013-09-04_vic_flo_ont_vu_un_ours.jpg"
+  }
+]

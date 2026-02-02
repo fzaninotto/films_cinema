@@ -1,0 +1,75 @@
+[
+  {
+    "release_date": "2000-02-02",
+    "title": "American Beauty",
+    "director": "Sam Mendes",
+    "image_path": "images/2000-02-02_american_beauty.jpg"
+  },
+  {
+    "release_date": "2000-02-02",
+    "title": "La Momie",
+    "director": "Stephen Sommers",
+    "image_path": "images/2000-02-02_la_momie.jpg"
+  },
+  {
+    "release_date": "2000-02-02",
+    "title": "4 Mariages et un enterrement",
+    "director": "Mike Newell",
+    "image_path": "images/2000-02-02_4_mariages_et_un_enterrement.jpg"
+  },
+  {
+    "release_date": "2000-02-02",
+    "title": "Fish and Chips",
+    "director": "Damien O'Donnell"
+  },
+  {
+    "release_date": "2000-02-02",
+    "title": "Belles à mourir",
+    "director": "Michael Patrick Jann",
+    "image_path": "images/2000-02-02_belles_a_mourir.jpg"
+  },
+  {
+    "release_date": "2000-02-02",
+    "title": "Ailleurs l'herbe est plus verte",
+    "director": "Stanley Donen"
+  },
+  {
+    "release_date": "2000-02-02",
+    "title": "Christine",
+    "director": "Pierre Gaspard-Huit",
+    "image_path": "images/2000-02-02_christine.jpg"
+  },
+  {
+    "release_date": "2000-02-02",
+    "title": "Compagne de voyage",
+    "director": "Peter Del Monte"
+  },
+  {
+    "release_date": "2000-02-02",
+    "title": "Des filles disparaissent",
+    "director": "Douglas Sirk"
+  },
+  {
+    "release_date": "2000-02-02",
+    "title": "Fat City",
+    "director": "John Huston , Thomas Chong"
+  },
+  {
+    "release_date": "2000-02-02",
+    "title": "La Femme au gardénia",
+    "director": "Michael Curtiz , Fritz Lang , Akira Nagoya",
+    "image_path": "images/2000-02-02_la_femme_au_gardenia.jpg"
+  },
+  {
+    "release_date": "2000-02-02",
+    "title": "Le jeu du faucon",
+    "director": "John Schlesinger",
+    "image_path": "images/2000-02-02_le_jeu_du_faucon.jpg"
+  },
+  {
+    "release_date": "2000-02-02",
+    "title": "The Duke of Burgundy",
+    "director": "Terrence Malick , Peter Strickland",
+    "image_path": "images/2000-02-02_the_duke_of_burgundy.jpg"
+  }
+]

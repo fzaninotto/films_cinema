@@ -1,0 +1,128 @@
+[
+  {
+    "release_date": "2023-07-05",
+    "title": "Thelma et Louise",
+    "director": "Ridley Scott",
+    "image_path": "images/2023-07-05_thelma_et_louise.jpg"
+  },
+  {
+    "release_date": "2023-07-05",
+    "title": "Vie privée",
+    "director": "Louis Malle",
+    "image_path": "images/2023-07-05_vie_privee.jpg"
+  },
+  {
+    "release_date": "2023-07-05",
+    "title": "Les filles d'Olfa",
+    "director": "Kaouther Ben Hania",
+    "image_path": "images/2023-07-05_les_filles_dolfa.jpg"
+  },
+  {
+    "release_date": "2023-07-05",
+    "title": "Une nuit",
+    "director": "Alex Lutz",
+    "image_path": "images/2023-07-05_une_nuit.jpg"
+  },
+  {
+    "release_date": "2023-07-05",
+    "title": "Master Gardener",
+    "director": "Paul Schrader",
+    "image_path": "images/2023-07-05_master_gardener.jpg"
+  },
+  {
+    "release_date": "2023-07-05",
+    "title": "A contretemps",
+    "director": "Juan Botto",
+    "image_path": "images/2023-07-05_a_contretemps.jpg"
+  },
+  {
+    "release_date": "2023-07-05",
+    "title": "Au cimetière de la pellicule",
+    "director": "Thierno Diallo",
+    "image_path": "images/2023-07-05_au_cimetiere_de_la_pellicule.jpg"
+  },
+  {
+    "release_date": "2023-07-05",
+    "title": "Cléo, Melvil et moi",
+    "director": "Arnaud Viard",
+    "image_path": "images/2023-07-05_cleo_melvil_et_moi.jpg"
+  },
+  {
+    "release_date": "2023-07-05",
+    "title": "Insidious : The Red Door",
+    "director": "Patrick Wilson",
+    "image_path": "images/2023-07-05_insidious_the_red_door.jpg"
+  },
+  {
+    "release_date": "2023-07-05",
+    "title": "Joy Ride",
+    "image_path": "images/2023-07-05_joy_ride.jpg"
+  },
+  {
+    "release_date": "2023-07-05",
+    "title": "Léo",
+    "director": "Fabienne Mahé"
+  },
+  {
+    "release_date": "2023-07-05",
+    "title": "Luise",
+    "director": "Gerard Crossan",
+    "image_path": "images/2023-07-05_luise.jpg"
+  },
+  {
+    "release_date": "2023-07-05",
+    "title": "Marinaleda",
+    "image_path": "images/2023-07-05_marinaleda.jpg"
+  },
+  {
+    "release_date": "2023-07-05",
+    "title": "Miraculous",
+    "director": "Jeremy Zag",
+    "image_path": "images/2023-07-05_miraculous.jpg"
+  },
+  {
+    "release_date": "2023-07-05",
+    "title": "Mitard, l'angle mort",
+    "director": "Laurence Delleur"
+  },
+  {
+    "release_date": "2023-07-05",
+    "title": "Odesza : The Last Goodbye Cinematic Experience",
+    "image_path": "images/2023-07-05_odesza_the_last_goodbye_cinematic_experience.jpg"
+  },
+  {
+    "release_date": "2023-07-05",
+    "title": "Promenade à Cracovie",
+    "director": "Mateusz Kudla , Anna Kokoszka-Romer",
+    "image_path": "images/2023-07-05_promenade_a_cracovie.jpg"
+  },
+  {
+    "release_date": "2023-07-05",
+    "title": "Tinnitus",
+    "director": "Verona , Thaia Perez , Alli Willow , Mawusi Tulani , Jessica Fiorentino",
+    "image_path": "images/2023-07-05_tinnitus.jpg"
+  },
+  {
+    "release_date": "2023-07-05",
+    "title": "Tout le monde m'appelle Mike",
+    "director": "Guillaume Bonnier"
+  },
+  {
+    "release_date": "2023-07-05",
+    "title": "Trous de mémoire",
+    "director": "Paul Vecchiali",
+    "image_path": "images/2023-07-05_trous_de_memoire.jpg"
+  },
+  {
+    "release_date": "2023-07-05",
+    "title": "Welfare",
+    "director": "Frederick Wiseman",
+    "image_path": "images/2023-07-05_welfare.jpg"
+  },
+  {
+    "release_date": "2023-07-05",
+    "title": "Yo Mama",
+    "director": "Leïla Sy , Amadou Mariko",
+    "image_path": "images/2023-07-05_yo_mama.jpg"
+  }
+]

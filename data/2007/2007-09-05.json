@@ -1,0 +1,54 @@
+[
+  {
+    "release_date": "2007-09-05",
+    "title": "Sicko",
+    "director": "Michael Moore",
+    "image_path": "images/2007-09-05_sicko.jpg"
+  },
+  {
+    "release_date": "2007-09-05",
+    "title": "Rogue - L'ultime affrontement",
+    "director": "G. Atwell Philip , Philip G. Atwell",
+    "image_path": "images/2007-09-05_rogue_-_lultime_affrontement.jpg"
+  },
+  {
+    "release_date": "2007-09-05",
+    "title": "Réincarnation",
+    "director": "Takashi Shimizu",
+    "image_path": "images/2007-09-05_reincarnation.jpg"
+  },
+  {
+    "release_date": "2007-09-05",
+    "title": "Après la vie",
+    "director": "Tsilla Chelton , Lucas Belvaux"
+  },
+  {
+    "release_date": "2007-09-05",
+    "title": "Waitress",
+    "director": "Adrienne Shelly",
+    "image_path": "images/2007-09-05_waitress.jpg"
+  },
+  {
+    "release_date": "2007-09-05",
+    "title": "La Vie d'artiste",
+    "director": "Marc Fitoussi",
+    "image_path": "images/2007-09-05_la_vie_dartiste.jpg"
+  },
+  {
+    "release_date": "2007-09-05",
+    "title": "La Revanche des humanoïdes",
+    "director": "Albert Barillé",
+    "image_path": "images/2007-09-05_la_revanche_des_humanoides.jpg"
+  },
+  {
+    "release_date": "2007-09-05",
+    "title": "Les Méduses",
+    "director": "Shira Geffen , Etgar Keret",
+    "image_path": "images/2007-09-05_les_meduses.jpg"
+  },
+  {
+    "release_date": "2007-09-05",
+    "title": "Mère Teresa",
+    "director": "Fabrizio Costa"
+  }
+]

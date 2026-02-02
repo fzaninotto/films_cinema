@@ -1,0 +1,77 @@
+[
+  {
+    "release_date": "2007-09-12",
+    "title": "Alexandre",
+    "director": "Oliver Stone , Françoise Verley",
+    "image_path": "images/2007-09-12_alexandre.jpg"
+  },
+  {
+    "release_date": "2007-09-12",
+    "title": "Le Goût de la vie",
+    "director": "Scott Hicks",
+    "image_path": "images/2007-09-12_le_gout_de_la_vie.jpg"
+  },
+  {
+    "release_date": "2007-09-12",
+    "title": "Devil's Rejects",
+    "director": "Rob Zombie",
+    "image_path": "images/2007-09-12_devils_rejects.jpg"
+  },
+  {
+    "release_date": "2007-09-12",
+    "title": "King of California",
+    "director": "Mike Cahill",
+    "image_path": "images/2007-09-12_king_of_california.jpg"
+  },
+  {
+    "release_date": "2007-09-12",
+    "title": "L'Age d'homme... maintenant ou jamais",
+    "director": "Raphaël Fejtö",
+    "image_path": "images/2007-09-12_lage_dhomme_maintenant_ou_jamais.jpg"
+  },
+  {
+    "release_date": "2007-09-12",
+    "title": "La Vérité ou presque",
+    "director": "Sam Karmann",
+    "image_path": "images/2007-09-12_la_verite_ou_presque.jpg"
+  },
+  {
+    "release_date": "2007-09-12",
+    "title": "La Question humaine",
+    "director": "Nicolas Klotz , Hanna Hall",
+    "image_path": "images/2007-09-12_la_question_humaine.jpg"
+  },
+  {
+    "release_date": "2007-09-12",
+    "title": "Charly",
+    "director": "Isild Le Besco"
+  },
+  {
+    "release_date": "2007-09-12",
+    "title": "Caravaggio",
+    "director": "Derek Jarman , Samia Gamal"
+  },
+  {
+    "release_date": "2007-09-12",
+    "title": "Comment réussir quand on est con et pleurnichard",
+    "director": "Michel Audiard",
+    "image_path": "images/2007-09-12_comment_reussir_quand_on_est_con_et_pleurnichard.jpg"
+  },
+  {
+    "release_date": "2007-09-12",
+    "title": "Kaïdan",
+    "director": "Hideo Nakata",
+    "image_path": "images/2007-09-12_kaidan.jpg"
+  },
+  {
+    "release_date": "2007-09-12",
+    "title": "My new Picture",
+    "director": "Bertrand Bonello"
+  },
+  {
+    "release_date": "2007-09-12",
+    "title": "The Offence",
+    "director": "Sidney Lumet , Laura Marinoni",
+    "image_path": "images/2007-09-12_the_offence.jpg"
+  }
+]

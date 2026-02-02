@@ -1,0 +1,44 @@
+[
+  {
+    "release_date": "2008-11-12",
+    "title": "L'Echange",
+    "director": "Clint Eastwood , Pete Postlethwaite",
+    "image_path": "images/2008-11-12_lechange.jpg"
+  },
+  {
+    "release_date": "2008-11-12",
+    "title": "Vilaine",
+    "director": "Allan Mauduit , Jean-Patrick Benes",
+    "image_path": "images/2008-11-12_vilaine.jpg"
+  },
+  {
+    "release_date": "2008-11-12",
+    "title": "Max Payne",
+    "director": "John Moore",
+    "image_path": "images/2008-11-12_max_payne.jpg"
+  },
+  {
+    "release_date": "2008-11-12",
+    "title": "Les Grandes Personnes",
+    "director": "Anna Novion",
+    "image_path": "images/2008-11-12_les_grandes_personnes.jpg"
+  },
+  {
+    "release_date": "2008-11-12",
+    "title": "La Bande à Baader",
+    "director": "Uli Edel",
+    "image_path": "images/2008-11-12_la_bande_a_baader.jpg"
+  },
+  {
+    "release_date": "2008-11-12",
+    "title": "Les Dames de Cornouailles",
+    "director": "Charles Dance",
+    "image_path": "images/2008-11-12_les_dames_de_cornouailles.jpg"
+  },
+  {
+    "release_date": "2008-11-12",
+    "title": "Serbis",
+    "director": "Brillante Mendoza",
+    "image_path": "images/2008-11-12_serbis.jpg"
+  }
+]

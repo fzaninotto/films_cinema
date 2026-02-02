@@ -1,0 +1,25 @@
+[
+  {
+    "release_date": "2000-05-17",
+    "title": "Saint-Cyr",
+    "director": "Patricia Mazuy",
+    "image_path": "images/2000-05-17_saint-cyr.jpg"
+  },
+  {
+    "release_date": "2000-05-17",
+    "title": "Des gens sans importance",
+    "director": "Henri Verneuil",
+    "image_path": "images/2000-05-17_des_gens_sans_importance.jpg"
+  },
+  {
+    "release_date": "2000-05-17",
+    "title": "Dark Angel",
+    "director": "Craig R Baxley",
+    "image_path": "images/2000-05-17_dark_angel.jpg"
+  },
+  {
+    "release_date": "2000-05-17",
+    "title": "Simon Sez sauvetage explosif",
+    "director": "Kevin Elders"
+  }
+]

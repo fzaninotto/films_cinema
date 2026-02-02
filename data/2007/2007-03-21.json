@@ -1,0 +1,54 @@
+[
+  {
+    "release_date": "2007-03-21",
+    "title": "300",
+    "director": "Zack Snyder",
+    "image_path": "images/2007-03-21_300.jpg"
+  },
+  {
+    "release_date": "2007-03-21",
+    "title": "Shrek 2",
+    "director": "Andrew Adamson , Kelly Asbury , Conrad Vernon , Alina Phelan",
+    "image_path": "images/2007-03-21_shrek_2.jpg"
+  },
+  {
+    "release_date": "2007-03-21",
+    "title": "Les Orgueilleux",
+    "director": "Yves Allégret , Tommy Kirk , Rafael Portas",
+    "image_path": "images/2007-03-21_les_orgueilleux.jpg"
+  },
+  {
+    "release_date": "2007-03-21",
+    "title": "Les Lip, l'imagination au pouvoir",
+    "director": "Christian Rouaud",
+    "image_path": "images/2007-03-21_les_lip_limagination_au_pouvoir.jpg"
+  },
+  {
+    "release_date": "2007-03-21",
+    "title": "La Consultation",
+    "director": "Crécy Hélène de",
+    "image_path": "images/2007-03-21_la_consultation.jpg"
+  },
+  {
+    "release_date": "2007-03-21",
+    "title": "J'attends quelqu'un",
+    "director": "Jérôme Bonnell",
+    "image_path": "images/2007-03-21_jattends_quelquun.jpg"
+  },
+  {
+    "release_date": "2007-03-21",
+    "title": "Absolute Wilson",
+    "director": "Katharina Otto-Bernstein"
+  },
+  {
+    "release_date": "2007-03-21",
+    "title": "Daft Punk's Electroma",
+    "director": "Thomas Bangalter , Guy-Manuel De Homem-Christo , Ana María Nazar"
+  },
+  {
+    "release_date": "2007-03-21",
+    "title": "L'Homme qui rêvait d'un enfant",
+    "director": "Delphine Gleize",
+    "image_path": "images/2007-03-21_lhomme_qui_revait_dun_enfant.jpg"
+  }
+]

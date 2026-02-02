@@ -1,0 +1,49 @@
+[
+  {
+    "release_date": "2008-08-13",
+    "title": "The Dark Knight, Le Chevalier Noir",
+    "director": "Christopher Nolan",
+    "image_path": "images/2008-08-13_the_dark_knight_le_chevalier_noir.jpg"
+  },
+  {
+    "release_date": "2008-08-13",
+    "title": "Solitaire",
+    "director": "Greg McLean , Francis Damberger",
+    "image_path": "images/2008-08-13_solitaire.jpg"
+  },
+  {
+    "release_date": "2008-08-13",
+    "title": "L'Empreinte de l'Ange",
+    "director": "Safy Nebbou",
+    "image_path": "images/2008-08-13_lempreinte_de_lange.jpg"
+  },
+  {
+    "release_date": "2008-08-13",
+    "title": "Appelez-moi Dave",
+    "director": "Brian Robbins",
+    "image_path": "images/2008-08-13_appelez-moi_dave.jpg"
+  },
+  {
+    "release_date": "2008-08-13",
+    "title": "Versailles",
+    "director": "Pierre Schoeller",
+    "image_path": "images/2008-08-13_versailles.jpg"
+  },
+  {
+    "release_date": "2008-08-13",
+    "title": "Le Vieil Homme et l'Enfant",
+    "director": "Claude Berri",
+    "image_path": "images/2008-08-13_le_vieil_homme_et_lenfant.jpg"
+  },
+  {
+    "release_date": "2008-08-13",
+    "title": "Une Chanson dans la tête",
+    "director": "Hany Tamba",
+    "image_path": "images/2008-08-13_une_chanson_dans_la_tete.jpg"
+  },
+  {
+    "release_date": "2008-08-13",
+    "title": "Le Soleil se lève aussi",
+    "director": "Jiang Wen"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "release_date": "2000-05-10",
+    "title": "Les Virtuoses",
+    "director": "Mark Herman , Toti Rivas"
+  },
+  {
+    "release_date": "2000-05-10",
+    "title": "Vatel",
+    "director": "Roland Joffe , Alfons Conde",
+    "image_path": "images/2000-05-10_vatel.jpg"
+  },
+  {
+    "release_date": "2000-05-10",
+    "title": "Mon voisin le tueur",
+    "director": "Jonathan Lynn",
+    "image_path": "images/2000-05-10_mon_voisin_le_tueur.jpg"
+  },
+  {
+    "release_date": "2000-05-10",
+    "title": "Queimada",
+    "director": "Gillo Pontecorvo",
+    "image_path": "images/2000-05-10_queimada.jpg"
+  },
+  {
+    "release_date": "2000-05-10",
+    "title": "Les conquérants de Carson City",
+    "director": "André De Toth",
+    "image_path": "images/2000-05-10_les_conquerants_de_carson_city.jpg"
+  },
+  {
+    "release_date": "2000-05-10",
+    "title": "Les sept péchés capitaux",
+    "director": "Claude Chabrol , Jacques Demy , Jean-Luc Godard , Roger Vadim , Edouard Molinaro , Eugène Ionesco",
+    "image_path": "images/2000-05-10_les_sept_peches_capitaux.jpg"
+  }
+]

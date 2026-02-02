@@ -1,0 +1,67 @@
+[
+  {
+    "release_date": "2020-06-24",
+    "title": "Joe Hill",
+    "director": "Bo Widerberg , Eddie Mayehoff",
+    "image_path": "images/2020-06-24_joe_hill.jpg"
+  },
+  {
+    "release_date": "2020-06-24",
+    "title": "Adalen 31",
+    "director": "Bo Widerberg , Eddie Mayehoff",
+    "image_path": "images/2020-06-24_adalen_31.jpg"
+  },
+  {
+    "release_date": "2020-06-24",
+    "title": "Amour 65",
+    "director": "Bo Widerberg",
+    "image_path": "images/2020-06-24_amour_65.jpg"
+  },
+  {
+    "release_date": "2020-06-24",
+    "title": "Elvira Madigan",
+    "director": "Bo Widerberg , Eddie Mayehoff",
+    "image_path": "images/2020-06-24_elvira_madigan.jpg"
+  },
+  {
+    "release_date": "2020-06-24",
+    "title": "Le dernier souffle du dragon",
+    "director": "Jean-Yves Arnaud"
+  },
+  {
+    "release_date": "2020-06-24",
+    "title": "Le Péché suédois",
+    "director": "Bo Widerberg , Eddie Mayehoff",
+    "image_path": "images/2020-06-24_le_peche_suedois.jpg"
+  },
+  {
+    "release_date": "2020-06-24",
+    "title": "Le Quartier du corbeau",
+    "director": "Bo Widerberg",
+    "image_path": "images/2020-06-24_le_quartier_du_corbeau.jpg"
+  },
+  {
+    "release_date": "2020-06-24",
+    "title": "Midnight Runner",
+    "director": "Hannes Baumgartner",
+    "image_path": "images/2020-06-24_midnight_runner.jpg"
+  },
+  {
+    "release_date": "2020-06-24",
+    "title": "Parkour(s)",
+    "director": "Fatma Zohra Zamoum",
+    "image_path": "images/2020-06-24_parkours.jpg"
+  },
+  {
+    "release_date": "2020-06-24",
+    "title": "The Orphanage",
+    "director": "Shahrbanoo Sadat",
+    "image_path": "images/2020-06-24_the_orphanage.jpg"
+  },
+  {
+    "release_date": "2020-06-24",
+    "title": "Voyage en Kabylie",
+    "director": "Mathieu Tuffreau , Hace Mess",
+    "image_path": "images/2020-06-24_voyage_en_kabylie.jpg"
+  }
+]

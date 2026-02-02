@@ -1,0 +1,46 @@
+[
+  {
+    "release_date": "2003-11-05",
+    "title": "Contact",
+    "director": "Robert Zemeckis",
+    "image_path": "images/2003-11-05_contact.jpg"
+  },
+  {
+    "release_date": "2003-11-05",
+    "title": "Labyrinthe",
+    "director": "Jim Henson",
+    "image_path": "images/2003-11-05_labyrinthe.jpg"
+  },
+  {
+    "release_date": "2003-11-05",
+    "title": "Les Sentiments",
+    "director": "Noémie Lvovsky",
+    "image_path": "images/2003-11-05_les_sentiments.jpg"
+  },
+  {
+    "release_date": "2003-11-05",
+    "title": "Bye-Bye Africa",
+    "director": "Mahamat Saleh Haroun , Mahamat-Saleh Haroun"
+  },
+  {
+    "release_date": "2003-11-05",
+    "title": "Frontière chinoise",
+    "director": "John Ford"
+  },
+  {
+    "release_date": "2003-11-05",
+    "title": "Le Serviteur de Kali",
+    "director": "Adoor Gopalakrishnan"
+  },
+  {
+    "release_date": "2003-11-05",
+    "title": "Le Trésor du pendu",
+    "director": "John Sturges"
+  },
+  {
+    "release_date": "2003-11-05",
+    "title": "Une auberge à Tokyo",
+    "director": "Yasujiro Ozu",
+    "image_path": "images/2003-11-05_une_auberge_a_tokyo.jpg"
+  }
+]

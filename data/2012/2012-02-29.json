@@ -1,0 +1,56 @@
+[
+  {
+    "release_date": "2012-02-29",
+    "title": "Fast & Furious 5",
+    "director": "Justin Lin",
+    "image_path": "images/2012-02-29_fast_furious_5.jpg"
+  },
+  {
+    "release_date": "2012-02-29",
+    "title": "Extrêmement fort et incroyablement près",
+    "director": "Stephen Daldry",
+    "image_path": "images/2012-02-29_extremement_fort_et_incroyablement_pres.jpg"
+  },
+  {
+    "release_date": "2012-02-29",
+    "title": "Oslo, 31 août",
+    "director": "Joachim Trier",
+    "image_path": "images/2012-02-29_oslo_31_aout.jpg"
+  },
+  {
+    "release_date": "2012-02-29",
+    "title": "Les Infidèles",
+    "director": "Gilles Lellouche , Jean Dujardin , Emmanuelle Bercot",
+    "image_path": "images/2012-02-29_les_infideles.jpg"
+  },
+  {
+    "release_date": "2012-02-29",
+    "title": "Martha Marcy May Marlene",
+    "director": "Sean Durkin",
+    "image_path": "images/2012-02-29_martha_marcy_may_marlene.jpg"
+  },
+  {
+    "release_date": "2012-02-29",
+    "title": "De mémoires d'ouvriers",
+    "director": "Gilles Perret",
+    "image_path": "images/2012-02-29_de_memoires_douvriers.jpg"
+  },
+  {
+    "release_date": "2012-02-29",
+    "title": "Rives",
+    "director": "Armel Hostiou",
+    "image_path": "images/2012-02-29_rives.jpg"
+  },
+  {
+    "release_date": "2012-02-29",
+    "title": "En terrains connus",
+    "director": "Stéphane Lafleur",
+    "image_path": "images/2012-02-29_en_terrains_connus.jpg"
+  },
+  {
+    "release_date": "2012-02-29",
+    "title": "L'Hiver dernier",
+    "director": "Sylvia Ashton , John Shank",
+    "image_path": "images/2012-02-29_lhiver_dernier.jpg"
+  }
+]

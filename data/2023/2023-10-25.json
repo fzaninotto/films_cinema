@@ -1,0 +1,197 @@
+[
+  {
+    "release_date": "2023-10-25",
+    "title": "3 jours max",
+    "director": "Tarek Boudali",
+    "image_path": "images/2023-10-25_3_jours_max.jpg"
+  },
+  {
+    "release_date": "2023-10-25",
+    "title": "Zombie",
+    "director": "George A Romero",
+    "image_path": "images/2023-10-25_zombie.jpg"
+  },
+  {
+    "release_date": "2023-10-25",
+    "title": "La Nuit des morts vivants",
+    "director": "George A Romero",
+    "image_path": "images/2023-10-25_la_nuit_des_morts_vivants.jpeg"
+  },
+  {
+    "release_date": "2023-10-25",
+    "title": "Pina",
+    "director": "Wim Wenders",
+    "image_path": "images/2023-10-25_pina.jpg"
+  },
+  {
+    "release_date": "2023-10-25",
+    "title": "Le Jour des morts-vivants",
+    "director": "George A Romero",
+    "image_path": "images/2023-10-25_le_jour_des_morts-vivants.jpg"
+  },
+  {
+    "release_date": "2023-10-25",
+    "title": "Alice dans les villes",
+    "director": "Wim Wenders",
+    "image_path": "images/2023-10-25_alice_dans_les_villes.jpg"
+  },
+  {
+    "release_date": "2023-10-25",
+    "title": "Second tour",
+    "director": "Albert Dupontel",
+    "image_path": "images/2023-10-25_second_tour.png"
+  },
+  {
+    "release_date": "2023-10-25",
+    "title": "Années en parenthèses 2020-2022",
+    "director": "Hejer Charf",
+    "image_path": "images/2023-10-25_annees_en_parentheses_2020-2022.jpg"
+  },
+  {
+    "release_date": "2023-10-25",
+    "title": "Baby Blood",
+    "director": "Alain Robak",
+    "image_path": "images/2023-10-25_baby_blood.jpg"
+  },
+  {
+    "release_date": "2023-10-25",
+    "title": "Buena Vista Social Club (version restaurée)",
+    "director": "Wim Wenders"
+  },
+  {
+    "release_date": "2023-10-25",
+    "title": "Chambre 999",
+    "director": "Lubna Playoust",
+    "image_path": "images/2023-10-25_chambre_999.jpg"
+  },
+  {
+    "release_date": "2023-10-25",
+    "title": "Déménagement (version restaurée)",
+    "director": "Shinji Somai",
+    "image_path": "images/2023-10-25_demenagement_version_restauree.jpg"
+  },
+  {
+    "release_date": "2023-10-25",
+    "title": "Expositions sur grand écran: Klimt et Le Baiser",
+    "director": "Ali Ray",
+    "image_path": "images/2023-10-25_expositions_sur_grand_ecran_klimt_et_le_baiser.jpg"
+  },
+  {
+    "release_date": "2023-10-25",
+    "title": "Faux-semblants (version restaurée)",
+    "director": "David Cronenberg",
+    "image_path": "images/2023-10-25_faux-semblants_version_restauree.jpg"
+  },
+  {
+    "release_date": "2023-10-25",
+    "title": "Fellini, confidences retrouvées",
+    "director": "Jean-Christophe Rosé"
+  },
+  {
+    "release_date": "2023-10-25",
+    "title": "Katak, le brave béluga",
+    "director": "Nicola Lemay , Christine Dallaire-Dupont",
+    "image_path": "images/2023-10-25_katak_le_brave_beluga.jpg"
+  },
+  {
+    "release_date": "2023-10-25",
+    "title": "Katak, le brave béluga",
+    "director": "Nicola Lemay , Christine Dallaire-Dupont",
+    "image_path": "images/2023-10-25_katak_le_brave_beluga.jpg"
+  },
+  {
+    "release_date": "2023-10-25",
+    "title": "Kuroneko (version restaurée)",
+    "director": "Kaneto Shindo",
+    "image_path": "images/2023-10-25_kuroneko_version_restauree.jpg"
+  },
+  {
+    "release_date": "2023-10-25",
+    "title": "Les soeurs Munakata (version restaurée)",
+    "director": "Yasujiro Ozu",
+    "image_path": "images/2023-10-25_les_soeurs_munakata_version_restauree.jpg"
+  },
+  {
+    "release_date": "2023-10-25",
+    "title": "Le Syndrome des Amours Passées",
+    "director": "Raphaël Balboni , Ann Sirot",
+    "image_path": "images/2023-10-25_le_syndrome_des_amours_passees.jpg"
+  },
+  {
+    "release_date": "2023-10-25",
+    "title": "Le Vourdalak",
+    "director": "Adrien Beau",
+    "image_path": "images/2023-10-25_le_vourdalak.jpg"
+  },
+  {
+    "release_date": "2023-10-25",
+    "title": "Lisbonne Story",
+    "director": "Wim Wenders",
+    "image_path": "images/2023-10-25_lisbonne_story.jpg"
+  },
+  {
+    "release_date": "2023-10-25",
+    "title": "Onibaba, les tueuses",
+    "director": "Kaneto Shindo",
+    "image_path": "images/2023-10-25_onibaba_les_tueuses.jpg"
+  },
+  {
+    "release_date": "2023-10-25",
+    "title": "Plastic Odyssey",
+    "director": "Pierre de Parscau"
+  },
+  {
+    "release_date": "2023-10-25",
+    "title": "Saw X",
+    "director": "Kevin Greutert",
+    "image_path": "images/2023-10-25_saw_x.jpg"
+  },
+  {
+    "release_date": "2023-10-25",
+    "title": "Sissi & moi",
+    "director": "Frauke Finsterwalder",
+    "image_path": "images/2023-10-25_sissi_moi.jpg"
+  },
+  {
+    "release_date": "2023-10-25",
+    "title": "The Appointment (version restaurée)",
+    "director": "Lindsey Vickers",
+    "image_path": "images/2023-10-25_the_appointment_version_restauree.jpg"
+  },
+  {
+    "release_date": "2023-10-25",
+    "title": "The Million Dollar Hotel (version restaurée)",
+    "director": "Wim Wenders",
+    "image_path": "images/2023-10-25_the_million_dollar_hotel_version_restauree.jpg"
+  },
+  {
+    "release_date": "2023-10-25",
+    "title": "The Old Oak",
+    "director": "Ken Loach",
+    "image_path": "images/2023-10-25_the_old_oak.jpg"
+  },
+  {
+    "release_date": "2023-10-25",
+    "title": "The Pod Generation",
+    "director": "Sophie Barthes",
+    "image_path": "images/2023-10-25_the_pod_generation.jpg"
+  },
+  {
+    "release_date": "2023-10-25",
+    "title": "Tokyo-ga",
+    "director": "Wim Wenders",
+    "image_path": "images/2023-10-25_tokyo-ga.jpg"
+  },
+  {
+    "release_date": "2023-10-25",
+    "title": "Une femme dans le vent (version restaurée)",
+    "director": "Yasujiro Ozu",
+    "image_path": "images/2023-10-25_une_femme_dans_le_vent_version_restauree.jpg"
+  },
+  {
+    "release_date": "2023-10-25",
+    "title": "Un pont au-dessus de l'océan",
+    "director": "Francis Fourcou",
+    "image_path": "images/2023-10-25_un_pont_au-dessus_de_locean.jpg"
+  }
+]

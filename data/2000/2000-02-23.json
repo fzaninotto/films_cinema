@@ -1,0 +1,42 @@
+[
+  {
+    "release_date": "2000-02-23",
+    "title": "Love Me",
+    "director": "Laetitia Masson",
+    "image_path": "images/2000-02-23_love_me.jpg"
+  },
+  {
+    "release_date": "2000-02-23",
+    "title": "Tous les matins du monde",
+    "director": "Alain Corneau",
+    "image_path": "images/2000-02-23_tous_les_matins_du_monde.jpg"
+  },
+  {
+    "release_date": "2000-02-23",
+    "title": "Kalidor la légende du talisman",
+    "director": "Richard Fleischer",
+    "image_path": "images/2000-02-23_kalidor_la_legende_du_talisman.jpg"
+  },
+  {
+    "release_date": "2000-02-23",
+    "title": "Forgotten Silver",
+    "director": "Peter Jackson , Costa Botes , Joe E Brown"
+  },
+  {
+    "release_date": "2000-02-23",
+    "title": "Institut Benjamenta",
+    "director": "Andy Fickman , Timothy Quay , Stephen Quay , Stephen",
+    "image_path": "images/2000-02-23_institut_benjamenta.jpg"
+  },
+  {
+    "release_date": "2000-02-23",
+    "title": "Le Forum en folie",
+    "director": "Richard Lester",
+    "image_path": "images/2000-02-23_le_forum_en_folie.jpg"
+  },
+  {
+    "release_date": "2000-02-23",
+    "title": "Le Grand Attentat",
+    "director": "Anthony Mann"
+  }
+]

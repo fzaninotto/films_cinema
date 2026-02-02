@@ -1,0 +1,68 @@
+[
+  {
+    "release_date": "2005-08-03",
+    "title": "Le Transporteur 2",
+    "director": "Louis Leterrier",
+    "image_path": "images/2005-08-03_le_transporteur_2.jpg"
+  },
+  {
+    "release_date": "2005-08-03",
+    "title": "Narco",
+    "director": "Gilles Lellouche , Tristan Aurouet",
+    "image_path": "images/2005-08-03_narco.jpg"
+  },
+  {
+    "release_date": "2005-08-03",
+    "title": "La Porte des Secrets",
+    "director": "Iain Softley",
+    "image_path": "images/2005-08-03_la_porte_des_secrets.jpg"
+  },
+  {
+    "release_date": "2005-08-03",
+    "title": "L'été où j'ai grandi",
+    "director": "Gabriele Salvatores , Jeanne Labrune",
+    "image_path": "images/2005-08-03_lete_ou_jai_grandi.jpg"
+  },
+  {
+    "release_date": "2005-08-03",
+    "title": "La Coccinelle revient",
+    "director": "Angela Robinson",
+    "image_path": "images/2005-08-03_la_coccinelle_revient.jpg"
+  },
+  {
+    "release_date": "2005-08-03",
+    "title": "L'Antidote",
+    "director": "Vincent de Brus",
+    "image_path": "images/2005-08-03_lantidote.jpg"
+  },
+  {
+    "release_date": "2005-08-03",
+    "title": "Black/White",
+    "director": "Kevin Rodney Sullivan",
+    "image_path": "images/2005-08-03_blackwhite.jpg"
+  },
+  {
+    "release_date": "2005-08-03",
+    "title": "Marebito",
+    "director": "Takashi Shimizu",
+    "image_path": "images/2005-08-03_marebito.jpg"
+  },
+  {
+    "release_date": "2005-08-03",
+    "title": "Garde rapprochée",
+    "director": "Stephen Herek",
+    "image_path": "images/2005-08-03_garde_rapprochee.jpg"
+  },
+  {
+    "release_date": "2005-08-03",
+    "title": "La Bête aveugle",
+    "director": "Yasuzo Masumura",
+    "image_path": "images/2005-08-03_la_bete_aveugle.jpg"
+  },
+  {
+    "release_date": "2005-08-03",
+    "title": "Rose & Cassandra",
+    "director": "Tim Fywell",
+    "image_path": "images/2005-08-03_rose_cassandra.jpg"
+  }
+]

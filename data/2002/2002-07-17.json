@@ -1,0 +1,32 @@
+[
+  {
+    "release_date": "2002-07-17",
+    "title": "Indiana Jones et la dernière croisade",
+    "director": "Steven Spielberg",
+    "image_path": "images/2002-07-17_indiana_jones_et_la_derniere_croisade.jpg"
+  },
+  {
+    "release_date": "2002-07-17",
+    "title": "Une étoile est née",
+    "director": "Treat Williams , George Cukor",
+    "image_path": "images/2002-07-17_une_etoile_est_nee.jpg"
+  },
+  {
+    "release_date": "2002-07-17",
+    "title": "Bloody Mallory",
+    "director": "Julien Magnat",
+    "image_path": "images/2002-07-17_bloody_mallory.jpg"
+  },
+  {
+    "release_date": "2002-07-17",
+    "title": "Le Prisonnier du Caucase",
+    "director": "Sergueï Bodrov",
+    "image_path": "images/2002-07-17_le_prisonnier_du_caucase.jpg"
+  },
+  {
+    "release_date": "2002-07-17",
+    "title": "Personnel et confidentiel",
+    "director": "Jon Avnet",
+    "image_path": "images/2002-07-17_personnel_et_confidentiel.jpg"
+  }
+]

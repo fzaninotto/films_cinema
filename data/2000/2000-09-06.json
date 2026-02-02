@@ -1,0 +1,47 @@
+[
+  {
+    "release_date": "2000-09-06",
+    "title": "Rasta Rockett",
+    "director": "Jon Turteltaub",
+    "image_path": "images/2000-09-06_rasta_rockett.jpg"
+  },
+  {
+    "release_date": "2000-09-06",
+    "title": "Space Cowboys",
+    "director": "Clint Eastwood , Pete Postlethwaite",
+    "image_path": "images/2000-09-06_space_cowboys.jpg"
+  },
+  {
+    "release_date": "2000-09-06",
+    "title": "Orca",
+    "director": "Michael Anderson"
+  },
+  {
+    "release_date": "2000-09-06",
+    "title": "In Bed With Madonna",
+    "director": "Alek Keshishian",
+    "image_path": "images/2000-09-06_in_bed_with_madonna.jpg"
+  },
+  {
+    "release_date": "2000-09-06",
+    "title": "Le Carnaval des âmes",
+    "director": "Herk Harvey",
+    "image_path": "images/2000-09-06_le_carnaval_des_ames.jpg"
+  },
+  {
+    "release_date": "2000-09-06",
+    "title": "Pourvu que ce soit une fille",
+    "director": "Mario Monicelli"
+  },
+  {
+    "release_date": "2000-09-06",
+    "title": "Recherche Susan, désespérément",
+    "director": "Susan Seidelman",
+    "image_path": "images/2000-09-06_recherche_susan_desesperement.jpg"
+  },
+  {
+    "release_date": "2000-09-06",
+    "title": "Supernova",
+    "director": "Walter Hill"
+  }
+]

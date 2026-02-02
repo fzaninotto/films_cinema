@@ -1,0 +1,23 @@
+[
+  {
+    "release_date": "2021-01-13",
+    "title": "Black Mother",
+    "director": "Khalik Allah"
+  },
+  {
+    "release_date": "2021-01-13",
+    "title": "Nuremberg: des images pour l'histoire",
+    "director": "Jean-Christophe Klotz"
+  },
+  {
+    "release_date": "2021-01-13",
+    "title": "Seoul Station",
+    "director": "Sang-ho Yeon , Yeon Sang-ho",
+    "image_path": "images/2021-01-13_seoul_station.jpg"
+  },
+  {
+    "release_date": "2021-01-13",
+    "title": "Temps de cochon",
+    "director": "Emmanuelle Gorgiard"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "release_date": "2001-12-19",
+    "title": "Italian for Beginners",
+    "director": "Lone Scherfig"
+  },
+  {
+    "release_date": "2001-12-19",
+    "title": "Le Roman de Renart",
+    "director": "Ladislas Starewitch , Irène Starewitch , Irene Starewicz",
+    "image_path": "images/2001-12-19_le_roman_de_renart.jpg"
+  },
+  {
+    "release_date": "2001-12-19",
+    "title": "Osmosis Jones",
+    "director": "Bobby Farrelly , Peter Farrelly , Peter , Marius Laurey",
+    "image_path": "images/2001-12-19_osmosis_jones.jpg"
+  },
+  {
+    "release_date": "2001-12-19",
+    "title": "Sauvage Innocence",
+    "director": "Philippe Garrel"
+  },
+  {
+    "release_date": "2001-12-19",
+    "title": "Shiri",
+    "director": "Je-gyu Kang , Kang Je-kyu",
+    "image_path": "images/2001-12-19_shiri.jpg"
+  },
+  {
+    "release_date": "2001-12-19",
+    "title": "Vertiges de l'amour",
+    "director": "Laurent Chouchan"
+  }
+]

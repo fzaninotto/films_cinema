@@ -1,0 +1,47 @@
+[
+  {
+    "release_date": "2020-12-09",
+    "title": "La Baleine et l'Escargote",
+    "director": "Max Lang , Daniel Snaddon , Filip Diviak , Nils Hedinger , Zuzana Cupová",
+    "image_path": "images/2020-12-09_la_baleine_et_lescargote.jpg"
+  },
+  {
+    "release_date": "2020-12-09",
+    "title": "Adieu Les Cons",
+    "director": "Albert Dupontel",
+    "image_path": "images/2020-12-09_adieu_les_cons.jpeg"
+  },
+  {
+    "release_date": "2020-12-09",
+    "title": "ADN",
+    "director": "Array",
+    "image_path": "images/2020-12-09_adn.jpg"
+  },
+  {
+    "release_date": "2020-12-09",
+    "title": "Annapurna 1950, pour la patrie par la montagne"
+  },
+  {
+    "release_date": "2020-12-09",
+    "title": "Les Efkins : Opération pâtisserie",
+    "director": "Ute von Münchow-Pohl"
+  },
+  {
+    "release_date": "2020-12-09",
+    "title": "The Craft - Les nouvelles sorcières",
+    "director": "Zoe Lister-Jones",
+    "image_path": "images/2020-12-09_the_craft_-_les_nouvelles_sorcieres.jpg"
+  },
+  {
+    "release_date": "2020-12-09",
+    "title": "Un printemps à Hongkong",
+    "director": "Ray Yeung",
+    "image_path": "images/2020-12-09_un_printemps_a_hongkong.jpg"
+  },
+  {
+    "release_date": "2020-12-09",
+    "title": "Wendy",
+    "director": "Benh Zeitlin",
+    "image_path": "images/2020-12-09_wendy.jpg"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "release_date": "2003-03-05",
+    "title": "Erin Brockovich, seule contre tous",
+    "director": "Steven Soderbergh",
+    "image_path": "images/2003-03-05_erin_brockovich_seule_contre_tous.jpg"
+  },
+  {
+    "release_date": "2003-03-05",
+    "title": "Pas si grave",
+    "director": "Bernard Rapp",
+    "image_path": "images/2003-03-05_pas_si_grave.jpg"
+  },
+  {
+    "release_date": "2003-03-05",
+    "title": "Un plan simple",
+    "director": "Sam Raimi",
+    "image_path": "images/2003-03-05_un_plan_simple.jpg"
+  }
+]

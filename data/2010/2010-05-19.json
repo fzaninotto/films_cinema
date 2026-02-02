@@ -1,0 +1,43 @@
+[
+  {
+    "release_date": "2010-05-19",
+    "title": "StreetDance",
+    "director": "Max Giwa , Nichola Burley , Dania Pasquini",
+    "image_path": "images/2010-05-19_streetdance.jpg"
+  },
+  {
+    "release_date": "2010-05-19",
+    "title": "Le Plan B",
+    "director": "Alan Poul",
+    "image_path": "images/2010-05-19_le_plan_b.jpg"
+  },
+  {
+    "release_date": "2010-05-19",
+    "title": "Estômago",
+    "director": "Marcos Jorge"
+  },
+  {
+    "release_date": "2010-05-19",
+    "title": "Les Secrets",
+    "director": "Raja Amari , Tony Quéméré",
+    "image_path": "images/2010-05-19_les_secrets.jpg"
+  },
+  {
+    "release_date": "2010-05-19",
+    "title": "Policier, Adjectif",
+    "director": "Corneliu Porumboiu",
+    "image_path": "images/2010-05-19_policier_adjectif.jpg"
+  },
+  {
+    "release_date": "2010-05-19",
+    "title": "Edward II",
+    "director": "Derek Jarman , Samia Gamal",
+    "image_path": "images/2010-05-19_edward_ii.jpg"
+  },
+  {
+    "release_date": "2010-05-19",
+    "title": "Lo Sceicco ritrovato",
+    "director": "Federico Fellini",
+    "image_path": "images/2010-05-19_lo_sceicco_ritrovato.jpg"
+  }
+]

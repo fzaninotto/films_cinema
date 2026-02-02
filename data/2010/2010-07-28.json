@@ -1,0 +1,67 @@
+[
+  {
+    "release_date": "2010-07-28",
+    "title": "Night and Day",
+    "director": "James Mangold",
+    "image_path": "images/2010-07-28_night_and_day.jpg"
+  },
+  {
+    "release_date": "2010-07-28",
+    "title": "Le Dernier maître de l'air",
+    "director": "M. Night Shyamalan",
+    "image_path": "images/2010-07-28_le_dernier_maitre_de_lair.jpg"
+  },
+  {
+    "release_date": "2010-07-28",
+    "title": "L'Âge de raison",
+    "director": "Yann Samuell",
+    "image_path": "images/2010-07-28_lage_de_raison.jpg"
+  },
+  {
+    "release_date": "2010-07-28",
+    "title": "Millénium 3 : la reine dans le palais des courants d'air",
+    "director": "Daniel Alfredson",
+    "image_path": "images/2010-07-28_millenium_3_la_reine_dans_le_palais_des_courants_dair.jpg"
+  },
+  {
+    "release_date": "2010-07-28",
+    "title": "Phénomènes Paranormaux",
+    "director": "Olatunde Osunsanmi",
+    "image_path": "images/2010-07-28_phenomenes_paranormaux.jpg"
+  },
+  {
+    "release_date": "2010-07-28",
+    "title": "La Victoire en chantant",
+    "director": "Jean-Jacques Annaud"
+  },
+  {
+    "release_date": "2010-07-28",
+    "title": "Les Aventures d'un homme invisible",
+    "director": "John Carpenter",
+    "image_path": "images/2010-07-28_les_aventures_dun_homme_invisible.jpg"
+  },
+  {
+    "release_date": "2010-07-28",
+    "title": "L'Eclair noir",
+    "director": "Alexander Voytinskiy , Dmitry Kiselyov",
+    "image_path": "images/2010-07-28_leclair_noir.jpg"
+  },
+  {
+    "release_date": "2010-07-28",
+    "title": "Plan B",
+    "director": "Marco Berger",
+    "image_path": "images/2010-07-28_plan_b.jpg"
+  },
+  {
+    "release_date": "2010-07-28",
+    "title": "Desierto Adentro",
+    "director": "Rodrigo Plá",
+    "image_path": "images/2010-07-28_desierto_adentro.jpg"
+  },
+  {
+    "release_date": "2010-07-28",
+    "title": "La Terrasse",
+    "director": "Jonathan Frakes",
+    "image_path": "images/2010-07-28_la_terrasse.jpg"
+  }
+]

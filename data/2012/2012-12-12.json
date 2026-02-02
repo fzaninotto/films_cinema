@@ -1,0 +1,68 @@
+[
+  {
+    "release_date": "2012-12-12",
+    "title": "Le Hobbit : un voyage inattendu",
+    "director": "Peter Jackson",
+    "image_path": "images/2012-12-12_le_hobbit_un_voyage_inattendu.jpg"
+  },
+  {
+    "release_date": "2012-12-12",
+    "title": "Ernest et Célestine",
+    "director": "Stéphane Aubier , Vincent Patar , Benjamin Renner",
+    "image_path": "images/2012-12-12_ernest_et_celestine.jpg"
+  },
+  {
+    "release_date": "2012-12-12",
+    "title": "Mes Héros",
+    "director": "Eric Besnard",
+    "image_path": "images/2012-12-12_mes_heros.jpg"
+  },
+  {
+    "release_date": "2012-12-12",
+    "title": "Les Bêtes du sud sauvage",
+    "director": "Benh Zeitlin",
+    "image_path": "images/2012-12-12_les_betes_du_sud_sauvage.jpg"
+  },
+  {
+    "release_date": "2012-12-12",
+    "title": "Arbitrage",
+    "director": "Nicholas Jarecki",
+    "image_path": "images/2012-12-12_arbitrage.jpg"
+  },
+  {
+    "release_date": "2012-12-12",
+    "title": "Télé Gaucho",
+    "director": "Michel Leclerc",
+    "image_path": "images/2012-12-12_tele_gaucho.jpg"
+  },
+  {
+    "release_date": "2012-12-12",
+    "title": "Anna Halprin : le souffle de la danse",
+    "director": "Ruedi Gerber",
+    "image_path": "images/2012-12-12_anna_halprin_le_souffle_de_la_danse.jpg"
+  },
+  {
+    "release_date": "2012-12-12",
+    "title": "Article 23",
+    "director": "Jean-Pierre Délépine",
+    "image_path": "images/2012-12-12_article_23.jpg"
+  },
+  {
+    "release_date": "2012-12-12",
+    "title": "Le Concours de danse",
+    "director": "Patrick Lyster , Bess Kargman",
+    "image_path": "images/2012-12-12_le_concours_de_danse.jpg"
+  },
+  {
+    "release_date": "2012-12-12",
+    "title": "Marina Abramovic : The Artist Is Present",
+    "director": "Matthew Akers , Jeff Dupre",
+    "image_path": "images/2012-12-12_marina_abramovic_the_artist_is_present.jpg"
+  },
+  {
+    "release_date": "2012-12-12",
+    "title": "Vers où Israël ?",
+    "director": "Camille Clavel",
+    "image_path": "images/2012-12-12_vers_ou_israel_.jpg"
+  }
+]

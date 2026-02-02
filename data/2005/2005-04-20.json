@@ -1,0 +1,63 @@
+[
+  {
+    "release_date": "2005-04-20",
+    "title": "The Taste of Tea",
+    "director": "Katsuhito Ishii"
+  },
+  {
+    "release_date": "2005-04-20",
+    "title": "Des étoiles plein les yeux",
+    "director": "Forest Whitaker",
+    "image_path": "images/2005-04-20_des_etoiles_plein_les_yeux.jpg"
+  },
+  {
+    "release_date": "2005-04-20",
+    "title": "L'Empire des loups",
+    "director": "Chris Nahon",
+    "image_path": "images/2005-04-20_lempire_des_loups.jpg"
+  },
+  {
+    "release_date": "2005-04-20",
+    "title": "Breaking news",
+    "director": "Johnnie To",
+    "image_path": "images/2005-04-20_breaking_news.jpg"
+  },
+  {
+    "release_date": "2005-04-20",
+    "title": "Peau de cochon",
+    "director": "Philippe Katerine"
+  },
+  {
+    "release_date": "2005-04-20",
+    "title": "Léo, roi de la jungle",
+    "director": "Yoshio Takeuchi",
+    "image_path": "images/2005-04-20_leo_roi_de_la_jungle.jpg"
+  },
+  {
+    "release_date": "2005-04-20",
+    "title": "Les Mauvais Joueurs",
+    "director": "Frédéric Balekdjian",
+    "image_path": "images/2005-04-20_les_mauvais_joueurs.jpg"
+  },
+  {
+    "release_date": "2005-04-20",
+    "title": "Temporada de Patos",
+    "director": "Fernando Eimbcke , Fernando Eimbecke",
+    "image_path": "images/2005-04-20_temporada_de_patos.jpg"
+  },
+  {
+    "release_date": "2005-04-20",
+    "title": "La Grande Parade",
+    "director": "King Vidor , José Dumont , George Hill"
+  },
+  {
+    "release_date": "2005-04-20",
+    "title": "Les 3 Chambres de la mélancolie",
+    "director": "Pirjo Honkasalo , Francis Reusser"
+  },
+  {
+    "release_date": "2005-04-20",
+    "title": "Regarde cette chanson",
+    "director": "Carlos Diegues"
+  }
+]

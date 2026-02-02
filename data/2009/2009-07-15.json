@@ -1,0 +1,71 @@
+[
+  {
+    "release_date": "2009-07-15",
+    "title": "Harry Potter et le Prince de sang-mêlé",
+    "director": "David Yates",
+    "image_path": "images/2009-07-15_harry_potter_et_le_prince_de_sang-mele.jpg"
+  },
+  {
+    "release_date": "2009-07-15",
+    "title": "Joyeuses funérailles",
+    "director": "Frank Oz",
+    "image_path": "images/2009-07-15_joyeuses_funerailles.jpg"
+  },
+  {
+    "release_date": "2009-07-15",
+    "title": "Spartacus",
+    "director": "Stanley Kubrick , Anthony Mann",
+    "image_path": "images/2009-07-15_spartacus.jpg"
+  },
+  {
+    "release_date": "2009-07-15",
+    "title": "Sans rancune!",
+    "director": "Yves Hanchar",
+    "image_path": "images/2009-07-15_sans_rancune.jpg"
+  },
+  {
+    "release_date": "2009-07-15",
+    "title": "Le Roi de l'évasion",
+    "director": "Alain Guiraudie",
+    "image_path": "images/2009-07-15_le_roi_de_levasion.jpg"
+  },
+  {
+    "release_date": "2009-07-15",
+    "title": "Bronson",
+    "director": "Nicolas Winding Refn",
+    "image_path": "images/2009-07-15_bronson.jpg"
+  },
+  {
+    "release_date": "2009-07-15",
+    "title": "Les Aventures de Don Juan",
+    "director": "Vincent Sherman"
+  },
+  {
+    "release_date": "2009-07-15",
+    "title": "Tricheuse",
+    "director": "Jean-François Davy",
+    "image_path": "images/2009-07-15_tricheuse.jpg"
+  },
+  {
+    "release_date": "2009-07-15",
+    "title": "Black",
+    "director": "Pierre Laffargue",
+    "image_path": "images/2009-07-15_black.jpg"
+  },
+  {
+    "release_date": "2009-07-15",
+    "title": "À l'ombre de la Lune",
+    "director": "David Sington"
+  },
+  {
+    "release_date": "2009-07-15",
+    "title": "In the Shadow of The Moon",
+    "director": "David Sington"
+  },
+  {
+    "release_date": "2009-07-15",
+    "title": "Un enfant pas comme les autres",
+    "director": "Menno Meyjes",
+    "image_path": "images/2009-07-15_un_enfant_pas_comme_les_autres.jpg"
+  }
+]

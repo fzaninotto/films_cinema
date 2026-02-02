@@ -1,0 +1,83 @@
+[
+  {
+    "release_date": "2010-11-10",
+    "title": "Le Secret de Charlie",
+    "director": "Burr Steers",
+    "image_path": "images/2010-11-10_le_secret_de_charlie.jpg"
+  },
+  {
+    "release_date": "2010-11-10",
+    "title": "Le merveilleux magasin de Mr. Margorium",
+    "director": "Zach Helm",
+    "image_path": "images/2010-11-10_le_merveilleux_magasin_de_mr_margorium.jpg"
+  },
+  {
+    "release_date": "2010-11-10",
+    "title": "Meurtres à la Saint-Valentin",
+    "director": "Patrick Lussier",
+    "image_path": "images/2010-11-10_meurtres_a_la_saint-valentin.jpg"
+  },
+  {
+    "release_date": "2010-11-10",
+    "title": "Rubber",
+    "director": "Quentin Dupieux",
+    "image_path": "images/2010-11-10_rubber.jpg"
+  },
+  {
+    "release_date": "2010-11-10",
+    "title": "Welcome to the Rileys",
+    "director": "Jake Scott",
+    "image_path": "images/2010-11-10_welcome_to_the_rileys.jpg"
+  },
+  {
+    "release_date": "2010-11-10",
+    "title": "Le Braqueur - la dernière course",
+    "director": "Benjamin Heisenberg",
+    "image_path": "images/2010-11-10_le_braqueur_-_la_derniere_course.jpg"
+  },
+  {
+    "release_date": "2010-11-10",
+    "title": "Belle Épine",
+    "director": "Rebecca Ziotowski , Rebecca Zlotowski",
+    "image_path": "images/2010-11-10_belle_epine.jpg"
+  },
+  {
+    "release_date": "2010-11-10",
+    "title": "Severn, la voix de nos enfants",
+    "director": "Jean-Paul Jaud , Eloïse Bennett",
+    "image_path": "images/2010-11-10_severn_la_voix_de_nos_enfants.jpg"
+  },
+  {
+    "release_date": "2010-11-10",
+    "title": "Small is Beautiful",
+    "director": "Agnès Fouilleux"
+  },
+  {
+    "release_date": "2010-11-10",
+    "title": "Commissariat",
+    "director": "Virgil Vernier , Ilian Klipper , Ilan Klipper"
+  },
+  {
+    "release_date": "2010-11-10",
+    "title": "Les Contes de la ferme",
+    "director": "Hermina Tyrlova",
+    "image_path": "images/2010-11-10_les_contes_de_la_ferme.jpg"
+  },
+  {
+    "release_date": "2010-11-10",
+    "title": "Réfractaire",
+    "director": "Nicolas Stell , Nicolas Steil",
+    "image_path": "images/2010-11-10_refractaire.jpg"
+  },
+  {
+    "release_date": "2010-11-10",
+    "title": "The Dinner",
+    "director": "Jay Roach",
+    "image_path": "images/2010-11-10_the_dinner.jpg"
+  },
+  {
+    "release_date": "2010-11-10",
+    "title": "Wow, mon pote",
+    "director": "Kemal Uzun"
+  }
+]

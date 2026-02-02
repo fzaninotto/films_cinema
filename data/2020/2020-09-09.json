@@ -1,0 +1,258 @@
+[
+  {
+    "release_date": "2020-09-09",
+    "title": "Total Recall",
+    "director": "Paul Verhoeven , Shecky Greene",
+    "image_path": "images/2020-09-09_total_recall.jpg"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Quand une femme monte l'escalier",
+    "director": "Mikio Naruse",
+    "image_path": "images/2020-09-09_quand_une_femme_monte_lescalier.jpg"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Outrage",
+    "director": "Ida Lupino",
+    "image_path": "images/2020-09-09_outrage.jpg"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Tourments",
+    "director": "Luis Bunuel , Mikio Naruse",
+    "image_path": "images/2020-09-09_tourments.jpg"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Nuages épars",
+    "director": "Mikio Naruse",
+    "image_path": "images/2020-09-09_nuages_epars.jpg"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Adolescentes",
+    "director": "Sébastien Lifshitz",
+    "image_path": "images/2020-09-09_adolescentes.jpg"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "A ma place",
+    "director": "Jeanne Dressen",
+    "image_path": "images/2020-09-09_a_ma_place.jpg"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Antebellum",
+    "director": "Christopher Renz , Gerard Bush",
+    "image_path": "images/2020-09-09_antebellum.jpg"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Au gré du courant",
+    "director": "Mikio Naruse",
+    "image_path": "images/2020-09-09_au_gre_du_courant.jpg"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Au Père Lachaise",
+    "director": "Jean-Daniel Pollet , Pierre-Marie Goulet"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Bassae",
+    "director": "Jean-Daniel Pollet",
+    "image_path": "images/2020-09-09_bassae.jpg"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Ceux d'en face",
+    "director": "Jean-Daniel Pollet , Monique Lejeune",
+    "image_path": "images/2020-09-09_ceux_den_face.jpg"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Contre courant",
+    "director": "Jean-Daniel Pollet"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Contretemps",
+    "director": "Jean-Daniel Pollet",
+    "image_path": "images/2020-09-09_contretemps.jpg"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Cyril contre Goliath",
+    "director": "Cyril Montana , Thomas Bornot",
+    "image_path": "images/2020-09-09_cyril_contre_goliath.jpg"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Dieu sait quoi",
+    "director": "Jean-Daniel Pollet , Monique Lejeune",
+    "image_path": "images/2020-09-09_dieu_sait_quoi.jpg"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Gala",
+    "director": "Jean-Daniel Pollet",
+    "image_path": "images/2020-09-09_gala.jpg"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Jour après jour",
+    "director": "Nick Stahl , Jean-Daniel Pollet , Jean-Paul Fargier , Monique Lejeune",
+    "image_path": "images/2020-09-09_jour_apres_jour.jpg"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "L'Acrobate",
+    "director": "Jean-Daniel Pollet , Monique Lejeune",
+    "image_path": "images/2020-09-09_lacrobate.jpg"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "La Daronne",
+    "director": "Jean-Paul Salomé",
+    "image_path": "images/2020-09-09_la_daronne.jpg"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "L'Arbre et le soleil",
+    "director": "Jean-Daniel Pollet"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Le Bonheur des uns...",
+    "director": "Daniel Cohen",
+    "image_path": "images/2020-09-09_le_bonheur_des_uns.jpg"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Le Corbeau et le Drôle de moineau",
+    "director": "Morteza Ahadi Sarkani , Abdollah Alimorad , Mohammad Ali Soleymanzadeh , Morteza Ahadi"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Le corbeau et un drôle de moineau",
+    "director": "Abdollah Alimorad , Mohammad Ali Soleymanzadeh , Morteza Ahadi , Morteza Ahadi Sarkani",
+    "image_path": "images/2020-09-09_le_corbeau_et_un_drole_de_moineau.jpg"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Le Grondement de la montagne",
+    "director": "Mikio Naruse",
+    "image_path": "images/2020-09-09_le_grondement_de_la_montagne.jpg"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Le Horla",
+    "director": "Jean-Daniel Pollet",
+    "image_path": "images/2020-09-09_le_horla.jpg"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Le Sang",
+    "director": "Jean-Daniel Pollet"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Le Seul et unique Ivan",
+    "director": "Thea Sharrock",
+    "image_path": "images/2020-09-09_le_seul_et_unique_ivan.jpeg"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Les Joueuses #paslàpourdanser",
+    "director": "Stéphanie Gillard",
+    "image_path": "images/2020-09-09_les_joueuses_paslapourdanser.jpg"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Les Morutiers",
+    "director": "Jean-Daniel Pollet"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Les Nouvelles Aventures de Rita et Machin",
+    "director": "Pon Kozutsumi , Jun Takagi",
+    "image_path": "images/2020-09-09_les_nouvelles_aventures_de_rita_et_machin.jpg"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "L'Ordre",
+    "director": "Jean-Daniel Pollet , Monique Lejeune",
+    "image_path": "images/2020-09-09_lordre.jpg"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Méditerrannée",
+    "director": "Jean-Daniel Pollet , Guillaume Denaiffe",
+    "image_path": "images/2020-09-09_mediterrannee.jpg"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Pour mémoire",
+    "director": "Jean-Daniel Pollet , Monique Lejeune",
+    "image_path": "images/2020-09-09_pour_memoire.jpg"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Pourvu qu'on ait l'ivresse...",
+    "director": "Jean-Daniel Pollet"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Remember Me",
+    "director": "Martin Rosete",
+    "image_path": "images/2020-09-09_remember_me.jpg"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Rocks",
+    "director": "Sarah Gavron",
+    "image_path": "images/2020-09-09_rocks.jpg"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Sole",
+    "director": "Carlo Sironi",
+    "image_path": "images/2020-09-09_sole.jpg"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Sublimation",
+    "director": "Johan Casinie",
+    "image_path": "images/2020-09-09_sublimation.jpg"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Sur la route de Compostelle",
+    "director": "Noel Smyth , Fergus Grady",
+    "image_path": "images/2020-09-09_sur_la_route_de_compostelle.jpg"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Trois Jours en Grèce",
+    "director": "Jean-Daniel Pollet",
+    "image_path": "images/2020-09-09_trois_jours_en_grece.jpg"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Une balle au coeur",
+    "director": "Jean-Daniel Pollet"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Un soupçon d'amour",
+    "director": "Paul Vecchiali",
+    "image_path": "images/2020-09-09_un_soupcon_damour.jpg"
+  },
+  {
+    "release_date": "2020-09-09",
+    "title": "Yuki : le combat des shoguns",
+    "director": "Tadashi Imai",
+    "image_path": "images/2020-09-09_yuki_le_combat_des_shoguns.jpg"
+  }
+]

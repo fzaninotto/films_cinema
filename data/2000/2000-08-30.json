@@ -1,0 +1,36 @@
+[
+  {
+    "release_date": "2000-08-30",
+    "title": "O'Brother",
+    "director": "Joel Coen , Ethan Coen , Buddy Baker",
+    "image_path": "images/2000-08-30_obrother.jpg"
+  },
+  {
+    "release_date": "2000-08-30",
+    "title": "Bronco Billy",
+    "director": "Clint Eastwood , Pete Postlethwaite",
+    "image_path": "images/2000-08-30_bronco_billy.jpg"
+  },
+  {
+    "release_date": "2000-08-30",
+    "title": "Celeste",
+    "director": "Percy Adlon"
+  },
+  {
+    "release_date": "2000-08-30",
+    "title": "Chef!",
+    "director": "Jean-Marie Teno"
+  },
+  {
+    "release_date": "2000-08-30",
+    "title": "Dangereuse Alliance",
+    "director": "Andrew Fleming",
+    "image_path": "images/2000-08-30_dangereuse_alliance.jpg"
+  },
+  {
+    "release_date": "2000-08-30",
+    "title": "Le repaire du ver blanc",
+    "director": "Ken Russell",
+    "image_path": "images/2000-08-30_le_repaire_du_ver_blanc.jpg"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "release_date": "2012-05-23",
+    "title": "Men in Black III",
+    "director": "Barry Sonnenfeld",
+    "image_path": "images/2012-05-23_men_in_black_iii.jpg"
+  },
+  {
+    "release_date": "2012-05-23",
+    "title": "Les Mains en l'air",
+    "director": "Romain Goupil",
+    "image_path": "images/2012-05-23_les_mains_en_lair.jpg"
+  },
+  {
+    "release_date": "2012-05-23",
+    "title": "Sur la route",
+    "director": "Walter Salles",
+    "image_path": "images/2012-05-23_sur_la_route.jpg"
+  },
+  {
+    "release_date": "2012-05-23",
+    "title": "Disparue",
+    "director": "Heitor Dhalia",
+    "image_path": "images/2012-05-23_disparue.jpg"
+  },
+  {
+    "release_date": "2012-05-23",
+    "title": "Votre Majesté",
+    "director": "David Gordon Green , David Gordon Green",
+    "image_path": "images/2012-05-23_votre_majeste.jpg"
+  },
+  {
+    "release_date": "2012-05-23",
+    "title": "Commando de l'ombre",
+    "director": "J. Maunder"
+  },
+  {
+    "release_date": "2012-05-23",
+    "title": "Derniers Jours à Jerusalem",
+    "director": "Tawfik Abu Wael",
+    "image_path": "images/2012-05-23_derniers_jours_a_jerusalem.jpg"
+  },
+  {
+    "release_date": "2012-05-23",
+    "title": "FamilyStrip",
+    "director": "LLuis Minarro",
+    "image_path": "images/2012-05-23_familystrip.jpg"
+  },
+  {
+    "release_date": "2012-05-23",
+    "title": "Memories Corner",
+    "director": "Audrey Fouché",
+    "image_path": "images/2012-05-23_memories_corner.jpg"
+  }
+]

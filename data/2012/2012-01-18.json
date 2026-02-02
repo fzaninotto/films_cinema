@@ -1,0 +1,44 @@
+[
+  {
+    "release_date": "2012-01-18",
+    "title": "Ici-bas",
+    "director": "Jean-Pierre Denis",
+    "image_path": "images/2012-01-18_ici-bas.jpg"
+  },
+  {
+    "release_date": "2012-01-18",
+    "title": "L'Amour dure trois ans",
+    "director": "Frédéric Beigbeder",
+    "image_path": "images/2012-01-18_lamour_dure_trois_ans.jpg"
+  },
+  {
+    "release_date": "2012-01-18",
+    "title": "A travers les branches d'un arbre",
+    "director": "Daniel Duqué",
+    "image_path": "images/2012-01-18_a_travers_les_branches_dun_arbre.jpg"
+  },
+  {
+    "release_date": "2012-01-18",
+    "title": "Dubaï Flamingo",
+    "director": "Delphine Kreuter",
+    "image_path": "images/2012-01-18_dubai_flamingo.jpg"
+  },
+  {
+    "release_date": "2012-01-18",
+    "title": "Duch, le maître des forges de l'enfer",
+    "director": "Rithy Panh",
+    "image_path": "images/2012-01-18_duch_le_maitre_des_forges_de_lenfer.jpg"
+  },
+  {
+    "release_date": "2012-01-18",
+    "title": "Le Printemps de Téhéran, l'histoire d'une révolution 2.0",
+    "director": "Ali Samadi Ahadi",
+    "image_path": "images/2012-01-18_le_printemps_de_teheran_lhistoire_dune_revolution_20.jpg"
+  },
+  {
+    "release_date": "2012-01-18",
+    "title": "Turn Me On",
+    "director": "Jannicke Systad Jacobsen",
+    "image_path": "images/2012-01-18_turn_me_on.jpg"
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "release_date": "2015-08-05",
+    "title": "Barbecue",
+    "director": "Eric Lavaine",
+    "image_path": "images/2015-08-05_barbecue.jpg"
+  },
+  {
+    "release_date": "2015-08-05",
+    "title": "Les 4 Fantastiques",
+    "director": "Josh Trank",
+    "image_path": "images/2015-08-05_les_4_fantastiques.jpg"
+  },
+  {
+    "release_date": "2015-08-05",
+    "title": "Mission : Impossible 5 - Rogue Nation",
+    "director": "Christopher McQuarrie",
+    "image_path": "images/2015-08-05_mission_impossible_5_-_rogue_nation.jpg"
+  },
+  {
+    "release_date": "2015-08-05",
+    "title": "Ted 2",
+    "director": "Seth MacFarlane",
+    "image_path": "images/2015-08-05_ted_2.jpg"
+  },
+  {
+    "release_date": "2015-08-05",
+    "title": "Horns",
+    "director": "Alexandre Aja",
+    "image_path": "images/2015-08-05_horns.jpg"
+  },
+  {
+    "release_date": "2015-08-05",
+    "title": "La Dame dans l'auto avec des lunettes et un fusil",
+    "director": "Anatole Litvak , Joann Sfar",
+    "image_path": "images/2015-08-05_la_dame_dans_lauto_avec_des_lunettes_et_un_fusil.jpg"
+  },
+  {
+    "release_date": "2015-08-05",
+    "title": "La Vie passionnée de Vincent van Gogh",
+    "director": "Vincente Minnelli",
+    "image_path": "images/2015-08-05_la_vie_passionnee_de_vincent_van_gogh.jpg"
+  },
+  {
+    "release_date": "2015-08-05",
+    "title": "Cape et poignard",
+    "director": "Michael Curtiz , Fritz Lang , Akira Nagoya",
+    "image_path": "images/2015-08-05_cape_et_poignard.jpg"
+  },
+  {
+    "release_date": "2015-08-05",
+    "title": "Oriana",
+    "director": "Marco Turco"
+  },
+  {
+    "release_date": "2015-08-05",
+    "title": "Aferim!",
+    "director": "Radu Jude",
+    "image_path": "images/2015-08-05_aferim.jpg"
+  },
+  {
+    "release_date": "2015-08-05",
+    "title": "Boys",
+    "director": "Mischa Kamp",
+    "image_path": "images/2015-08-05_boys.jpg"
+  },
+  {
+    "release_date": "2015-08-05",
+    "title": "On Any Sunday : Un nouveau chapitre",
+    "director": "Dana Brown"
+  },
+  {
+    "release_date": "2015-08-05",
+    "title": "Pauvres mais beaux",
+    "director": "Dino Risi , Maurice Jaubert",
+    "image_path": "images/2015-08-05_pauvres_mais_beaux.jpg"
+  },
+  {
+    "release_date": "2015-08-05",
+    "title": "Sur la ligne",
+    "director": "Andréa Sedlackova",
+    "image_path": "images/2015-08-05_sur_la_ligne.jpg"
+  }
+]

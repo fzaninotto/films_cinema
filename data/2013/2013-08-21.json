@@ -1,0 +1,56 @@
+[
+  {
+    "release_date": "2013-08-21",
+    "title": "Fedora",
+    "director": "Billy Wilder",
+    "image_path": "images/2013-08-21_fedora.jpg"
+  },
+  {
+    "release_date": "2013-08-21",
+    "title": "Conjuring : Les dossiers Warren",
+    "director": "James Wan",
+    "image_path": "images/2013-08-21_conjuring_les_dossiers_warren.jpg"
+  },
+  {
+    "release_date": "2013-08-21",
+    "title": "Les Flingueuses",
+    "director": "Paul Feig",
+    "image_path": "images/2013-08-21_les_flingueuses.jpg"
+  },
+  {
+    "release_date": "2013-08-21",
+    "title": "Strictly Criminal",
+    "director": "James Wan , Scott Cooper",
+    "image_path": "images/2013-08-21_strictly_criminal.jpg"
+  },
+  {
+    "release_date": "2013-08-21",
+    "title": "Kick-Ass 2",
+    "director": "Jeff Wadlow",
+    "image_path": "images/2013-08-21_kick-ass_2.jpg"
+  },
+  {
+    "release_date": "2013-08-21",
+    "title": "jOBS",
+    "director": "Joshua Michael Stern , Joshua Stern",
+    "image_path": "images/2013-08-21_jobs.jpg"
+  },
+  {
+    "release_date": "2013-08-21",
+    "title": "Mon bel oranger",
+    "director": "Marcos Bernstein",
+    "image_path": "images/2013-08-21_mon_bel_oranger.jpg"
+  },
+  {
+    "release_date": "2013-08-21",
+    "title": "Le Prochain Film",
+    "director": "René Féret",
+    "image_path": "images/2013-08-21_le_prochain_film.jpg"
+  },
+  {
+    "release_date": "2013-08-21",
+    "title": "Mort à vendre",
+    "director": "Faouzi Bensaïdi",
+    "image_path": "images/2013-08-21_mort_a_vendre.jpg"
+  }
+]

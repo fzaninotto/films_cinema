@@ -1,0 +1,79 @@
+[
+  {
+    "release_date": "2000-07-05",
+    "title": "Tendre poulet",
+    "director": "Philippe de Broca",
+    "image_path": "images/2000-07-05_tendre_poulet.jpg"
+  },
+  {
+    "release_date": "2000-07-05",
+    "title": "Les Glaneurs et la glaneuse",
+    "director": "Agnès Varda",
+    "image_path": "images/2000-07-05_les_glaneurs_et_la_glaneuse.jpg"
+  },
+  {
+    "release_date": "2000-07-05",
+    "title": "30 ans",
+    "director": "Laurent Perrin"
+  },
+  {
+    "release_date": "2000-07-05",
+    "title": "Fantasmes",
+    "director": "Jang Sun-Woo",
+    "image_path": "images/2000-07-05_fantasmes.jpg"
+  },
+  {
+    "release_date": "2000-07-05",
+    "title": "Girls'Night Out",
+    "director": "Im Sang-Soo"
+  },
+  {
+    "release_date": "2000-07-05",
+    "title": "La Fugue",
+    "director": "Arthur Penn"
+  },
+  {
+    "release_date": "2000-07-05",
+    "title": "La justice des hommes",
+    "director": "George Stevens",
+    "image_path": "images/2000-07-05_la_justice_des_hommes.jpg"
+  },
+  {
+    "release_date": "2000-07-05",
+    "title": "La Ville",
+    "director": "Yousry Nasrallah"
+  },
+  {
+    "release_date": "2000-07-05",
+    "title": "Le Retour de Frank James",
+    "director": "Michael Curtiz , Fritz Lang",
+    "image_path": "images/2000-07-05_le_retour_de_frank_james.jpg"
+  },
+  {
+    "release_date": "2000-07-05",
+    "title": "Les biches",
+    "director": "Claude Chabrol"
+  },
+  {
+    "release_date": "2000-07-05",
+    "title": "Les frères Soeur",
+    "director": "Frédéric Jardin"
+  },
+  {
+    "release_date": "2000-07-05",
+    "title": "Les Marchands de sable",
+    "director": "Pierre Salvadori"
+  },
+  {
+    "release_date": "2000-07-05",
+    "title": "Prise au piège",
+    "director": "Max Ophüls",
+    "image_path": "images/2000-07-05_prise_au_piege.jpg"
+  },
+  {
+    "release_date": "2000-07-05",
+    "title": "Tombés du ciel",
+    "director": "Philippe Lioret",
+    "image_path": "images/2000-07-05_tombes_du_ciel.jpg"
+  }
+]

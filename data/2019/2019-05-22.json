@@ -1,0 +1,79 @@
+[
+  {
+    "release_date": "2019-05-22",
+    "title": "Shining",
+    "director": "Stanley Kubrick",
+    "image_path": "images/2019-05-22_shining.jpg"
+  },
+  {
+    "release_date": "2019-05-22",
+    "title": "Un Homme et une femme",
+    "director": "Claude Lelouch",
+    "image_path": "images/2019-05-22_un_homme_et_une_femme.jpg"
+  },
+  {
+    "release_date": "2019-05-22",
+    "title": "Les Filles du soleil",
+    "director": "Eva Husson",
+    "image_path": "images/2019-05-22_les_filles_du_soleil.jpg"
+  },
+  {
+    "release_date": "2019-05-22",
+    "title": "Aladdin",
+    "director": "Guy Ritchie",
+    "image_path": "images/2019-05-22_aladdin.jpeg"
+  },
+  {
+    "release_date": "2019-05-22",
+    "title": "John Wick Parabellum",
+    "director": "Chad Stahelski",
+    "image_path": "images/2019-05-22_john_wick_parabellum.jpeg"
+  },
+  {
+    "release_date": "2019-05-22",
+    "title": "Château Pékin",
+    "director": "Boris Petric",
+    "image_path": "images/2019-05-22_chateau_pekin.jpg"
+  },
+  {
+    "release_date": "2019-05-22",
+    "title": "Electre / Oreste (Comédie-Française - Pathé Live)",
+    "director": "Ivo van Hove"
+  },
+  {
+    "release_date": "2019-05-22",
+    "title": "Il était une fois Hamlet et Ophélie à Shanghai",
+    "director": "Ellénore Loehr",
+    "image_path": "images/2019-05-22_il_etait_une_fois_hamlet_et_ophelie_a_shanghai.jpg"
+  },
+  {
+    "release_date": "2019-05-22",
+    "title": "La Voix du pardon",
+    "director": "Jon Erwin , Andrew Erwin",
+    "image_path": "images/2019-05-22_la_voix_du_pardon.jpg"
+  },
+  {
+    "release_date": "2019-05-22",
+    "title": "Le Jeune Ahmed",
+    "director": "Luc Dardenne , Jean-Pierre Dardenne",
+    "image_path": "images/2019-05-22_le_jeune_ahmed.jpg"
+  },
+  {
+    "release_date": "2019-05-22",
+    "title": "Sibyl",
+    "director": "Justine Triet",
+    "image_path": "images/2019-05-22_sibyl.jpg"
+  },
+  {
+    "release_date": "2019-05-22",
+    "title": "Stubby",
+    "director": "Richard Lanni",
+    "image_path": "images/2019-05-22_stubby.jpg"
+  },
+  {
+    "release_date": "2019-05-22",
+    "title": "Une part d'ombre",
+    "director": "Samuel Tilman",
+    "image_path": "images/2019-05-22_une_part_dombre.jpg"
+  }
+]

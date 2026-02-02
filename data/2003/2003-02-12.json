@@ -1,0 +1,36 @@
+[
+  {
+    "release_date": "2003-02-12",
+    "title": "La Poursuite implacable",
+    "director": "Sergio Sollima"
+  },
+  {
+    "release_date": "2003-02-12",
+    "title": "Accident",
+    "director": "Joseph Losey",
+    "image_path": "images/2003-02-12_accident.jpg"
+  },
+  {
+    "release_date": "2003-02-12",
+    "title": "Maigret voit rouge",
+    "director": "Gilles Grangier",
+    "image_path": "images/2003-02-12_maigret_voit_rouge.jpg"
+  },
+  {
+    "release_date": "2003-02-12",
+    "title": "Hallelujah",
+    "director": "King Vidor"
+  },
+  {
+    "release_date": "2003-02-12",
+    "title": "Terra incognita",
+    "director": "Ghassan Salhab",
+    "image_path": "images/2003-02-12_terra_incognita.jpg"
+  },
+  {
+    "release_date": "2003-02-12",
+    "title": "Un couple presque parfait",
+    "director": "John Schlesinger",
+    "image_path": "images/2003-02-12_un_couple_presque_parfait.jpg"
+  }
+]

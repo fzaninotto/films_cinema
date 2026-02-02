@@ -1,0 +1,26 @@
+[
+  {
+    "release_date": "2000-09-20",
+    "title": "Inspecteur Lavardin",
+    "director": "Claude Chabrol , Vladimir Cosma",
+    "image_path": "images/2000-09-20_inspecteur_lavardin.jpg"
+  },
+  {
+    "release_date": "2000-09-20",
+    "title": "La Crypte du vampire",
+    "director": "Camillo Mastrocinque",
+    "image_path": "images/2000-09-20_la_crypte_du_vampire.jpg"
+  },
+  {
+    "release_date": "2000-09-20",
+    "title": "Le Glandeur",
+    "director": "Jean-Pierre Mocky",
+    "image_path": "images/2000-09-20_le_glandeur.jpg"
+  },
+  {
+    "release_date": "2000-09-20",
+    "title": "Les Ensorcelés",
+    "director": "Vincente Minnelli",
+    "image_path": "images/2000-09-20_les_ensorceles.jpg"
+  }
+]

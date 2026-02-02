@@ -1,0 +1,48 @@
+[
+  {
+    "release_date": "2003-10-22",
+    "title": "Elephant",
+    "director": "Gus van Sant , Harry Dean Stanton",
+    "image_path": "images/2003-10-22_elephant.jpg"
+  },
+  {
+    "release_date": "2003-10-22",
+    "title": "Les Dents du diable",
+    "director": "Nicholas Ray",
+    "image_path": "images/2003-10-22_les_dents_du_diable.jpg"
+  },
+  {
+    "release_date": "2003-10-22",
+    "title": "Les Aventures de Porcinet",
+    "director": "Francis Glebas",
+    "image_path": "images/2003-10-22_les_aventures_de_porcinet.jpg"
+  },
+  {
+    "release_date": "2003-10-22",
+    "title": "Le Chien, le général et les oiseaux",
+    "director": "Francis Nielsen",
+    "image_path": "images/2003-10-22_le_chien_le_general_et_les_oiseaux.jpg"
+  },
+  {
+    "release_date": "2003-10-22",
+    "title": "Les Contes des animaux",
+    "director": "Lucinda Clutterbuck",
+    "image_path": "images/2003-10-22_les_contes_des_animaux.jpg"
+  },
+  {
+    "release_date": "2003-10-22",
+    "title": "L'Inde, royaume du tigre",
+    "director": "Bruce Neibaur"
+  },
+  {
+    "release_date": "2003-10-22",
+    "title": "Même Dieu est venu nous voir",
+    "director": "Peter Popzlatev"
+  },
+  {
+    "release_date": "2003-10-22",
+    "title": "Valley Girl",
+    "director": "Martha Coolidge",
+    "image_path": "images/2003-10-22_valley_girl.jpg"
+  }
+]

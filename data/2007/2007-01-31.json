@@ -1,0 +1,50 @@
+[
+  {
+    "release_date": "2007-01-31",
+    "title": "Blood Diamond",
+    "director": "Edward Zwick",
+    "image_path": "images/2007-01-31_blood_diamond.jpg"
+  },
+  {
+    "release_date": "2007-01-31",
+    "title": "Molière",
+    "director": "Laurent Tirard",
+    "image_path": "images/2007-01-31_moliere.jpg"
+  },
+  {
+    "release_date": "2007-01-31",
+    "title": "Spider-Man 2",
+    "director": "Sam Raimi",
+    "image_path": "images/2007-01-31_spider-man_2.jpg"
+  },
+  {
+    "release_date": "2007-01-31",
+    "title": "Snow Cake",
+    "director": "Marc Evans",
+    "image_path": "images/2007-01-31_snow_cake.jpg"
+  },
+  {
+    "release_date": "2007-01-31",
+    "title": "Blanche-Neige, la suite",
+    "director": "Picha",
+    "image_path": "images/2007-01-31_blanche-neige_la_suite.jpg"
+  },
+  {
+    "release_date": "2007-01-31",
+    "title": "L'Ile aux trésors",
+    "director": "Alain Berbérian , Denis Barbier",
+    "image_path": "images/2007-01-31_lile_aux_tresors.jpg"
+  },
+  {
+    "release_date": "2007-01-31",
+    "title": "Mon frère se marie",
+    "director": "Jean-Stéphane Bron",
+    "image_path": "images/2007-01-31_mon_frere_se_marie.jpg"
+  },
+  {
+    "release_date": "2007-01-31",
+    "title": "Boy Culture",
+    "director": "Q. Allan Brocka",
+    "image_path": "images/2007-01-31_boy_culture.jpg"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "release_date": "2001-04-11",
+    "title": "Amistad",
+    "director": "Steven Spielberg",
+    "image_path": "images/2001-04-11_amistad.jpg"
+  },
+  {
+    "release_date": "2001-04-11",
+    "title": "Kundun",
+    "director": "Martin Scorsese"
+  },
+  {
+    "release_date": "2001-04-11",
+    "title": "Les Visiteurs en Amérique",
+    "director": "Jean-Marie Poiré",
+    "image_path": "images/2001-04-11_les_visiteurs_en_amerique.jpg"
+  },
+  {
+    "release_date": "2001-04-11",
+    "title": "De l'amour",
+    "director": "Jean-François Richet",
+    "image_path": "images/2001-04-11_de_lamour.jpg"
+  },
+  {
+    "release_date": "2001-04-11",
+    "title": "Malli, le combat d'une vie",
+    "director": "Santosh Sivan"
+  },
+  {
+    "release_date": "2001-04-11",
+    "title": "Un si doux visage",
+    "director": "Otto Preminger",
+    "image_path": "images/2001-04-11_un_si_doux_visage.jpg"
+  }
+]

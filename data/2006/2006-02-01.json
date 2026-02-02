@@ -1,0 +1,78 @@
+[
+  {
+    "release_date": "2006-02-01",
+    "title": "Bambi 2",
+    "director": "Brian Pimental",
+    "image_path": "images/2006-02-01_bambi_2.jpg"
+  },
+  {
+    "release_date": "2006-02-01",
+    "title": "Sheitan",
+    "director": "Kim Chapiron",
+    "image_path": "images/2006-02-01_sheitan.jpg"
+  },
+  {
+    "release_date": "2006-02-01",
+    "title": "Les Bronzés 3 amis pour la vie",
+    "director": "Patrice Leconte",
+    "image_path": "images/2006-02-01_les_bronzes_3_amis_pour_la_vie.jpg"
+  },
+  {
+    "release_date": "2006-02-01",
+    "title": "Cache-cache",
+    "director": "Yves Caumon",
+    "image_path": "images/2006-02-01_cache-cache.jpg"
+  },
+  {
+    "release_date": "2006-02-01",
+    "title": "Zathura : une aventure spatiale",
+    "director": "Jon Favreau",
+    "image_path": "images/2006-02-01_zathura_une_aventure_spatiale.jpg"
+  },
+  {
+    "release_date": "2006-02-01",
+    "title": "Nouvelle cuisine",
+    "director": "Fruit Chan",
+    "image_path": "images/2006-02-01_nouvelle_cuisine.jpg"
+  },
+  {
+    "release_date": "2006-02-01",
+    "title": "Les Mots retrouvés",
+    "director": "David Siegel",
+    "image_path": "images/2006-02-01_les_mots_retrouves.jpg"
+  },
+  {
+    "release_date": "2006-02-01",
+    "title": "9 m2 pour deux",
+    "director": "Joseph Cesarini , Jimmy Glasberg , Hugo Claus"
+  },
+  {
+    "release_date": "2006-02-01",
+    "title": "Faux amis",
+    "director": "Harold Ramis",
+    "image_path": "images/2006-02-01_faux_amis.jpg"
+  },
+  {
+    "release_date": "2006-02-01",
+    "title": "Franz et le chef d'orchestre",
+    "director": "Uzi Geffenblad , Lotta Geffenblad",
+    "image_path": "images/2006-02-01_franz_et_le_chef_dorchestre.jpg"
+  },
+  {
+    "release_date": "2006-02-01",
+    "title": "Le justicier de Shanghai",
+    "director": "Chang Cheh , Hsueh Pao",
+    "image_path": "images/2006-02-01_le_justicier_de_shanghai.jpg"
+  },
+  {
+    "release_date": "2006-02-01",
+    "title": "Repo Man, la mort en prime",
+    "director": "Alex Cox"
+  },
+  {
+    "release_date": "2006-02-01",
+    "title": "Sangre",
+    "director": "Amat Escalante",
+    "image_path": "images/2006-02-01_sangre.jpg"
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "release_date": "2007-07-25",
+    "title": "L'Auberge espagnole",
+    "director": "Cédric Klapisch",
+    "image_path": "images/2007-07-25_lauberge_espagnole.jpg"
+  },
+  {
+    "release_date": "2007-07-25",
+    "title": "Transformers",
+    "director": "Michael Bay",
+    "image_path": "images/2007-07-25_transformers.jpg"
+  },
+  {
+    "release_date": "2007-07-25",
+    "title": "Les Simpson, le film",
+    "director": "David Silverman",
+    "image_path": "images/2007-07-25_les_simpson_le_film.jpg"
+  },
+  {
+    "release_date": "2007-07-25",
+    "title": "Douze hommes en colère",
+    "director": "Sidney Lumet",
+    "image_path": "images/2007-07-25_douze_hommes_en_colere.jpg"
+  },
+  {
+    "release_date": "2007-07-25",
+    "title": "Les Fantômes de Goya",
+    "director": "Milos Forman",
+    "image_path": "images/2007-07-25_les_fantomes_de_goya.jpg"
+  },
+  {
+    "release_date": "2007-07-25",
+    "title": "You Kill Me",
+    "director": "John Dahl",
+    "image_path": "images/2007-07-25_you_kill_me.jpg"
+  },
+  {
+    "release_date": "2007-07-25",
+    "title": "La Nuit des tournesols",
+    "director": "Jorge Sanchez-Cabezudo",
+    "image_path": "images/2007-07-25_la_nuit_des_tournesols.jpg"
+  },
+  {
+    "release_date": "2007-07-25",
+    "title": "Ecorchés",
+    "director": "Cheyenne Caron",
+    "image_path": "images/2007-07-25_ecorches.jpg"
+  },
+  {
+    "release_date": "2007-07-25",
+    "title": "Les Saisons",
+    "director": "Artavazd Pelechian , Ivan Ivanov-Vano , Artavazd Peleshian"
+  },
+  {
+    "release_date": "2007-07-25",
+    "title": "Love Sick",
+    "director": "Tudor Giurgiu"
+  },
+  {
+    "release_date": "2007-07-25",
+    "title": "Notre siècle",
+    "director": "Artavazd Pelechian , Artavazd Peleshian"
+  },
+  {
+    "release_date": "2007-07-25",
+    "title": "Nous",
+    "director": "Artavazd Pelechian"
+  },
+  {
+    "release_date": "2007-07-25",
+    "title": "Waiter!",
+    "director": "Alex Van Warmerdam",
+    "image_path": "images/2007-07-25_waiter.jpg"
+  }
+]

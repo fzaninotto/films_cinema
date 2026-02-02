@@ -1,0 +1,56 @@
+[
+  {
+    "release_date": "2013-03-13",
+    "title": "Jappeloup",
+    "director": "Guillaume Canet , Christian Duguay , Pauline Serieys",
+    "image_path": "images/2013-03-13_jappeloup.jpg"
+  },
+  {
+    "release_date": "2013-03-13",
+    "title": "Cloud Atlas",
+    "director": "Tom Tykwer , Andy Wachowski , Lana Wachowski , Lilly Wachowski",
+    "image_path": "images/2013-03-13_cloud_atlas.jpg"
+  },
+  {
+    "release_date": "2013-03-13",
+    "title": "Le Mur invisible",
+    "director": "Julian Roman Pölsler , Julian Pölsler",
+    "image_path": "images/2013-03-13_le_mur_invisible.jpg"
+  },
+  {
+    "release_date": "2013-03-13",
+    "title": "Camille Claudel, 1915",
+    "director": "Bruno Dumont , Marie Locatelli",
+    "image_path": "images/2013-03-13_camille_claudel_1915.jpg"
+  },
+  {
+    "release_date": "2013-03-13",
+    "title": "Le Dernier exorcisme, Part II",
+    "director": "Ed Gass-Donnelly",
+    "image_path": "images/2013-03-13_le_dernier_exorcisme_part_ii.jpg"
+  },
+  {
+    "release_date": "2013-03-13",
+    "title": "Les Nuits avec Théodore",
+    "director": "Sébastien Betbeder",
+    "image_path": "images/2013-03-13_les_nuits_avec_theodore.jpg"
+  },
+  {
+    "release_date": "2013-03-13",
+    "title": "Tu seras sumo",
+    "director": "Jill Coulon",
+    "image_path": "images/2013-03-13_tu_seras_sumo.jpg"
+  },
+  {
+    "release_date": "2013-03-13",
+    "title": "Notre Monde",
+    "director": "Thomas Lacoste",
+    "image_path": "images/2013-03-13_notre_monde.jpg"
+  },
+  {
+    "release_date": "2013-03-13",
+    "title": "Le Choc des générations",
+    "director": "Andy Fickman",
+    "image_path": "images/2013-03-13_le_choc_des_generations.jpg"
+  }
+]

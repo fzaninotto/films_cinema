@@ -1,0 +1,50 @@
+[
+  {
+    "release_date": "2007-06-06",
+    "title": "Dialogue avec mon jardinier",
+    "director": "Jean Becker , Jacques Becker , Max Neufeld",
+    "image_path": "images/2007-06-06_dialogue_avec_mon_jardinier.jpg"
+  },
+  {
+    "release_date": "2007-06-06",
+    "title": "Les Chiens de paille",
+    "director": "Sam Peckinpah",
+    "image_path": "images/2007-06-06_les_chiens_de_paille.jpg"
+  },
+  {
+    "release_date": "2007-06-06",
+    "title": "Coeurs perdus",
+    "director": "Todd Robinson",
+    "image_path": "images/2007-06-06_coeurs_perdus.jpg"
+  },
+  {
+    "release_date": "2007-06-06",
+    "title": "L'Avocat de la terreur",
+    "director": "Barbet Schroeder",
+    "image_path": "images/2007-06-06_lavocat_de_la_terreur.jpg"
+  },
+  {
+    "release_date": "2007-06-06",
+    "title": "Boxes",
+    "director": "Jane Birkin",
+    "image_path": "images/2007-06-06_boxes.jpg"
+  },
+  {
+    "release_date": "2007-06-06",
+    "title": "Ecoute le temps",
+    "director": "Alanté Kavaïté",
+    "image_path": "images/2007-06-06_ecoute_le_temps.jpg"
+  },
+  {
+    "release_date": "2007-06-06",
+    "title": "I don't want to sleep alone",
+    "director": "Tsai Ming-liang",
+    "image_path": "images/2007-06-06_i_dont_want_to_sleep_alone.jpg"
+  },
+  {
+    "release_date": "2007-06-06",
+    "title": "Manue Bolonaise",
+    "director": "Sophie Letourneur",
+    "image_path": "images/2007-06-06_manue_bolonaise.jpg"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "release_date": "2014-05-07",
+    "title": "L'Arnaque",
+    "director": "George Roy Hill , George Roy Hill",
+    "image_path": "images/2014-05-07_larnaque.jpg"
+  },
+  {
+    "release_date": "2014-05-07",
+    "title": "Libre et assoupi",
+    "director": "Benjamin Guedj",
+    "image_path": "images/2014-05-07_libre_et_assoupi.jpg"
+  },
+  {
+    "release_date": "2014-05-07",
+    "title": "Last Days of Summer",
+    "director": "Jason Reitman",
+    "image_path": "images/2014-05-07_last_days_of_summer.jpg"
+  },
+  {
+    "release_date": "2014-05-07",
+    "title": "The Baby",
+    "director": "Matt Bettinelli-Olpin , Tyler Gillett",
+    "image_path": "images/2014-05-07_the_baby.jpg"
+  },
+  {
+    "release_date": "2014-05-07",
+    "title": "Holy Smoke",
+    "director": "Jane Campion",
+    "image_path": "images/2014-05-07_holy_smoke.jpg"
+  },
+  {
+    "release_date": "2014-05-07",
+    "title": "Jeune",
+    "director": "Christian Zerbib",
+    "image_path": "images/2014-05-07_jeune.jpg"
+  },
+  {
+    "release_date": "2014-05-07",
+    "title": "May in the summer",
+    "director": "Cherien Dabis",
+    "image_path": "images/2014-05-07_may_in_the_summer.jpg"
+  },
+  {
+    "release_date": "2014-05-07",
+    "title": "Au Nom Du Fils",
+    "director": "Vincent Lannoo",
+    "image_path": "images/2014-05-07_au_nom_du_fils.jpg"
+  },
+  {
+    "release_date": "2014-05-07",
+    "title": "De guerre lasse",
+    "director": "Olivier Panchot",
+    "image_path": "images/2014-05-07_de_guerre_lasse.jpg"
+  },
+  {
+    "release_date": "2014-05-07",
+    "title": "Ne pas s'avouer vaincu",
+    "director": "Henri Belin , Susana Arbizu",
+    "image_path": "images/2014-05-07_ne_pas_savouer_vaincu.jpg"
+  },
+  {
+    "release_date": "2014-05-07",
+    "title": "La Voie de l'ennemi",
+    "director": "Rachid Bouchareb",
+    "image_path": "images/2014-05-07_la_voie_de_lennemi.jpg"
+  },
+  {
+    "release_date": "2014-05-07",
+    "title": "Arthur Newman",
+    "director": "Dante Ariola",
+    "image_path": "images/2014-05-07_arthur_newman.jpg"
+  },
+  {
+    "release_date": "2014-05-07",
+    "title": "Chaparri, les sept ours de la montagne sacrée",
+    "director": "Nathalie Granger-Charles-Dominique , André Charles-Dominique",
+    "image_path": "images/2014-05-07_chaparri_les_sept_ours_de_la_montagne_sacree.jpg"
+  },
+  {
+    "release_date": "2014-05-07",
+    "title": "La Frappe",
+    "director": "Yoon Sung-hyun",
+    "image_path": "images/2014-05-07_la_frappe.jpg"
+  },
+  {
+    "release_date": "2014-05-07",
+    "title": "L'Armée du Salut",
+    "director": "Abdellah Taïa",
+    "image_path": "images/2014-05-07_larmee_du_salut.jpg"
+  },
+  {
+    "release_date": "2014-05-07",
+    "title": "Sarah préfère la course",
+    "director": "Chloé Robichaud",
+    "image_path": "images/2014-05-07_sarah_prefere_la_course.jpg"
+  },
+  {
+    "release_date": "2014-05-07",
+    "title": "Selfie",
+    "director": "Cristina Jacob"
+  },
+  {
+    "release_date": "2014-05-07",
+    "title": "The Losers"
+  }
+]

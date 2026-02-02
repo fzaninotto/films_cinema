@@ -1,0 +1,44 @@
+[
+  {
+    "release_date": "2008-03-12",
+    "title": "10 000",
+    "director": "Roland Emmerich",
+    "image_path": "images/2008-03-12_10_000.jpg"
+  },
+  {
+    "release_date": "2008-03-12",
+    "title": "Julia",
+    "director": "Erick Zonca",
+    "image_path": "images/2008-03-12_julia.jpg"
+  },
+  {
+    "release_date": "2008-03-12",
+    "title": "Rendez-vous à Brick Lane",
+    "director": "Sarah Gavron",
+    "image_path": "images/2008-03-12_rendez-vous_a_brick_lane.jpg"
+  },
+  {
+    "release_date": "2008-03-12",
+    "title": "Modern Love",
+    "director": "Stéphane Kazandjian",
+    "image_path": "images/2008-03-12_modern_love.jpg"
+  },
+  {
+    "release_date": "2008-03-12",
+    "title": "Dans la vie",
+    "director": "Philippe Faucon",
+    "image_path": "images/2008-03-12_dans_la_vie.jpg"
+  },
+  {
+    "release_date": "2008-03-12",
+    "title": "Mon Führer",
+    "director": "Dani Levy",
+    "image_path": "images/2008-03-12_mon_fuhrer.jpg"
+  },
+  {
+    "release_date": "2008-03-12",
+    "title": "Miquette et sa mère",
+    "director": "Henri-Georges Clouzot",
+    "image_path": "images/2008-03-12_miquette_et_sa_mere.jpg"
+  }
+]

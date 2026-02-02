@@ -1,0 +1,31 @@
+[
+  {
+    "release_date": "2020-04-01",
+    "title": "La Passion du Christ",
+    "director": "Mel Gibson , George Dickerson",
+    "image_path": "images/2020-04-01_la_passion_du_christ.jpg"
+  },
+  {
+    "release_date": "2020-04-01",
+    "title": "Close-up",
+    "director": "Abbas Kiarostami",
+    "image_path": "images/2020-04-01_close-up.jpg"
+  },
+  {
+    "release_date": "2020-04-01",
+    "title": "Le Prince Oublié",
+    "director": "Michel Hazanavicius",
+    "image_path": "images/2020-04-01_le_prince_oublie.jpg"
+  },
+  {
+    "release_date": "2020-04-01",
+    "title": "Les Grandes Gueules",
+    "director": "Robert Enrico",
+    "image_path": "images/2020-04-01_les_grandes_gueules.jpg"
+  },
+  {
+    "release_date": "2020-04-01",
+    "title": "Popieluszko",
+    "director": "Rafal Wieczynski"
+  }
+]

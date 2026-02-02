@@ -1,0 +1,59 @@
+[
+  {
+    "release_date": "2005-08-31",
+    "title": "La Chute du faucon noir",
+    "director": "Ridley Scott , Jerry Bruckheimer",
+    "image_path": "images/2005-08-31_la_chute_du_faucon_noir.jpeg"
+  },
+  {
+    "release_date": "2005-08-31",
+    "title": "New York Taxi",
+    "director": "Tim Story",
+    "image_path": "images/2005-08-31_new_york_taxi.jpg"
+  },
+  {
+    "release_date": "2005-08-31",
+    "title": "Appleseed",
+    "director": "Shinji Aramaki",
+    "image_path": "images/2005-08-31_appleseed.jpg"
+  },
+  {
+    "release_date": "2005-08-31",
+    "title": "Bombón el perro",
+    "director": "Carlos Sorin , Sarah Rose Karr",
+    "image_path": "images/2005-08-31_bombon_el_perro.jpg"
+  },
+  {
+    "release_date": "2005-08-31",
+    "title": "Cadeau du Ciel",
+    "director": "Dover Kosashvili , Dover Koshashvili",
+    "image_path": "images/2005-08-31_cadeau_du_ciel.jpg"
+  },
+  {
+    "release_date": "2005-08-31",
+    "title": "Brasileirinho",
+    "director": "Mika Kaurismaki , Bruno Schmitsdorf",
+    "image_path": "images/2005-08-31_brasileirinho.jpg"
+  },
+  {
+    "release_date": "2005-08-31",
+    "title": "La Ravisseuse",
+    "director": "Antoine Santana",
+    "image_path": "images/2005-08-31_la_ravisseuse.jpg"
+  },
+  {
+    "release_date": "2005-08-31",
+    "title": "A vot' bon coeur",
+    "director": "Paul Vecchiali"
+  },
+  {
+    "release_date": "2005-08-31",
+    "title": "Des bateaux d'écorce de pastèques",
+    "director": "Ahmet Uluçay"
+  },
+  {
+    "release_date": "2005-08-31",
+    "title": "La pampa sauvage",
+    "director": "Hugo Fregonese"
+  }
+]

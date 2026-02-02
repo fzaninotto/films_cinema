@@ -1,0 +1,30 @@
+[
+  {
+    "release_date": "2003-12-10",
+    "title": "Derrida",
+    "director": "Kirby Dick , Amy Ziering Kofman"
+  },
+  {
+    "release_date": "2003-12-10",
+    "title": "La fin du règne animal",
+    "director": "Joël Brisse"
+  },
+  {
+    "release_date": "2003-12-10",
+    "title": "L'Armoire volante",
+    "director": "Carlo Rim",
+    "image_path": "images/2003-12-10_larmoire_volante.jpg"
+  },
+  {
+    "release_date": "2003-12-10",
+    "title": "Les contes de l'horloge magique",
+    "director": "Ladislas Starewitch",
+    "image_path": "images/2003-12-10_les_contes_de_lhorloge_magique.jpg"
+  },
+  {
+    "release_date": "2003-12-10",
+    "title": "L'Invasion des profanateurs",
+    "director": "Philip Kaufman , Sylvestre Amoussou",
+    "image_path": "images/2003-12-10_linvasion_des_profanateurs.jpg"
+  }
+]

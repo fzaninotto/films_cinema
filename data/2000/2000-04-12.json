@@ -1,0 +1,50 @@
+[
+  {
+    "release_date": "2000-04-12",
+    "title": "Le Cinquième Élément",
+    "director": "Luc Besson",
+    "image_path": "images/2000-04-12_le_cinquieme_element.jpg"
+  },
+  {
+    "release_date": "2000-04-12",
+    "title": "A Tombeau ouvert",
+    "director": "Martin Scorsese",
+    "image_path": "images/2000-04-12_a_tombeau_ouvert.jpg"
+  },
+  {
+    "release_date": "2000-04-12",
+    "title": "Rocky II",
+    "director": "Sylvester Stallone",
+    "image_path": "images/2000-04-12_rocky_ii.jpg"
+  },
+  {
+    "release_date": "2000-04-12",
+    "title": "Il était une fois Jésus",
+    "director": "Stanislav Sokolov , Derek Hayes"
+  },
+  {
+    "release_date": "2000-04-12",
+    "title": "Il était une fois Jésus",
+    "director": "Stanislav Sokolov , Derek Hayes"
+  },
+  {
+    "release_date": "2000-04-12",
+    "title": "Là-bas, mon pays",
+    "director": "Alexandre Arcady"
+  },
+  {
+    "release_date": "2000-04-12",
+    "title": "Le Chien du jardinier",
+    "director": "Pilar Miro"
+  },
+  {
+    "release_date": "2000-04-12",
+    "title": "Le Prof",
+    "director": "Alexandre Jardin"
+  },
+  {
+    "release_date": "2000-04-12",
+    "title": "Les Solitaires",
+    "director": "Jean-Paul Civeyrac"
+  }
+]

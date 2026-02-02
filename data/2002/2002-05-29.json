@@ -1,0 +1,25 @@
+[
+  {
+    "release_date": "2002-05-29",
+    "title": "Metropolis",
+    "director": "Michael Curtiz , Fritz Lang , Akira Nagoya",
+    "image_path": "images/2002-05-29_metropolis.jpg"
+  },
+  {
+    "release_date": "2002-05-29",
+    "title": "Mission évasion",
+    "director": "Gregory Hoblit",
+    "image_path": "images/2002-05-29_mission_evasion.jpg"
+  },
+  {
+    "release_date": "2002-05-29",
+    "title": "And Now... Ladies & Gentlemen",
+    "director": "Claude Lelouch",
+    "image_path": "images/2002-05-29_and_now_ladies_gentlemen.jpg"
+  },
+  {
+    "release_date": "2002-05-29",
+    "title": "Week-end de terreur",
+    "director": "Fred Walton"
+  }
+]

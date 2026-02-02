@@ -1,0 +1,159 @@
+[
+  {
+    "release_date": "2025-07-09",
+    "title": "Amour",
+    "director": "Dag Haugerud",
+    "image_path": "images/2025-07-09_amour.jpg"
+  },
+  {
+    "release_date": "2025-07-09",
+    "title": "Le Boucher",
+    "director": "Claude Chabrol , Vladimir Cosma",
+    "image_path": "images/2025-07-09_le_boucher.jpg"
+  },
+  {
+    "release_date": "2025-07-09",
+    "title": "Superman",
+    "director": "James Gunn",
+    "image_path": "images/2025-07-09_superman.jpeg"
+  },
+  {
+    "release_date": "2025-07-09",
+    "title": "Le Beau Serge",
+    "director": "Claude Chabrol , Vladimir Cosma",
+    "image_path": "images/2025-07-09_le_beau_serge.jpg"
+  },
+  {
+    "release_date": "2025-07-09",
+    "title": "Les Noces rouges",
+    "director": "Claude Chabrol , Vladimir Cosma"
+  },
+  {
+    "release_date": "2025-07-09",
+    "title": "I Love Peru",
+    "director": "Raphaël Quenard , Hugo David",
+    "image_path": "images/2025-07-09_i_love_peru.jpg"
+  },
+  {
+    "release_date": "2025-07-09",
+    "title": "Juste avant la nuit (version restaurée)",
+    "director": "Claude Chabrol"
+  },
+  {
+    "release_date": "2025-07-09",
+    "title": "Petit Ours Brun fête son anniversaire au cinéma",
+    "image_path": "images/2025-07-09_petit_ours_brun_fete_son_anniversaire_au_cinema.jpg"
+  },
+  {
+    "release_date": "2025-07-09",
+    "title": "Valensole 1965",
+    "director": "Dominique Filhol",
+    "image_path": "images/2025-07-09_valensole_1965.jpg"
+  },
+  {
+    "release_date": "2025-07-09",
+    "title": "Que la bête meure",
+    "director": "Claude Chabrol , Vladimir Cosma",
+    "image_path": "images/2025-07-09_que_la_bete_meure.jpg"
+  },
+  {
+    "release_date": "2025-07-09",
+    "title": "Landru",
+    "director": "Claude Chabrol",
+    "image_path": "images/2025-07-09_landru.jpg"
+  },
+  {
+    "release_date": "2025-07-09",
+    "title": "Les Bonnes Femmes",
+    "director": "Claude Chabrol , Vladimir Cosma",
+    "image_path": "images/2025-07-09_les_bonnes_femmes.jpg"
+  },
+  {
+    "release_date": "2025-07-09",
+    "title": "Arnon-un élève modèle",
+    "director": "Sorayos Prapapan",
+    "image_path": "images/2025-07-09_arnon-un_eleve_modele.jpg"
+  },
+  {
+    "release_date": "2025-07-09",
+    "title": "Buffalo Kids",
+    "director": "Pedro Garcia , Juan Galocha",
+    "image_path": "images/2025-07-09_buffalo_kids.jpg"
+  },
+  {
+    "release_date": "2025-07-09",
+    "title": "In the Summers",
+    "director": "Alessandra Lacorazza",
+    "image_path": "images/2025-07-09_in_the_summers.jpg"
+  },
+  {
+    "release_date": "2025-07-09",
+    "title": "Jeunesse (retour au pays)",
+    "director": "Wang Bing",
+    "image_path": "images/2025-07-09_jeunesse_retour_au_pays.jpg"
+  },
+  {
+    "release_date": "2025-07-09",
+    "title": "La femme infidèle (version restaurée)",
+    "director": "Claude Chabrol"
+  },
+  {
+    "release_date": "2025-07-09",
+    "title": "La Rupture",
+    "director": "Claude Chabrol , Vladimir Cosma",
+    "image_path": "images/2025-07-09_la_rupture.jpg"
+  },
+  {
+    "release_date": "2025-07-09",
+    "title": "Les Cousins",
+    "director": "Claude Chabrol , Vladimir Cosma",
+    "image_path": "images/2025-07-09_les_cousins.jpg"
+  },
+  {
+    "release_date": "2025-07-09",
+    "title": "Les godelureaux (version restaurée)",
+    "director": "Claude Chabrol",
+    "image_path": "images/2025-07-09_les_godelureaux_version_restauree.jpg"
+  },
+  {
+    "release_date": "2025-07-09",
+    "title": "Marius et les gardiens de la cité phocéenne",
+    "director": "Tony Datis",
+    "image_path": "images/2025-07-09_marius_et_les_gardiens_de_la_cite_phoceenne.jpg"
+  },
+  {
+    "release_date": "2025-07-09",
+    "title": "Other",
+    "director": "David Moreau",
+    "image_path": "images/2025-07-09_other.jpg"
+  },
+  {
+    "release_date": "2025-07-09",
+    "title": "Phi 1.618",
+    "director": "Théodore Ushev",
+    "image_path": "images/2025-07-09_phi_1618.jpg"
+  },
+  {
+    "release_date": "2025-07-09",
+    "title": "Pusher",
+    "director": "Nicolas Winding Refn",
+    "image_path": "images/2025-07-09_pusher.jpg"
+  },
+  {
+    "release_date": "2025-07-09",
+    "title": "Pusher II",
+    "director": "Nicolas Winding Refn"
+  },
+  {
+    "release_date": "2025-07-09",
+    "title": "Pusher III",
+    "director": "Nicolas Winding Refn",
+    "image_path": "images/2025-07-09_pusher_iii.jpg"
+  },
+  {
+    "release_date": "2025-07-09",
+    "title": "Rock Bottom",
+    "director": "Argyris Kavvidas",
+    "image_path": "images/2025-07-09_rock_bottom.jpg"
+  }
+]

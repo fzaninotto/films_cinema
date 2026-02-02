@@ -1,0 +1,49 @@
+[
+  {
+    "release_date": "2008-08-06",
+    "title": "Les Visiteurs",
+    "director": "Jean-Marie Poiré",
+    "image_path": "images/2008-08-06_les_visiteurs.jpg"
+  },
+  {
+    "release_date": "2008-08-06",
+    "title": "Braquage à l'anglaise",
+    "director": "Roger Donaldson",
+    "image_path": "images/2008-08-06_braquage_a_langlaise.jpg"
+  },
+  {
+    "release_date": "2008-08-06",
+    "title": "Les 3 P'tits Cochons",
+    "director": "Patrick Huard",
+    "image_path": "images/2008-08-06_les_3_ptits_cochons.jpg"
+  },
+  {
+    "release_date": "2008-08-06",
+    "title": "Dorothy",
+    "director": "Agnès Merlet , Joseph Kostlinger",
+    "image_path": "images/2008-08-06_dorothy.jpg"
+  },
+  {
+    "release_date": "2008-08-06",
+    "title": "La Loi du silence",
+    "director": "Alfred Hitchcock",
+    "image_path": "images/2008-08-06_la_loi_du_silence.jpg"
+  },
+  {
+    "release_date": "2008-08-06",
+    "title": "La Saison des orphelins",
+    "director": "David Tardé",
+    "image_path": "images/2008-08-06_la_saison_des_orphelins.jpg"
+  },
+  {
+    "release_date": "2008-08-06",
+    "title": "Les Dents de la nuit",
+    "director": "Stephen Cafiero , Vincent Lobelle , Stéphane Cafiero",
+    "image_path": "images/2008-08-06_les_dents_de_la_nuit.jpg"
+  },
+  {
+    "release_date": "2008-08-06",
+    "title": "La Môme Xiao",
+    "director": "Tao Peng , Peng Tao"
+  }
+]

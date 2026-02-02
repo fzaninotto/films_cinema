@@ -1,0 +1,74 @@
+[
+  {
+    "release_date": "2012-08-22",
+    "title": "L'Arnacoeur",
+    "director": "Pascal Chaumeil",
+    "image_path": "images/2012-08-22_larnacoeur.jpg"
+  },
+  {
+    "release_date": "2012-08-22",
+    "title": "John Rambo",
+    "director": "Sylvester Stallone",
+    "image_path": "images/2012-08-22_john_rambo.jpg"
+  },
+  {
+    "release_date": "2012-08-22",
+    "title": "Fleur du désert",
+    "director": "Sherry Hormann , Sherry Horman",
+    "image_path": "images/2012-08-22_fleur_du_desert.jpg"
+  },
+  {
+    "release_date": "2012-08-22",
+    "title": "Du Vent dans mes mollets",
+    "director": "Carine Tardieu , Annabel Leventon",
+    "image_path": "images/2012-08-22_du_vent_dans_mes_mollets.jpg"
+  },
+  {
+    "release_date": "2012-08-22",
+    "title": "Expendables 2 : unité spéciale",
+    "director": "Simon West",
+    "image_path": "images/2012-08-22_expendables_2_unite_speciale.jpg"
+  },
+  {
+    "release_date": "2012-08-22",
+    "title": "A perdre la raison",
+    "director": "Joachim Lafosse",
+    "image_path": "images/2012-08-22_a_perdre_la_raison.jpg"
+  },
+  {
+    "release_date": "2012-08-22",
+    "title": "Broken",
+    "director": "Rufus Norris",
+    "image_path": "images/2012-08-22_broken.jpg"
+  },
+  {
+    "release_date": "2012-08-22",
+    "title": "Associés contre le crime...",
+    "director": "Pascal Thomas",
+    "image_path": "images/2012-08-22_associes_contre_le_crime.jpg"
+  },
+  {
+    "release_date": "2012-08-22",
+    "title": "Keep the Lights On",
+    "director": "Ira Sachs",
+    "image_path": "images/2012-08-22_keep_the_lights_on.jpg"
+  },
+  {
+    "release_date": "2012-08-22",
+    "title": "Madame Solario",
+    "director": "René Féret",
+    "image_path": "images/2012-08-22_madame_solario.jpg"
+  },
+  {
+    "release_date": "2012-08-22",
+    "title": "Près du feu",
+    "director": "Alejandro Fernández Almendras",
+    "image_path": "images/2012-08-22_pres_du_feu.jpg"
+  },
+  {
+    "release_date": "2012-08-22",
+    "title": "Tokyo Park",
+    "director": "Shinji Aoyama",
+    "image_path": "images/2012-08-22_tokyo_park.jpg"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "release_date": "2006-12-27",
+    "title": "Le Temps des Gitans",
+    "director": "Emir Kusturica",
+    "image_path": "images/2006-12-27_le_temps_des_gitans.jpg"
+  },
+  {
+    "release_date": "2006-12-27",
+    "title": "The Grudge 2",
+    "director": "Takashi Shimizu",
+    "image_path": "images/2006-12-27_the_grudge_2.jpg"
+  },
+  {
+    "release_date": "2006-12-27",
+    "title": "Le Lièvre de Vatanen",
+    "director": "Marc Rivière",
+    "image_path": "images/2006-12-27_le_lievre_de_vatanen.jpg"
+  },
+  {
+    "release_date": "2006-12-27",
+    "title": "Transe",
+    "director": "Peng Phan , Teresa Villaverde"
+  },
+  {
+    "release_date": "2006-12-27",
+    "title": "Daratt (saison sèche)",
+    "director": "Mahamat-Saleh Haroun",
+    "image_path": "images/2006-12-27_daratt_saison_seche.jpg"
+  },
+  {
+    "release_date": "2006-12-27",
+    "title": "La Montagne sacrée",
+    "director": "Alejandro Jodorowsky",
+    "image_path": "images/2006-12-27_la_montagne_sacree.jpg"
+  }
+]

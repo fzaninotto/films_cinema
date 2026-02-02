@@ -1,0 +1,32 @@
+[
+  {
+    "release_date": "2001-01-31",
+    "title": "Chantons sous la pluie",
+    "director": "Gene Kelly , Stanley Donen",
+    "image_path": "images/2001-01-31_chantons_sous_la_pluie.jpg"
+  },
+  {
+    "release_date": "2001-01-31",
+    "title": "Le Pacte des loups",
+    "director": "Christophe Gans",
+    "image_path": "images/2001-01-31_le_pacte_des_loups.jpg"
+  },
+  {
+    "release_date": "2001-01-31",
+    "title": "U-turn, ici commence l'enfer",
+    "director": "Oliver Stone , Françoise Verley",
+    "image_path": "images/2001-01-31_u-turn_ici_commence_lenfer.jpg"
+  },
+  {
+    "release_date": "2001-01-31",
+    "title": "Cyborg",
+    "director": "Albert Pyun",
+    "image_path": "images/2001-01-31_cyborg.jpg"
+  },
+  {
+    "release_date": "2001-01-31",
+    "title": "Le pacte des loups",
+    "director": "Christophe Gans",
+    "image_path": "images/2001-01-31_le_pacte_des_loups.jpg"
+  }
+]

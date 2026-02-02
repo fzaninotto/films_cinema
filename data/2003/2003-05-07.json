@@ -1,0 +1,29 @@
+[
+  {
+    "release_date": "2003-05-07",
+    "title": "Evil dead",
+    "director": "Sam Raimi , Samuel Raimi",
+    "image_path": "images/2003-05-07_evil_dead.jpg"
+  },
+  {
+    "release_date": "2003-05-07",
+    "title": "Gomez et Tavares",
+    "director": "Gilles Paquet-Brenner",
+    "image_path": "images/2003-05-07_gomez_et_tavares.jpg"
+  },
+  {
+    "release_date": "2003-05-07",
+    "title": "Maléfique",
+    "director": "Eric Valette"
+  },
+  {
+    "release_date": "2003-05-07",
+    "title": "Royal Bonbon",
+    "director": "Charles Najman"
+  },
+  {
+    "release_date": "2003-05-07",
+    "title": "The Night They Raided Minsky's",
+    "director": "William Friedkin"
+  }
+]

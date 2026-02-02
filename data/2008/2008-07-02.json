@@ -1,0 +1,67 @@
+[
+  {
+    "release_date": "2008-07-02",
+    "title": "Steppin",
+    "director": "Sylvain White",
+    "image_path": "images/2008-07-02_steppin.jpg"
+  },
+  {
+    "release_date": "2008-07-02",
+    "title": "Hot Fuzz",
+    "director": "Edgar Wright",
+    "image_path": "images/2008-07-02_hot_fuzz.jpg"
+  },
+  {
+    "release_date": "2008-07-02",
+    "title": "A history of violence",
+    "director": "David Cronenberg",
+    "image_path": "images/2008-07-02_a_history_of_violence.jpg"
+  },
+  {
+    "release_date": "2008-07-02",
+    "title": "Mes amis, mes amours",
+    "director": "Lorraine Lévy",
+    "image_path": "images/2008-07-02_mes_amis_mes_amours.jpg"
+  },
+  {
+    "release_date": "2008-07-02",
+    "title": "Spider",
+    "director": "David Cronenberg",
+    "image_path": "images/2008-07-02_spider.jpg"
+  },
+  {
+    "release_date": "2008-07-02",
+    "title": "Par suite d'un arrêt de travail...",
+    "director": "Frédéric Andrei",
+    "image_path": "images/2008-07-02_par_suite_dun_arret_de_travail.jpg"
+  },
+  {
+    "release_date": "2008-07-02",
+    "title": "Made in Italy",
+    "director": "Stéphane Giusti , André Giroud",
+    "image_path": "images/2008-07-02_made_in_italy.jpg"
+  },
+  {
+    "release_date": "2008-07-02",
+    "title": "Yvette, bon dieu !",
+    "director": "Sylvestre Chatenay",
+    "image_path": "images/2008-07-02_yvette_bon_dieu_.jpg"
+  },
+  {
+    "release_date": "2008-07-02",
+    "title": "Génération électro",
+    "director": "Christophe Chevallier",
+    "image_path": "images/2008-07-02_generation_electro.jpg"
+  },
+  {
+    "release_date": "2008-07-02",
+    "title": "Les Sept Jours",
+    "director": "Ronit Elkabetz , Shlomi Elkabetz",
+    "image_path": "images/2008-07-02_les_sept_jours.jpg"
+  },
+  {
+    "release_date": "2008-07-02",
+    "title": "Sonic Mirror",
+    "director": "Mika Kaurismaki"
+  }
+]

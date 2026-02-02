@@ -1,0 +1,111 @@
+[
+  {
+    "release_date": "2021-07-07",
+    "title": "Cinema Paradiso",
+    "director": "Giuseppe Tornatore",
+    "image_path": "images/2021-07-07_cinema_paradiso.jpg"
+  },
+  {
+    "release_date": "2021-07-07",
+    "title": "Charade",
+    "director": "Stanley Donen , Stefan Godin",
+    "image_path": "images/2021-07-07_charade.jpg"
+  },
+  {
+    "release_date": "2021-07-07",
+    "title": "Les Croods 2",
+    "director": "Joel Crawford",
+    "image_path": "images/2021-07-07_les_croods_2.jpeg"
+  },
+  {
+    "release_date": "2021-07-07",
+    "title": "L'Enfance nue",
+    "director": "Maurice Pialat",
+    "image_path": "images/2021-07-07_lenfance_nue.jpg"
+  },
+  {
+    "release_date": "2021-07-07",
+    "title": "Benedetta",
+    "director": "Lambert Wilson , Paul Verhoeven",
+    "image_path": "images/2021-07-07_benedetta.jpeg"
+  },
+  {
+    "release_date": "2021-07-07",
+    "title": "Black Widow",
+    "director": "Cate Shortland",
+    "image_path": "images/2021-07-07_black_widow.jpeg"
+  },
+  {
+    "release_date": "2021-07-07",
+    "title": "La Gueule ouverte",
+    "director": "Maurice Pialat",
+    "image_path": "images/2021-07-07_la_gueule_ouverte.jpg"
+  },
+  {
+    "release_date": "2021-07-07",
+    "title": "Entre les lignes",
+    "director": "Joan Micklin Silver"
+  },
+  {
+    "release_date": "2021-07-07",
+    "title": "Fisherman's Friends",
+    "director": "Chris Foggin",
+    "image_path": "images/2021-07-07_fishermans_friends.jpg"
+  },
+  {
+    "release_date": "2021-07-07",
+    "title": "Fritzi était là",
+    "director": "Ralf Kukula , Matthias Bruhn",
+    "image_path": "images/2021-07-07_fritzi_etait_la.jpg"
+  },
+  {
+    "release_date": "2021-07-07",
+    "title": "Fritzi, histoire d'une révolution",
+    "director": "Ralf Kukula , Matthias Bruhn"
+  },
+  {
+    "release_date": "2021-07-07",
+    "title": "Irma",
+    "director": "Luciana Mazeto , Vinicius Lopes",
+    "image_path": "images/2021-07-07_irma.jpg"
+  },
+  {
+    "release_date": "2021-07-07",
+    "title": "Je Voulais me Cacher",
+    "director": "Giorgio Diritti",
+    "image_path": "images/2021-07-07_je_voulais_me_cacher.jpg"
+  },
+  {
+    "release_date": "2021-07-07",
+    "title": "Kuessipan",
+    "director": "Myriam Verreault",
+    "image_path": "images/2021-07-07_kuessipan.jpg"
+  },
+  {
+    "release_date": "2021-07-07",
+    "title": "La bataille du rail",
+    "director": "Jean-Charles Paugam"
+  },
+  {
+    "release_date": "2021-07-07",
+    "title": "La Chapelle du Diable",
+    "image_path": "images/2021-07-07_la_chapelle_du_diable.jpg"
+  },
+  {
+    "release_date": "2021-07-07",
+    "title": "La Saveur des coings",
+    "director": "Kristina Grozeva , Petar Valchanov",
+    "image_path": "images/2021-07-07_la_saveur_des_coings.jpg"
+  },
+  {
+    "release_date": "2021-07-07",
+    "title": "Moffie",
+    "director": "Oliver Hermanus",
+    "image_path": "images/2021-07-07_moffie.jpg"
+  },
+  {
+    "release_date": "2021-07-07",
+    "title": "Poil de Carotte",
+    "director": "Julien Duvivier"
+  }
+]

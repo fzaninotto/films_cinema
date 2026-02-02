@@ -1,0 +1,24 @@
+[
+  {
+    "release_date": "2003-08-06",
+    "title": "Le Fantôme de la liberté",
+    "director": "Luis Bunuel",
+    "image_path": "images/2003-08-06_le_fantome_de_la_liberte.jpg"
+  },
+  {
+    "release_date": "2003-08-06",
+    "title": "La Maison de fous",
+    "director": "Anna Karina , Andrei Konchalovsky"
+  },
+  {
+    "release_date": "2003-08-06",
+    "title": "Les filles, personne s'en méfie",
+    "director": "Charlotte Silvera",
+    "image_path": "images/2003-08-06_les_filles_personne_sen_mefie.jpg"
+  },
+  {
+    "release_date": "2003-08-06",
+    "title": "Maxime",
+    "director": "Henri Verneuil"
+  }
+]

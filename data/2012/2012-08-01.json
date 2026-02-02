@@ -1,0 +1,50 @@
+[
+  {
+    "release_date": "2012-08-01",
+    "title": "Rebelle",
+    "director": "Kim Nguyen",
+    "image_path": "images/2012-08-01_rebelle.jpg"
+  },
+  {
+    "release_date": "2012-08-01",
+    "title": "Le Grand Silence",
+    "director": "Philip Gröning",
+    "image_path": "images/2012-08-01_le_grand_silence.jpg"
+  },
+  {
+    "release_date": "2012-08-01",
+    "title": "Friends with Kids",
+    "director": "Jennifer Westfeldt",
+    "image_path": "images/2012-08-01_friends_with_kids.jpg"
+  },
+  {
+    "release_date": "2012-08-01",
+    "title": "Le Manuscrit trouvé à Saragosse",
+    "director": "Wojciech Has J. , Wojciech Has , Wojciech Has J",
+    "image_path": "images/2012-08-01_le_manuscrit_trouve_a_saragosse.jpg"
+  },
+  {
+    "release_date": "2012-08-01",
+    "title": "Annalisa",
+    "director": "Pippo Mezzapesa",
+    "image_path": "images/2012-08-01_annalisa.jpg"
+  },
+  {
+    "release_date": "2012-08-01",
+    "title": "Femmes entre elles",
+    "director": "Michelangelo Antonioni",
+    "image_path": "images/2012-08-01_femmes_entre_elles.jpg"
+  },
+  {
+    "release_date": "2012-08-01",
+    "title": "My Soul to Take",
+    "director": "Wes Craven",
+    "image_path": "images/2012-08-01_my_soul_to_take.jpg"
+  },
+  {
+    "release_date": "2012-08-01",
+    "title": "The Color Wheel",
+    "director": "Alex Ross Perry",
+    "image_path": "images/2012-08-01_the_color_wheel.jpg"
+  }
+]

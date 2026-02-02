@@ -1,0 +1,59 @@
+[
+  {
+    "release_date": "2001-07-04",
+    "title": "Shrek",
+    "director": "Andrew Adamson , Vicky Jenson",
+    "image_path": "images/2001-07-04_shrek.jpg"
+  },
+  {
+    "release_date": "2001-07-04",
+    "title": "L'Attaque de la moussaka géante",
+    "director": "Panos Koutras , Panos H Koutras",
+    "image_path": "images/2001-07-04_lattaque_de_la_moussaka_geante.jpg"
+  },
+  {
+    "release_date": "2001-07-04",
+    "title": "L'Insoutenable Légèreté de l'être",
+    "director": "Philip Kaufman , Sylvestre Amoussou",
+    "image_path": "images/2001-07-04_linsoutenable_legerete_de_letre.jpg"
+  },
+  {
+    "release_date": "2001-07-04",
+    "title": "L'Homme au pistolet d'or",
+    "director": "Guy Hamilton",
+    "image_path": "images/2001-07-04_lhomme_au_pistolet_dor.jpg"
+  },
+  {
+    "release_date": "2001-07-04",
+    "title": "Coming Out",
+    "director": "Heiner Carow"
+  },
+  {
+    "release_date": "2001-07-04",
+    "title": "Hijack Stories",
+    "director": "Oliver Schmitz , Olivier Schmitz"
+  },
+  {
+    "release_date": "2001-07-04",
+    "title": "La Chevauchée des bannis",
+    "director": "André De Toth , Anna-Maria Sandri",
+    "image_path": "images/2001-07-04_la_chevauchee_des_bannis.jpg"
+  },
+  {
+    "release_date": "2001-07-04",
+    "title": "La Splendeur des Amberson",
+    "director": "Orson Welles",
+    "image_path": "images/2001-07-04_la_splendeur_des_amberson.jpg"
+  },
+  {
+    "release_date": "2001-07-04",
+    "title": "Les Reines du music-hall",
+    "director": "Phil Karlson"
+  },
+  {
+    "release_date": "2001-07-04",
+    "title": "Vérités et mensonges",
+    "director": "Orson Welles",
+    "image_path": "images/2001-07-04_verites_et_mensonges.jpg"
+  }
+]

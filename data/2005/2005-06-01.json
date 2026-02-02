@@ -1,0 +1,47 @@
+[
+  {
+    "release_date": "2005-06-01",
+    "title": "Sin City",
+    "director": "Quentin Tarantino , Robert Rodriguez , Frank Miller , Bernie Hamilton",
+    "image_path": "images/2005-06-01_sin_city.jpg"
+  },
+  {
+    "release_date": "2005-06-01",
+    "title": "Papa",
+    "director": "Maurice Barthélémy",
+    "image_path": "images/2005-06-01_papa.jpg"
+  },
+  {
+    "release_date": "2005-06-01",
+    "title": "Sahara",
+    "director": "Breck Eisner",
+    "image_path": "images/2005-06-01_sahara.jpg"
+  },
+  {
+    "release_date": "2005-06-01",
+    "title": "Le Domaine perdu",
+    "director": "Raoul Ruiz",
+    "image_path": "images/2005-06-01_le_domaine_perdu.jpg"
+  },
+  {
+    "release_date": "2005-06-01",
+    "title": "L'Idéaliste",
+    "director": "Francis Coppola , Francis Ford Coppola",
+    "image_path": "images/2005-06-01_lidealiste.jpg"
+  },
+  {
+    "release_date": "2005-06-01",
+    "title": "Justice est faite",
+    "director": "André Cayatte"
+  },
+  {
+    "release_date": "2005-06-01",
+    "title": "Travaux, on sait quand ça commence..."
+  },
+  {
+    "release_date": "2005-06-01",
+    "title": "Troll 2",
+    "director": "Claudio Fragasso",
+    "image_path": "images/2005-06-01_troll_2.jpg"
+  }
+]

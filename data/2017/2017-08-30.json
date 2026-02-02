@@ -1,0 +1,80 @@
+[
+  {
+    "release_date": "2017-08-30",
+    "title": "Seven Sisters",
+    "director": "Tommy Wirkola",
+    "image_path": "images/2017-08-30_seven_sisters.jpg"
+  },
+  {
+    "release_date": "2017-08-30",
+    "title": "Petit paysan",
+    "director": "Hubert Charuel",
+    "image_path": "images/2017-08-30_petit_paysan.jpg"
+  },
+  {
+    "release_date": "2017-08-30",
+    "title": "Wind River",
+    "director": "Taylor Sheridan",
+    "image_path": "images/2017-08-30_wind_river.jpg"
+  },
+  {
+    "release_date": "2017-08-30",
+    "title": "7 Jours pas plus",
+    "director": "Héctor Cabello Reyes",
+    "image_path": "images/2017-08-30_7_jours_pas_plus.jpg"
+  },
+  {
+    "release_date": "2017-08-30",
+    "title": "Rodin",
+    "director": "Jacques Doillon",
+    "image_path": "images/2017-08-30_rodin.jpg"
+  },
+  {
+    "release_date": "2017-08-30",
+    "title": "Le Prix du succès",
+    "director": "Teddy Lussi-Modeste",
+    "image_path": "images/2017-08-30_le_prix_du_succes.jpg"
+  },
+  {
+    "release_date": "2017-08-30",
+    "title": "Histoires de la plaine",
+    "director": "Christine Seghezzi",
+    "image_path": "images/2017-08-30_histoires_de_la_plaine.jpg"
+  },
+  {
+    "release_date": "2017-08-30",
+    "title": "Gabriel et la montagne",
+    "director": "Fellipe Barbosa",
+    "image_path": "images/2017-08-30_gabriel_et_la_montagne.jpg"
+  },
+  {
+    "release_date": "2017-08-30",
+    "title": "Cette sacrée vérité",
+    "director": "Leo McCarey",
+    "image_path": "images/2017-08-30_cette_sacree_verite.jpg"
+  },
+  {
+    "release_date": "2017-08-30",
+    "title": "Jeannette",
+    "director": "Bruno Dumont , Marie Locatelli",
+    "image_path": "images/2017-08-30_jeannette.jpg"
+  },
+  {
+    "release_date": "2017-08-30",
+    "title": "La Dame du vendredi",
+    "director": "Howard Hawks",
+    "image_path": "images/2017-08-30_la_dame_du_vendredi.jpg"
+  },
+  {
+    "release_date": "2017-08-30",
+    "title": "Le Veuf",
+    "director": "Dino Risi , Dominique Besnéhard",
+    "image_path": "images/2017-08-30_le_veuf.jpg"
+  },
+  {
+    "release_date": "2017-08-30",
+    "title": "Villeperdue",
+    "director": "Julien Gaspar-Oliveri",
+    "image_path": "images/2017-08-30_villeperdue.jpg"
+  }
+]

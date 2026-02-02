@@ -1,0 +1,85 @@
+[
+  {
+    "release_date": "2015-05-06",
+    "title": "Il était une fois en Amérique",
+    "director": "Sergio Leone",
+    "image_path": "images/2015-05-06_il_etait_une_fois_en_amerique.jpg"
+  },
+  {
+    "release_date": "2015-05-06",
+    "title": "L'Armée des ombres",
+    "director": "Jean-Pierre Melville",
+    "image_path": "images/2015-05-06_larmee_des_ombres.jpg"
+  },
+  {
+    "release_date": "2015-05-06",
+    "title": "L'Epreuve",
+    "director": "Erik Poppe",
+    "image_path": "images/2015-05-06_lepreuve.jpg"
+  },
+  {
+    "release_date": "2015-05-06",
+    "title": "Les Jardins du Roi",
+    "director": "Alan Rickman , Julio Cedillo",
+    "image_path": "images/2015-05-06_les_jardins_du_roi.jpg"
+  },
+  {
+    "release_date": "2015-05-06",
+    "title": "Le Talent de mes amis",
+    "director": "Alex Lutz",
+    "image_path": "images/2015-05-06_le_talent_de_mes_amis.jpg"
+  },
+  {
+    "release_date": "2015-05-06",
+    "title": "Ladygrey",
+    "director": "Alain Choquart",
+    "image_path": "images/2015-05-06_ladygrey.jpg"
+  },
+  {
+    "release_date": "2015-05-06",
+    "title": "Partisan",
+    "director": "Ariel Kleiman",
+    "image_path": "images/2015-05-06_partisan.jpg"
+  },
+  {
+    "release_date": "2015-05-06",
+    "title": "Melody",
+    "director": "Bernard Bellefroid",
+    "image_path": "images/2015-05-06_melody.jpg"
+  },
+  {
+    "release_date": "2015-05-06",
+    "title": "Zaneta",
+    "director": "Petr Václav",
+    "image_path": "images/2015-05-06_zaneta.jpg"
+  },
+  {
+    "release_date": "2015-05-06",
+    "title": "Hyena",
+    "director": "Gerard Johnson",
+    "image_path": "images/2015-05-06_hyena.jpg"
+  },
+  {
+    "release_date": "2015-05-06",
+    "title": "Kurt Cobain : Montage of Heck",
+    "director": "Brett Morgen"
+  },
+  {
+    "release_date": "2015-05-06",
+    "title": "La tribu des fourmis",
+    "director": "Yang Huilong",
+    "image_path": "images/2015-05-06_la_tribu_des_fourmis.jpg"
+  },
+  {
+    "release_date": "2015-05-06",
+    "title": "Les Terrasses",
+    "director": "Merzak Allouache",
+    "image_path": "images/2015-05-06_les_terrasses.jpg"
+  },
+  {
+    "release_date": "2015-05-06",
+    "title": "Tusk",
+    "director": "Kevin Smith",
+    "image_path": "images/2015-05-06_tusk.jpg"
+  }
+]

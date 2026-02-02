@@ -1,0 +1,54 @@
+[
+  {
+    "release_date": "2002-03-13",
+    "title": "La Vie est belle",
+    "director": "Roberto Benigni , Ned Sparks",
+    "image_path": "images/2002-03-13_la_vie_est_belle.jpg"
+  },
+  {
+    "release_date": "2002-03-13",
+    "title": "Dobermann",
+    "director": "Jan Kounen",
+    "image_path": "images/2002-03-13_dobermann.jpg"
+  },
+  {
+    "release_date": "2002-03-13",
+    "title": "Invincible",
+    "director": "Werner Herzog"
+  },
+  {
+    "release_date": "2002-03-13",
+    "title": "Rollerball",
+    "director": "John McTiernan",
+    "image_path": "images/2002-03-13_rollerball.jpg"
+  },
+  {
+    "release_date": "2002-03-13",
+    "title": "La Scoumoune",
+    "director": "José Giovanni",
+    "image_path": "images/2002-03-13_la_scoumoune.jpg"
+  },
+  {
+    "release_date": "2002-03-13",
+    "title": "Le Frère du guerrier",
+    "director": "Pierre Jolivet",
+    "image_path": "images/2002-03-13_le_frere_du_guerrier.jpg"
+  },
+  {
+    "release_date": "2002-03-13",
+    "title": "La Diablesse en collants roses",
+    "director": "George Cukor"
+  },
+  {
+    "release_date": "2002-03-13",
+    "title": "Le Sang des innocents",
+    "director": "Dario Argento",
+    "image_path": "images/2002-03-13_le_sang_des_innocents.jpg"
+  },
+  {
+    "release_date": "2002-03-13",
+    "title": "L'Orphelin d'Anyang",
+    "director": "Wang Chao , Chao Wang",
+    "image_path": "images/2002-03-13_lorphelin_danyang.jpg"
+  }
+]

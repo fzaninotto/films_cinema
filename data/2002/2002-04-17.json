@@ -1,0 +1,25 @@
+[
+  {
+    "release_date": "2002-04-17",
+    "title": "Dark City",
+    "director": "Alex Proyas",
+    "image_path": "images/2002-04-17_dark_city.jpg"
+  },
+  {
+    "release_date": "2002-04-17",
+    "title": "La Repentie",
+    "director": "Laetitia Masson",
+    "image_path": "images/2002-04-17_la_repentie.jpg"
+  },
+  {
+    "release_date": "2002-04-17",
+    "title": "La Saison des goyaves",
+    "director": "Dang Nhat Minh , Nhat Minh Dang"
+  },
+  {
+    "release_date": "2002-04-17",
+    "title": "Les Araignées de la nuit",
+    "director": "Jean-Pierre Mocky",
+    "image_path": "images/2002-04-17_les_araignees_de_la_nuit.jpg"
+  }
+]

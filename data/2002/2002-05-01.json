@@ -1,0 +1,30 @@
+[
+  {
+    "release_date": "2002-05-01",
+    "title": "Fleurs de sang",
+    "director": "Alain Tanner , Myriam Mézières",
+    "image_path": "images/2002-05-01_fleurs_de_sang.jpg"
+  },
+  {
+    "release_date": "2002-05-01",
+    "title": "La Déesse",
+    "director": "Satyajit Ray",
+    "image_path": "images/2002-05-01_la_deesse.jpg"
+  },
+  {
+    "release_date": "2002-05-01",
+    "title": "L'Ecole des facteurs & autres courts",
+    "director": "Jacques Tati , Philippe Jullien , Alexij Kharitidi , Miikhail Kobakhidze"
+  },
+  {
+    "release_date": "2002-05-01",
+    "title": "Les Joueurs d'échecs",
+    "director": "Satyajit Ray",
+    "image_path": "images/2002-05-01_les_joueurs_dechecs.jpg"
+  },
+  {
+    "release_date": "2002-05-01",
+    "title": "Tonnerres lointains",
+    "director": "Satyajit Ray"
+  }
+]

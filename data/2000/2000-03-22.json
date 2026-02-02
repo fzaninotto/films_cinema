@@ -1,0 +1,47 @@
+[
+  {
+    "release_date": "2000-03-22",
+    "title": "Exodus",
+    "director": "Otto Preminger",
+    "image_path": "images/2000-03-22_exodus.jpg"
+  },
+  {
+    "release_date": "2000-03-22",
+    "title": "L'oeuvre de Dieu, la part du diable",
+    "director": "Lasse Hallström",
+    "image_path": "images/2000-03-22_loeuvre_de_dieu_la_part_du_diable.jpg"
+  },
+  {
+    "release_date": "2000-03-22",
+    "title": "Garage Olimpo",
+    "director": "Marco Bechis"
+  },
+  {
+    "release_date": "2000-03-22",
+    "title": "Irma Vep",
+    "director": "Olivier Assayas",
+    "image_path": "images/2000-03-22_irma_vep.jpg"
+  },
+  {
+    "release_date": "2000-03-22",
+    "title": "L'arme fatale 3",
+    "director": "Richard Donner"
+  },
+  {
+    "release_date": "2000-03-22",
+    "title": "Le pari",
+    "director": "Didier Bourdon , Bernard Campan",
+    "image_path": "images/2000-03-22_le_pari.jpg"
+  },
+  {
+    "release_date": "2000-03-22",
+    "title": "Nadia et les hippopotames",
+    "director": "Dominique Cabrera",
+    "image_path": "images/2000-03-22_nadia_et_les_hippopotames.jpg"
+  },
+  {
+    "release_date": "2000-03-22",
+    "title": "Un dérangement considérable",
+    "director": "Bernard Stora"
+  }
+]

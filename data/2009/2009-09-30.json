@@ -1,0 +1,60 @@
+[
+  {
+    "release_date": "2009-09-30",
+    "title": "Fast & Furious 4",
+    "director": "Justin Lin",
+    "image_path": "images/2009-09-30_fast_furious_4.jpg"
+  },
+  {
+    "release_date": "2009-09-30",
+    "title": "Mary et Max",
+    "director": "Adam Elliot , Adam Eliot",
+    "image_path": "images/2009-09-30_mary_et_max.jpg"
+  },
+  {
+    "release_date": "2009-09-30",
+    "title": "Pandorum",
+    "director": "Christian Alvart",
+    "image_path": "images/2009-09-30_pandorum.jpg"
+  },
+  {
+    "release_date": "2009-09-30",
+    "title": "The Cove : la baie de la honte",
+    "director": "Louie Psihoyos",
+    "image_path": "images/2009-09-30_the_cove_la_baie_de_la_honte.jpg"
+  },
+  {
+    "release_date": "2009-09-30",
+    "title": "La Vida loca",
+    "director": "Christian Poveda"
+  },
+  {
+    "release_date": "2009-09-30",
+    "title": "Cowboy",
+    "director": "Benoît Mariage",
+    "image_path": "images/2009-09-30_cowboy.jpg"
+  },
+  {
+    "release_date": "2009-09-30",
+    "title": "Je suis heureux que ma mère soit vivante",
+    "director": "Claude Miller , Nathan Miller",
+    "image_path": "images/2009-09-30_je_suis_heureux_que_ma_mere_soit_vivante.jpg"
+  },
+  {
+    "release_date": "2009-09-30",
+    "title": "Ultimatum",
+    "director": "Alain Tasma",
+    "image_path": "images/2009-09-30_ultimatum.jpg"
+  },
+  {
+    "release_date": "2009-09-30",
+    "title": "Au voleur",
+    "director": "Sarah Leonor",
+    "image_path": "images/2009-09-30_au_voleur.jpg"
+  },
+  {
+    "release_date": "2009-09-30",
+    "title": "Nos lieux interdits",
+    "director": "Leïla Kilani , Henri Duval"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "release_date": "2005-05-18",
+    "title": "Velvet Goldmine",
+    "director": "Todd Haynes",
+    "image_path": "images/2005-05-18_velvet_goldmine.jpg"
+  },
+  {
+    "release_date": "2005-05-18",
+    "title": "Fashion Maman",
+    "director": "Garry Marshall",
+    "image_path": "images/2005-05-18_fashion_maman.jpg"
+  },
+  {
+    "release_date": "2005-05-18",
+    "title": "Péril en la demeure",
+    "director": "Alexandra Vandernoot , Michel Deville",
+    "image_path": "images/2005-05-18_peril_en_la_demeure.jpg"
+  },
+  {
+    "release_date": "2005-05-18",
+    "title": "Nordeste",
+    "director": "Juan Solanas",
+    "image_path": "images/2005-05-18_nordeste.jpg"
+  },
+  {
+    "release_date": "2005-05-18",
+    "title": "Le Jardin de Papa",
+    "director": "Zéka Laplaine",
+    "image_path": "images/2005-05-18_le_jardin_de_papa.jpg"
+  },
+  {
+    "release_date": "2005-05-18",
+    "title": "Paï",
+    "director": "Niki Caro",
+    "image_path": "images/2005-05-18_pai.jpg"
+  }
+]

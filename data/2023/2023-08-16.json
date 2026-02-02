@@ -1,0 +1,70 @@
+[
+  {
+    "release_date": "2023-08-16",
+    "title": "Seconde jeunesse",
+    "director": "Gianni Di Gregorio",
+    "image_path": "images/2023-08-16_seconde_jeunesse.jpg"
+  },
+  {
+    "release_date": "2023-08-16",
+    "title": "Blue Beetle",
+    "image_path": "images/2023-08-16_blue_beetle.jpg"
+  },
+  {
+    "release_date": "2023-08-16",
+    "title": "Abdelinho",
+    "director": "Hicham Ayouch",
+    "image_path": "images/2023-08-16_abdelinho.jpg"
+  },
+  {
+    "release_date": "2023-08-16",
+    "title": "Fermer les yeux",
+    "director": "Victor Erice",
+    "image_path": "images/2023-08-16_fermer_les_yeux.jpg"
+  },
+  {
+    "release_date": "2023-08-16",
+    "title": "Kasaba (version restaurée)",
+    "director": "Nuri Bilge Ceylan",
+    "image_path": "images/2023-08-16_kasaba_version_restauree.jpg"
+  },
+  {
+    "release_date": "2023-08-16",
+    "title": "La bête dans la jungle",
+    "director": "Patric Chiha",
+    "image_path": "images/2023-08-16_la_bete_dans_la_jungle.jpg"
+  },
+  {
+    "release_date": "2023-08-16",
+    "title": "L'Expérience Almodovar",
+    "director": "Pedro Almodóvar"
+  },
+  {
+    "release_date": "2023-08-16",
+    "title": "Metallica M72 World Tour-Concert #1",
+    "image_path": "images/2023-08-16_metallica_m72_world_tour-concert_1.jpg"
+  },
+  {
+    "release_date": "2023-08-16",
+    "title": "Metallica M72 World Tour-Concert #2",
+    "image_path": "images/2023-08-16_metallica_m72_world_tour-concert_2.jpg"
+  },
+  {
+    "release_date": "2023-08-16",
+    "title": "Ne pas avaler",
+    "director": "Gary Oldman",
+    "image_path": "images/2023-08-16_ne_pas_avaler.jpg"
+  },
+  {
+    "release_date": "2023-08-16",
+    "title": "Quand les vagues se retirent",
+    "director": "Lav Diaz",
+    "image_path": "images/2023-08-16_quand_les_vagues_se_retirent.jpg"
+  },
+  {
+    "release_date": "2023-08-16",
+    "title": "Reality",
+    "director": "Tina Satter",
+    "image_path": "images/2023-08-16_reality.jpg"
+  }
+]

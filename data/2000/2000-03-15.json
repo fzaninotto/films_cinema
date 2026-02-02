@@ -1,0 +1,64 @@
+[
+  {
+    "release_date": "2000-03-15",
+    "title": "Il était une fois en Chine",
+    "director": "Tsui Hark",
+    "image_path": "images/2000-03-15_il_etait_une_fois_en_chine.jpg"
+  },
+  {
+    "release_date": "2000-03-15",
+    "title": "Mean Streets",
+    "director": "Martin Scorsese",
+    "image_path": "images/2000-03-15_mean_streets.jpg"
+  },
+  {
+    "release_date": "2000-03-15",
+    "title": "The Million Dollar Hotel",
+    "director": "Wim Wenders",
+    "image_path": "images/2000-03-15_the_million_dollar_hotel.jpg"
+  },
+  {
+    "release_date": "2000-03-15",
+    "title": "Before Sunrise",
+    "director": "Richard Linklater",
+    "image_path": "images/2000-03-15_before_sunrise.jpg"
+  },
+  {
+    "release_date": "2000-03-15",
+    "title": "Johnny Mnemonic",
+    "director": "Claude Gagnon , Robert Longo",
+    "image_path": "images/2000-03-15_johnny_mnemonic.jpg"
+  },
+  {
+    "release_date": "2000-03-15",
+    "title": "La Coupe",
+    "director": "Khyentse Norbu"
+  },
+  {
+    "release_date": "2000-03-15",
+    "title": "La Croisée des destins",
+    "director": "George Cukor"
+  },
+  {
+    "release_date": "2000-03-15",
+    "title": "La Pie voleuse",
+    "director": "Hugh Wilson"
+  },
+  {
+    "release_date": "2000-03-15",
+    "title": "Le Gouffre aux chimères",
+    "director": "Billy Wilder",
+    "image_path": "images/2000-03-15_le_gouffre_aux_chimeres.jpg"
+  },
+  {
+    "release_date": "2000-03-15",
+    "title": "Personne n'est parfait(e)",
+    "director": "Joel Schumacher",
+    "image_path": "images/2000-03-15_personne_nest_parfaite.jpg"
+  },
+  {
+    "release_date": "2000-03-15",
+    "title": "The Glenn Miller Story",
+    "director": "Anthony Mann"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "release_date": "2002-09-18",
+    "title": "Blanche",
+    "director": "Bernie Bonvoisin",
+    "image_path": "images/2002-09-18_blanche.jpg"
+  },
+  {
+    "release_date": "2002-09-18",
+    "title": "K-19 : le piège des profondeurs",
+    "director": "Kathryn Bigelow",
+    "image_path": "images/2002-09-18_k-19_le_piege_des_profondeurs.jpg"
+  },
+  {
+    "release_date": "2002-09-18",
+    "title": "Simone",
+    "director": "Andrew Niccol",
+    "image_path": "images/2002-09-18_simone.jpg"
+  },
+  {
+    "release_date": "2002-09-18",
+    "title": "Callas Forever",
+    "director": "Franco Zeffirelli",
+    "image_path": "images/2002-09-18_callas_forever.jpg"
+  },
+  {
+    "release_date": "2002-09-18",
+    "title": "Contrôle d'identité",
+    "director": "Christian Petzold",
+    "image_path": "images/2002-09-18_controle_didentite.jpg"
+  },
+  {
+    "release_date": "2002-09-18",
+    "title": "Ten",
+    "director": "Abbas Kiarostami",
+    "image_path": "images/2002-09-18_ten.jpg"
+  }
+]

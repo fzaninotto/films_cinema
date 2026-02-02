@@ -1,0 +1,82 @@
+[
+  {
+    "release_date": "2006-10-04",
+    "title": "Elephant",
+    "director": "Alan Clarke"
+  },
+  {
+    "release_date": "2006-10-04",
+    "title": "Garden state",
+    "director": "Zach Braff",
+    "image_path": "images/2006-10-04_garden_state.jpg"
+  },
+  {
+    "release_date": "2006-10-04",
+    "title": "Click : télécommandez votre vie",
+    "director": "Frank Coraci",
+    "image_path": "images/2006-10-04_click_telecommandez_votre_vie.jpg"
+  },
+  {
+    "release_date": "2006-10-04",
+    "title": "Transylvania",
+    "director": "Tony Gatlif",
+    "image_path": "images/2006-10-04_transylvania.jpg"
+  },
+  {
+    "release_date": "2006-10-04",
+    "title": "Dans Paris",
+    "director": "Christophe honoré , Christophe Honoré , Harvey Lembeck",
+    "image_path": "images/2006-10-04_dans_paris.jpg"
+  },
+  {
+    "release_date": "2006-10-04",
+    "title": "Phat Girlz",
+    "director": "Nnegest Likke",
+    "image_path": "images/2006-10-04_phat_girlz.jpg"
+  },
+  {
+    "release_date": "2006-10-04",
+    "title": "Gentleman Jim",
+    "director": "Curt Bois , Raoul Walsh"
+  },
+  {
+    "release_date": "2006-10-04",
+    "title": "Le Grand Meaulnes",
+    "director": "Jean-Daniel Verhaeghe",
+    "image_path": "images/2006-10-04_le_grand_meaulnes.jpg"
+  },
+  {
+    "release_date": "2006-10-04",
+    "title": "Le Pressentiment",
+    "director": "Jean-Pierre Darroussin",
+    "image_path": "images/2006-10-04_le_pressentiment.jpg"
+  },
+  {
+    "release_date": "2006-10-04",
+    "title": "Le Désert des Tartares",
+    "director": "Valerio Zurlini , Michel Puterflam"
+  },
+  {
+    "release_date": "2006-10-04",
+    "title": "Exes",
+    "director": "Cognito Martin",
+    "image_path": "images/2006-10-04_exes.jpg"
+  },
+  {
+    "release_date": "2006-10-04",
+    "title": "Family Portraits",
+    "director": "Douglas Buck",
+    "image_path": "images/2006-10-04_family_portraits.jpg"
+  },
+  {
+    "release_date": "2006-10-04",
+    "title": "Histoires du coin de la rue",
+    "director": "Osamu Tezuka"
+  },
+  {
+    "release_date": "2006-10-04",
+    "title": "Pour aller au ciel, il faut mourir",
+    "director": "Djamshed Usmonov , Jamshed Usmonov",
+    "image_path": "images/2006-10-04_pour_aller_au_ciel_il_faut_mourir.jpg"
+  }
+]

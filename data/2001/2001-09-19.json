@@ -1,0 +1,53 @@
+[
+  {
+    "release_date": "2001-09-19",
+    "title": "Blow",
+    "director": "Ted Demme",
+    "image_path": "images/2001-09-19_blow.jpg"
+  },
+  {
+    "release_date": "2001-09-19",
+    "title": "JFK",
+    "director": "Oliver Stone , Françoise Verley",
+    "image_path": "images/2001-09-19_jfk.jpg"
+  },
+  {
+    "release_date": "2001-09-19",
+    "title": "Dans la chambre de Vanda",
+    "director": "Pedro Costa"
+  },
+  {
+    "release_date": "2001-09-19",
+    "title": "Comment j'ai tué mon père",
+    "director": "Anne Fontaine",
+    "image_path": "images/2001-09-19_comment_jai_tue_mon_pere.jpg"
+  },
+  {
+    "release_date": "2001-09-19",
+    "title": "La Question",
+    "director": "Laurent Heynemann",
+    "image_path": "images/2001-09-19_la_question.jpg"
+  },
+  {
+    "release_date": "2001-09-19",
+    "title": "Le Lait de la tendresse humaine",
+    "director": "Dominique Cabrera",
+    "image_path": "images/2001-09-19_le_lait_de_la_tendresse_humaine.jpg"
+  },
+  {
+    "release_date": "2001-09-19",
+    "title": "L' Insaisissable",
+    "director": "Oskar Roehler"
+  },
+  {
+    "release_date": "2001-09-19",
+    "title": "No Man's Land",
+    "director": "Danis Tanovic , Victor Trivas , Melissa Prophet , John Ball , Magalie Bloch"
+  },
+  {
+    "release_date": "2001-09-19",
+    "title": "The Offence",
+    "director": "Sidney Lumet , Laura Marinoni",
+    "image_path": "images/2001-09-19_the_offence.jpg"
+  }
+]

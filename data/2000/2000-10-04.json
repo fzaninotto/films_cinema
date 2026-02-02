@@ -1,0 +1,82 @@
+[
+  {
+    "release_date": "2000-10-04",
+    "title": "Will Hunting",
+    "director": "Gus van Sant",
+    "image_path": "images/2000-10-04_will_hunting.jpg"
+  },
+  {
+    "release_date": "2000-10-04",
+    "title": "Men in Black",
+    "director": "Barry Sonnenfeld , Virgilio Teixeira",
+    "image_path": "images/2000-10-04_men_in_black.jpg"
+  },
+  {
+    "release_date": "2000-10-04",
+    "title": "Tigre et dragon",
+    "director": "Ang Lee",
+    "image_path": "images/2000-10-04_tigre_et_dragon.jpg"
+  },
+  {
+    "release_date": "2000-10-04",
+    "title": "Vengo",
+    "director": "Tony Gatlif",
+    "image_path": "images/2000-10-04_vengo.jpg"
+  },
+  {
+    "release_date": "2000-10-04",
+    "title": "Galaxy Quest",
+    "director": "Dean Parisot , Jean-Louis Cordina",
+    "image_path": "images/2000-10-04_galaxy_quest.jpg"
+  },
+  {
+    "release_date": "2000-10-04",
+    "title": "Le Capitan",
+    "director": "André Hunebelle",
+    "image_path": "images/2000-10-04_le_capitan.jpg"
+  },
+  {
+    "release_date": "2000-10-04",
+    "title": "Sonnenallee !",
+    "director": "Leander Hausmann , Leander Haußmann"
+  },
+  {
+    "release_date": "2000-10-04",
+    "title": "Esther Kahn",
+    "director": "Arnaud Desplechin",
+    "image_path": "images/2000-10-04_esther_kahn.jpg"
+  },
+  {
+    "release_date": "2000-10-04",
+    "title": "La Carpe",
+    "director": "Jiri Hanibal"
+  },
+  {
+    "release_date": "2000-10-04",
+    "title": "Lumumba",
+    "director": "Raoul Peck",
+    "image_path": "images/2000-10-04_lumumba.jpg"
+  },
+  {
+    "release_date": "2000-10-04",
+    "title": "Petite fille",
+    "director": "Sébastien Lifshitz",
+    "image_path": "images/2000-10-04_petite_fille.jpg"
+  },
+  {
+    "release_date": "2000-10-04",
+    "title": "Tout va bien, on s'en va",
+    "director": "Claude Mouriéras"
+  },
+  {
+    "release_date": "2000-10-04",
+    "title": "Un ange pour Satan",
+    "director": "Camillo Mastrocinque"
+  },
+  {
+    "release_date": "2000-10-04",
+    "title": "Une blonde en cavale",
+    "director": "Stephen Metcalfe",
+    "image_path": "images/2000-10-04_une_blonde_en_cavale.jpg"
+  }
+]

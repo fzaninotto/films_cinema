@@ -1,0 +1,33 @@
+[
+  {
+    "release_date": "2001-07-18",
+    "title": "Usual Suspects",
+    "director": "Bryan Singer",
+    "image_path": "images/2001-07-18_usual_suspects.jpg"
+  },
+  {
+    "release_date": "2001-07-18",
+    "title": "Bella Ciao",
+    "director": "Stéphane Giusti"
+  },
+  {
+    "release_date": "2001-07-18",
+    "title": "Gangster n°1",
+    "director": "Paul McGuigan"
+  },
+  {
+    "release_date": "2001-07-18",
+    "title": "Harvey",
+    "director": "Henry Koster"
+  },
+  {
+    "release_date": "2001-07-18",
+    "title": "La Fourmilière",
+    "director": "Michael Glawogger"
+  },
+  {
+    "release_date": "2001-07-18",
+    "title": "Le voyage à la mer",
+    "director": "Denis Gheerbrant"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "release_date": "2021-03-03",
+    "title": "Blaké",
+    "director": "Vincent Fontano",
+    "image_path": "images/2021-03-03_blake.jpg"
+  },
+  {
+    "release_date": "2021-03-03",
+    "title": "Fast Fashion : les dessous de la mode à bas prix",
+    "director": "Gilles Bovon , Michael Prazan , Edouard Perrin , Minju Song",
+    "image_path": "images/2021-03-03_fast_fashion_les_dessous_de_la_mode_a_bas_prix.jpg"
+  },
+  {
+    "release_date": "2021-03-03",
+    "title": "Le dernier des laitiers",
+    "image_path": "images/2021-03-03_le_dernier_des_laitiers.jpg"
+  },
+  {
+    "release_date": "2021-03-03",
+    "title": "Moxie",
+    "director": "Amy Poehler",
+    "image_path": "images/2021-03-03_moxie.jpeg"
+  },
+  {
+    "release_date": "2021-03-03",
+    "title": "The Nightingale",
+    "director": "Jennifer Kent",
+    "image_path": "images/2021-03-03_the_nightingale.jpg"
+  }
+]

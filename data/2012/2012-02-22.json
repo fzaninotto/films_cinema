@@ -1,0 +1,86 @@
+[
+  {
+    "release_date": "2012-02-22",
+    "title": "La Fureur de vivre",
+    "director": "Nicholas Ray",
+    "image_path": "images/2012-02-22_la_fureur_de_vivre.jpg"
+  },
+  {
+    "release_date": "2012-02-22",
+    "title": "Démineurs",
+    "director": "Kathryn Bigelow",
+    "image_path": "images/2012-02-22_demineurs.jpg"
+  },
+  {
+    "release_date": "2012-02-22",
+    "title": "Chronicle",
+    "director": "Josh Trank",
+    "image_path": "images/2012-02-22_chronicle.jpg"
+  },
+  {
+    "release_date": "2012-02-22",
+    "title": "Au Pays du sang et du miel",
+    "director": "Angelina Jolie",
+    "image_path": "images/2012-02-22_au_pays_du_sang_et_du_miel.jpg"
+  },
+  {
+    "release_date": "2012-02-22",
+    "title": "Devil Inside",
+    "director": "William Brent Bell",
+    "image_path": "images/2012-02-22_devil_inside.jpg"
+  },
+  {
+    "release_date": "2012-02-22",
+    "title": "La Mer à boire",
+    "director": "Jacques Maillot",
+    "image_path": "images/2012-02-22_la_mer_a_boire.jpg"
+  },
+  {
+    "release_date": "2012-02-22",
+    "title": "Albert Nobbs",
+    "director": "Rodrigo Garcia",
+    "image_path": "images/2012-02-22_albert_nobbs.jpg"
+  },
+  {
+    "release_date": "2012-02-22",
+    "title": "Sécurité rapprochée",
+    "director": "Daniel Espinosa",
+    "image_path": "images/2012-02-22_securite_rapprochee.jpg"
+  },
+  {
+    "release_date": "2012-02-22",
+    "title": "Alphaville, une étrange aventure de Lemmy Caution",
+    "director": "Jean-Luc Godard , Gösta Bredefeldt",
+    "image_path": "images/2012-02-22_alphaville_une_etrange_aventure_de_lemmy_caution.jpg"
+  },
+  {
+    "release_date": "2012-02-22",
+    "title": "Bovines ou la vraie vie des vaches",
+    "director": "Emmanuel Gras",
+    "image_path": "images/2012-02-22_bovines_ou_la_vraie_vie_des_vaches.jpg"
+  },
+  {
+    "release_date": "2012-02-22",
+    "title": "Portrait au crépuscule",
+    "director": "Anguelina Nikonova , Angelina Nikonova",
+    "image_path": "images/2012-02-22_portrait_au_crepuscule.jpg"
+  },
+  {
+    "release_date": "2012-02-22",
+    "title": "Ingrid Jonker",
+    "director": "Paula Van der Oest",
+    "image_path": "images/2012-02-22_ingrid_jonker.jpg"
+  },
+  {
+    "release_date": "2012-02-22",
+    "title": "Ulysse, souviens-toi!",
+    "director": "Guy Maddin",
+    "image_path": "images/2012-02-22_ulysse_souviens-toi.jpg"
+  },
+  {
+    "release_date": "2012-02-22",
+    "title": "L'Oeil de l'astronome",
+    "director": "Stan Neumann",
+    "image_path": "images/2012-02-22_loeil_de_lastronome.jpg"
+  }
+]

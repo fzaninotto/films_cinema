@@ -1,0 +1,43 @@
+[
+  {
+    "release_date": "2020-05-27",
+    "title": "Jeune femme",
+    "director": "Léonor Séraille , Léonor Serraille",
+    "image_path": "images/2020-05-27_jeune_femme.jpg"
+  },
+  {
+    "release_date": "2020-05-27",
+    "title": "Deux moi",
+    "director": "Cédric Klapisch",
+    "image_path": "images/2020-05-27_deux_moi.jpeg"
+  },
+  {
+    "release_date": "2020-05-27",
+    "title": "Jours d'amour",
+    "director": "Giuseppe De Santis , Leopoldo Savona",
+    "image_path": "images/2020-05-27_jours_damour.jpg"
+  },
+  {
+    "release_date": "2020-05-27",
+    "title": "La mécanique des corps",
+    "director": "Matthieu Chatellier",
+    "image_path": "images/2020-05-27_la_mecanique_des_corps.jpg"
+  },
+  {
+    "release_date": "2020-05-27",
+    "title": "No Hard Feelings",
+    "director": "Faraz Shariat",
+    "image_path": "images/2020-05-27_no_hard_feelings.jpg"
+  },
+  {
+    "release_date": "2020-05-27",
+    "title": "Non-Non rétrécit",
+    "director": "Wassim Joutei",
+    "image_path": "images/2020-05-27_non-non_retrecit.jpg"
+  },
+  {
+    "release_date": "2020-05-27",
+    "title": "Technoboss",
+    "director": "Joao Nicolau"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "release_date": "2004-12-22",
+    "title": "Sissi",
+    "director": "Ernst Marischka",
+    "image_path": "images/2004-12-22_sissi.jpg"
+  },
+  {
+    "release_date": "2004-12-22",
+    "title": "Benjamin Gates et le trésor des templiers",
+    "director": "Jon Turtletaub",
+    "image_path": "images/2004-12-22_benjamin_gates_et_le_tresor_des_templiers.jpg"
+  },
+  {
+    "release_date": "2004-12-22",
+    "title": "Le Monde perdu, Jurassic Park",
+    "director": "Steven Spielberg",
+    "image_path": "images/2004-12-22_le_monde_perdu_jurassic_park.jpeg"
+  },
+  {
+    "release_date": "2004-12-22",
+    "title": "Rois et Reine",
+    "director": "Arnaud Desplechin",
+    "image_path": "images/2004-12-22_rois_et_reine.jpg"
+  },
+  {
+    "release_date": "2004-12-22",
+    "title": "Les Soeurs fâchées",
+    "director": "Alexandra Leclère",
+    "image_path": "images/2004-12-22_les_soeurs_fachees.jpg"
+  },
+  {
+    "release_date": "2004-12-22",
+    "title": "Complots",
+    "director": "Richard Donner"
+  },
+  {
+    "release_date": "2004-12-22",
+    "title": "Le Danseur du dessus",
+    "director": "Mark Sandrich",
+    "image_path": "images/2004-12-22_le_danseur_du_dessus.jpg"
+  },
+  {
+    "release_date": "2004-12-22",
+    "title": "Oeil pour oeil",
+    "director": "James W Horne"
+  }
+]

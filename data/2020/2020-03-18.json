@@ -1,0 +1,48 @@
+[
+  {
+    "release_date": "2020-03-18",
+    "title": "La Grande Guerre",
+    "director": "Mario Monicelli",
+    "image_path": "images/2020-03-18_la_grande_guerre.jpg"
+  },
+  {
+    "release_date": "2020-03-18",
+    "title": "Trois Jours et une vie",
+    "director": "Nicolas Boukhrief",
+    "image_path": "images/2020-03-18_trois_jours_et_une_vie.jpg"
+  },
+  {
+    "release_date": "2020-03-18",
+    "title": "Fascination",
+    "director": "Jean Rollin",
+    "image_path": "images/2020-03-18_fascination.jpg"
+  },
+  {
+    "release_date": "2020-03-18",
+    "title": "Jericho",
+    "director": "Henri Calef"
+  },
+  {
+    "release_date": "2020-03-18",
+    "title": "J'irai décrocher la lune",
+    "director": "Laurent Boileau",
+    "image_path": "images/2020-03-18_jirai_decrocher_la_lune.jpg"
+  },
+  {
+    "release_date": "2020-03-18",
+    "title": "Le Blob, un génie sans cerveau",
+    "director": "Jacques Mitsch",
+    "image_path": "images/2020-03-18_le_blob_un_genie_sans_cerveau.jpg"
+  },
+  {
+    "release_date": "2020-03-18",
+    "title": "Les Mondes parallèles",
+    "director": "Yuhei Sakuragi",
+    "image_path": "images/2020-03-18_les_mondes_paralleles.jpg"
+  },
+  {
+    "release_date": "2020-03-18",
+    "title": "Le Souffle",
+    "director": "Uli M. Schueppel , Uli M Schueppel"
+  }
+]

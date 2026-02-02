@@ -1,0 +1,36 @@
+[
+  {
+    "release_date": "2005-01-05",
+    "title": "Tu marcheras sur l'eau",
+    "director": "Etyan Fox , Eytan Fox",
+    "image_path": "images/2005-01-05_tu_marcheras_sur_leau.jpg"
+  },
+  {
+    "release_date": "2005-01-05",
+    "title": "Le Plus beau jour de ma vie",
+    "director": "Julie Lipinski",
+    "image_path": "images/2005-01-05_le_plus_beau_jour_de_ma_vie.jpg"
+  },
+  {
+    "release_date": "2005-01-05",
+    "title": "Tu vas rire mais je te quitte",
+    "director": "Philippe Harel",
+    "image_path": "images/2005-01-05_tu_vas_rire_mais_je_te_quitte.jpg"
+  },
+  {
+    "release_date": "2005-01-05",
+    "title": "L'Autre rive",
+    "director": "David Gordon Green",
+    "image_path": "images/2005-01-05_lautre_rive.jpg"
+  },
+  {
+    "release_date": "2005-01-05",
+    "title": "Terre et cendres",
+    "director": "Atiq Rahimi"
+  },
+  {
+    "release_date": "2005-01-05",
+    "title": "Voyage en mémoires indiennes",
+    "director": "Jo Béranger , Doris Buttignol"
+  }
+]

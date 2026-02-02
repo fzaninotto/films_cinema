@@ -1,0 +1,50 @@
+[
+  {
+    "release_date": "2011-07-27",
+    "title": "Colombiana",
+    "director": "Olivier Megaton",
+    "image_path": "images/2011-07-27_colombiana.jpg"
+  },
+  {
+    "release_date": "2011-07-27",
+    "title": "Bad Teacher",
+    "director": "Jake Kasdan",
+    "image_path": "images/2011-07-27_bad_teacher.jpg"
+  },
+  {
+    "release_date": "2011-07-27",
+    "title": "La Locataire",
+    "director": "Antti J. Jokinen , Antti Jokinen",
+    "image_path": "images/2011-07-27_la_locataire.jpg"
+  },
+  {
+    "release_date": "2011-07-27",
+    "title": "Happy Happy",
+    "director": "Anne Sewitsky , Anne Sewisky",
+    "image_path": "images/2011-07-27_happy_happy.jpg"
+  },
+  {
+    "release_date": "2011-07-27",
+    "title": "Lourdes",
+    "director": "Jessica Hausner",
+    "image_path": "images/2011-07-27_lourdes.jpg"
+  },
+  {
+    "release_date": "2011-07-27",
+    "title": "L'Art de séduire",
+    "director": "Guy Mazarguil",
+    "image_path": "images/2011-07-27_lart_de_seduire.jpg"
+  },
+  {
+    "release_date": "2011-07-27",
+    "title": "En ville",
+    "director": "Valérie Mrejen , Bertrand Schefer",
+    "image_path": "images/2011-07-27_en_ville.jpg"
+  },
+  {
+    "release_date": "2011-07-27",
+    "title": "Absent",
+    "director": "Marco Berger",
+    "image_path": "images/2011-07-27_absent.jpg"
+  }
+]

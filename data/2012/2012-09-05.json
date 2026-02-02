@@ -1,0 +1,61 @@
+[
+  {
+    "release_date": "2012-09-05",
+    "title": "Minuit à Paris",
+    "director": "Woody Allen",
+    "image_path": "images/2012-09-05_minuit_a_paris.jpg"
+  },
+  {
+    "release_date": "2012-09-05",
+    "title": "Le Concert",
+    "director": "Radu Mihaileanu",
+    "image_path": "images/2012-09-05_le_concert.jpg"
+  },
+  {
+    "release_date": "2012-09-05",
+    "title": "Cherchez Hortense",
+    "director": "Pascal Bonitzer",
+    "image_path": "images/2012-09-05_cherchez_hortense.jpg"
+  },
+  {
+    "release_date": "2012-09-05",
+    "title": "Nosferatu, fantôme de la nuit",
+    "director": "Werner Herzog , Herbert Wilcox",
+    "image_path": "images/2012-09-05_nosferatu_fantome_de_la_nuit.jpg"
+  },
+  {
+    "release_date": "2012-09-05",
+    "title": "The Secret",
+    "director": "Pascal Laugier",
+    "image_path": "images/2012-09-05_the_secret.jpg"
+  },
+  {
+    "release_date": "2012-09-05",
+    "title": "Le Guetteur",
+    "director": "Michele Placido",
+    "image_path": "images/2012-09-05_le_guetteur.jpg"
+  },
+  {
+    "release_date": "2012-09-05",
+    "title": "Premium Rush",
+    "director": "David Koepp",
+    "image_path": "images/2012-09-05_premium_rush.jpg"
+  },
+  {
+    "release_date": "2012-09-05",
+    "title": "Le Grand Chantage",
+    "director": "Alexander Mackendrick"
+  },
+  {
+    "release_date": "2012-09-05",
+    "title": "La Cause et l'usage",
+    "director": "Julien Meunier , Dorine Brun , Juliens Meunier",
+    "image_path": "images/2012-09-05_la_cause_et_lusage.jpg"
+  },
+  {
+    "release_date": "2012-09-05",
+    "title": "Monsieur Flynn",
+    "director": "Paul Weitz",
+    "image_path": "images/2012-09-05_monsieur_flynn.jpg"
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "release_date": "2019-07-24",
+    "title": "Discount",
+    "director": "Louis-Julien Petit",
+    "image_path": "images/2019-07-24_discount.jpg"
+  },
+  {
+    "release_date": "2019-07-24",
+    "title": "La Source",
+    "director": "Rodolphe Lauga",
+    "image_path": "images/2019-07-24_la_source.jpg"
+  },
+  {
+    "release_date": "2019-07-24",
+    "title": "Sun",
+    "director": "Jonathan Desoindre , Ella Kowalska",
+    "image_path": "images/2019-07-24_sun.jpg"
+  },
+  {
+    "release_date": "2019-07-24",
+    "title": "Back to the Moon",
+    "director": "Charles-Antoine de Rouvre",
+    "image_path": "images/2019-07-24_back_to_the_moon.jpg"
+  },
+  {
+    "release_date": "2019-07-24",
+    "title": "Crawl",
+    "director": "Alexandre Aja",
+    "image_path": "images/2019-07-24_crawl.jpg"
+  },
+  {
+    "release_date": "2019-07-24",
+    "title": "Daniel Darc : Pieces of My Life",
+    "director": "Marc Dufaud , Thierry Villeneuve",
+    "image_path": "images/2019-07-24_daniel_darc_pieces_of_my_life.jpg"
+  },
+  {
+    "release_date": "2019-07-24",
+    "title": "Give Me Liberty",
+    "director": "Kirill Mikhanovsky",
+    "image_path": "images/2019-07-24_give_me_liberty.jpg"
+  },
+  {
+    "release_date": "2019-07-24",
+    "title": "L'argent autrement",
+    "director": "Sam Caro"
+  },
+  {
+    "release_date": "2019-07-24",
+    "title": "L'Étincelle : une histoire des luttes LGBT+",
+    "director": "Benoît Masocco",
+    "image_path": "images/2019-07-24_letincelle_une_histoire_des_luttes_lgbt.jpg"
+  },
+  {
+    "release_date": "2019-07-24",
+    "title": "L'Usine",
+    "director": "Youri Bykov",
+    "image_path": "images/2019-07-24_lusine.jpg"
+  },
+  {
+    "release_date": "2019-07-24",
+    "title": "Manta Rey",
+    "director": "Phuttiphong Aroonpheng",
+    "image_path": "images/2019-07-24_manta_rey.jpg"
+  },
+  {
+    "release_date": "2019-07-24",
+    "title": "The Operative",
+    "director": "Yuval Adler",
+    "image_path": "images/2019-07-24_the_operative.jpg"
+  },
+  {
+    "release_date": "2019-07-24",
+    "title": "Tigers are not afraid",
+    "director": "Issa López",
+    "image_path": "images/2019-07-24_tigers_are_not_afraid.jpg"
+  },
+  {
+    "release_date": "2019-07-24",
+    "title": "Wonderland, le royaume sans pluie",
+    "director": "Keiichi Hara",
+    "image_path": "images/2019-07-24_wonderland_le_royaume_sans_pluie.jpg"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "release_date": "2011-06-29",
+    "title": "Vicky Cristina Barcelona",
+    "director": "Woody Allen",
+    "image_path": "images/2011-06-29_vicky_cristina_barcelona.jpg"
+  },
+  {
+    "release_date": "2011-06-29",
+    "title": "Les Tuche",
+    "director": "Olivier Baroux",
+    "image_path": "images/2011-06-29_les_tuche.jpg"
+  },
+  {
+    "release_date": "2011-06-29",
+    "title": "Transformers 3 : la face cachée de la lune",
+    "director": "Michael Bay",
+    "image_path": "images/2011-06-29_transformers_3_la_face_cachee_de_la_lune.jpg"
+  },
+  {
+    "release_date": "2011-06-29",
+    "title": "Nicostratos, le pélican",
+    "director": "Olivier Horlait",
+    "image_path": "images/2011-06-29_nicostratos_le_pelican.jpg"
+  },
+  {
+    "release_date": "2011-06-29",
+    "title": "Ni à vendre, ni à louer",
+    "director": "Pascal Rabaté , Pascal Rabaté",
+    "image_path": "images/2011-06-29_ni_a_vendre_ni_a_louer.jpg"
+  },
+  {
+    "release_date": "2011-06-29",
+    "title": "My Little Princess",
+    "director": "Eva Ionesco",
+    "image_path": "images/2011-06-29_my_little_princess.jpg"
+  },
+  {
+    "release_date": "2011-06-29",
+    "title": "Naomi, une jeune et belle épouse",
+    "director": "Eitan Zur",
+    "image_path": "images/2011-06-29_naomi_une_jeune_et_belle_epouse.jpg"
+  },
+  {
+    "release_date": "2011-06-29",
+    "title": "Delhi Belly",
+    "director": "Abhinay Deo",
+    "image_path": "images/2011-06-29_delhi_belly.jpg"
+  },
+  {
+    "release_date": "2011-06-29",
+    "title": "La prima cosa bella",
+    "director": "Paolo Virzi",
+    "image_path": "images/2011-06-29_la_prima_cosa_bella.jpg"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "release_date": "2004-02-11",
+    "title": "L'île de Black Mór",
+    "director": "Jean-François Laguionie"
+  },
+  {
+    "release_date": "2004-02-11",
+    "title": "Le Papillon",
+    "director": "Philippe Muyl",
+    "image_path": "images/2004-02-11_le_papillon.jpg"
+  },
+  {
+    "release_date": "2004-02-11",
+    "title": "Podium",
+    "director": "Yann Moix",
+    "image_path": "images/2004-02-11_podium.jpg"
+  },
+  {
+    "release_date": "2004-02-11",
+    "title": "Blueberry, l'expérience secrète",
+    "director": "Jan Kounen",
+    "image_path": "images/2004-02-11_blueberry_lexperience_secrete.jpg"
+  },
+  {
+    "release_date": "2004-02-11",
+    "title": "Demi-tarif",
+    "director": "Julian Beck , Isild Le Besco"
+  },
+  {
+    "release_date": "2004-02-11",
+    "title": "La Mort suspendue",
+    "director": "Kevin Macdonald , Kevin McDonald",
+    "image_path": "images/2004-02-11_la_mort_suspendue.jpg"
+  },
+  {
+    "release_date": "2004-02-11",
+    "title": "L'Emploi du temps",
+    "director": "Laurent Cantet , Jill Jones , Carole Poliquin",
+    "image_path": "images/2004-02-11_lemploi_du_temps.jpg"
+  },
+  {
+    "release_date": "2004-02-11",
+    "title": "S-21, la machine de mort khmère rouge",
+    "director": "Rithy Panh , Beulah Bondi",
+    "image_path": "images/2004-02-11_s-21_la_machine_de_mort_khmere_rouge.jpg"
+  },
+  {
+    "release_date": "2004-02-11",
+    "title": "Company",
+    "director": "Robert Altman , Robert Taylor",
+    "image_path": "images/2004-02-11_company.jpg"
+  },
+  {
+    "release_date": "2004-02-11",
+    "title": "Juliette des esprits",
+    "director": "Federico Fellini",
+    "image_path": "images/2004-02-11_juliette_des_esprits.jpg"
+  },
+  {
+    "release_date": "2004-02-11",
+    "title": "La Vie sans Brahim",
+    "director": "Laurent Chevallier"
+  }
+]

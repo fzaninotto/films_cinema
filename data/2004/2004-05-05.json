@@ -1,0 +1,55 @@
+[
+  {
+    "release_date": "2004-05-05",
+    "title": "Van Helsing",
+    "director": "Stephen Sommers",
+    "image_path": "images/2004-05-05_van_helsing.jpg"
+  },
+  {
+    "release_date": "2004-05-05",
+    "title": "La Flûte enchantée",
+    "director": "Clark Gable , Kenneth Branagh , Ingmar Bergman , Stefania Casini",
+    "image_path": "images/2004-05-05_la_flute_enchantee.jpg"
+  },
+  {
+    "release_date": "2004-05-05",
+    "title": "Après la répétition",
+    "director": "Clark Gable , Ingmar Bergman"
+  },
+  {
+    "release_date": "2004-05-05",
+    "title": "Broken Wings",
+    "director": "Nir Bergman"
+  },
+  {
+    "release_date": "2004-05-05",
+    "title": "En vie",
+    "director": "Eric Bu , Emmanuelle Verani"
+  },
+  {
+    "release_date": "2004-05-05",
+    "title": "La Brute, le Colt et le Karaté",
+    "director": "Antonio Margheriti"
+  },
+  {
+    "release_date": "2004-05-05",
+    "title": "La Femme aux chimères",
+    "director": "Michael Curtiz"
+  },
+  {
+    "release_date": "2004-05-05",
+    "title": "Les Guerriers de la nuit",
+    "director": "Walter Hill",
+    "image_path": "images/2004-05-05_les_guerriers_de_la_nuit.jpg"
+  },
+  {
+    "release_date": "2004-05-05",
+    "title": "Les Yeux secs",
+    "director": "Narjiss Nejjar"
+  },
+  {
+    "release_date": "2004-05-05",
+    "title": "Séance",
+    "director": "Kiyoshi Kurosawa"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "release_date": "2010-02-24",
+    "title": "Shutter Island",
+    "director": "Martin Scorsese",
+    "image_path": "images/2010-02-24_shutter_island.jpg"
+  },
+  {
+    "release_date": "2010-02-24",
+    "title": "The Wrestler",
+    "director": "Darren Aronofsky",
+    "image_path": "images/2010-02-24_the_wrestler.jpg"
+  },
+  {
+    "release_date": "2010-02-24",
+    "title": "Liberté",
+    "director": "Tony Gatlif",
+    "image_path": "images/2010-02-24_liberte.jpg"
+  },
+  {
+    "release_date": "2010-02-24",
+    "title": "Les Ruines",
+    "director": "Carter Smith",
+    "image_path": "images/2010-02-24_les_ruines.jpg"
+  },
+  {
+    "release_date": "2010-02-24",
+    "title": "Une éducation",
+    "director": "Lone Scherfig",
+    "image_path": "images/2010-02-24_une_education.jpg"
+  },
+  {
+    "release_date": "2010-02-24",
+    "title": "Coursier",
+    "director": "Hervé Renoh",
+    "image_path": "images/2010-02-24_coursier.jpg"
+  },
+  {
+    "release_date": "2010-02-24",
+    "title": "Le Bonheur de Pierre",
+    "director": "Robert Ménard",
+    "image_path": "images/2010-02-24_le_bonheur_de_pierre.jpg"
+  },
+  {
+    "release_date": "2010-02-24",
+    "title": "Thérapie de couples",
+    "director": "Peter Billingsley",
+    "image_path": "images/2010-02-24_therapie_de_couples.jpg"
+  },
+  {
+    "release_date": "2010-02-24",
+    "title": "La Tisseuse",
+    "director": "Wang Quan An",
+    "image_path": "images/2010-02-24_la_tisseuse.jpg"
+  },
+  {
+    "release_date": "2010-02-24",
+    "title": "La Reine des pommes",
+    "director": "Valérie Donzelli",
+    "image_path": "images/2010-02-24_la_reine_des_pommes.jpg"
+  },
+  {
+    "release_date": "2010-02-24",
+    "title": "Harragas",
+    "director": "Merzak Allouache , Grégory Lecocq",
+    "image_path": "images/2010-02-24_harragas.jpg"
+  },
+  {
+    "release_date": "2010-02-24",
+    "title": "La Robe du soir",
+    "director": "Myriam Aziza",
+    "image_path": "images/2010-02-24_la_robe_du_soir.jpg"
+  }
+]

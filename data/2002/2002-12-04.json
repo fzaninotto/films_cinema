@@ -1,0 +1,37 @@
+[
+  {
+    "release_date": "2002-12-04",
+    "title": "Dans ma peau",
+    "director": "Marina De Van",
+    "image_path": "images/2002-12-04_dans_ma_peau.jpg"
+  },
+  {
+    "release_date": "2002-12-04",
+    "title": "Fulltime Killer",
+    "director": "Johnnie To , Wai Ka-Fai",
+    "image_path": "images/2002-12-04_fulltime_killer.jpg"
+  },
+  {
+    "release_date": "2002-12-04",
+    "title": "Le Cavaleur",
+    "director": "Pascale Petit , Philippe de Broca",
+    "image_path": "images/2002-12-04_le_cavaleur.jpg"
+  },
+  {
+    "release_date": "2002-12-04",
+    "title": "Bord de mer",
+    "director": "Julie Lopes-Curval",
+    "image_path": "images/2002-12-04_bord_de_mer.jpg"
+  },
+  {
+    "release_date": "2002-12-04",
+    "title": "Harry Potter et la Chambre des secrets (version longue)",
+    "image_path": "images/2002-12-04_harry_potter_et_la_chambre_des_secrets_version_longue.jpg"
+  },
+  {
+    "release_date": "2002-12-04",
+    "title": "The Tune",
+    "director": "Bill Plympton",
+    "image_path": "images/2002-12-04_the_tune.jpg"
+  }
+]

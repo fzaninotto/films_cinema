@@ -1,0 +1,64 @@
+[
+  {
+    "release_date": "2001-05-30",
+    "title": "Le Violon rouge",
+    "director": "François Girard",
+    "image_path": "images/2001-05-30_le_violon_rouge.jpg"
+  },
+  {
+    "release_date": "2001-05-30",
+    "title": "Les Mariés de l'an II",
+    "director": "Jean-Paul Rappeneau , Graham Kennedy",
+    "image_path": "images/2001-05-30_les_maries_de_lan_ii.jpg"
+  },
+  {
+    "release_date": "2001-05-30",
+    "title": "The Tailor of Panama",
+    "director": "John Boorman",
+    "image_path": "images/2001-05-30_the_tailor_of_panama.jpg"
+  },
+  {
+    "release_date": "2001-05-30",
+    "title": "All the Little Animals",
+    "director": "Jeremy Thomas",
+    "image_path": "images/2001-05-30_all_the_little_animals.jpg"
+  },
+  {
+    "release_date": "2001-05-30",
+    "title": "Chopper",
+    "director": "Andrew Dominik"
+  },
+  {
+    "release_date": "2001-05-30",
+    "title": "Extrême Préjudice",
+    "director": "Walter Hill",
+    "image_path": "images/2001-05-30_extreme_prejudice.jpg"
+  },
+  {
+    "release_date": "2001-05-30",
+    "title": "Knightriders",
+    "director": "George A Romero"
+  },
+  {
+    "release_date": "2001-05-30",
+    "title": "Primary Colors",
+    "director": "Mike Nichols , John Hubbard",
+    "image_path": "images/2001-05-30_primary_colors.jpg"
+  },
+  {
+    "release_date": "2001-05-30",
+    "title": "Rodan",
+    "director": "Ishirô Honda"
+  },
+  {
+    "release_date": "2001-05-30",
+    "title": "Tigerland",
+    "director": "Joel Schumacher",
+    "image_path": "images/2001-05-30_tigerland.jpg"
+  },
+  {
+    "release_date": "2001-05-30",
+    "title": "Un aller simple",
+    "director": "Laurent Heynemann"
+  }
+]

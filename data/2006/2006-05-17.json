@@ -1,0 +1,43 @@
+[
+  {
+    "release_date": "2006-05-17",
+    "title": "Volver",
+    "director": "Pedro Almodóvar",
+    "image_path": "images/2006-05-17_volver.jpg"
+  },
+  {
+    "release_date": "2006-05-17",
+    "title": "Da Vinci Code",
+    "director": "Ron Howard",
+    "image_path": "images/2006-05-17_da_vinci_code.jpg"
+  },
+  {
+    "release_date": "2006-05-17",
+    "title": "Beur, blanc, rouge",
+    "director": "Mahmoud Zemmouri",
+    "image_path": "images/2006-05-17_beur_blanc_rouge.jpg"
+  },
+  {
+    "release_date": "2006-05-17",
+    "title": "Duelist",
+    "director": "Lee Myung-se",
+    "image_path": "images/2006-05-17_duelist.jpg"
+  },
+  {
+    "release_date": "2006-05-17",
+    "title": "L'Eclaireur",
+    "director": "Djibril Glissant",
+    "image_path": "images/2006-05-17_leclaireur.jpg"
+  },
+  {
+    "release_date": "2006-05-17",
+    "title": "Le Roman de Mildred Pierce",
+    "director": "Michael Curtiz",
+    "image_path": "images/2006-05-17_le_roman_de_mildred_pierce.jpg"
+  },
+  {
+    "release_date": "2006-05-17",
+    "title": "Les aventures d'Iron Pussy",
+    "director": "Apichatpong Weerasethakul , Michael Shaowanasai"
+  }
+]

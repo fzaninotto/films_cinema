@@ -1,0 +1,44 @@
+[
+  {
+    "release_date": "2006-07-19",
+    "title": "Camping car",
+    "director": "Barry Sonnenfeld",
+    "image_path": "images/2006-07-19_camping_car.jpg"
+  },
+  {
+    "release_date": "2006-07-19",
+    "title": "Mon nom est Tsotsi",
+    "director": "Gavin Hood",
+    "image_path": "images/2006-07-19_mon_nom_est_tsotsi.jpg"
+  },
+  {
+    "release_date": "2006-07-19",
+    "title": "Les Vikings",
+    "director": "Richard Fleischer",
+    "image_path": "images/2006-07-19_les_vikings.jpg"
+  },
+  {
+    "release_date": "2006-07-19",
+    "title": "Ils",
+    "director": "Xavier Palud",
+    "image_path": "images/2006-07-19_ils.jpg"
+  },
+  {
+    "release_date": "2006-07-19",
+    "title": "La Raison du plus faible",
+    "director": "Tsilla Chelton , Lucas Belvaux",
+    "image_path": "images/2006-07-19_la_raison_du_plus_faible.jpg"
+  },
+  {
+    "release_date": "2006-07-19",
+    "title": "La Maison des 1000 morts",
+    "director": "Rob Zombie",
+    "image_path": "images/2006-07-19_la_maison_des_1000_morts.jpg"
+  },
+  {
+    "release_date": "2006-07-19",
+    "title": "Lucy",
+    "director": "Henner Winckler",
+    "image_path": "images/2006-07-19_lucy.jpg"
+  }
+]

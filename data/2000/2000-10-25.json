@@ -1,0 +1,66 @@
+[
+  {
+    "release_date": "2000-10-25",
+    "title": "Scary Movie",
+    "director": "Keenen Ivory Wayans , Georges Vitray",
+    "image_path": "images/2000-10-25_scary_movie.jpg"
+  },
+  {
+    "release_date": "2000-10-25",
+    "title": "Chérie, j'ai rétréci les gosses",
+    "director": "Joe Johnston",
+    "image_path": "images/2000-10-25_cherie_jai_retreci_les_gosses.jpg"
+  },
+  {
+    "release_date": "2000-10-25",
+    "title": "Robocop",
+    "director": "José Padilha , Paul Verhoeven , Shecky Greene",
+    "image_path": "images/2000-10-25_robocop.jpg"
+  },
+  {
+    "release_date": "2000-10-25",
+    "title": "Bread and Roses",
+    "director": "Ken Loach",
+    "image_path": "images/2000-10-25_bread_and_roses.jpg"
+  },
+  {
+    "release_date": "2000-10-25",
+    "title": "Deuxième Vie",
+    "director": "Patrick Braoudé"
+  },
+  {
+    "release_date": "2000-10-25",
+    "title": "Femmes coupables",
+    "director": "Robert Wise"
+  },
+  {
+    "release_date": "2000-10-25",
+    "title": "Gangsters, Sex & Karaoke",
+    "director": "Dominic Anciano , Ray Burdis"
+  },
+  {
+    "release_date": "2000-10-25",
+    "title": "La Plaisanterie",
+    "director": "Jaromil Jirès"
+  },
+  {
+    "release_date": "2000-10-25",
+    "title": "La Reine des neiges",
+    "director": "Paivi Hartzell"
+  },
+  {
+    "release_date": "2000-10-25",
+    "title": "Le Petit Vampire",
+    "director": "Uli Edel , Roberta Wallach"
+  },
+  {
+    "release_date": "2000-10-25",
+    "title": "Men with guns",
+    "director": "John Sayles"
+  },
+  {
+    "release_date": "2000-10-25",
+    "title": "Saving Grace",
+    "director": "Nigel Cole"
+  }
+]

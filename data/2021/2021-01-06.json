@@ -1,0 +1,24 @@
+[
+  {
+    "release_date": "2021-01-06",
+    "title": "Un chien andalou",
+    "director": "Luis Bunuel"
+  },
+  {
+    "release_date": "2021-01-06",
+    "title": "Le Voyage à travers l'impossible",
+    "director": "Georges Méliès"
+  },
+  {
+    "release_date": "2021-01-06",
+    "title": "Paris au mois d'août",
+    "director": "Pierre Granier-Deferre",
+    "image_path": "images/2021-01-06_paris_au_mois_daout.jpg"
+  },
+  {
+    "release_date": "2021-01-06",
+    "title": "Qui chante là-bas?",
+    "director": "Slobodan Sijan",
+    "image_path": "images/2021-01-06_qui_chante_la-bas.jpg"
+  }
+]

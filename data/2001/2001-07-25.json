@@ -1,0 +1,54 @@
+[
+  {
+    "release_date": "2001-07-25",
+    "title": "Le Boucher",
+    "director": "Claude Chabrol , Vladimir Cosma",
+    "image_path": "images/2001-07-25_le_boucher.jpg"
+  },
+  {
+    "release_date": "2001-07-25",
+    "title": "Les Innocents",
+    "director": "Jack Clayton , Bernard Stora",
+    "image_path": "images/2001-07-25_les_innocents.jpg"
+  },
+  {
+    "release_date": "2001-07-25",
+    "title": "Plein soleil",
+    "director": "René Clément",
+    "image_path": "images/2001-07-25_plein_soleil.jpg"
+  },
+  {
+    "release_date": "2001-07-25",
+    "title": "Astérix et la surprise de César",
+    "director": "Gaëtan Brizzi , Paul Brizzi , Nele Mueller-Stöfen",
+    "image_path": "images/2001-07-25_asterix_et_la_surprise_de_cesar.jpg"
+  },
+  {
+    "release_date": "2001-07-25",
+    "title": "Du rififi chez les hommes",
+    "director": "Jules Dassin",
+    "image_path": "images/2001-07-25_du_rififi_chez_les_hommes.jpg"
+  },
+  {
+    "release_date": "2001-07-25",
+    "title": "Door III",
+    "director": "Kiyoshi Kurosawa"
+  },
+  {
+    "release_date": "2001-07-25",
+    "title": "Flic Story",
+    "director": "Jacques Deray",
+    "image_path": "images/2001-07-25_flic_story.jpg"
+  },
+  {
+    "release_date": "2001-07-25",
+    "title": "Le Gardien de l'enfer",
+    "director": "Kiyoshi Kurosawa"
+  },
+  {
+    "release_date": "2001-07-25",
+    "title": "Une corde pour te pendre",
+    "director": "Curt Bois , Raoul Walsh",
+    "image_path": "images/2001-07-25_une_corde_pour_te_pendre.jpg"
+  }
+]

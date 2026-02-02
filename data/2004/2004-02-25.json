@@ -1,0 +1,40 @@
+[
+  {
+    "release_date": "2004-02-25",
+    "title": "In America",
+    "director": "Jim Sheridan",
+    "image_path": "images/2004-02-25_in_america.jpg"
+  },
+  {
+    "release_date": "2004-02-25",
+    "title": "Paycheck",
+    "director": "John Woo",
+    "image_path": "images/2004-02-25_paycheck.jpg"
+  },
+  {
+    "release_date": "2004-02-25",
+    "title": "Khamosh Pani",
+    "director": "Sabiha Sumar"
+  },
+  {
+    "release_date": "2004-02-25",
+    "title": "La résurrection de Frankenstein",
+    "director": "Roger Corman"
+  },
+  {
+    "release_date": "2004-02-25",
+    "title": "Le pays de la violence",
+    "director": "John Frankenheimer"
+  },
+  {
+    "release_date": "2004-02-25",
+    "title": "Les invités de huit heures",
+    "director": "George Cukor",
+    "image_path": "images/2004-02-25_les_invites_de_huit_heures.jpg"
+  },
+  {
+    "release_date": "2004-02-25",
+    "title": "Retour à Kotelnitch",
+    "director": "Emmanuel Carrère"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "release_date": "2010-08-18",
+    "title": "Memento",
+    "director": "Christopher Nolan",
+    "image_path": "images/2010-08-18_memento.jpg"
+  },
+  {
+    "release_date": "2010-08-18",
+    "title": "Crime d'amour",
+    "director": "Alain Corneau",
+    "image_path": "images/2010-08-18_crime_damour.jpg"
+  },
+  {
+    "release_date": "2010-08-18",
+    "title": "Marmaduke",
+    "director": "Tom Dey",
+    "image_path": "images/2010-08-18_marmaduke.jpg"
+  },
+  {
+    "release_date": "2010-08-18",
+    "title": "Love Gourou",
+    "director": "Marco Schnabel",
+    "image_path": "images/2010-08-18_love_gourou.jpg"
+  },
+  {
+    "release_date": "2010-08-18",
+    "title": "Cleveland contre Wall Street",
+    "director": "Jean-Stéphane Bron",
+    "image_path": "images/2010-08-18_cleveland_contre_wall_street.jpg"
+  },
+  {
+    "release_date": "2010-08-18",
+    "title": "Joseph et la fille",
+    "director": "Xavier de Choudens",
+    "image_path": "images/2010-08-18_joseph_et_la_fille.jpg"
+  },
+  {
+    "release_date": "2010-08-18",
+    "title": "Cargo",
+    "director": "Léon Desclozeaux",
+    "image_path": "images/2010-08-18_cargo.jpg"
+  },
+  {
+    "release_date": "2010-08-18",
+    "title": "L'enquête est close",
+    "director": "Jacques Tourneur",
+    "image_path": "images/2010-08-18_lenquete_est_close.jpg"
+  },
+  {
+    "release_date": "2010-08-18",
+    "title": "Niki de Saint Phalle et Jean Tinguely",
+    "director": "Anne Julien"
+  },
+  {
+    "release_date": "2010-08-18",
+    "title": "Solo pour une blonde",
+    "director": "Roy Rowland",
+    "image_path": "images/2010-08-18_solo_pour_une_blonde.jpg"
+  },
+  {
+    "release_date": "2010-08-18",
+    "title": "Tell Tale",
+    "director": "Michael Cuesta",
+    "image_path": "images/2010-08-18_tell_tale.jpg"
+  }
+]

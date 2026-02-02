@@ -1,0 +1,53 @@
+[
+  {
+    "release_date": "2000-07-19",
+    "title": "The Game",
+    "director": "David Fincher",
+    "image_path": "images/2000-07-19_the_game.jpg"
+  },
+  {
+    "release_date": "2000-07-19",
+    "title": "Pitch Black",
+    "director": "David Twohy",
+    "image_path": "images/2000-07-19_pitch_black.jpg"
+  },
+  {
+    "release_date": "2000-07-19",
+    "title": "Z",
+    "director": "Costa-Gavras",
+    "image_path": "images/2000-07-19_z.jpg"
+  },
+  {
+    "release_date": "2000-07-19",
+    "title": "Ordinary Decent Criminal",
+    "director": "Thaddeus O'Sullivan",
+    "image_path": "images/2000-07-19_ordinary_decent_criminal.jpg"
+  },
+  {
+    "release_date": "2000-07-19",
+    "title": "Les Aiguilleurs",
+    "director": "Mike Newell",
+    "image_path": "images/2000-07-19_les_aiguilleurs.jpg"
+  },
+  {
+    "release_date": "2000-07-19",
+    "title": "Amazone",
+    "director": "Philippe de Broca"
+  },
+  {
+    "release_date": "2000-07-19",
+    "title": "La Vie privée de Sherlock Holmes",
+    "director": "Billy Wilder",
+    "image_path": "images/2000-07-19_la_vie_privee_de_sherlock_holmes.jpg"
+  },
+  {
+    "release_date": "2000-07-19",
+    "title": "Mars à table!",
+    "director": "John Paizs"
+  },
+  {
+    "release_date": "2000-07-19",
+    "title": "Tôt ou tard",
+    "director": "Anne-Marie Etienne"
+  }
+]

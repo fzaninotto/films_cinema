@@ -1,0 +1,61 @@
+[
+  {
+    "release_date": "2005-09-14",
+    "title": "Collision",
+    "director": "Paul Haggis",
+    "image_path": "images/2005-09-14_collision.jpg"
+  },
+  {
+    "release_date": "2005-09-14",
+    "title": "De l'ombre à la lumière",
+    "director": "Ron Howard",
+    "image_path": "images/2005-09-14_de_lombre_a_la_lumiere.jpg"
+  },
+  {
+    "release_date": "2005-09-14",
+    "title": "Le Parfum de la dame en noir",
+    "director": "Bruno Podalydès",
+    "image_path": "images/2005-09-14_le_parfum_de_la_dame_en_noir.jpg"
+  },
+  {
+    "release_date": "2005-09-14",
+    "title": "Vaillant, pigeon de combat !",
+    "director": "Gary Chapman",
+    "image_path": "images/2005-09-14_vaillant_pigeon_de_combat_.jpg"
+  },
+  {
+    "release_date": "2005-09-14",
+    "title": "Le Dernier Signe",
+    "director": "Douglas Law",
+    "image_path": "images/2005-09-14_le_dernier_signe.jpg"
+  },
+  {
+    "release_date": "2005-09-14",
+    "title": "La Spectatrice",
+    "director": "Paolo Franchi",
+    "image_path": "images/2005-09-14_la_spectatrice.jpg"
+  },
+  {
+    "release_date": "2005-09-14",
+    "title": "Grabuge !",
+    "director": "Jean-Pierre Mocky",
+    "image_path": "images/2005-09-14_grabuge_.jpg"
+  },
+  {
+    "release_date": "2005-09-14",
+    "title": "Kilomètre zéro",
+    "director": "Hiner Saleem",
+    "image_path": "images/2005-09-14_kilometre_zero.jpg"
+  },
+  {
+    "release_date": "2005-09-14",
+    "title": "Le Malentendu colonial",
+    "director": "Jean-Marie Teno"
+  },
+  {
+    "release_date": "2005-09-14",
+    "title": "Les Girls",
+    "director": "George Cukor",
+    "image_path": "images/2005-09-14_les_girls.jpg"
+  }
+]

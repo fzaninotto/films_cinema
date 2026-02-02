@@ -1,0 +1,65 @@
+[
+  {
+    "release_date": "2009-10-21",
+    "title": "Beetlejuice",
+    "director": "Tim Burton",
+    "image_path": "images/2009-10-21_beetlejuice.jpg"
+  },
+  {
+    "release_date": "2009-10-21",
+    "title": "Il était une fois la Révolution",
+    "director": "Sergio Leone",
+    "image_path": "images/2009-10-21_il_etait_une_fois_la_revolution.jpg"
+  },
+  {
+    "release_date": "2009-10-21",
+    "title": "Jennifer's Body",
+    "director": "Karyn Kusama",
+    "image_path": "images/2009-10-21_jennifers_body.jpg"
+  },
+  {
+    "release_date": "2009-10-21",
+    "title": "Whiteout",
+    "director": "Dominic Sena",
+    "image_path": "images/2009-10-21_whiteout.jpg"
+  },
+  {
+    "release_date": "2009-10-21",
+    "title": "The Children",
+    "director": "Tom Shankland",
+    "image_path": "images/2009-10-21_the_children.jpg"
+  },
+  {
+    "release_date": "2009-10-21",
+    "title": "3 amis mènent l'enquête",
+    "director": "Jesper Moller , Tony Loeser"
+  },
+  {
+    "release_date": "2009-10-21",
+    "title": "The Last Show",
+    "director": "Robert Altman , Robert Taylor",
+    "image_path": "images/2009-10-21_the_last_show.jpg"
+  },
+  {
+    "release_date": "2009-10-21",
+    "title": "Rachel",
+    "director": "Simone Bitton"
+  },
+  {
+    "release_date": "2009-10-21",
+    "title": "Winnipeg mon amour",
+    "director": "Guy Maddin",
+    "image_path": "images/2009-10-21_winnipeg_mon_amour.jpg"
+  },
+  {
+    "release_date": "2009-10-21",
+    "title": "4, 5, 6... Mélie pain d'épice",
+    "director": "Pierre-Luc Granjon , Danny De Vent , Jadwiga Kowalska , Gili Dolev , Claire Lajeunie",
+    "image_path": "images/2009-10-21_4_5_6_melie_pain_depice.jpg"
+  },
+  {
+    "release_date": "2009-10-21",
+    "title": "Casanegra",
+    "director": "Noureddine Lakhmari , Nour-Eddine Lakhmari"
+  }
+]

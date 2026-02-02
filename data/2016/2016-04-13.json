@@ -1,0 +1,123 @@
+[
+  {
+    "release_date": "2016-04-13",
+    "title": "The Rocky Horror Picture Show",
+    "director": "Jim Sharman , Claudio Amendola , Kenny Ortega",
+    "image_path": "images/2016-04-13_the_rocky_horror_picture_show.jpg"
+  },
+  {
+    "release_date": "2016-04-13",
+    "title": "Palo Alto",
+    "director": "Gia Coppola",
+    "image_path": "images/2016-04-13_palo_alto.jpg"
+  },
+  {
+    "release_date": "2016-04-13",
+    "title": "Tout pour être heureux",
+    "director": "Cyril Gelblat",
+    "image_path": "images/2016-04-13_tout_pour_etre_heureux.jpg"
+  },
+  {
+    "release_date": "2016-04-13",
+    "title": "The Lady In The Van",
+    "director": "Nicholas Hytner"
+  },
+  {
+    "release_date": "2016-04-13",
+    "title": "Jem et les hologrammes",
+    "director": "Jon M. Chu",
+    "image_path": "images/2016-04-13_jem_et_les_hologrammes.jpg"
+  },
+  {
+    "release_date": "2016-04-13",
+    "title": "Voici le temps des assassins",
+    "director": "Julien Duvivier , Stan Egi",
+    "image_path": "images/2016-04-13_voici_le_temps_des_assassins.jpg"
+  },
+  {
+    "release_date": "2016-04-13",
+    "title": "Grimsby : agent trop spécial",
+    "director": "Louis Leterrier",
+    "image_path": "images/2016-04-13_grimsby_agent_trop_special.jpg"
+  },
+  {
+    "release_date": "2016-04-13",
+    "title": "Par amour",
+    "director": "Giuseppe M Gaudino",
+    "image_path": "images/2016-04-13_par_amour.jpg"
+  },
+  {
+    "release_date": "2016-04-13",
+    "title": "Les espions d'à côté",
+    "director": "Greg Mottola",
+    "image_path": "images/2016-04-13_les_espions_da_cote.jpg"
+  },
+  {
+    "release_date": "2016-04-13",
+    "title": "Paulina",
+    "director": "Santiago Mitre",
+    "image_path": "images/2016-04-13_paulina.jpg"
+  },
+  {
+    "release_date": "2016-04-13",
+    "title": "Fan",
+    "director": "Maneesh Sharma"
+  },
+  {
+    "release_date": "2016-04-13",
+    "title": "Baahubali : The Beginning",
+    "director": "SS Rajamouli , S.S. Rajamouli",
+    "image_path": "images/2016-04-13_baahubali_the_beginning.jpg"
+  },
+  {
+    "release_date": "2016-04-13",
+    "title": "Fui banquero (j'étais banquier)",
+    "director": "Patrick Grandperret , Emilie Grandperret",
+    "image_path": "images/2016-04-13_fui_banquero_jetais_banquier.jpg"
+  },
+  {
+    "release_date": "2016-04-13",
+    "title": "Gardiens de la Terre",
+    "director": "Rolf Winters , Renata Heinen",
+    "image_path": "images/2016-04-13_gardiens_de_la_terre.jpg"
+  },
+  {
+    "release_date": "2016-04-13",
+    "title": "L'Académie des muses",
+    "director": "Jose Luis Guerin , José Luis Guerin , José Guerín",
+    "image_path": "images/2016-04-13_lacademie_des_muses.jpg"
+  },
+  {
+    "release_date": "2016-04-13",
+    "title": "Les Ardennes",
+    "director": "Robin Pront",
+    "image_path": "images/2016-04-13_les_ardennes.jpg"
+  },
+  {
+    "release_date": "2016-04-13",
+    "title": "Les bois dont les rêves sont faits",
+    "director": "Claire Simon",
+    "image_path": "images/2016-04-13_les_bois_dont_les_reves_sont_faits.jpg"
+  },
+  {
+    "release_date": "2016-04-13",
+    "title": "Pawo les petits potes",
+    "director": "Natalia Chernysheva , Katerina Karhankova , Anna Shepilova , Shiro Ichige , Fabienne Giezendanner , Antje Heyn"
+  },
+  {
+    "release_date": "2016-04-13",
+    "title": "Per Amor Vostro",
+    "director": "Cicco"
+  },
+  {
+    "release_date": "2016-04-13",
+    "title": "Un héros allemand",
+    "director": "Lars Kraume"
+  },
+  {
+    "release_date": "2016-04-13",
+    "title": "Wallabout",
+    "director": "Eric McGinty",
+    "image_path": "images/2016-04-13_wallabout.jpg"
+  }
+]

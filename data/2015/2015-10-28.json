@@ -1,0 +1,102 @@
+[
+  {
+    "release_date": "2015-10-28",
+    "title": "Forrest Gump",
+    "director": "Robert Zemeckis",
+    "image_path": "images/2015-10-28_forrest_gump.jpg"
+  },
+  {
+    "release_date": "2015-10-28",
+    "title": "Le Dernier Loup",
+    "director": "Jean-Jacques Annaud",
+    "image_path": "images/2015-10-28_le_dernier_loup.jpg"
+  },
+  {
+    "release_date": "2015-10-28",
+    "title": "Bis",
+    "director": "Dominique Farrugia",
+    "image_path": "images/2015-10-28_bis.jpg"
+  },
+  {
+    "release_date": "2015-10-28",
+    "title": "Le bouton de nacre",
+    "director": "Patricio Guzman",
+    "image_path": "images/2015-10-28_le_bouton_de_nacre.jpg"
+  },
+  {
+    "release_date": "2015-10-28",
+    "title": "The Lobster",
+    "director": "Yorgos Lanthimos",
+    "image_path": "images/2015-10-28_the_lobster.jpg"
+  },
+  {
+    "release_date": "2015-10-28",
+    "title": "Lolo",
+    "director": "Julie Delpy , Sébastien Landry",
+    "image_path": "images/2015-10-28_lolo.jpg"
+  },
+  {
+    "release_date": "2015-10-28",
+    "title": "Le Dernier Chasseur de sorcières",
+    "director": "Breck Eisner"
+  },
+  {
+    "release_date": "2015-10-28",
+    "title": "Régression",
+    "director": "Alejandro Amenabar",
+    "image_path": "images/2015-10-28_regression.jpg"
+  },
+  {
+    "release_date": "2015-10-28",
+    "title": "Little Gay Boy",
+    "director": "Antony Hickling",
+    "image_path": "images/2015-10-28_little_gay_boy.jpg"
+  },
+  {
+    "release_date": "2015-10-28",
+    "title": "Chu & Blossom",
+    "director": "Charles Chu , Gavin Kelly",
+    "image_path": "images/2015-10-28_chu_blossom.jpg"
+  },
+  {
+    "release_date": "2015-10-28",
+    "title": "Héritages",
+    "director": "Philippe Aractingi",
+    "image_path": "images/2015-10-28_heritages.jpg"
+  },
+  {
+    "release_date": "2015-10-28",
+    "title": "Le Cardinal",
+    "director": "Otto Preminger",
+    "image_path": "images/2015-10-28_le_cardinal.jpg"
+  },
+  {
+    "release_date": "2015-10-28",
+    "title": "L'Homme à la caméra",
+    "director": "Dziga Vertov",
+    "image_path": "images/2015-10-28_lhomme_a_la_camera.jpg"
+  },
+  {
+    "release_date": "2015-10-28",
+    "title": "Paranoïa Park",
+    "director": "Bruno Mercier",
+    "image_path": "images/2015-10-28_paranoia_park.jpg"
+  },
+  {
+    "release_date": "2015-10-28",
+    "title": "Prière de m'épouser",
+    "director": "Corbin Bernsen",
+    "image_path": "images/2015-10-28_priere_de_mepouser.jpg"
+  },
+  {
+    "release_date": "2015-10-28",
+    "title": "The Green Inferno",
+    "director": "Eli Roth",
+    "image_path": "images/2015-10-28_the_green_inferno.jpg"
+  },
+  {
+    "release_date": "2015-10-28",
+    "title": "Trois voiles",
+    "director": "Rolla Selbak"
+  }
+]

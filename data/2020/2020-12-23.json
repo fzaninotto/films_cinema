@@ -1,0 +1,24 @@
+[
+  {
+    "release_date": "2020-12-23",
+    "title": "Birdman",
+    "director": "Alejandro González Inárritu",
+    "image_path": "images/2020-12-23_birdman.jpg"
+  },
+  {
+    "release_date": "2020-12-23",
+    "title": "Blood From Stome",
+    "director": "Geoff Ryan"
+  },
+  {
+    "release_date": "2020-12-23",
+    "title": "Jiri Trnka, l'ami retrouvé",
+    "director": "Joël Farges"
+  },
+  {
+    "release_date": "2020-12-23",
+    "title": "Le Fou de guerre",
+    "director": "Dino Risi",
+    "image_path": "images/2020-12-23_le_fou_de_guerre.jpg"
+  }
+]

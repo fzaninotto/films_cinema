@@ -1,0 +1,88 @@
+[
+  {
+    "release_date": "2008-01-09",
+    "title": "Into The Wild",
+    "director": "Sean Penn",
+    "image_path": "images/2008-01-09_into_the_wild.jpg"
+  },
+  {
+    "release_date": "2008-01-09",
+    "title": "Reviens-moi",
+    "director": "Joe Wright",
+    "image_path": "images/2008-01-09_reviens-moi.jpg"
+  },
+  {
+    "release_date": "2008-01-09",
+    "title": "30 jours de nuit",
+    "director": "David Slade",
+    "image_path": "images/2008-01-09_30_jours_de_nuit.jpg"
+  },
+  {
+    "release_date": "2008-01-09",
+    "title": "Serpico",
+    "director": "Sidney Lumet , Laura Marinoni",
+    "image_path": "images/2008-01-09_serpico.jpg"
+  },
+  {
+    "release_date": "2008-01-09",
+    "title": "L'île",
+    "director": "Kim Ki-duk , Pavel Lounguine",
+    "image_path": "images/2008-01-09_lile.jpg"
+  },
+  {
+    "release_date": "2008-01-09",
+    "title": "Détention secrète",
+    "director": "Gavin Hood",
+    "image_path": "images/2008-01-09_detention_secrete.jpg"
+  },
+  {
+    "release_date": "2008-01-09",
+    "title": "Death Note 1",
+    "director": "Shusuke Kaneko",
+    "image_path": "images/2008-01-09_death_note_1.jpg"
+  },
+  {
+    "release_date": "2008-01-09",
+    "title": "Garage",
+    "director": "Lenny Abrahamson",
+    "image_path": "images/2008-01-09_garage.jpg"
+  },
+  {
+    "release_date": "2008-01-09",
+    "title": "Le Tueur",
+    "director": "Cédric Anger",
+    "image_path": "images/2008-01-09_le_tueur.jpg"
+  },
+  {
+    "release_date": "2008-01-09",
+    "title": "Vitus, l'enfant prodige",
+    "director": "Fredi M. Murer , Fredi M Murer"
+  },
+  {
+    "release_date": "2008-01-09",
+    "title": "Dancing Queens",
+    "director": "Darren Ashton",
+    "image_path": "images/2008-01-09_dancing_queens.jpg"
+  },
+  {
+    "release_date": "2008-01-09",
+    "title": "Les Yeux bandés",
+    "director": "Thomas Lilti",
+    "image_path": "images/2008-01-09_les_yeux_bandes.jpg"
+  },
+  {
+    "release_date": "2008-01-09",
+    "title": "L'Homme de Kiev",
+    "director": "John Frankenheimer"
+  },
+  {
+    "release_date": "2008-01-09",
+    "title": "L'homme qui marche",
+    "director": "Aurélia Georges"
+  },
+  {
+    "release_date": "2008-01-09",
+    "title": "Sub",
+    "director": "Julien Loustau"
+  }
+]

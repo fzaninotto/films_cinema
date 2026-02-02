@@ -1,0 +1,42 @@
+[
+  {
+    "release_date": "2001-05-09",
+    "title": "Le Marginal",
+    "director": "Jacques Deray , Ljupcho Temelkovski",
+    "image_path": "images/2001-05-09_le_marginal.jpg"
+  },
+  {
+    "release_date": "2001-05-09",
+    "title": "Chevauchée avec le diable",
+    "director": "Ang Lee",
+    "image_path": "images/2001-05-09_chevauchee_avec_le_diable.jpg"
+  },
+  {
+    "release_date": "2001-05-09",
+    "title": "America, America",
+    "director": "Elia Kazan , Malek Kateb"
+  },
+  {
+    "release_date": "2001-05-09",
+    "title": "Apocalypse Now Redux",
+    "director": "Francis Coppola , Francis Ford Coppola",
+    "image_path": "images/2001-05-09_apocalypse_now_redux.jpg"
+  },
+  {
+    "release_date": "2001-05-09",
+    "title": "Baby Doll",
+    "director": "Elia Kazan , Malek Kateb",
+    "image_path": "images/2001-05-09_baby_doll.jpg"
+  },
+  {
+    "release_date": "2001-05-09",
+    "title": "Le Sucre",
+    "director": "Jacques Rouffio , Raphaël Médard",
+    "image_path": "images/2001-05-09_le_sucre.jpg"
+  },
+  {
+    "release_date": "2001-05-09",
+    "title": "Profils paysans, 1ère partie - L'approche",
+    "director": "Raymond Depardon"
+  }
+]

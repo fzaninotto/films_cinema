@@ -1,0 +1,70 @@
+[
+  {
+    "release_date": "2006-12-20",
+    "title": "Coast Guards",
+    "director": "Andrew Davis",
+    "image_path": "images/2006-12-20_coast_guards.jpg"
+  },
+  {
+    "release_date": "2006-12-20",
+    "title": "La Jeune Fille à la perle",
+    "director": "Peter Webber",
+    "image_path": "images/2006-12-20_la_jeune_fille_a_la_perle.jpg"
+  },
+  {
+    "release_date": "2006-12-20",
+    "title": "Eragon",
+    "director": "Stefen Fangmeier",
+    "image_path": "images/2006-12-20_eragon.jpg"
+  },
+  {
+    "release_date": "2006-12-20",
+    "title": "Mon meilleur ami",
+    "director": "Patrice Leconte , Stéphane Granata , Arthur Lubin",
+    "image_path": "images/2006-12-20_mon_meilleur_ami.jpg"
+  },
+  {
+    "release_date": "2006-12-20",
+    "title": "Franklin et le trésor du lac",
+    "director": "Dominique Monfery",
+    "image_path": "images/2006-12-20_franklin_et_le_tresor_du_lac.jpg"
+  },
+  {
+    "release_date": "2006-12-20",
+    "title": "Le Héros de la famille",
+    "director": "Thierry Klifa",
+    "image_path": "images/2006-12-20_le_heros_de_la_famille.jpg"
+  },
+  {
+    "release_date": "2006-12-20",
+    "title": "Elsa & Fred",
+    "director": "Marcos Carnevale"
+  },
+  {
+    "release_date": "2006-12-20",
+    "title": "Le Grand Sommeil",
+    "director": "Howard Hawks",
+    "image_path": "images/2006-12-20_le_grand_sommeil.jpg"
+  },
+  {
+    "release_date": "2006-12-20",
+    "title": "Antonio das Mortes",
+    "director": "Glauber Rocha",
+    "image_path": "images/2006-12-20_antonio_das_mortes.jpg"
+  },
+  {
+    "release_date": "2006-12-20",
+    "title": "Barravento",
+    "director": "Glauber Rocha"
+  },
+  {
+    "release_date": "2006-12-20",
+    "title": "L'Age de la Terre",
+    "director": "Glauber Rocha"
+  },
+  {
+    "release_date": "2006-12-20",
+    "title": "La Maison de sable",
+    "director": "Andrucha Waddington"
+  }
+]

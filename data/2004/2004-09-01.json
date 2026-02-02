@@ -1,0 +1,52 @@
+[
+  {
+    "release_date": "2004-09-01",
+    "title": "Le Cercle",
+    "director": "Gore Verbinski",
+    "image_path": "images/2004-09-01_le_cercle.jpg"
+  },
+  {
+    "release_date": "2004-09-01",
+    "title": "The Coast Guard",
+    "director": "Kim Ki-duk"
+  },
+  {
+    "release_date": "2004-09-01",
+    "title": "Clean",
+    "director": "Olivier Assayas",
+    "image_path": "images/2004-09-01_clean.jpg"
+  },
+  {
+    "release_date": "2004-09-01",
+    "title": "Body Snatchers",
+    "director": "Abel Ferrara",
+    "image_path": "images/2004-09-01_body_snatchers.jpg"
+  },
+  {
+    "release_date": "2004-09-01",
+    "title": "Nos funérailles",
+    "director": "Abel Ferrara",
+    "image_path": "images/2004-09-01_nos_funerailles.jpg"
+  },
+  {
+    "release_date": "2004-09-01",
+    "title": "Connie & Carla",
+    "director": "Michael Lembeck",
+    "image_path": "images/2004-09-01_connie_carla.jpg"
+  },
+  {
+    "release_date": "2004-09-01",
+    "title": "Disneyland, mon vieux pays natal",
+    "director": "Arnaud des Pallières , Arnaud Despaillères"
+  },
+  {
+    "release_date": "2004-09-01",
+    "title": "Noble Art",
+    "director": "Pascal Deux"
+  },
+  {
+    "release_date": "2004-09-01",
+    "title": "Une autre femme",
+    "director": "Woody Allen"
+  }
+]

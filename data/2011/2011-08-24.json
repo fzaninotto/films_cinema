@@ -1,0 +1,44 @@
+[
+  {
+    "release_date": "2011-08-24",
+    "title": "2 fast 2 furious",
+    "director": "John Singleton",
+    "image_path": "images/2011-08-24_2_fast_2_furious.jpg"
+  },
+  {
+    "release_date": "2011-08-24",
+    "title": "Tu seras mon fils",
+    "director": "Gilles Legrand",
+    "image_path": "images/2011-08-24_tu_seras_mon_fils.jpg"
+  },
+  {
+    "release_date": "2011-08-24",
+    "title": "One Piece Strong World",
+    "director": "Munehisa Sakai",
+    "image_path": "images/2011-08-24_one_piece_strong_world.jpg"
+  },
+  {
+    "release_date": "2011-08-24",
+    "title": "Cowboys & Envahisseurs",
+    "director": "Jon Favreau",
+    "image_path": "images/2011-08-24_cowboys_envahisseurs.jpg"
+  },
+  {
+    "release_date": "2011-08-24",
+    "title": "Bienvenue à Monte-Carlo",
+    "director": "Thomas G. Bezucha",
+    "image_path": "images/2011-08-24_bienvenue_a_monte-carlo.jpg"
+  },
+  {
+    "release_date": "2011-08-24",
+    "title": "Les Bien-aimés",
+    "director": "Christophe honoré , Harvey Lembeck",
+    "image_path": "images/2011-08-24_les_bien-aimes.jpg"
+  },
+  {
+    "release_date": "2011-08-24",
+    "title": "Pain noir",
+    "director": "Agusti Villaronga",
+    "image_path": "images/2011-08-24_pain_noir.jpg"
+  }
+]

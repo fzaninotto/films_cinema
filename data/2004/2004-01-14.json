@@ -1,0 +1,48 @@
+[
+  {
+    "release_date": "2004-01-14",
+    "title": "Le Dernier Samouraï",
+    "director": "Edward Zwick",
+    "image_path": "images/2004-01-14_le_dernier_samourai.jpg"
+  },
+  {
+    "release_date": "2004-01-14",
+    "title": "Stalingrad",
+    "director": "Jean-Jacques Annaud",
+    "image_path": "images/2004-01-14_stalingrad.jpg"
+  },
+  {
+    "release_date": "2004-01-14",
+    "title": "Les Rois du désert",
+    "director": "David O. Russell , David O Russell",
+    "image_path": "images/2004-01-14_les_rois_du_desert.jpg"
+  },
+  {
+    "release_date": "2004-01-14",
+    "title": "Conan le destructeur",
+    "director": "Richard Fleischer",
+    "image_path": "images/2004-01-14_conan_le_destructeur.jpg"
+  },
+  {
+    "release_date": "2004-01-14",
+    "title": "Violence des échanges en milieu tempéré",
+    "director": "Jean-Marc Moutout , Yeardley Smith",
+    "image_path": "images/2004-01-14_violence_des_echanges_en_milieu_tempere.jpg"
+  },
+  {
+    "release_date": "2004-01-14",
+    "title": "L'Etrange Monsieur Peppino",
+    "director": "Matteo Garrone"
+  },
+  {
+    "release_date": "2004-01-14",
+    "title": "The Fog of War",
+    "director": "Errol Morris"
+  },
+  {
+    "release_date": "2004-01-14",
+    "title": "The Soul of a Man",
+    "director": "Wim Wenders",
+    "image_path": "images/2004-01-14_the_soul_of_a_man.jpg"
+  }
+]

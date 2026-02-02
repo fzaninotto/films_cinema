@@ -1,0 +1,74 @@
+[
+  {
+    "release_date": "2001-02-28",
+    "title": "A vendre",
+    "director": "Laetitia Masson",
+    "image_path": "images/2001-02-28_a_vendre.jpg"
+  },
+  {
+    "release_date": "2001-02-28",
+    "title": "Le Chocolat",
+    "director": "Lasse Hallström",
+    "image_path": "images/2001-02-28_le_chocolat.jpg"
+  },
+  {
+    "release_date": "2001-02-28",
+    "title": "Un crime au paradis",
+    "director": "Jean Becker",
+    "image_path": "images/2001-02-28_un_crime_au_paradis.jpg"
+  },
+  {
+    "release_date": "2001-02-28",
+    "title": "Un été 42",
+    "director": "Robert Mulligan"
+  },
+  {
+    "release_date": "2001-02-28",
+    "title": "Les Nuits de la pleine lune",
+    "director": "Eric Rohmer , Jessica Weiss",
+    "image_path": "images/2001-02-28_les_nuits_de_la_pleine_lune.jpg"
+  },
+  {
+    "release_date": "2001-02-28",
+    "title": "Le Mouchard",
+    "director": "John Ford",
+    "image_path": "images/2001-02-28_le_mouchard.jpg"
+  },
+  {
+    "release_date": "2001-02-28",
+    "title": "Adorable Voisine",
+    "director": "Richard Quine",
+    "image_path": "images/2001-02-28_adorable_voisine.jpg"
+  },
+  {
+    "release_date": "2001-02-28",
+    "title": "Au-delà du Missouri",
+    "director": "William A Wellman",
+    "image_path": "images/2001-02-28_au-dela_du_missouri.jpg"
+  },
+  {
+    "release_date": "2001-02-28",
+    "title": "Circus Baobab",
+    "director": "Laurent Chevallier"
+  },
+  {
+    "release_date": "2001-02-28",
+    "title": "Comédie de l'innocence",
+    "director": "Raoul Ruiz"
+  },
+  {
+    "release_date": "2001-02-28",
+    "title": "Deux mains, la nuit",
+    "director": "Robert Siodmak"
+  },
+  {
+    "release_date": "2001-02-28",
+    "title": "La Moitié du ciel",
+    "director": "Alain Mazars"
+  },
+  {
+    "release_date": "2001-02-28",
+    "title": "Plus fort que le silence",
+    "director": "Sun Zhou"
+  }
+]

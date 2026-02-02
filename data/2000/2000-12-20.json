@@ -1,0 +1,65 @@
+[
+  {
+    "release_date": "2000-12-20",
+    "title": "Billy Elliot",
+    "director": "Stephen Daldry",
+    "image_path": "images/2000-12-20_billy_elliot.jpg"
+  },
+  {
+    "release_date": "2000-12-20",
+    "title": "Family Man",
+    "director": "Brett Ratner",
+    "image_path": "images/2000-12-20_family_man.jpg"
+  },
+  {
+    "release_date": "2000-12-20",
+    "title": "Tout le monde dit I love you",
+    "director": "Woody Allen",
+    "image_path": "images/2000-12-20_tout_le_monde_dit_i_love_you.jpg"
+  },
+  {
+    "release_date": "2000-12-20",
+    "title": "La Moutarde me monte au nez",
+    "director": "Bob Fosse , Claude Zidi",
+    "image_path": "images/2000-12-20_la_moutarde_me_monte_au_nez.jpg"
+  },
+  {
+    "release_date": "2000-12-20",
+    "title": "Le Prince du Pacifique",
+    "director": "Alain Corneau"
+  },
+  {
+    "release_date": "2000-12-20",
+    "title": "Elliot",
+    "director": "Franck Villano",
+    "image_path": "images/2000-12-20_elliot.jpg"
+  },
+  {
+    "release_date": "2000-12-20",
+    "title": "Intérieurs",
+    "director": "Woody Allen",
+    "image_path": "images/2000-12-20_interieurs.jpg"
+  },
+  {
+    "release_date": "2000-12-20",
+    "title": "Les assassins sont parmi nous",
+    "director": "Wolfgang Staudte"
+  },
+  {
+    "release_date": "2000-12-20",
+    "title": "Les morfalous",
+    "director": "Henri Verneuil",
+    "image_path": "images/2000-12-20_les_morfalous.jpg"
+  },
+  {
+    "release_date": "2000-12-20",
+    "title": "Marie-Line",
+    "director": "Mehdi Charef",
+    "image_path": "images/2000-12-20_marie-line.jpg"
+  },
+  {
+    "release_date": "2000-12-20",
+    "title": "Pokémon 2, le pouvoir est en toi",
+    "director": "Kunihiko Yuyama , Michael Haigney"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "release_date": "2002-01-02",
+    "title": "37°2 le matin",
+    "director": "Jean-Jacques Beineix",
+    "image_path": "images/2002-01-02_372_le_matin.jpg"
+  },
+  {
+    "release_date": "2002-01-02",
+    "title": "Ennemi d'Etat",
+    "director": "Tony Scott",
+    "image_path": "images/2002-01-02_ennemi_detat.jpg"
+  },
+  {
+    "release_date": "2002-01-02",
+    "title": "Tesis",
+    "director": "Alejandro Amenabar",
+    "image_path": "images/2002-01-02_tesis.jpg"
+  },
+  {
+    "release_date": "2002-01-02",
+    "title": "Fourmiz",
+    "director": "Eric Darnell , Lawrence Guterman , Tim Johnson",
+    "image_path": "images/2002-01-02_fourmiz.jpg"
+  },
+  {
+    "release_date": "2002-01-02",
+    "title": "The Navigators",
+    "director": "Ken Loach",
+    "image_path": "images/2002-01-02_the_navigators.jpg"
+  },
+  {
+    "release_date": "2002-01-02",
+    "title": "L'Ange des maudits",
+    "director": "Michael Curtiz , Fritz Lang , Akira Nagoya",
+    "image_path": "images/2002-01-02_lange_des_maudits.jpg"
+  },
+  {
+    "release_date": "2002-01-02",
+    "title": "Patate et le Jardin potager",
+    "director": "Benoît Chieux , Damien Louche-Pélissier",
+    "image_path": "images/2002-01-02_patate_et_le_jardin_potager.jpg"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "release_date": "2017-08-23",
+    "title": "Atomic Blonde",
+    "director": "David Leitch",
+    "image_path": "images/2017-08-23_atomic_blonde.jpg"
+  },
+  {
+    "release_date": "2017-08-23",
+    "title": "Hitman and Bodyguard",
+    "director": "Patrick Hughes",
+    "image_path": "images/2017-08-23_hitman_and_bodyguard.jpg"
+  },
+  {
+    "release_date": "2017-08-23",
+    "title": "Western",
+    "director": "Valeska Grisebach",
+    "image_path": "images/2017-08-23_western.jpg"
+  },
+  {
+    "release_date": "2017-08-23",
+    "title": "A Gentleman",
+    "director": "Raj Nidimoru , Krishna D.K. , Krishna DK",
+    "image_path": "images/2017-08-23_a_gentleman.jpg"
+  },
+  {
+    "release_date": "2017-08-23",
+    "title": "Ciel rouge",
+    "director": "Olivier Lorelle",
+    "image_path": "images/2017-08-23_ciel_rouge.jpg"
+  },
+  {
+    "release_date": "2017-08-23",
+    "title": "Mort à Sarajevo",
+    "director": "Danis Tanovic , Magalie Bloch",
+    "image_path": "images/2017-08-23_mort_a_sarajevo.jpg"
+  },
+  {
+    "release_date": "2017-08-23",
+    "title": "Profession : Magliari",
+    "director": "Francesco Rosi , Andrew McCarthy",
+    "image_path": "images/2017-08-23_profession_magliari.jpg"
+  },
+  {
+    "release_date": "2017-08-23",
+    "title": "Upstream color",
+    "director": "Shane Carruth , Shane Carruth , Celile Toyon Uysal",
+    "image_path": "images/2017-08-23_upstream_color.jpg"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "release_date": "2013-01-09",
+    "title": "The Descendants",
+    "director": "Alexander Payne",
+    "image_path": "images/2013-01-09_the_descendants.jpg"
+  },
+  {
+    "release_date": "2013-01-09",
+    "title": "Un Prince (presque) charmant",
+    "director": "Philippe Lellouche",
+    "image_path": "images/2013-01-09_un_prince_presque_charmant.jpg"
+  },
+  {
+    "release_date": "2013-01-09",
+    "title": "Stone",
+    "director": "John Curran",
+    "image_path": "images/2013-01-09_stone.jpg"
+  },
+  {
+    "release_date": "2013-01-09",
+    "title": "The Master",
+    "director": "Paul Thomas Anderson",
+    "image_path": "images/2013-01-09_the_master.jpg"
+  },
+  {
+    "release_date": "2013-01-09",
+    "title": "Une histoire d'amour",
+    "director": "Helène Fillières",
+    "image_path": "images/2013-01-09_une_histoire_damour.jpg"
+  },
+  {
+    "release_date": "2013-01-09",
+    "title": "Aujourd'hui",
+    "director": "Alain Gomis",
+    "image_path": "images/2013-01-09_aujourdhui.jpg"
+  },
+  {
+    "release_date": "2013-01-09",
+    "title": "Paradis : amour",
+    "director": "Ulrich Seidl",
+    "image_path": "images/2013-01-09_paradis_amour.jpg"
+  },
+  {
+    "release_date": "2013-01-09",
+    "title": "Les Jeux des nuages et de la pluie",
+    "director": "Benjamin de Lajarte",
+    "image_path": "images/2013-01-09_les_jeux_des_nuages_et_de_la_pluie.jpg"
+  },
+  {
+    "release_date": "2013-01-09",
+    "title": "Romeos",
+    "director": "Sarah Bernardi , Sabine Bernardi",
+    "image_path": "images/2013-01-09_romeos.jpg"
+  },
+  {
+    "release_date": "2013-01-09",
+    "title": "Selkirk, le véritable Robinson Crusoé",
+    "director": "Walter Tournier",
+    "image_path": "images/2013-01-09_selkirk_le_veritable_robinson_crusoe.jpg"
+  }
+]

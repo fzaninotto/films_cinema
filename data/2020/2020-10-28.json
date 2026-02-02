@@ -1,0 +1,88 @@
+[
+  {
+    "release_date": "2020-10-28",
+    "title": "L'Avventura",
+    "director": "Michelangelo Antonioni",
+    "image_path": "images/2020-10-28_lavventura.jpg"
+  },
+  {
+    "release_date": "2020-10-28",
+    "title": "ADN",
+    "director": "Array",
+    "image_path": "images/2020-10-28_adn.jpg"
+  },
+  {
+    "release_date": "2020-10-28",
+    "title": "Garçon chiffon",
+    "director": "Nicolas Maury",
+    "image_path": "images/2020-10-28_garcon_chiffon.jpg"
+  },
+  {
+    "release_date": "2020-10-28",
+    "title": "Glengarry",
+    "director": "James Foley",
+    "image_path": "images/2020-10-28_glengarry.jpg"
+  },
+  {
+    "release_date": "2020-10-28",
+    "title": "Indes galantes",
+    "director": "Philippe Béziat",
+    "image_path": "images/2020-10-28_indes_galantes.jpg"
+  },
+  {
+    "release_date": "2020-10-28",
+    "title": "Israël, le voyage interdit, partie IV : Pessah",
+    "director": "Jean-Pierre Lledo",
+    "image_path": "images/2020-10-28_israel_le_voyage_interdit_partie_iv_pessah.jpg"
+  },
+  {
+    "release_date": "2020-10-28",
+    "title": "Le monde en soi",
+    "director": "Sandrine Stoianov , Jean-Charles Finck"
+  },
+  {
+    "release_date": "2020-10-28",
+    "title": "Leoforio",
+    "director": "Catherine Catella , Shu Aiello , Catherine Catela"
+  },
+  {
+    "release_date": "2020-10-28",
+    "title": "Miss",
+    "director": "Ruben Alves",
+    "image_path": "images/2020-10-28_miss.jpg"
+  },
+  {
+    "release_date": "2020-10-28",
+    "title": "Pas de choix",
+    "director": "Reza Dormishian"
+  },
+  {
+    "release_date": "2020-10-28",
+    "title": "Peninsula",
+    "director": "Sang-ho Yeon , Yeon Sang-ho , Luca Merli",
+    "image_path": "images/2020-10-28_peninsula.jpeg"
+  },
+  {
+    "release_date": "2020-10-28",
+    "title": "Pour rire!",
+    "director": "Tsilla Chelton , Lucas Belvaux",
+    "image_path": "images/2020-10-28_pour_rire.jpg"
+  },
+  {
+    "release_date": "2020-10-28",
+    "title": "The Craft - Les nouvelles sorcières",
+    "director": "Zoe Lister-Jones",
+    "image_path": "images/2020-10-28_the_craft_-_les_nouvelles_sorcieres.jpg"
+  },
+  {
+    "release_date": "2020-10-28",
+    "title": "Vivante ! Le secret de la force",
+    "director": "Alex Ferrini"
+  },
+  {
+    "release_date": "2020-10-28",
+    "title": "Vortex",
+    "director": "Christophe Karabache",
+    "image_path": "images/2020-10-28_vortex.jpg"
+  }
+]

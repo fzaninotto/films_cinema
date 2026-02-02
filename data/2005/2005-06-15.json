@@ -1,0 +1,44 @@
+[
+  {
+    "release_date": "2005-06-15",
+    "title": "Batman Begins",
+    "director": "Christopher Nolan",
+    "image_path": "images/2005-06-15_batman_begins.jpg"
+  },
+  {
+    "release_date": "2005-06-15",
+    "title": "Torremolinos 73",
+    "director": "Pablo Berger",
+    "image_path": "images/2005-06-15_torremolinos_73.jpg"
+  },
+  {
+    "release_date": "2005-06-15",
+    "title": "Chiens Egares",
+    "director": "Marziyeh Meshkini",
+    "image_path": "images/2005-06-15_chiens_egares.jpg"
+  },
+  {
+    "release_date": "2005-06-15",
+    "title": "Les Invisibles",
+    "director": "Thierry Jousse",
+    "image_path": "images/2005-06-15_les_invisibles.jpg"
+  },
+  {
+    "release_date": "2005-06-15",
+    "title": "Avant l'oubli",
+    "director": "Augustin Burger",
+    "image_path": "images/2005-06-15_avant_loubli.jpg"
+  },
+  {
+    "release_date": "2005-06-15",
+    "title": "Pour mémoire",
+    "director": "Jean-Daniel Pollet , Monique Lejeune",
+    "image_path": "images/2005-06-15_pour_memoire.jpg"
+  },
+  {
+    "release_date": "2005-06-15",
+    "title": "The Shooting",
+    "director": "Monte Hellman",
+    "image_path": "images/2005-06-15_the_shooting.jpg"
+  }
+]

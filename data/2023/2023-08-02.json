@@ -1,0 +1,157 @@
+[
+  {
+    "release_date": "2023-08-02",
+    "title": "Le Péril jeune",
+    "director": "Cédric Klapisch",
+    "image_path": "images/2023-08-02_le_peril_jeune.jpg"
+  },
+  {
+    "release_date": "2023-08-02",
+    "title": "On dirait la planète Mars",
+    "director": "Stéphane Lafleur",
+    "image_path": "images/2023-08-02_on_dirait_la_planete_mars.jpg"
+  },
+  {
+    "release_date": "2023-08-02",
+    "title": "Le Grand Chemin",
+    "director": "Jean-Loup Hubert , Scott Roberts",
+    "image_path": "images/2023-08-02_le_grand_chemin.jpg"
+  },
+  {
+    "release_date": "2023-08-02",
+    "title": "En eaux très troubles",
+    "director": "Ben Wheatley",
+    "image_path": "images/2023-08-02_en_eaux_tres_troubles.jpeg"
+  },
+  {
+    "release_date": "2023-08-02",
+    "title": "Les Blagues de Toto 2-classe verte",
+    "director": "Pascal Bourdiaux",
+    "image_path": "images/2023-08-02_les_blagues_de_toto_2-classe_verte.jpg"
+  },
+  {
+    "release_date": "2023-08-02",
+    "title": "Bravo Django (version restaurée)",
+    "director": "León Klimovsky , Enzo G Castellari"
+  },
+  {
+    "release_date": "2023-08-02",
+    "title": "Bro"
+  },
+  {
+    "release_date": "2023-08-02",
+    "title": "Détective Conan: le sous-marin noir",
+    "director": "Yuzuru Tachikawa",
+    "image_path": "images/2023-08-02_detective_conan_le_sous-marin_noir.jpeg"
+  },
+  {
+    "release_date": "2023-08-02",
+    "title": "Francesca et l'amour",
+    "image_path": "images/2023-08-02_francesca_et_lamour.jpg"
+  },
+  {
+    "release_date": "2023-08-02",
+    "title": "Furie au Missouri (version restaurée)",
+    "director": "Alfonso Brescia"
+  },
+  {
+    "release_date": "2023-08-02",
+    "title": "Girasoles silvestres",
+    "director": "Jaime Rosales",
+    "image_path": "images/2023-08-02_girasoles_silvestres.jpg"
+  },
+  {
+    "release_date": "2023-08-02",
+    "title": "Girls Can't Surf : une révolution sur les vagues",
+    "director": "Christopher Nelius"
+  },
+  {
+    "release_date": "2023-08-02",
+    "title": "La vengeance est un plat qui se mange froid (version restaurée)",
+    "director": "Pasquale Squitieri",
+    "image_path": "images/2023-08-02_la_vengeance_est_un_plat_qui_se_mange_froid_version_restauree.jpg"
+  },
+  {
+    "release_date": "2023-08-02",
+    "title": "Le Colibri",
+    "director": "Francesca Archibugi",
+    "image_path": "images/2023-08-02_le_colibri.jpg"
+  },
+  {
+    "release_date": "2023-08-02",
+    "title": "Magic !",
+    "director": "Caroline Origer",
+    "image_path": "images/2023-08-02_magic_.jpg"
+  },
+  {
+    "release_date": "2023-08-02",
+    "title": "Om",
+    "director": "John Smith"
+  },
+  {
+    "release_date": "2023-08-02",
+    "title": "Ringo au pistolet d'or (version restaurée)",
+    "director": "Sergio Corbucci"
+  },
+  {
+    "release_date": "2023-08-02",
+    "title": "Sartana dans la vallée des vautours (version restaurée)",
+    "director": "Roberto Mauri"
+  },
+  {
+    "release_date": "2023-08-02",
+    "title": "Suro",
+    "director": "Mikel Gurrea",
+    "image_path": "images/2023-08-02_suro.jpg"
+  },
+  {
+    "release_date": "2023-08-02",
+    "title": "The Wastetown",
+    "director": "Ahmad Bahrami",
+    "image_path": "images/2023-08-02_the_wastetown.jpg"
+  },
+  {
+    "release_date": "2023-08-02",
+    "title": "Trois salopards, une poignée d'or (version restaurée)",
+    "director": "Maurizio Lucidi",
+    "image_path": "images/2023-08-02_trois_salopards_une_poignee_dor_version_restauree.jpg"
+  },
+  {
+    "release_date": "2023-08-02",
+    "title": "Tropic",
+    "director": "Edouard Salier",
+    "image_path": "images/2023-08-02_tropic.jpg"
+  },
+  {
+    "release_date": "2023-08-02",
+    "title": "Un dollar entre les dents (version restaurée)",
+    "director": "Luigi Vanzi"
+  },
+  {
+    "release_date": "2023-08-02",
+    "title": "Une longue file de croix (version restaurée)",
+    "director": "Sergio Garrone"
+  },
+  {
+    "release_date": "2023-08-02",
+    "title": "Un homme, un cheval et un pistolet (version restaurée)",
+    "director": "Luigi Vanzi"
+  },
+  {
+    "release_date": "2023-08-02",
+    "title": "Yamabuki",
+    "director": "Juichiro Yamasaki",
+    "image_path": "images/2023-08-02_yamabuki.jpg"
+  },
+  {
+    "release_date": "2023-08-02",
+    "title": "Yannick",
+    "director": "Quentin Dupieux",
+    "image_path": "images/2023-08-02_yannick.jpeg"
+  },
+  {
+    "release_date": "2023-08-02",
+    "title": "Zaho Zay",
+    "director": "Georg Tiller , Maéva Ranaïvojaona"
+  }
+]

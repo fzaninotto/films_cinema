@@ -1,0 +1,30 @@
+[
+  {
+    "release_date": "2002-07-24",
+    "title": "Didier",
+    "director": "Alain Chabat",
+    "image_path": "images/2002-07-24_didier.jpg"
+  },
+  {
+    "release_date": "2002-07-24",
+    "title": "Poltergeist",
+    "director": "Steven Spielberg , Tobe Hooper",
+    "image_path": "images/2002-07-24_poltergeist.jpg"
+  },
+  {
+    "release_date": "2002-07-24",
+    "title": "Ran",
+    "director": "Akira Kurosawa",
+    "image_path": "images/2002-07-24_ran.jpg"
+  },
+  {
+    "release_date": "2002-07-24",
+    "title": "Ecarts de conduite",
+    "director": "Penny Marshall"
+  },
+  {
+    "release_date": "2002-07-24",
+    "title": "Une vierge sur canapé",
+    "director": "Richard Quine"
+  }
+]

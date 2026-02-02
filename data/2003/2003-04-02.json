@@ -1,0 +1,47 @@
+[
+  {
+    "release_date": "2003-04-02",
+    "title": "Bon voyage",
+    "director": "Jean-Paul Rappeneau , Graham Kennedy",
+    "image_path": "images/2003-04-02_bon_voyage.jpg"
+  },
+  {
+    "release_date": "2003-04-02",
+    "title": "Snowboarder",
+    "director": "Olias Barco",
+    "image_path": "images/2003-04-02_snowboarder.jpg"
+  },
+  {
+    "release_date": "2003-04-02",
+    "title": "Le Silencieux",
+    "director": "Claude Pinoteau",
+    "image_path": "images/2003-04-02_le_silencieux.jpg"
+  },
+  {
+    "release_date": "2003-04-02",
+    "title": "Femmes en miroir",
+    "director": "Kiju Yoshida , Calvin Lockhart"
+  },
+  {
+    "release_date": "2003-04-02",
+    "title": "Le Tube",
+    "director": "Peter Entell"
+  },
+  {
+    "release_date": "2003-04-02",
+    "title": "Open Hearts",
+    "director": "Susanne Bier",
+    "image_path": "images/2003-04-02_open_hearts.jpg"
+  },
+  {
+    "release_date": "2003-04-02",
+    "title": "Toutes les hôtesses de l'air vont au paradis",
+    "director": "Daniel Burman"
+  },
+  {
+    "release_date": "2003-04-02",
+    "title": "Zelig",
+    "director": "Woody Allen",
+    "image_path": "images/2003-04-02_zelig.jpg"
+  }
+]

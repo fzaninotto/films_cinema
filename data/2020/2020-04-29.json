@@ -1,0 +1,24 @@
+[
+  {
+    "release_date": "2020-04-29",
+    "title": "Les Plus Belles Années d'une vie",
+    "director": "Claude Lelouch",
+    "image_path": "images/2020-04-29_les_plus_belles_annees_dune_vie.jpg"
+  },
+  {
+    "release_date": "2020-04-29",
+    "title": "Gébé, on arrête tout, on refléchit"
+  },
+  {
+    "release_date": "2020-04-29",
+    "title": "Gwendalina",
+    "director": "Alberto Lattuada",
+    "image_path": "images/2020-04-29_gwendalina.jpg"
+  },
+  {
+    "release_date": "2020-04-29",
+    "title": "Pinocchio",
+    "director": "Matteo Garrone",
+    "image_path": "images/2020-04-29_pinocchio.jpg"
+  }
+]

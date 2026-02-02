@@ -1,0 +1,49 @@
+[
+  {
+    "release_date": "2007-05-02",
+    "title": "Spider-Man 3",
+    "director": "Sam Raimi",
+    "image_path": "images/2007-05-02_spider-man_3.jpg"
+  },
+  {
+    "release_date": "2007-05-02",
+    "title": "Clerks II",
+    "director": "Kevin Smith",
+    "image_path": "images/2007-05-02_clerks_ii.jpg"
+  },
+  {
+    "release_date": "2007-05-02",
+    "title": "Amer Béton",
+    "director": "Michael Arias",
+    "image_path": "images/2007-05-02_amer_beton.jpg"
+  },
+  {
+    "release_date": "2007-05-02",
+    "title": "Loin d'elle",
+    "director": "Sarah Polley",
+    "image_path": "images/2007-05-02_loin_delle.jpg"
+  },
+  {
+    "release_date": "2007-05-02",
+    "title": "Pur Week-end",
+    "director": "Olivier Doran",
+    "image_path": "images/2007-05-02_pur_week-end.jpg"
+  },
+  {
+    "release_date": "2007-05-02",
+    "title": "Si le vent soulève les sables",
+    "director": "Marion Hänsel",
+    "image_path": "images/2007-05-02_si_le_vent_souleve_les_sables.jpg"
+  },
+  {
+    "release_date": "2007-05-02",
+    "title": "Still Life",
+    "director": "Jia Zhang Ke , Jia Zhang-Ke , Jia Zhangke",
+    "image_path": "images/2007-05-02_still_life.jpg"
+  },
+  {
+    "release_date": "2007-05-02",
+    "title": "Le Cercle des noyés",
+    "director": "Pierre-Yves Vandeweerd"
+  }
+]

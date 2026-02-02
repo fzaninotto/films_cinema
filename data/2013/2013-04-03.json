@@ -1,0 +1,127 @@
+[
+  {
+    "release_date": "2013-04-03",
+    "title": "Projet X",
+    "director": "Nima Nourizadeh",
+    "image_path": "images/2013-04-03_projet_x.jpg"
+  },
+  {
+    "release_date": "2013-04-03",
+    "title": "Les Mondes de Ralph",
+    "director": "Rich Moore",
+    "image_path": "images/2013-04-03_les_mondes_de_ralph.jpg"
+  },
+  {
+    "release_date": "2013-04-03",
+    "title": "Amour & Turbulences",
+    "director": "Alexandre Castagnetti",
+    "image_path": "images/2013-04-03_amour_turbulences.jpg"
+  },
+  {
+    "release_date": "2013-04-03",
+    "title": "Hors-la-loi",
+    "director": "Rachid Bouchareb",
+    "image_path": "images/2013-04-03_hors-la-loi.jpg"
+  },
+  {
+    "release_date": "2013-04-03",
+    "title": "Copie conforme",
+    "director": "Abbas Kiarostami",
+    "image_path": "images/2013-04-03_copie_conforme.jpg"
+  },
+  {
+    "release_date": "2013-04-03",
+    "title": "Huit et demi",
+    "director": "Federico Fellini",
+    "image_path": "images/2013-04-03_huit_et_demi.jpg"
+  },
+  {
+    "release_date": "2013-04-03",
+    "title": "Un Jour",
+    "director": "Lone Scherfig",
+    "image_path": "images/2013-04-03_un_jour.jpg"
+  },
+  {
+    "release_date": "2013-04-03",
+    "title": "Effets secondaires",
+    "director": "Steven Soderbergh",
+    "image_path": "images/2013-04-03_effets_secondaires.jpg"
+  },
+  {
+    "release_date": "2013-04-03",
+    "title": "Bullhead",
+    "director": "Mickael R. Roskam , Michael R Roskam , Michael Roskam",
+    "image_path": "images/2013-04-03_bullhead.jpg"
+  },
+  {
+    "release_date": "2013-04-03",
+    "title": "Kinshasa kids",
+    "director": "Marc-Henri Wajnberg",
+    "image_path": "images/2013-04-03_kinshasa_kids.jpg"
+  },
+  {
+    "release_date": "2013-04-03",
+    "title": "Dead Man Down",
+    "director": "Niels Arden Oplev",
+    "image_path": "images/2013-04-03_dead_man_down.jpg"
+  },
+  {
+    "release_date": "2013-04-03",
+    "title": "Ill Manors",
+    "director": "Ben Drew",
+    "image_path": "images/2013-04-03_ill_manors.jpg"
+  },
+  {
+    "release_date": "2013-04-03",
+    "title": "La venta del paraíso",
+    "director": "Emilio Ruiz Barrachina , Emilio R. Barrachina",
+    "image_path": "images/2013-04-03_la_venta_del_paraiso.jpg"
+  },
+  {
+    "release_date": "2013-04-03",
+    "title": "Inch'Allah",
+    "director": "Anaïs Barbeau-Lavalette",
+    "image_path": "images/2013-04-03_inchallah.jpg"
+  },
+  {
+    "release_date": "2013-04-03",
+    "title": "Free Angela",
+    "director": "Shola Lynch",
+    "image_path": "images/2013-04-03_free_angela.jpg"
+  },
+  {
+    "release_date": "2013-04-03",
+    "title": "Berberian Sound Studio",
+    "director": "Peter Strickland",
+    "image_path": "images/2013-04-03_berberian_sound_studio.jpg"
+  },
+  {
+    "release_date": "2013-04-03",
+    "title": "Jaurès",
+    "director": "Eva Truffaut , Vincent Dieutre",
+    "image_path": "images/2013-04-03_jaures.jpg"
+  },
+  {
+    "release_date": "2013-04-03",
+    "title": "Larmes de joie",
+    "director": "Mario Monicelli",
+    "image_path": "images/2013-04-03_larmes_de_joie.jpg"
+  },
+  {
+    "release_date": "2013-04-03",
+    "title": "Men on the bridge",
+    "director": "Asl&#305; Özge",
+    "image_path": "images/2013-04-03_men_on_the_bridge.jpg"
+  },
+  {
+    "release_date": "2013-04-03",
+    "title": "Rencontres du troisième type (Director's Cut)",
+    "director": "Steven Spielberg"
+  },
+  {
+    "release_date": "2013-04-03",
+    "title": "Une Jeunesse amoureuse",
+    "director": "François Caillat",
+    "image_path": "images/2013-04-03_une_jeunesse_amoureuse.jpg"
+  }
+]

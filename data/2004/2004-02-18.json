@@ -1,0 +1,36 @@
+[
+  {
+    "release_date": "2004-02-18",
+    "title": "Las Vegas Parano",
+    "director": "Terry Gilliam",
+    "image_path": "images/2004-02-18_las_vegas_parano.jpg"
+  },
+  {
+    "release_date": "2004-02-18",
+    "title": "Bon voyage",
+    "director": "Jean-Paul Rappeneau , Graham Kennedy",
+    "image_path": "images/2004-02-18_bon_voyage.jpg"
+  },
+  {
+    "release_date": "2004-02-18",
+    "title": "L'Arme fatale",
+    "director": "Richard Donner",
+    "image_path": "images/2004-02-18_larme_fatale.jpg"
+  },
+  {
+    "release_date": "2004-02-18",
+    "title": "Le Cerf-volant",
+    "director": "Ken Kobayashi , Randa Chahal Sabbag , Randa Sabbag",
+    "image_path": "images/2004-02-18_le_cerf-volant.jpg"
+  },
+  {
+    "release_date": "2004-02-18",
+    "title": "Le Voyage de James à Jérusalem",
+    "director": "Ra'anan Alexandrowicz"
+  },
+  {
+    "release_date": "2004-02-18",
+    "title": "Vert Paradis",
+    "director": "Emmanuel Bourdieu"
+  }
+]

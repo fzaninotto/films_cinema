@@ -1,0 +1,47 @@
+[
+  {
+    "release_date": "2000-06-21",
+    "title": "La Fureur du Dragon",
+    "director": "Bruce Lee",
+    "image_path": "images/2000-06-21_la_fureur_du_dragon.jpg"
+  },
+  {
+    "release_date": "2000-06-21",
+    "title": "Honkytonk Man",
+    "director": "Clint Eastwood , Pete Postlethwaite",
+    "image_path": "images/2000-06-21_honkytonk_man.jpg"
+  },
+  {
+    "release_date": "2000-06-21",
+    "title": "Flash Gordon",
+    "director": "Mike Hodges , Michael Hodges",
+    "image_path": "images/2000-06-21_flash_gordon.jpg"
+  },
+  {
+    "release_date": "2000-06-21",
+    "title": "Panique à Needle Park",
+    "director": "Jerry Schatzberg",
+    "image_path": "images/2000-06-21_panique_a_needle_park.jpg"
+  },
+  {
+    "release_date": "2000-06-21",
+    "title": "A double tour",
+    "director": "Claude Chabrol",
+    "image_path": "images/2000-06-21_a_double_tour.jpg"
+  },
+  {
+    "release_date": "2000-06-21",
+    "title": "La fin de Freddy : l'ultime cauchemar",
+    "director": "Rachel Talalay"
+  },
+  {
+    "release_date": "2000-06-21",
+    "title": "Les Yeux brouillés"
+  },
+  {
+    "release_date": "2000-06-21",
+    "title": "Une question de vie ou de mort",
+    "director": "Emeric Pressburger , Michael Powell , Cecilia Peck",
+    "image_path": "images/2000-06-21_une_question_de_vie_ou_de_mort.jpg"
+  }
+]

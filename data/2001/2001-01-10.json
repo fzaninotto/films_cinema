@@ -1,0 +1,29 @@
+[
+  {
+    "release_date": "2001-01-10",
+    "title": "Wonder Boys",
+    "director": "Curtis Hanson",
+    "image_path": "images/2001-01-10_wonder_boys.jpg"
+  },
+  {
+    "release_date": "2001-01-10",
+    "title": "Selon Matthieu",
+    "director": "Xavier Beauvois",
+    "image_path": "images/2001-01-10_selon_matthieu.jpg"
+  },
+  {
+    "release_date": "2001-01-10",
+    "title": "A armes égales",
+    "director": "Ridley Scott"
+  },
+  {
+    "release_date": "2001-01-10",
+    "title": "Esperanza et ses saints",
+    "director": "Alejandro Springall"
+  },
+  {
+    "release_date": "2001-01-10",
+    "title": "Mortel Transfert",
+    "director": "Jean-Jacques Beineix"
+  }
+]

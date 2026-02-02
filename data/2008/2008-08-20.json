@@ -1,0 +1,73 @@
+[
+  {
+    "release_date": "2008-08-20",
+    "title": "Les Affranchis",
+    "director": "Martin Scorsese",
+    "image_path": "images/2008-08-20_les_affranchis.jpg"
+  },
+  {
+    "release_date": "2008-08-20",
+    "title": "Walk the Line",
+    "director": "James Mangold",
+    "image_path": "images/2008-08-20_walk_the_line.jpg"
+  },
+  {
+    "release_date": "2008-08-20",
+    "title": "Babylon A.D.",
+    "director": "Mathieu Kassovitz",
+    "image_path": "images/2008-08-20_babylon_ad.jpg"
+  },
+  {
+    "release_date": "2008-08-20",
+    "title": "Shaolin Basket",
+    "director": "Kevin Chu",
+    "image_path": "images/2008-08-20_shaolin_basket.jpg"
+  },
+  {
+    "release_date": "2008-08-20",
+    "title": "Back Soon",
+    "director": "Solveig Anspach",
+    "image_path": "images/2008-08-20_back_soon.jpg"
+  },
+  {
+    "release_date": "2008-08-20",
+    "title": "La Fille de Monaco",
+    "director": "Anne Fontaine , Danik Patisson",
+    "image_path": "images/2008-08-20_la_fille_de_monaco.jpg"
+  },
+  {
+    "release_date": "2008-08-20",
+    "title": "Le Miroir à deux faces",
+    "director": "André Cayatte",
+    "image_path": "images/2008-08-20_le_miroir_a_deux_faces.jpg"
+  },
+  {
+    "release_date": "2008-08-20",
+    "title": "Le Blob",
+    "director": "Chuck Russell",
+    "image_path": "images/2008-08-20_le_blob.jpg"
+  },
+  {
+    "release_date": "2008-08-20",
+    "title": "Prête à tout",
+    "director": "Gus van Sant , Harry Dean Stanton",
+    "image_path": "images/2008-08-20_prete_a_tout.jpg"
+  },
+  {
+    "release_date": "2008-08-20",
+    "title": "Darfour : du sable et des larmes",
+    "director": "Paul Freedman",
+    "image_path": "images/2008-08-20_darfour_du_sable_et_des_larmes.jpg"
+  },
+  {
+    "release_date": "2008-08-20",
+    "title": "L'Homme invisible",
+    "director": "James Whale , Jaleel White",
+    "image_path": "images/2008-08-20_lhomme_invisible.jpg"
+  },
+  {
+    "release_date": "2008-08-20",
+    "title": "Woman on the Beach",
+    "director": "Hong Sang-Soo"
+  }
+]

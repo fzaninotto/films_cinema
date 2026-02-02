@@ -1,0 +1,80 @@
+[
+  {
+    "release_date": "2014-03-12",
+    "title": "Fiston",
+    "director": "Pascal Bourdiaux",
+    "image_path": "images/2014-03-12_fiston.jpg"
+  },
+  {
+    "release_date": "2014-03-12",
+    "title": "Un Amour d'hiver",
+    "director": "Akiva Goldsman",
+    "image_path": "images/2014-03-12_un_amour_dhiver.jpg"
+  },
+  {
+    "release_date": "2014-03-12",
+    "title": "Patéma et le monde inversé",
+    "director": "Yasuhiro Yoshiura",
+    "image_path": "images/2014-03-12_patema_et_le_monde_inverse.jpg"
+  },
+  {
+    "release_date": "2014-03-12",
+    "title": "A vif !",
+    "director": "John Wells",
+    "image_path": "images/2014-03-12_a_vif_.jpg"
+  },
+  {
+    "release_date": "2014-03-12",
+    "title": "La Cour de Babel",
+    "director": "Julie Bertuccelli",
+    "image_path": "images/2014-03-12_la_cour_de_babel.jpg"
+  },
+  {
+    "release_date": "2014-03-12",
+    "title": "Son épouse",
+    "director": "Michel Spinosa",
+    "image_path": "images/2014-03-12_son_epouse.jpg"
+  },
+  {
+    "release_date": "2014-03-12",
+    "title": "How I Live Now : maintenant c'est ma vie",
+    "director": "Kevin Macdonald",
+    "image_path": "images/2014-03-12_how_i_live_now_maintenant_cest_ma_vie.jpg"
+  },
+  {
+    "release_date": "2014-03-12",
+    "title": "Les Chiens errants",
+    "director": "Tsai Ming-liang , Shôgo Furuya",
+    "image_path": "images/2014-03-12_les_chiens_errants.jpg"
+  },
+  {
+    "release_date": "2014-03-12",
+    "title": "Braddock America",
+    "director": "Jean-Loïc Portron , Gabriella Kessler",
+    "image_path": "images/2014-03-12_braddock_america.jpg"
+  },
+  {
+    "release_date": "2014-03-12",
+    "title": "The Act of Killing : l'acte de tuer",
+    "director": "Joshua Oppenheimer , Joshua REA Oppenheimer , Christine Cynn",
+    "image_path": "images/2014-03-12_the_act_of_killing_lacte_de_tuer.jpg"
+  },
+  {
+    "release_date": "2014-03-12",
+    "title": "Un papillon sur l'épaule",
+    "director": "Jacques Deray",
+    "image_path": "images/2014-03-12_un_papillon_sur_lepaule.jpg"
+  },
+  {
+    "release_date": "2014-03-12",
+    "title": "Veronica Mars",
+    "director": "Rob Thomas",
+    "image_path": "images/2014-03-12_veronica_mars.jpg"
+  },
+  {
+    "release_date": "2014-03-12",
+    "title": "Werther (Pathé Live)",
+    "director": "Richard Eyre",
+    "image_path": "images/2014-03-12_werther_pathe_live.jpg"
+  }
+]

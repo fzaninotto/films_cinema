@@ -1,0 +1,70 @@
+[
+  {
+    "release_date": "2000-12-06",
+    "title": "Jason et les argonautes",
+    "director": "Don Chaffey",
+    "image_path": "images/2000-12-06_jason_et_les_argonautes.jpg"
+  },
+  {
+    "release_date": "2000-12-06",
+    "title": "Le Roi danse",
+    "director": "Gérard Corbiau , Jacky Cukier",
+    "image_path": "images/2000-12-06_le_roi_danse.jpg"
+  },
+  {
+    "release_date": "2000-12-06",
+    "title": "L'homme qui venait d'ailleurs",
+    "director": "Nicolas Roeg , Nicholas Roeg , Malvin Wald",
+    "image_path": "images/2000-12-06_lhomme_qui_venait_dailleurs.jpg"
+  },
+  {
+    "release_date": "2000-12-06",
+    "title": "Nationale 7",
+    "director": "Jean-Pierre Sinapi"
+  },
+  {
+    "release_date": "2000-12-06",
+    "title": "Escrocs mais pas trop",
+    "director": "Woody Allen",
+    "image_path": "images/2000-12-06_escrocs_mais_pas_trop.jpg"
+  },
+  {
+    "release_date": "2000-12-06",
+    "title": "L'Alpagueur",
+    "director": "Philippe Labro",
+    "image_path": "images/2000-12-06_lalpagueur.jpg"
+  },
+  {
+    "release_date": "2000-12-06",
+    "title": "Mélo",
+    "director": "Alain Resnais",
+    "image_path": "images/2000-12-06_melo.jpg"
+  },
+  {
+    "release_date": "2000-12-06",
+    "title": "Bande à part",
+    "director": "Jean-Luc Godard , Gösta Bredefeldt",
+    "image_path": "images/2000-12-06_bande_a_part.jpg"
+  },
+  {
+    "release_date": "2000-12-06",
+    "title": "Appassionate",
+    "director": "Tonino De Bernardi"
+  },
+  {
+    "release_date": "2000-12-06",
+    "title": "Police Story",
+    "director": "Jackie Chan , Joan Collins , Chi-Hwa Chen"
+  },
+  {
+    "release_date": "2000-12-06",
+    "title": "Robinson & compagnie",
+    "director": "Jacques Colombat , Alexandra Wentworth",
+    "image_path": "images/2000-12-06_robinson_compagnie.jpg"
+  },
+  {
+    "release_date": "2000-12-06",
+    "title": "Yanks",
+    "director": "John Schlesinger"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "release_date": "2000-06-14",
+    "title": "Local Hero",
+    "director": "Morgan Freeman , Bill Forsyth",
+    "image_path": "images/2000-06-14_local_hero.jpg"
+  },
+  {
+    "release_date": "2000-06-14",
+    "title": "Liste d'attente",
+    "director": "Juan Carlos Tabio , Juan Tabío"
+  },
+  {
+    "release_date": "2000-06-14",
+    "title": "Terre champ de bataille",
+    "director": "Roger Christian",
+    "image_path": "images/2000-06-14_terre_champ_de_bataille.jpg"
+  },
+  {
+    "release_date": "2000-06-14",
+    "title": "Crying Freeman",
+    "director": "Christophe Gans"
+  },
+  {
+    "release_date": "2000-06-14",
+    "title": "Engrenages",
+    "director": "David Mamet",
+    "image_path": "images/2000-06-14_engrenages.jpg"
+  },
+  {
+    "release_date": "2000-06-14",
+    "title": "Gladiator (version longue)",
+    "director": "Ridley Scott"
+  },
+  {
+    "release_date": "2000-06-14",
+    "title": "Jet Set",
+    "director": "Fabien Onteniente",
+    "image_path": "images/2000-06-14_jet_set.jpg"
+  },
+  {
+    "release_date": "2000-06-14",
+    "title": "La Flamme sacrée",
+    "director": "George Cukor"
+  },
+  {
+    "release_date": "2000-06-14",
+    "title": "Petite Conversation familiale",
+    "director": "Hélène Lapiower , Maria Casares"
+  },
+  {
+    "release_date": "2000-06-14",
+    "title": "Promenons-nous dans les bois",
+    "director": "Lionel Delplanque",
+    "image_path": "images/2000-06-14_promenons-nous_dans_les_bois.jpg"
+  },
+  {
+    "release_date": "2000-06-14",
+    "title": "Violette Nozière",
+    "director": "Claude Chabrol , Vladimir Cosma"
+  }
+]

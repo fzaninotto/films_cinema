@@ -1,0 +1,48 @@
+[
+  {
+    "release_date": "2003-11-12",
+    "title": "Alien, le huitième passager",
+    "director": "Ridley Scott",
+    "image_path": "images/2003-11-12_alien_le_huitieme_passager.jpg"
+  },
+  {
+    "release_date": "2003-11-12",
+    "title": "Un tramway nommé désir",
+    "director": "Elia Kazan , Malek Kateb",
+    "image_path": "images/2003-11-12_un_tramway_nomme_desir.jpg"
+  },
+  {
+    "release_date": "2003-11-12",
+    "title": "Je vous aime",
+    "director": "Claude Berri",
+    "image_path": "images/2003-11-12_je_vous_aime.jpg"
+  },
+  {
+    "release_date": "2003-11-12",
+    "title": "Barbie et le lac des cygnes",
+    "director": "Owen Hurley"
+  },
+  {
+    "release_date": "2003-11-12",
+    "title": "Histoire de Marie et Julien",
+    "director": "Jacques Rivette",
+    "image_path": "images/2003-11-12_histoire_de_marie_et_julien.jpg"
+  },
+  {
+    "release_date": "2003-11-12",
+    "title": "Oasis",
+    "director": "Lee Chang-dong"
+  },
+  {
+    "release_date": "2003-11-12",
+    "title": "Pas de repos pour les braves",
+    "director": "Alain Guiraudie",
+    "image_path": "images/2003-11-12_pas_de_repos_pour_les_braves.jpg"
+  },
+  {
+    "release_date": "2003-11-12",
+    "title": "Souviens-toi de moi",
+    "director": "Gabriele Muccino",
+    "image_path": "images/2003-11-12_souviens-toi_de_moi.jpg"
+  }
+]

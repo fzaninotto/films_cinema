@@ -1,0 +1,54 @@
+[
+  {
+    "release_date": "2002-11-27",
+    "title": "Gladiator",
+    "director": "Ridley Scott",
+    "image_path": "images/2002-11-27_gladiator.jpg"
+  },
+  {
+    "release_date": "2002-11-27",
+    "title": "Ah ! Si j'étais riche",
+    "director": "Michel Munz , Gérard Bitton",
+    "image_path": "images/2002-11-27_ah_si_jetais_riche.jpg"
+  },
+  {
+    "release_date": "2002-11-27",
+    "title": "La Folie des hommes",
+    "director": "Renzo Martinelli",
+    "image_path": "images/2002-11-27_la_folie_des_hommes.jpg"
+  },
+  {
+    "release_date": "2002-11-27",
+    "title": "Ivre de femmes et de peinture",
+    "director": "Im Kwon-taek",
+    "image_path": "images/2002-11-27_ivre_de_femmes_et_de_peinture.jpg"
+  },
+  {
+    "release_date": "2002-11-27",
+    "title": "Aram",
+    "director": "Robert Kéchichian",
+    "image_path": "images/2002-11-27_aram.jpg"
+  },
+  {
+    "release_date": "2002-11-27",
+    "title": "La Dame sans camélias",
+    "director": "Michelangelo Antonioni"
+  },
+  {
+    "release_date": "2002-11-27",
+    "title": "La Légende de la forêt",
+    "director": "Osamu Tezuka , Jean-Paul Schwartz"
+  },
+  {
+    "release_date": "2002-11-27",
+    "title": "La mégère apprivoisée",
+    "director": "Franco Zeffirelli",
+    "image_path": "images/2002-11-27_la_megere_apprivoisee.jpg"
+  },
+  {
+    "release_date": "2002-11-27",
+    "title": "La Vie nouvelle",
+    "director": "Philippe Grandrieux",
+    "image_path": "images/2002-11-27_la_vie_nouvelle.jpg"
+  }
+]

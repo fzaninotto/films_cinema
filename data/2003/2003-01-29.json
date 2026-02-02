@@ -1,0 +1,24 @@
+[
+  {
+    "release_date": "2003-01-29",
+    "title": "Carambolages",
+    "director": "Marcel Bluwal",
+    "image_path": "images/2003-01-29_carambolages.jpg"
+  },
+  {
+    "release_date": "2003-01-29",
+    "title": "CQ",
+    "director": "Roman Coppola"
+  },
+  {
+    "release_date": "2003-01-29",
+    "title": "Le Coup de Sirocco",
+    "director": "Alexandre Arcady",
+    "image_path": "images/2003-01-29_le_coup_de_sirocco.jpg"
+  },
+  {
+    "release_date": "2003-01-29",
+    "title": "Tan de Repente",
+    "director": "Diego Lerman"
+  }
+]

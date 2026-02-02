@@ -1,0 +1,91 @@
+[
+  {
+    "release_date": "2024-08-14",
+    "title": "Jamais plus",
+    "director": "Justin Baldoni",
+    "image_path": "images/2024-08-14_jamais_plus.jpeg"
+  },
+  {
+    "release_date": "2024-08-14",
+    "title": "Le roman de Jim",
+    "director": "Jean-Marie Larrieu , Arnaud Larrieu",
+    "image_path": "images/2024-08-14_le_roman_de_jim.jpg"
+  },
+  {
+    "release_date": "2024-08-14",
+    "title": "Alien : Romulus",
+    "director": "Fede Alvarez",
+    "image_path": "images/2024-08-14_alien_romulus.jpg"
+  },
+  {
+    "release_date": "2024-08-14",
+    "title": "Birmanie : le rappeur qui défia la junte",
+    "director": "Thomas Dandois"
+  },
+  {
+    "release_date": "2024-08-14",
+    "title": "City of Darkness",
+    "director": "Soi Cheang",
+    "image_path": "images/2024-08-14_city_of_darkness.jpg"
+  },
+  {
+    "release_date": "2024-08-14",
+    "title": "Demonte Colony 2",
+    "director": "R Ajay Gnanamuthu"
+  },
+  {
+    "release_date": "2024-08-14",
+    "title": "Double iSmart",
+    "director": "Puri Jagannadh"
+  },
+  {
+    "release_date": "2024-08-14",
+    "title": "Golo et Ritchie",
+    "director": "Martin Fougerol",
+    "image_path": "images/2024-08-14_golo_et_ritchie.jpg"
+  },
+  {
+    "release_date": "2024-08-14",
+    "title": "Khel Khel Mein",
+    "director": "Mudassar Aziz"
+  },
+  {
+    "release_date": "2024-08-14",
+    "title": "La chute de l'Empire romain (version restaurée)",
+    "director": "Anthony Mann",
+    "image_path": "images/2024-08-14_la_chute_de_lempire_romain_version_restauree.jpg"
+  },
+  {
+    "release_date": "2024-08-14",
+    "title": "La Légende de l'aigle chasseur de héros (version restaurée)",
+    "director": "Jeffrey Lau",
+    "image_path": "images/2024-08-14_la_legende_de_laigle_chasseur_de_heros_version_restauree.jpg"
+  },
+  {
+    "release_date": "2024-08-14",
+    "title": "La Mélancolie",
+    "director": "Takuya Kato",
+    "image_path": "images/2024-08-14_la_melancolie.jpg"
+  },
+  {
+    "release_date": "2024-08-14",
+    "title": "Mr. Bachchan",
+    "director": "Harish Shankar"
+  },
+  {
+    "release_date": "2024-08-14",
+    "title": "Rally Road Racers",
+    "director": "Ross Venokur",
+    "image_path": "images/2024-08-14_rally_road_racers.jpg"
+  },
+  {
+    "release_date": "2024-08-14",
+    "title": "Stree 2",
+    "director": "Amar Kaushik"
+  },
+  {
+    "release_date": "2024-08-14",
+    "title": "Thangalaan",
+    "director": "Pa. Ranjith"
+  }
+]

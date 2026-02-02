@@ -1,0 +1,55 @@
+[
+  {
+    "release_date": "2005-06-22",
+    "title": "L'Année du dragon",
+    "director": "Michael Cimino , Sergej Trifunovic",
+    "image_path": "images/2005-06-22_lannee_du_dragon.jpg"
+  },
+  {
+    "release_date": "2005-06-22",
+    "title": "Madagascar",
+    "director": "Eric Darnell , Tom McGrath , Phoebe Foster , Vincent Mateu-Ferrer",
+    "image_path": "images/2005-06-22_madagascar.jpg"
+  },
+  {
+    "release_date": "2005-06-22",
+    "title": "Sa mère ou moi !",
+    "director": "Robert Luketic",
+    "image_path": "images/2005-06-22_sa_mere_ou_moi_.jpg"
+  },
+  {
+    "release_date": "2005-06-22",
+    "title": "Amityville",
+    "director": "Andrew Douglas",
+    "image_path": "images/2005-06-22_amityville.jpg"
+  },
+  {
+    "release_date": "2005-06-22",
+    "title": "Douches froides",
+    "director": "Anthony Cordier , Antony Cordier",
+    "image_path": "images/2005-06-22_douches_froides.jpg"
+  },
+  {
+    "release_date": "2005-06-22",
+    "title": "My Summer of Love",
+    "director": "Pawel Pawlikovsky , Pawel Pawlikowski , William E Barrett",
+    "image_path": "images/2005-06-22_my_summer_of_love.jpg"
+  },
+  {
+    "release_date": "2005-06-22",
+    "title": "Bye Bye Brasil",
+    "director": "Carlos Diegues"
+  },
+  {
+    "release_date": "2005-06-22",
+    "title": "Le Démon de midi",
+    "director": "Marie-Pascale Osterrieth",
+    "image_path": "images/2005-06-22_le_demon_de_midi.jpg"
+  },
+  {
+    "release_date": "2005-06-22",
+    "title": "Musica Cubana-la nouvelle génération",
+    "director": "German Kral",
+    "image_path": "images/2005-06-22_musica_cubana-la_nouvelle_generation.jpg"
+  }
+]

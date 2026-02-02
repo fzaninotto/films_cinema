@@ -1,0 +1,85 @@
+[
+  {
+    "release_date": "2011-10-12",
+    "title": "The Artist",
+    "director": "Michel Hazanavicius , Tino Rossi",
+    "image_path": "images/2011-10-12_the_artist.jpg"
+  },
+  {
+    "release_date": "2011-10-12",
+    "title": "Un Monstre à Paris",
+    "director": "Eric Bergeron",
+    "image_path": "images/2011-10-12_un_monstre_a_paris.jpg"
+  },
+  {
+    "release_date": "2011-10-12",
+    "title": "Beur sur la ville",
+    "director": "Djamel Bensalah",
+    "image_path": "images/2011-10-12_beur_sur_la_ville.jpg"
+  },
+  {
+    "release_date": "2011-10-12",
+    "title": "Les Trois Mousquetaires",
+    "director": "Paul W.S. Anderson",
+    "image_path": "images/2011-10-12_les_trois_mousquetaires.jpg"
+  },
+  {
+    "release_date": "2011-10-12",
+    "title": "Le Vieil Homme et la mer",
+    "director": "John Sturges , Alexandre Petrov , Erik Canuel , Aleksandr Petrov"
+  },
+  {
+    "release_date": "2011-10-12",
+    "title": "Après le sud",
+    "director": "Jean-Jacques Jauffret",
+    "image_path": "images/2011-10-12_apres_le_sud.jpg"
+  },
+  {
+    "release_date": "2011-10-12",
+    "title": "Another Earth",
+    "director": "Mike Cahill",
+    "image_path": "images/2011-10-12_another_earth.jpg"
+  },
+  {
+    "release_date": "2011-10-12",
+    "title": "Oxygène",
+    "director": "Hans Van Nuffel",
+    "image_path": "images/2011-10-12_oxygene.jpg"
+  },
+  {
+    "release_date": "2011-10-12",
+    "title": "Born to Be Wild, nés pour être libres",
+    "director": "David Lickley , Drew Fellman",
+    "image_path": "images/2011-10-12_born_to_be_wild_nes_pour_etre_libres.jpg"
+  },
+  {
+    "release_date": "2011-10-12",
+    "title": "Beauty",
+    "director": "Mike Cahill , Oliver Hermanus",
+    "image_path": "images/2011-10-12_beauty.jpg"
+  },
+  {
+    "release_date": "2011-10-12",
+    "title": "Cloud Rock, mon père",
+    "director": "Kaleo La Belle",
+    "image_path": "images/2011-10-12_cloud_rock_mon_pere.jpg"
+  },
+  {
+    "release_date": "2011-10-12",
+    "title": "El Bulli",
+    "director": "Gereon Wetzel",
+    "image_path": "images/2011-10-12_el_bulli.jpg"
+  },
+  {
+    "release_date": "2011-10-12",
+    "title": "L'Apparition de la Joconde",
+    "director": "François Lunel",
+    "image_path": "images/2011-10-12_lapparition_de_la_joconde.jpg"
+  },
+  {
+    "release_date": "2011-10-12",
+    "title": "Le Dernier Week-end",
+    "director": "Ali Borgini",
+    "image_path": "images/2011-10-12_le_dernier_week-end.jpg"
+  }
+]

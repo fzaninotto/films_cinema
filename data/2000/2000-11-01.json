@@ -1,0 +1,62 @@
+[
+  {
+    "release_date": "2000-11-01",
+    "title": "My Fair Lady",
+    "director": "Treat Williams , George Cukor",
+    "image_path": "images/2000-11-01_my_fair_lady.jpg"
+  },
+  {
+    "release_date": "2000-11-01",
+    "title": "Monty Python, le sens de la vie",
+    "director": "Terry Gilliam , Terry Jones",
+    "image_path": "images/2000-11-01_monty_python_le_sens_de_la_vie.jpg"
+  },
+  {
+    "release_date": "2000-11-01",
+    "title": "Space Jam",
+    "director": "Joe Pytka",
+    "image_path": "images/2000-11-01_space_jam.jpeg"
+  },
+  {
+    "release_date": "2000-11-01",
+    "title": "Baby Boom",
+    "director": "Charles Shyer , Loubov Orlova",
+    "image_path": "images/2000-11-01_baby_boom.jpg"
+  },
+  {
+    "release_date": "2000-11-01",
+    "title": "The Yards",
+    "director": "James Gray",
+    "image_path": "images/2000-11-01_the_yards.jpg"
+  },
+  {
+    "release_date": "2000-11-01",
+    "title": "Luna papa",
+    "director": "Bakhtiar Khudojnazarov , Bakhtyar Khudojnazarov"
+  },
+  {
+    "release_date": "2000-11-01",
+    "title": "Du poil sous les roses",
+    "director": "Agnès Obadia , Jean-Julien Chervier , Jean-Julien Chevrier"
+  },
+  {
+    "release_date": "2000-11-01",
+    "title": "La Nuit des généraux",
+    "director": "Anatole Litvak",
+    "image_path": "images/2000-11-01_la_nuit_des_generaux.jpg"
+  },
+  {
+    "release_date": "2000-11-01",
+    "title": "Le Secret"
+  },
+  {
+    "release_date": "2000-11-01",
+    "title": "Silverado",
+    "director": "Lawrence Kasdan"
+  },
+  {
+    "release_date": "2000-11-01",
+    "title": "Tueurs de flics",
+    "director": "Harold Becker"
+  }
+]

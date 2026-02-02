@@ -1,0 +1,71 @@
+[
+  {
+    "release_date": "2002-12-25",
+    "title": "The Rocky Horror Picture Show",
+    "director": "Jim Sharman , Claudio Amendola , Kenny Ortega",
+    "image_path": "images/2002-12-25_the_rocky_horror_picture_show.jpg"
+  },
+  {
+    "release_date": "2002-12-25",
+    "title": "Le Roi Lion",
+    "director": "Rob Minkoff , Roger Allers",
+    "image_path": "images/2002-12-25_le_roi_lion.jpg"
+  },
+  {
+    "release_date": "2002-12-25",
+    "title": "Cabaret",
+    "director": "Bob Fosse",
+    "image_path": "images/2002-12-25_cabaret.jpg"
+  },
+  {
+    "release_date": "2002-12-25",
+    "title": "Wallace & Gromit : Rasé de près",
+    "director": "Nick Park",
+    "image_path": "images/2002-12-25_wallace_gromit_rase_de_pres.jpg"
+  },
+  {
+    "release_date": "2002-12-25",
+    "title": "Je chanterai pour toi",
+    "director": "Jacques Sarasin"
+  },
+  {
+    "release_date": "2002-12-25",
+    "title": "Le Château des singes",
+    "director": "Jean-François Laguionie , Jacques Sernas",
+    "image_path": "images/2002-12-25_le_chateau_des_singes.jpg"
+  },
+  {
+    "release_date": "2002-12-25",
+    "title": "L'École des facteurs",
+    "director": "Jacques Tati"
+  },
+  {
+    "release_date": "2002-12-25",
+    "title": "Les Larmes du tigre noir",
+    "director": "Wisit Sasanatieng",
+    "image_path": "images/2002-12-25_les_larmes_du_tigre_noir.jpg"
+  },
+  {
+    "release_date": "2002-12-25",
+    "title": "Nous irons tous au paradis",
+    "director": "Yves Robert",
+    "image_path": "images/2002-12-25_nous_irons_tous_au_paradis.jpg"
+  },
+  {
+    "release_date": "2002-12-25",
+    "title": "Novo",
+    "director": "Jean-Pierre Limosin",
+    "image_path": "images/2002-12-25_novo.jpg"
+  },
+  {
+    "release_date": "2002-12-25",
+    "title": "Tout ça... pour ça !",
+    "director": "Claude Lelouch",
+    "image_path": "images/2002-12-25_tout_ca_pour_ca_.jpg"
+  },
+  {
+    "release_date": "2002-12-25",
+    "title": "Un petit cas de conscience",
+    "director": "Marie-Claude Treilhou"
+  }
+]

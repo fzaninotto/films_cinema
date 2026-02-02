@@ -1,0 +1,20 @@
+[
+  {
+    "release_date": "2000-08-09",
+    "title": "En pleine tempête",
+    "director": "Wolfgang Petersen",
+    "image_path": "images/2000-08-09_en_pleine_tempete.jpg"
+  },
+  {
+    "release_date": "2000-08-09",
+    "title": "Shanghaï kid",
+    "director": "Tom Dey",
+    "image_path": "images/2000-08-09_shanghai_kid.jpg"
+  },
+  {
+    "release_date": "2000-08-09",
+    "title": "Matilda",
+    "director": "Danny DeVito , Vittorio Taviani",
+    "image_path": "images/2000-08-09_matilda.jpeg"
+  }
+]

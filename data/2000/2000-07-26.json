@@ -1,0 +1,54 @@
+[
+  {
+    "release_date": "2000-07-26",
+    "title": "Les Choses de la Vie",
+    "director": "Claude Sautet",
+    "image_path": "images/2000-07-26_les_choses_de_la_vie.jpg"
+  },
+  {
+    "release_date": "2000-07-26",
+    "title": "M:I-2 - Mission Impossible 2",
+    "director": "John Woo",
+    "image_path": "images/2000-07-26_mi-2_-_mission_impossible_2.jpg"
+  },
+  {
+    "release_date": "2000-07-26",
+    "title": "Stand-by",
+    "director": "Roch Stephanik",
+    "image_path": "images/2000-07-26_stand-by.jpg"
+  },
+  {
+    "release_date": "2000-07-26",
+    "title": "Deuxième Quinzaine de juillet",
+    "director": "Christophe Reichert",
+    "image_path": "images/2000-07-26_deuxieme_quinzaine_de_juillet.jpg"
+  },
+  {
+    "release_date": "2000-07-26",
+    "title": "El mar",
+    "director": "Agusti Villaronga"
+  },
+  {
+    "release_date": "2000-07-26",
+    "title": "La Charge de la 8e brigade",
+    "director": "Raoul Walsh",
+    "image_path": "images/2000-07-26_la_charge_de_la_8e_brigade.jpg"
+  },
+  {
+    "release_date": "2000-07-26",
+    "title": "Le soleil brille pour tout le monde",
+    "director": "John Ford",
+    "image_path": "images/2000-07-26_le_soleil_brille_pour_tout_le_monde.jpg"
+  },
+  {
+    "release_date": "2000-07-26",
+    "title": "Oscar Niemeyer, un architecte engagé dans le siècle",
+    "director": "Marc-Henri Wajnberg"
+  },
+  {
+    "release_date": "2000-07-26",
+    "title": "Star Trek IV : retour sur Terre",
+    "director": "Leonard Nimoy",
+    "image_path": "images/2000-07-26_star_trek_iv_retour_sur_terre.jpg"
+  }
+]

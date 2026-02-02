@@ -1,0 +1,24 @@
+[
+  {
+    "release_date": "2021-03-10",
+    "title": "Amis pour la vie",
+    "director": "Dagmar Seume"
+  },
+  {
+    "release_date": "2021-03-10",
+    "title": "Mords-les !",
+    "director": "Gustave Kervern , Benoît Delépine , Brigitte Fontaine",
+    "image_path": "images/2021-03-10_mords-les_.jpg"
+  },
+  {
+    "release_date": "2021-03-10",
+    "title": "Regard noir",
+    "director": "Isabelle Simeoni"
+  },
+  {
+    "release_date": "2021-03-10",
+    "title": "Scooby !",
+    "director": "Tony Cervone",
+    "image_path": "images/2021-03-10_scooby_.jpeg"
+  }
+]

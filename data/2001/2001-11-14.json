@@ -1,0 +1,51 @@
+[
+  {
+    "release_date": "2001-11-14",
+    "title": "Y tu mamá también (Et même ta mère !)",
+    "director": "Alfonso Cuarón",
+    "image_path": "images/2001-11-14_y_tu_mama_tambien_et_meme_ta_mere_.jpg"
+  },
+  {
+    "release_date": "2001-11-14",
+    "title": "Vidocq",
+    "director": "Pitof",
+    "image_path": "images/2001-11-14_vidocq.jpg"
+  },
+  {
+    "release_date": "2001-11-14",
+    "title": "Tosca",
+    "director": "Benoît Jacquot"
+  },
+  {
+    "release_date": "2001-11-14",
+    "title": "Ma femme est une actrice",
+    "director": "Yvan Attal",
+    "image_path": "images/2001-11-14_ma_femme_est_une_actrice.jpg"
+  },
+  {
+    "release_date": "2001-11-14",
+    "title": "Cherry 2000",
+    "director": "Steve De Jarnatt",
+    "image_path": "images/2001-11-14_cherry_2000.jpg"
+  },
+  {
+    "release_date": "2001-11-14",
+    "title": "Jack le magnifique",
+    "director": "Chiara Mastroianni , Peter Bogdanovich",
+    "image_path": "images/2001-11-14_jack_le_magnifique.jpg"
+  },
+  {
+    "release_date": "2001-11-14",
+    "title": "Les Siestes grenadine",
+    "director": "Mahmoud Ben Mahmoud"
+  },
+  {
+    "release_date": "2001-11-14",
+    "title": "Made in the USA",
+    "director": "Solveig Anspach , Cindy Babski"
+  },
+  {
+    "release_date": "2001-11-14",
+    "title": "Tosca"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "release_date": "2005-09-07",
+    "title": "Ma Vie en l'air",
+    "director": "Rémi Bezançon",
+    "image_path": "images/2005-09-07_ma_vie_en_lair.jpg"
+  },
+  {
+    "release_date": "2005-09-07",
+    "title": "Virgil",
+    "director": "Mabrouk el Mechri",
+    "image_path": "images/2005-09-07_virgil.jpg"
+  },
+  {
+    "release_date": "2005-09-07",
+    "title": "Paradise Now",
+    "director": "Hany Abu Assad",
+    "image_path": "images/2005-09-07_paradise_now.jpg"
+  },
+  {
+    "release_date": "2005-09-07",
+    "title": "Un monde moderne",
+    "director": "Sabrina Malek",
+    "image_path": "images/2005-09-07_un_monde_moderne.jpg"
+  },
+  {
+    "release_date": "2005-09-07",
+    "title": "La lame diabolique",
+    "director": "Kenji Misumi",
+    "image_path": "images/2005-09-07_la_lame_diabolique.jpg"
+  },
+  {
+    "release_date": "2005-09-07",
+    "title": "Tuer !",
+    "director": "Kenji Misumi"
+  }
+]

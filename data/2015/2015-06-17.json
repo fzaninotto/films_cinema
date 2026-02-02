@@ -1,0 +1,90 @@
+[
+  {
+    "release_date": "2015-06-17",
+    "title": "La Dame de Shanghai",
+    "director": "Orson Welles , Eddie Coke",
+    "image_path": "images/2015-06-17_la_dame_de_shanghai.jpg"
+  },
+  {
+    "release_date": "2015-06-17",
+    "title": "La Petite Casserole d'Anatole",
+    "director": "Eric Montchaud"
+  },
+  {
+    "release_date": "2015-06-17",
+    "title": "Vice Versa",
+    "director": "Pete Docter , Ronaldo del Carmen , Ronnie Del Carmen",
+    "image_path": "images/2015-06-17_vice_versa.jpg"
+  },
+  {
+    "release_date": "2015-06-17",
+    "title": "20 ans d'écart",
+    "director": "David Moreau",
+    "image_path": "images/2015-06-17_20_ans_decart.jpg"
+  },
+  {
+    "release_date": "2015-06-17",
+    "title": "Mustang",
+    "director": "Deniz Gamze Ergüven",
+    "image_path": "images/2015-06-17_mustang.jpg"
+  },
+  {
+    "release_date": "2015-06-17",
+    "title": "Spy",
+    "director": "Paul Feig",
+    "image_path": "images/2015-06-17_spy.jpg"
+  },
+  {
+    "release_date": "2015-06-17",
+    "title": "Valley of Love",
+    "director": "Guillaume Nicloux",
+    "image_path": "images/2015-06-17_valley_of_love.jpg"
+  },
+  {
+    "release_date": "2015-06-17",
+    "title": "L'Échappée belle",
+    "director": "Emilie Cherpitel"
+  },
+  {
+    "release_date": "2015-06-17",
+    "title": "Héritage",
+    "director": "Hiam Abbass",
+    "image_path": "images/2015-06-17_heritage.jpg"
+  },
+  {
+    "release_date": "2015-06-17",
+    "title": "Cavanna",
+    "director": "Denis Robert , Nina Robert",
+    "image_path": "images/2015-06-17_cavanna.jpg"
+  },
+  {
+    "release_date": "2015-06-17",
+    "title": "La Résistance de l'air",
+    "director": "Fred Grivois",
+    "image_path": "images/2015-06-17_la_resistance_de_lair.jpg"
+  },
+  {
+    "release_date": "2015-06-17",
+    "title": "Des Pierres en ce Jardin",
+    "director": "Pascal Bonnelle",
+    "image_path": "images/2015-06-17_des_pierres_en_ce_jardin.jpg"
+  },
+  {
+    "release_date": "2015-06-17",
+    "title": "La Ligne de Couleur",
+    "director": "Laurence Petit-Jouvet",
+    "image_path": "images/2015-06-17_la_ligne_de_couleur.jpg"
+  },
+  {
+    "release_date": "2015-06-17",
+    "title": "Lava",
+    "director": "James Ford Murphy",
+    "image_path": "images/2015-06-17_lava.jpg"
+  },
+  {
+    "release_date": "2015-06-17",
+    "title": "L'Eveil D'Edoardo",
+    "director": "Duccio Chiarini",
+    "image_path": "images/2015-06-17_leveil_dedoardo.jpg"
+  }
+]

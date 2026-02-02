@@ -1,0 +1,76 @@
+[
+  {
+    "release_date": "2005-04-27",
+    "title": "Star Wars Episode II : l'attaque des clones",
+    "director": "George Lucas",
+    "image_path": "images/2005-04-27_star_wars_episode_ii_lattaque_des_clones.jpg"
+  },
+  {
+    "release_date": "2005-04-27",
+    "title": "Amen",
+    "director": "Costa-Gavras",
+    "image_path": "images/2005-04-27_amen.jpg"
+  },
+  {
+    "release_date": "2005-04-27",
+    "title": "L'Enfer du dimanche",
+    "director": "Oliver Stone , Françoise Verley",
+    "image_path": "images/2005-04-27_lenfer_du_dimanche.jpg"
+  },
+  {
+    "release_date": "2005-04-27",
+    "title": "XXX 2 : the next level",
+    "director": "Lee Tamahori",
+    "image_path": "images/2005-04-27_xxx_2_the_next_level.jpg"
+  },
+  {
+    "release_date": "2005-04-27",
+    "title": "Les Héros de Telemark",
+    "director": "Anthony Mann",
+    "image_path": "images/2005-04-27_les_heros_de_telemark.jpg"
+  },
+  {
+    "release_date": "2005-04-27",
+    "title": "Un fil à la patte",
+    "director": "Alexandra Vandernoot , Michel Deville",
+    "image_path": "images/2005-04-27_un_fil_a_la_patte.jpg"
+  },
+  {
+    "release_date": "2005-04-27",
+    "title": "J'adore Huckabees",
+    "director": "David O. Russell",
+    "image_path": "images/2005-04-27_jadore_huckabees.jpg"
+  },
+  {
+    "release_date": "2005-04-27",
+    "title": "Das Boot ist voll",
+    "director": "Markus Imhoof"
+  },
+  {
+    "release_date": "2005-04-27",
+    "title": "L'Oeuvre du temps : Andy Goldsworthy",
+    "director": "Thomas Riedelsheimer , Lluis Serrat , Peter Hanly"
+  },
+  {
+    "release_date": "2005-04-27",
+    "title": "Sholay",
+    "director": "Ramesh Sippy"
+  },
+  {
+    "release_date": "2005-04-27",
+    "title": "The Take",
+    "director": "Avi Lewis , Naomi Klein",
+    "image_path": "images/2005-04-27_the_take.jpg"
+  },
+  {
+    "release_date": "2005-04-27",
+    "title": "The Weather Underground",
+    "director": "Sam Green , Bill Siegel"
+  },
+  {
+    "release_date": "2005-04-27",
+    "title": "Trois couples en quête d'orages",
+    "director": "Jacques Otmezguine",
+    "image_path": "images/2005-04-27_trois_couples_en_quete_dorages.jpg"
+  }
+]

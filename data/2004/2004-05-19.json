@@ -1,0 +1,42 @@
+[
+  {
+    "release_date": "2004-05-19",
+    "title": "Fast & Furious",
+    "director": "Rob Cohen",
+    "image_path": "images/2004-05-19_fast_furious.jpg"
+  },
+  {
+    "release_date": "2004-05-19",
+    "title": "Soupçons",
+    "director": "Alfred Hitchcock",
+    "image_path": "images/2004-05-19_soupcons.jpg"
+  },
+  {
+    "release_date": "2004-05-19",
+    "title": "People - Jet-set 2",
+    "director": "Fabien Onteniente",
+    "image_path": "images/2004-05-19_people_-_jet-set_2.jpg"
+  },
+  {
+    "release_date": "2004-05-19",
+    "title": "Le Jaguar",
+    "director": "Francis Veber",
+    "image_path": "images/2004-05-19_le_jaguar.jpg"
+  },
+  {
+    "release_date": "2004-05-19",
+    "title": "La femme est l'avenir de l'homme",
+    "director": "Hong Sang-Soo",
+    "image_path": "images/2004-05-19_la_femme_est_lavenir_de_lhomme.jpg"
+  },
+  {
+    "release_date": "2004-05-19",
+    "title": "Notre musique",
+    "director": "Jean-Luc Godard , Gösta Bredefeldt"
+  },
+  {
+    "release_date": "2004-05-19",
+    "title": "Une visite au Louvre",
+    "director": "Danny Elfman , Jean-Marie Straub , Danièle Huillet"
+  }
+]

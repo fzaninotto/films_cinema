@@ -1,0 +1,147 @@
+[
+  {
+    "release_date": "2017-04-05",
+    "title": "Les Schtroumpfs et le village perdu",
+    "director": "Kelly Asbury",
+    "image_path": "images/2017-04-05_les_schtroumpfs_et_le_village_perdu.jpg"
+  },
+  {
+    "release_date": "2017-04-05",
+    "title": "A bras ouverts",
+    "director": "Philippe de Chauveron",
+    "image_path": "images/2017-04-05_a_bras_ouverts.jpg"
+  },
+  {
+    "release_date": "2017-04-05",
+    "title": "Grave",
+    "director": "Julia Ducournau",
+    "image_path": "images/2017-04-05_grave.jpg"
+  },
+  {
+    "release_date": "2017-04-05",
+    "title": "Les Mauvaises herbes",
+    "director": "Louis Bélanger",
+    "image_path": "images/2017-04-05_les_mauvaises_herbes.jpg"
+  },
+  {
+    "release_date": "2017-04-05",
+    "title": "Power Rangers",
+    "director": "Dean Israelite",
+    "image_path": "images/2017-04-05_power_rangers.jpg"
+  },
+  {
+    "release_date": "2017-04-05",
+    "title": "United States of Love",
+    "director": "Tomasz Wasilewski",
+    "image_path": "images/2017-04-05_united_states_of_love.jpg"
+  },
+  {
+    "release_date": "2017-04-05",
+    "title": "Massilia Sound System - Le Film",
+    "director": "Christian Philibert , Jean-Noel Clair",
+    "image_path": "images/2017-04-05_massilia_sound_system_-_le_film.jpg"
+  },
+  {
+    "release_date": "2017-04-05",
+    "title": "La Merveilleuse Histoire de Mandy",
+    "director": "Alexander Mackendrick",
+    "image_path": "images/2017-04-05_la_merveilleuse_histoire_de_mandy.jpg"
+  },
+  {
+    "release_date": "2017-04-05",
+    "title": "Corporate",
+    "director": "Madhur Bhandarkar",
+    "image_path": "images/2017-04-05_corporate.jpg"
+  },
+  {
+    "release_date": "2017-04-05",
+    "title": "Gazza Ladra (All' Opera)",
+    "director": "Gabriele Salvatores"
+  },
+  {
+    "release_date": "2017-04-05",
+    "title": "Heis",
+    "director": "Anaïs Volpé",
+    "image_path": "images/2017-04-05_heis.jpg"
+  },
+  {
+    "release_date": "2017-04-05",
+    "title": "Kaatru Veliyidai - l'étendue du vent",
+    "director": "Mani Ratnam",
+    "image_path": "images/2017-04-05_kaatru_veliyidai_-_letendue_du_vent.jpg"
+  },
+  {
+    "release_date": "2017-04-05",
+    "title": "Kalebegiak : San Sebastián, une ville, douze regards",
+    "director": "Gracia Querejeta , Julio Medem , Daniel Calparsoro , Borja Cobeaga , Isabel Herguera , Imanol Uribe"
+  },
+  {
+    "release_date": "2017-04-05",
+    "title": "La Consolation",
+    "director": "Cyril Mennegun",
+    "image_path": "images/2017-04-05_la_consolation.jpg"
+  },
+  {
+    "release_date": "2017-04-05",
+    "title": "La Vengeresse",
+    "director": "Bill Plympton , Jim Lujan",
+    "image_path": "images/2017-04-05_la_vengeresse.jpg"
+  },
+  {
+    "release_date": "2017-04-05",
+    "title": "Le Serpent aux mille coupures",
+    "director": "Eric Valette",
+    "image_path": "images/2017-04-05_le_serpent_aux_mille_coupures.jpg"
+  },
+  {
+    "release_date": "2017-04-05",
+    "title": "Les P'tits explorateurs",
+    "director": "Sylwia Szkiladz , Stéphane Piera , Valeska Stock , Aline Quertain , Loïc Bruyère , Sylwia Skiladz",
+    "image_path": "images/2017-04-05_les_ptits_explorateurs.jpg"
+  },
+  {
+    "release_date": "2017-04-05",
+    "title": "Les Sauteurs",
+    "director": "Abou Bakar Sidibé , Estephan Wagner , Moritz Siebert , Abou Sidibé",
+    "image_path": "images/2017-04-05_les_sauteurs.jpg"
+  },
+  {
+    "release_date": "2017-04-05",
+    "title": "L'Étroit Mousquetaire",
+    "director": "Max Linder",
+    "image_path": "images/2017-04-05_letroit_mousquetaire.jpg"
+  },
+  {
+    "release_date": "2017-04-05",
+    "title": "Low Notes",
+    "director": "Laurier Fourniau"
+  },
+  {
+    "release_date": "2017-04-05",
+    "title": "Mesdames et Messieurs, bonsoir",
+    "director": "Luigi Comencini , Mario Monicelli , Jonathan Frakes , Nanni Loy , Luigi Magni",
+    "image_path": "images/2017-04-05_mesdames_et_messieurs_bonsoir.jpg"
+  },
+  {
+    "release_date": "2017-04-05",
+    "title": "Parfaites",
+    "director": "Jérémie Battaglia",
+    "image_path": "images/2017-04-05_parfaites.jpg"
+  },
+  {
+    "release_date": "2017-04-05",
+    "title": "Sept Ans de malheur",
+    "director": "Max Linder",
+    "image_path": "images/2017-04-05_sept_ans_de_malheur.jpg"
+  },
+  {
+    "release_date": "2017-04-05",
+    "title": "Un Héros de notre temps"
+  },
+  {
+    "release_date": "2017-04-05",
+    "title": "Vendredi 13 : meurtres en trois dimensions",
+    "director": "Steve Miner",
+    "image_path": "images/2017-04-05_vendredi_13_meurtres_en_trois_dimensions.jpg"
+  }
+]

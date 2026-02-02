@@ -1,0 +1,85 @@
+[
+  {
+    "release_date": "2009-02-04",
+    "title": "L'Étrange Histoire de Benjamin Button",
+    "director": "David Fincher",
+    "image_path": "images/2009-02-04_letrange_histoire_de_benjamin_button.jpg"
+  },
+  {
+    "release_date": "2009-02-04",
+    "title": "Fauteuils d'orchestre",
+    "director": "Danièle Thompson",
+    "image_path": "images/2009-02-04_fauteuils_dorchestre.jpg"
+  },
+  {
+    "release_date": "2009-02-04",
+    "title": "Volt, star malgré lui",
+    "director": "Yoshino Kimura , Byron Howard , Chris Williams , Adam Tandy",
+    "image_path": "images/2009-02-04_volt_star_malgre_lui.jpg"
+  },
+  {
+    "release_date": "2009-02-04",
+    "title": "Stella",
+    "director": "Sylvie Verheyde",
+    "image_path": "images/2009-02-04_stella.jpg"
+  },
+  {
+    "release_date": "2009-02-04",
+    "title": "Les Prédateurs",
+    "director": "Tony Scott , James Craig",
+    "image_path": "images/2009-02-04_les_predateurs.jpg"
+  },
+  {
+    "release_date": "2009-02-04",
+    "title": "Push",
+    "director": "Paul McGuigan , Alessandro Sermoneta",
+    "image_path": "images/2009-02-04_push.jpg"
+  },
+  {
+    "release_date": "2009-02-04",
+    "title": "Les Grands Frères",
+    "director": "David Wain",
+    "image_path": "images/2009-02-04_les_grands_freres.jpg"
+  },
+  {
+    "release_date": "2009-02-04",
+    "title": "Trahison",
+    "director": "Jefrey Nachmanoff , Jeffrey Nachmanoff",
+    "image_path": "images/2009-02-04_trahison.jpg"
+  },
+  {
+    "release_date": "2009-02-04",
+    "title": "Puisque nous sommes nés",
+    "director": "Andrea Santana , Jean-Pierre Duret",
+    "image_path": "images/2009-02-04_puisque_nous_sommes_nes.jpg"
+  },
+  {
+    "release_date": "2009-02-04",
+    "title": "L'autre",
+    "director": "Anne Pitoniak , Patrick-Mario Bernard , Pierre Trividic , Patrick Mario Bernard",
+    "image_path": "images/2009-02-04_lautre.jpg"
+  },
+  {
+    "release_date": "2009-02-04",
+    "title": "Elève libre",
+    "director": "Joachim Lafosse",
+    "image_path": "images/2009-02-04_eleve_libre.jpg"
+  },
+  {
+    "release_date": "2009-02-04",
+    "title": "Of Time and the City",
+    "director": "George Maguire , Terence Davies , Claudine Coster",
+    "image_path": "images/2009-02-04_of_time_and_the_city.jpg"
+  },
+  {
+    "release_date": "2009-02-04",
+    "title": "Un aller simple pour Maoré",
+    "director": "Agnès Fouilleux",
+    "image_path": "images/2009-02-04_un_aller_simple_pour_maore.jpg"
+  },
+  {
+    "release_date": "2009-02-04",
+    "title": "Yella",
+    "director": "Christian Petzold"
+  }
+]

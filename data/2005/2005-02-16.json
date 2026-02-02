@@ -1,0 +1,36 @@
+[
+  {
+    "release_date": "2005-02-16",
+    "title": "Mon beau-père, mes parents et moi",
+    "director": "Jay Roach",
+    "image_path": "images/2005-02-16_mon_beau-pere_mes_parents_et_moi.jpg"
+  },
+  {
+    "release_date": "2005-02-16",
+    "title": "Le Promeneur du Champ de Mars",
+    "director": "Robert Guédiguian",
+    "image_path": "images/2005-02-16_le_promeneur_du_champ_de_mars.jpg"
+  },
+  {
+    "release_date": "2005-02-16",
+    "title": "Chok dee",
+    "director": "Xavier Durringer",
+    "image_path": "images/2005-02-16_chok_dee.jpg"
+  },
+  {
+    "release_date": "2005-02-16",
+    "title": "Les Conséquences de l'amour",
+    "director": "Paolo Sorrentino",
+    "image_path": "images/2005-02-16_les_consequences_de_lamour.jpg"
+  },
+  {
+    "release_date": "2005-02-16",
+    "title": "Asphalte",
+    "director": "Joe May"
+  },
+  {
+    "release_date": "2005-02-16",
+    "title": "Incidents de parcours",
+    "director": "George A Romero"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "release_date": "2001-09-26",
+    "title": "Stuart Little",
+    "director": "Rob Minkoff",
+    "image_path": "images/2001-09-26_stuart_little.jpg"
+  },
+  {
+    "release_date": "2001-09-26",
+    "title": "Beautés empoisonnées",
+    "director": "David Mirkin",
+    "image_path": "images/2001-09-26_beautes_empoisonnees.jpg"
+  },
+  {
+    "release_date": "2001-09-26",
+    "title": "Biloxi Blues",
+    "director": "Mike Nichols"
+  },
+  {
+    "release_date": "2001-09-26",
+    "title": "Ceux d'en face",
+    "director": "Jean-Daniel Pollet , Monique Lejeune",
+    "image_path": "images/2001-09-26_ceux_den_face.jpg"
+  },
+  {
+    "release_date": "2001-09-26",
+    "title": "Edouard, mon fils",
+    "director": "George Cukor"
+  },
+  {
+    "release_date": "2001-09-26",
+    "title": "Hedwig and the Angry Inch",
+    "director": "John Cameron Mitchell",
+    "image_path": "images/2001-09-26_hedwig_and_the_angry_inch.jpg"
+  },
+  {
+    "release_date": "2001-09-26",
+    "title": "La Femme et le pantin",
+    "director": "Joseph von Sternberg , Josef von Sternberg",
+    "image_path": "images/2001-09-26_la_femme_et_le_pantin.jpg"
+  },
+  {
+    "release_date": "2001-09-26",
+    "title": "L'Impératrice rouge",
+    "director": "Joseph von Sternberg , Josef von Sternberg , Ken Howard",
+    "image_path": "images/2001-09-26_limperatrice_rouge.jpg"
+  },
+  {
+    "release_date": "2001-09-26",
+    "title": "Manuela Saenz, la libératrice du libérateur",
+    "director": "Diego Risquez"
+  },
+  {
+    "release_date": "2001-09-26",
+    "title": "Une femme disparaît",
+    "director": "Anthony Page"
+  }
+]

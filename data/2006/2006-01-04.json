@@ -1,0 +1,61 @@
+[
+  {
+    "release_date": "2006-01-04",
+    "title": "La Famille Tenenbaum",
+    "director": "Wes Anderson , Andrei Konchalovsky",
+    "image_path": "images/2006-01-04_la_famille_tenenbaum.jpg"
+  },
+  {
+    "release_date": "2006-01-04",
+    "title": "Une vie inachevée",
+    "director": "Lasse Hallström",
+    "image_path": "images/2006-01-04_une_vie_inachevee.jpg"
+  },
+  {
+    "release_date": "2006-01-04",
+    "title": "Basket Academy",
+    "director": "Steve Carr",
+    "image_path": "images/2006-01-04_basket_academy.jpg"
+  },
+  {
+    "release_date": "2006-01-04",
+    "title": "Dans un camion rouge",
+    "director": "Patrice Chagnard",
+    "image_path": "images/2006-01-04_dans_un_camion_rouge.jpg"
+  },
+  {
+    "release_date": "2006-01-04",
+    "title": "Une nuit",
+    "director": "Niki Karimi",
+    "image_path": "images/2006-01-04_une_nuit.jpg"
+  },
+  {
+    "release_date": "2006-01-04",
+    "title": "Appelez-moi Kubrick",
+    "director": "Brian Cook",
+    "image_path": "images/2006-01-04_appelez-moi_kubrick.jpg"
+  },
+  {
+    "release_date": "2006-01-04",
+    "title": "Bad News Bears",
+    "director": "Richard Linklater",
+    "image_path": "images/2006-01-04_bad_news_bears.jpg"
+  },
+  {
+    "release_date": "2006-01-04",
+    "title": "La Fille du juge",
+    "director": "William Karel",
+    "image_path": "images/2006-01-04_la_fille_du_juge.jpg"
+  },
+  {
+    "release_date": "2006-01-04",
+    "title": "Le Comte de Monte-Cristo",
+    "director": "Claude Autant-Lara , Gemma Bolognesi",
+    "image_path": "images/2006-01-04_le_comte_de_monte-cristo.jpg"
+  },
+  {
+    "release_date": "2006-01-04",
+    "title": "Secteur 545",
+    "director": "Pierre Creton"
+  }
+]

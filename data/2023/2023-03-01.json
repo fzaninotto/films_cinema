@@ -1,0 +1,97 @@
+[
+  {
+    "release_date": "2023-03-01",
+    "title": "Creed III",
+    "director": "Michael B Jordan",
+    "image_path": "images/2023-03-01_creed_iii.jpeg"
+  },
+  {
+    "release_date": "2023-03-01",
+    "title": "Empire of Light",
+    "director": "Sam Mendes",
+    "image_path": "images/2023-03-01_empire_of_light.jpg"
+  },
+  {
+    "release_date": "2023-03-01",
+    "title": "The Son",
+    "image_path": "images/2023-03-01_the_son.jpg"
+  },
+  {
+    "release_date": "2023-03-01",
+    "title": "La syndicaliste",
+    "director": "Jean-Paul Salomé",
+    "image_path": "images/2023-03-01_la_syndicaliste.jpg"
+  },
+  {
+    "release_date": "2023-03-01",
+    "title": "Les petites victoires",
+    "director": "Mélanie Auffret",
+    "image_path": "images/2023-03-01_les_petites_victoires.jpg"
+  },
+  {
+    "release_date": "2023-03-01",
+    "title": "A travers Irène"
+  },
+  {
+    "release_date": "2023-03-01",
+    "title": "Coup de coeur surprise 1 AFCAE Mars 2023"
+  },
+  {
+    "release_date": "2023-03-01",
+    "title": "El agua",
+    "director": "Elena Riera",
+    "image_path": "images/2023-03-01_el_agua.jpg"
+  },
+  {
+    "release_date": "2023-03-01",
+    "title": "George Balanchine (Opéra de Paris)",
+    "director": "George Balanchine",
+    "image_path": "images/2023-03-01_george_balanchine_opera_de_paris.jpg"
+  },
+  {
+    "release_date": "2023-03-01",
+    "title": "Goutte d'or",
+    "director": "Clément Cogitore",
+    "image_path": "images/2023-03-01_goutte_dor.jpg"
+  },
+  {
+    "release_date": "2023-03-01",
+    "title": "Holodomor, la grande famine ukrainienne",
+    "director": "George Mendeluk",
+    "image_path": "images/2023-03-01_holodomor_la_grande_famine_ukrainienne.jpg"
+  },
+  {
+    "release_date": "2023-03-01",
+    "title": "Le Barrage",
+    "director": "Ali Cherri",
+    "image_path": "images/2023-03-01_le_barrage.jpg"
+  },
+  {
+    "release_date": "2023-03-01",
+    "title": "N'oublie pas les fleurs",
+    "director": "Genki Kawamura",
+    "image_path": "images/2023-03-01_noublie_pas_les_fleurs.jpg"
+  },
+  {
+    "release_date": "2023-03-01",
+    "title": "Single Shankarum Smartphone Simranum"
+  },
+  {
+    "release_date": "2023-03-01",
+    "title": "Si tu es un homme",
+    "director": "Simon Panay",
+    "image_path": "images/2023-03-01_si_tu_es_un_homme.jpg"
+  },
+  {
+    "release_date": "2023-03-01",
+    "title": "Tove",
+    "director": "Zaida Bergroth",
+    "image_path": "images/2023-03-01_tove.jpg"
+  },
+  {
+    "release_date": "2023-03-01",
+    "title": "Winnie the Pooh : Blood and Honey",
+    "director": "Rhys Frake-Waterfield",
+    "image_path": "images/2023-03-01_winnie_the_pooh_blood_and_honey.jpg"
+  }
+]

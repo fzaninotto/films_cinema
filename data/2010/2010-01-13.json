@@ -1,0 +1,43 @@
+[
+  {
+    "release_date": "2010-01-13",
+    "title": "Une petite zone de turbulences",
+    "director": "Alfred Lot",
+    "image_path": "images/2010-01-13_une_petite_zone_de_turbulences.jpg"
+  },
+  {
+    "release_date": "2010-01-13",
+    "title": "Blindés",
+    "director": "Nimrod Antal",
+    "image_path": "images/2010-01-13_blindes.jpg"
+  },
+  {
+    "release_date": "2010-01-13",
+    "title": "Senso",
+    "director": "Luchino Visconti",
+    "image_path": "images/2010-01-13_senso.jpg"
+  },
+  {
+    "release_date": "2010-01-13",
+    "title": "L'Homme sans âge",
+    "director": "Francis Coppola , Francis Ford Coppola , Tamiyo Kusakari",
+    "image_path": "images/2010-01-13_lhomme_sans_age.jpg"
+  },
+  {
+    "release_date": "2010-01-13",
+    "title": "La Dame de trèfle",
+    "director": "Jérôme Bonnell",
+    "image_path": "images/2010-01-13_la_dame_de_trefle.jpg"
+  },
+  {
+    "release_date": "2010-01-13",
+    "title": "Tsar",
+    "director": "Raymond Rouleau , Pavel Lounguine",
+    "image_path": "images/2010-01-13_tsar.jpg"
+  },
+  {
+    "release_date": "2010-01-13",
+    "title": "Wholetrain",
+    "director": "Florian Gaag"
+  }
+]

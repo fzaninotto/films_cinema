@@ -1,0 +1,42 @@
+[
+  {
+    "release_date": "2004-06-02",
+    "title": "Harry Potter et le prisonnier d'Azkaban",
+    "director": "Alfonso Cuarón",
+    "image_path": "images/2004-06-02_harry_potter_et_le_prisonnier_dazkaban.jpg"
+  },
+  {
+    "release_date": "2004-06-02",
+    "title": "Street Dancers",
+    "director": "Christopher B. Stokes , Chris Stokes",
+    "image_path": "images/2004-06-02_street_dancers.jpg"
+  },
+  {
+    "release_date": "2004-06-02",
+    "title": "Dirty Dancing 2",
+    "director": "Guy Ferland",
+    "image_path": "images/2004-06-02_dirty_dancing_2.jpg"
+  },
+  {
+    "release_date": "2004-06-02",
+    "title": "Scream 2",
+    "director": "Wes Craven",
+    "image_path": "images/2004-06-02_scream_2.jpg"
+  },
+  {
+    "release_date": "2004-06-02",
+    "title": "La défense Loujine",
+    "director": "Marleen Gorris"
+  },
+  {
+    "release_date": "2004-06-02",
+    "title": "Les diablesses",
+    "director": "Antonio Margheriti , Anthony Dawson"
+  },
+  {
+    "release_date": "2004-06-02",
+    "title": "Madame Edouard",
+    "director": "Nadine Monfils",
+    "image_path": "images/2004-06-02_madame_edouard.jpg"
+  }
+]

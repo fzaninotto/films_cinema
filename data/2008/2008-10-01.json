@@ -1,0 +1,74 @@
+[
+  {
+    "release_date": "2008-10-01",
+    "title": "Go Fast",
+    "director": "Olivier Van Hoofstadt",
+    "image_path": "images/2008-10-01_go_fast.jpg"
+  },
+  {
+    "release_date": "2008-10-01",
+    "title": "Séraphine",
+    "director": "Martin Provost",
+    "image_path": "images/2008-10-01_seraphine.jpg"
+  },
+  {
+    "release_date": "2008-10-01",
+    "title": "Cliente",
+    "director": "Josiane Balasko",
+    "image_path": "images/2008-10-01_cliente.jpg"
+  },
+  {
+    "release_date": "2008-10-01",
+    "title": "Les Enchaînés",
+    "director": "Alfred Hitchcock",
+    "image_path": "images/2008-10-01_les_enchaines.jpg"
+  },
+  {
+    "release_date": "2008-10-01",
+    "title": "Harcelés",
+    "director": "Neil LaBute",
+    "image_path": "images/2008-10-01_harceles.jpg"
+  },
+  {
+    "release_date": "2008-10-01",
+    "title": "Afterschool",
+    "director": "Antonio Campos"
+  },
+  {
+    "release_date": "2008-10-01",
+    "title": "De la guerre",
+    "director": "Bertrand Bonello",
+    "image_path": "images/2008-10-01_de_la_guerre.jpg"
+  },
+  {
+    "release_date": "2008-10-01",
+    "title": "Killer of Sheep",
+    "director": "Charles Burnett"
+  },
+  {
+    "release_date": "2008-10-01",
+    "title": "La Belle Meunière",
+    "director": "Marcel Pagnol"
+  },
+  {
+    "release_date": "2008-10-01",
+    "title": "Le Singe fou du kung-fu",
+    "director": "Liu Chia-Liang"
+  },
+  {
+    "release_date": "2008-10-01",
+    "title": "Trois faces",
+    "director": "Erik Bullot"
+  },
+  {
+    "release_date": "2008-10-01",
+    "title": "Une histoire de famille",
+    "director": "Helen Hunt",
+    "image_path": "images/2008-10-01_une_histoire_de_famille.jpg"
+  },
+  {
+    "release_date": "2008-10-01",
+    "title": "Une histoire du tango, si sos brujo",
+    "director": "Caroline Neal"
+  }
+]

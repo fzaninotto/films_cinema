@@ -1,0 +1,53 @@
+[
+  {
+    "release_date": "2002-04-24",
+    "title": "Panic Room",
+    "director": "David Fincher",
+    "image_path": "images/2002-04-24_panic_room.jpg"
+  },
+  {
+    "release_date": "2002-04-24",
+    "title": "Showtime",
+    "director": "Tom Dey",
+    "image_path": "images/2002-04-24_showtime.jpg"
+  },
+  {
+    "release_date": "2002-04-24",
+    "title": "Bridget",
+    "director": "Amos Kollek",
+    "image_path": "images/2002-04-24_bridget.jpg"
+  },
+  {
+    "release_date": "2002-04-24",
+    "title": "Promesses",
+    "director": "Carlos Bolado , B. Z. Goldberg , Justine Shapiro , BZ Goldberg"
+  },
+  {
+    "release_date": "2002-04-24",
+    "title": "Satin rouge",
+    "director": "Raja Amari",
+    "image_path": "images/2002-04-24_satin_rouge.jpg"
+  },
+  {
+    "release_date": "2002-04-24",
+    "title": "Comment j'ai gagné la guerre",
+    "director": "Richard Lester",
+    "image_path": "images/2002-04-24_comment_jai_gagne_la_guerre.jpg"
+  },
+  {
+    "release_date": "2002-04-24",
+    "title": "Femme fatale",
+    "director": "Brian de Palma"
+  },
+  {
+    "release_date": "2002-04-24",
+    "title": "Loin",
+    "director": "André Téchiné",
+    "image_path": "images/2002-04-24_loin.jpg"
+  },
+  {
+    "release_date": "2002-04-24",
+    "title": "Samsara",
+    "director": "Pan Nalin , Nalin Pan"
+  }
+]

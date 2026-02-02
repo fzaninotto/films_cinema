@@ -1,0 +1,80 @@
+[
+  {
+    "release_date": "2019-09-04",
+    "title": "Ça 2",
+    "director": "Andy Muschietti",
+    "image_path": "images/2019-09-04_ca_2.jpg"
+  },
+  {
+    "release_date": "2019-09-04",
+    "title": "Dantza",
+    "director": "Telmo Esnal",
+    "image_path": "images/2019-09-04_dantza.jpg"
+  },
+  {
+    "release_date": "2019-09-04",
+    "title": "Detour",
+    "director": "Edgar George Ulmer , Edgar G Ulmer",
+    "image_path": "images/2019-09-04_detour.jpg"
+  },
+  {
+    "release_date": "2019-09-04",
+    "title": "Les Hirondelles de Kaboul",
+    "director": "Zabou Breitman , Eléa Gobbé-Mévellec",
+    "image_path": "images/2019-09-04_les_hirondelles_de_kaboul.jpg"
+  },
+  {
+    "release_date": "2019-09-04",
+    "title": "Andy",
+    "director": "Julien Weill",
+    "image_path": "images/2019-09-04_andy.jpg"
+  },
+  {
+    "release_date": "2019-09-04",
+    "title": "Apollo 11",
+    "director": "Todd Douglas Miller",
+    "image_path": "images/2019-09-04_apollo_11.jpg"
+  },
+  {
+    "release_date": "2019-09-04",
+    "title": "Coeur de pierre",
+    "director": "Claire Billet , Olivier Jobard",
+    "image_path": "images/2019-09-04_coeur_de_pierre.jpg"
+  },
+  {
+    "release_date": "2019-09-04",
+    "title": "Fête de famille",
+    "director": "Cédric Kahn",
+    "image_path": "images/2019-09-04_fete_de_famille.jpg"
+  },
+  {
+    "release_date": "2019-09-04",
+    "title": "Fourmi",
+    "director": "Julien Rappeneau",
+    "image_path": "images/2019-09-04_fourmi.jpg"
+  },
+  {
+    "release_date": "2019-09-04",
+    "title": "Le Mariage de Verida",
+    "director": "Michela Occhipinti",
+    "image_path": "images/2019-09-04_le_mariage_de_verida.jpg"
+  },
+  {
+    "release_date": "2019-09-04",
+    "title": "Liberté",
+    "director": "Albert Serra",
+    "image_path": "images/2019-09-04_liberte.jpg"
+  },
+  {
+    "release_date": "2019-09-04",
+    "title": "River of Grass",
+    "director": "Kelly Reichardt",
+    "image_path": "images/2019-09-04_river_of_grass.jpg"
+  },
+  {
+    "release_date": "2019-09-04",
+    "title": "Viendra le feu",
+    "director": "Oliver Laxe",
+    "image_path": "images/2019-09-04_viendra_le_feu.jpg"
+  }
+]

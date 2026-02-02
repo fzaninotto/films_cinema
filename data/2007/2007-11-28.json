@@ -1,0 +1,81 @@
+[
+  {
+    "release_date": "2007-11-28",
+    "title": "Il était une fois",
+    "director": "Kevin Lima",
+    "image_path": "images/2007-11-28_il_etait_une_fois.jpg"
+  },
+  {
+    "release_date": "2007-11-28",
+    "title": "La Nuit nous appartient",
+    "director": "James Gray",
+    "image_path": "images/2007-11-28_la_nuit_nous_appartient.jpg"
+  },
+  {
+    "release_date": "2007-11-28",
+    "title": "Waterworld",
+    "director": "Kevin Reynolds",
+    "image_path": "images/2007-11-28_waterworld.jpg"
+  },
+  {
+    "release_date": "2007-11-28",
+    "title": "Le Diable s'habille en Prada",
+    "director": "David Frankel",
+    "image_path": "images/2007-11-28_le_diable_shabille_en_prada.jpg"
+  },
+  {
+    "release_date": "2007-11-28",
+    "title": "Un homme est passé",
+    "director": "John Sturges , Kenneth Cranham , Anne Zamire",
+    "image_path": "images/2007-11-28_un_homme_est_passe.jpg"
+  },
+  {
+    "release_date": "2007-11-28",
+    "title": "Ce que mes yeux ont vu, le mystère Watteau",
+    "director": "Bartillat Laurent de , Laurent de Bartillat",
+    "image_path": "images/2007-11-28_ce_que_mes_yeux_ont_vu_le_mystere_watteau.jpg"
+  },
+  {
+    "release_date": "2007-11-28",
+    "title": "Agent Double",
+    "director": "Billy Ray",
+    "image_path": "images/2007-11-28_agent_double.jpg"
+  },
+  {
+    "release_date": "2007-11-28",
+    "title": "L'Aimée",
+    "director": "Arnaud Desplechin"
+  },
+  {
+    "release_date": "2007-11-28",
+    "title": "13 French Street",
+    "director": "Jean-Pierre Mocky"
+  },
+  {
+    "release_date": "2007-11-28",
+    "title": "Chasse à l'homme",
+    "director": "Philippe Noiret , Edouard Molinaro",
+    "image_path": "images/2007-11-28_chasse_a_lhomme.jpg"
+  },
+  {
+    "release_date": "2007-11-28",
+    "title": "Le problème du pantalon",
+    "director": "Guillaume Levil"
+  },
+  {
+    "release_date": "2007-11-28",
+    "title": "Nacido y criado",
+    "director": "Pablo Trapero"
+  },
+  {
+    "release_date": "2007-11-28",
+    "title": "Paysages manufacturés",
+    "director": "Jennifer Batchwal , Jennifer Baichwal"
+  },
+  {
+    "release_date": "2007-11-28",
+    "title": "Tickets",
+    "director": "Ken Loach , Abbas Kiarostami , Ermanno Olmi , Ermano Olmi",
+    "image_path": "images/2007-11-28_tickets.jpg"
+  }
+]

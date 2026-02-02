@@ -1,0 +1,96 @@
+[
+  {
+    "release_date": "2007-12-19",
+    "title": "Je suis une légende",
+    "director": "Francis Lawrence",
+    "image_path": "images/2007-12-19_je_suis_une_legende.jpg"
+  },
+  {
+    "release_date": "2007-12-19",
+    "title": "Alvin et les Chipmunks",
+    "director": "Tim Hill",
+    "image_path": "images/2007-12-19_alvin_et_les_chipmunks.jpg"
+  },
+  {
+    "release_date": "2007-12-19",
+    "title": "Silent Hill",
+    "director": "Christophe Gans",
+    "image_path": "images/2007-12-19_silent_hill.jpg"
+  },
+  {
+    "release_date": "2007-12-19",
+    "title": "Mission to Mars",
+    "director": "Brian de Palma",
+    "image_path": "images/2007-12-19_mission_to_mars.jpg"
+  },
+  {
+    "release_date": "2007-12-19",
+    "title": "La visite de la fanfare",
+    "director": "Eran Kolirin",
+    "image_path": "images/2007-12-19_la_visite_de_la_fanfare.jpg"
+  },
+  {
+    "release_date": "2007-12-19",
+    "title": "Les Grandes vacances",
+    "director": "Jean Girault",
+    "image_path": "images/2007-12-19_les_grandes_vacances.jpg"
+  },
+  {
+    "release_date": "2007-12-19",
+    "title": "Les animaux amoureux",
+    "director": "Laurent Charbonnier",
+    "image_path": "images/2007-12-19_les_animaux_amoureux.jpg"
+  },
+  {
+    "release_date": "2007-12-19",
+    "title": "Ma vie n'est pas une comédie romantique",
+    "director": "Marc Gibaja",
+    "image_path": "images/2007-12-19_ma_vie_nest_pas_une_comedie_romantique.jpg"
+  },
+  {
+    "release_date": "2007-12-19",
+    "title": "Ladykillers",
+    "director": "Joel Coen , Ethan Coen",
+    "image_path": "images/2007-12-19_ladykillers.jpg"
+  },
+  {
+    "release_date": "2007-12-19",
+    "title": "Les trois brigands",
+    "director": "Achim von Borries , Bettine Von Borries , Hayo Freitag",
+    "image_path": "images/2007-12-19_les_trois_brigands.jpg"
+  },
+  {
+    "release_date": "2007-12-19",
+    "title": "La Clef",
+    "director": "Guillaume Nicloux",
+    "image_path": "images/2007-12-19_la_clef.jpg"
+  },
+  {
+    "release_date": "2007-12-19",
+    "title": "Tarzan, l'homme-singe",
+    "director": "Woody S. Van Dyke , W. S. van Dyke , WS Van Dyke",
+    "image_path": "images/2007-12-19_tarzan_lhomme-singe.jpg"
+  },
+  {
+    "release_date": "2007-12-19",
+    "title": "Les Looney Tunes passent à l'action",
+    "director": "Joe Dante , Eric Goldberg",
+    "image_path": "images/2007-12-19_les_looney_tunes_passent_a_laction.jpg"
+  },
+  {
+    "release_date": "2007-12-19",
+    "title": "Eurêka",
+    "director": "Nicolas Roeg"
+  },
+  {
+    "release_date": "2007-12-19",
+    "title": "Fureur Shaolin",
+    "director": "Chang Cheh"
+  },
+  {
+    "release_date": "2007-12-19",
+    "title": "Vous êtes de la police ?",
+    "director": "Romuald Beugnon",
+    "image_path": "images/2007-12-19_vous_etes_de_la_police_.jpg"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "release_date": "2008-05-21",
+    "title": "Don't come knocking",
+    "director": "Wim Wenders",
+    "image_path": "images/2008-05-21_dont_come_knocking.jpg"
+  },
+  {
+    "release_date": "2008-05-21",
+    "title": "Un conte de Noël",
+    "director": "Arnaud Desplechin",
+    "image_path": "images/2008-05-21_un_conte_de_noel.jpg"
+  },
+  {
+    "release_date": "2008-05-21",
+    "title": "L'Or du Hollandais",
+    "director": "Delmer Daves",
+    "image_path": "images/2008-05-21_lor_du_hollandais.jpg"
+  },
+  {
+    "release_date": "2008-05-21",
+    "title": "Willard",
+    "director": "Glen Morgan"
+  }
+]

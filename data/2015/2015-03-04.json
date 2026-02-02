@@ -1,0 +1,92 @@
+[
+  {
+    "release_date": "2015-03-04",
+    "title": "Joe",
+    "director": "David Gordon Green",
+    "image_path": "images/2015-03-04_joe.jpg"
+  },
+  {
+    "release_date": "2015-03-04",
+    "title": "Chappie",
+    "director": "Neill Blomkamp",
+    "image_path": "images/2015-03-04_chappie.jpg"
+  },
+  {
+    "release_date": "2015-03-04",
+    "title": "La vie des gens",
+    "director": "Olivier Ducray",
+    "image_path": "images/2015-03-04_la_vie_des_gens.jpg"
+  },
+  {
+    "release_date": "2015-03-04",
+    "title": "Retour à la vie",
+    "director": "Ilaria Borrelli , Guido Freddi",
+    "image_path": "images/2015-03-04_retour_a_la_vie.jpg"
+  },
+  {
+    "release_date": "2015-03-04",
+    "title": "L'Art de la fugue",
+    "director": "Brice Cauvin",
+    "image_path": "images/2015-03-04_lart_de_la_fugue.jpg"
+  },
+  {
+    "release_date": "2015-03-04",
+    "title": "Tokyo Fiancée",
+    "director": "Stefan Liberski",
+    "image_path": "images/2015-03-04_tokyo_fiancee.jpg"
+  },
+  {
+    "release_date": "2015-03-04",
+    "title": "Snow in Paradise",
+    "director": "Andrew Hulme",
+    "image_path": "images/2015-03-04_snow_in_paradise.jpg"
+  },
+  {
+    "release_date": "2015-03-04",
+    "title": "Citizenfour",
+    "director": "Laura Poitras",
+    "image_path": "images/2015-03-04_citizenfour.jpg"
+  },
+  {
+    "release_date": "2015-03-04",
+    "title": "Chelli",
+    "director": "Asaf Korman",
+    "image_path": "images/2015-03-04_chelli.jpg"
+  },
+  {
+    "release_date": "2015-03-04",
+    "title": "L'Abri",
+    "director": "Fernand Melgar",
+    "image_path": "images/2015-03-04_labri.jpg"
+  },
+  {
+    "release_date": "2015-03-04",
+    "title": "Le Cercle",
+    "director": "Jérôme Bonnell , José Pedro Charlo , Stefan Haupt",
+    "image_path": "images/2015-03-04_le_cercle.jpg"
+  },
+  {
+    "release_date": "2015-03-04",
+    "title": "Le Grand Musée",
+    "director": "Johannes Holzhausen",
+    "image_path": "images/2015-03-04_le_grand_musee.jpg"
+  },
+  {
+    "release_date": "2015-03-04",
+    "title": "L'Ennemi de la classe",
+    "director": "Rok Bicek",
+    "image_path": "images/2015-03-04_lennemi_de_la_classe.jpg"
+  },
+  {
+    "release_date": "2015-03-04",
+    "title": "Le Petit Garçon",
+    "director": "Nagisa Oshima , Kristen McMenamy",
+    "image_path": "images/2015-03-04_le_petit_garcon.jpg"
+  },
+  {
+    "release_date": "2015-03-04",
+    "title": "Roméo et Juliette (Ballet du Bolchoï)",
+    "director": "Vincent Bataillon",
+    "image_path": "images/2015-03-04_romeo_et_juliette_ballet_du_bolchoi.jpg"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "release_date": "2001-08-08",
+    "title": "Speed",
+    "director": "Jan de Bont , Turkan Soray",
+    "image_path": "images/2001-08-08_speed.jpg"
+  },
+  {
+    "release_date": "2001-08-08",
+    "title": "The Score",
+    "director": "Frank Oz",
+    "image_path": "images/2001-08-08_the_score.jpg"
+  },
+  {
+    "release_date": "2001-08-08",
+    "title": "Jurassic Park 3",
+    "director": "Joe Johnston"
+  },
+  {
+    "release_date": "2001-08-08",
+    "title": "Suspicious River",
+    "director": "Lynne Stopkewich"
+  },
+  {
+    "release_date": "2001-08-08",
+    "title": "Vingt Jours sans guerre",
+    "director": "Alexei Guerman"
+  }
+]

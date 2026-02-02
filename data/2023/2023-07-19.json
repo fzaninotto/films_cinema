@@ -1,0 +1,67 @@
+[
+  {
+    "release_date": "2023-07-19",
+    "title": "Oppenheimer",
+    "director": "Christopher Nolan",
+    "image_path": "images/2023-07-19_oppenheimer.jpeg"
+  },
+  {
+    "release_date": "2023-07-19",
+    "title": "Barbie",
+    "director": "Greta Gerwig",
+    "image_path": "images/2023-07-19_barbie.jpeg"
+  },
+  {
+    "release_date": "2023-07-19",
+    "title": "Sous le tapis",
+    "director": "Camille Japy",
+    "image_path": "images/2023-07-19_sous_le_tapis.jpg"
+  },
+  {
+    "release_date": "2023-07-19",
+    "title": "Caiti Blues",
+    "director": "Justine Harbonnier",
+    "image_path": "images/2023-07-19_caiti_blues.jpg"
+  },
+  {
+    "release_date": "2023-07-19",
+    "title": "De nos jours...",
+    "director": "Hong Sang-Soo",
+    "image_path": "images/2023-07-19_de_nos_jours.jpg"
+  },
+  {
+    "release_date": "2023-07-19",
+    "title": "Kolai",
+    "director": "Balaji Kumar"
+  },
+  {
+    "release_date": "2023-07-19",
+    "title": "La maison du mal",
+    "director": "Samuel Bodin",
+    "image_path": "images/2023-07-19_la_maison_du_mal.jpg"
+  },
+  {
+    "release_date": "2023-07-19",
+    "title": "Les meutes",
+    "director": "Kamal Lazraq",
+    "image_path": "images/2023-07-19_les_meutes.jpg"
+  },
+  {
+    "release_date": "2023-07-19",
+    "title": "Les Ombres persanes",
+    "director": "Mani Haghighi",
+    "image_path": "images/2023-07-19_les_ombres_persanes.jpg"
+  },
+  {
+    "release_date": "2023-07-19",
+    "title": "Navigators",
+    "director": "Noah Teichner",
+    "image_path": "images/2023-07-19_navigators.jpg"
+  },
+  {
+    "release_date": "2023-07-19",
+    "title": "Paula",
+    "director": "Angela Ottobah , Florencia Wehbe",
+    "image_path": "images/2023-07-19_paula.jpg"
+  }
+]

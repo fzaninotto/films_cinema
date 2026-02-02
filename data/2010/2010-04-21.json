@@ -1,0 +1,71 @@
+[
+  {
+    "release_date": "2010-04-21",
+    "title": "Kick-Ass",
+    "director": "Matthew Vaughn",
+    "image_path": "images/2010-04-21_kick-ass.jpg"
+  },
+  {
+    "release_date": "2010-04-21",
+    "title": "Nos enfants nous accuseront",
+    "director": "Jean-Paul Jaud , Eloïse Bennett",
+    "image_path": "images/2010-04-21_nos_enfants_nous_accuseront.jpg"
+  },
+  {
+    "release_date": "2010-04-21",
+    "title": "Watchmen, les gardiens",
+    "director": "Zack Snyder",
+    "image_path": "images/2010-04-21_watchmen_les_gardiens.jpg"
+  },
+  {
+    "release_date": "2010-04-21",
+    "title": "La Comtesse",
+    "director": "Julie Delpy , Sébastien Landry",
+    "image_path": "images/2010-04-21_la_comtesse.jpg"
+  },
+  {
+    "release_date": "2010-04-21",
+    "title": "Come Back, Africa",
+    "director": "Lionel Rogosin",
+    "image_path": "images/2010-04-21_come_back_africa.jpg"
+  },
+  {
+    "release_date": "2010-04-21",
+    "title": "Le Mariage à trois",
+    "director": "Jacques Doillon",
+    "image_path": "images/2010-04-21_le_mariage_a_trois.jpg"
+  },
+  {
+    "release_date": "2010-04-21",
+    "title": "Dan et Aaron",
+    "director": "Igaal Niddam"
+  },
+  {
+    "release_date": "2010-04-21",
+    "title": "Independencia",
+    "director": "Raya Martin"
+  },
+  {
+    "release_date": "2010-04-21",
+    "title": "Jeune et innocent",
+    "director": "Alfred Hitchcock",
+    "image_path": "images/2010-04-21_jeune_et_innocent.jpg"
+  },
+  {
+    "release_date": "2010-04-21",
+    "title": "L'épine dans le coeur",
+    "director": "Michel Gondry",
+    "image_path": "images/2010-04-21_lepine_dans_le_coeur.jpg"
+  },
+  {
+    "release_date": "2010-04-21",
+    "title": "On the Bowery",
+    "director": "Lionel Rogosin",
+    "image_path": "images/2010-04-21_on_the_bowery.jpg"
+  },
+  {
+    "release_date": "2010-04-21",
+    "title": "Salamandra",
+    "director": "Pablo Aguero"
+  }
+]

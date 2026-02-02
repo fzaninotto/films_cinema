@@ -1,0 +1,56 @@
+[
+  {
+    "release_date": "2013-05-15",
+    "title": "Les Schtroumpfs",
+    "director": "Raja Gosnell , Leo Penn",
+    "image_path": "images/2013-05-15_les_schtroumpfs.jpg"
+  },
+  {
+    "release_date": "2013-05-15",
+    "title": "Mama",
+    "director": "Andres Muschietti , Andy Muschietti",
+    "image_path": "images/2013-05-15_mama.jpg"
+  },
+  {
+    "release_date": "2013-05-15",
+    "title": "Megamind",
+    "director": "Tom McGrath",
+    "image_path": "images/2013-05-15_megamind.jpg"
+  },
+  {
+    "release_date": "2013-05-15",
+    "title": "One Piece Z",
+    "director": "Tatsuya Nagamine",
+    "image_path": "images/2013-05-15_one_piece_z.jpg"
+  },
+  {
+    "release_date": "2013-05-15",
+    "title": "Hôtel Woodstock",
+    "director": "Ang Lee",
+    "image_path": "images/2013-05-15_hotel_woodstock.jpg"
+  },
+  {
+    "release_date": "2013-05-15",
+    "title": "Le Pouvoir",
+    "director": "Patrick Rotman",
+    "image_path": "images/2013-05-15_le_pouvoir.jpg"
+  },
+  {
+    "release_date": "2013-05-15",
+    "title": "Dreamers",
+    "director": "Noelle Deschamps , Noëlle Mesny Deschamps",
+    "image_path": "images/2013-05-15_dreamers.jpg"
+  },
+  {
+    "release_date": "2013-05-15",
+    "title": "Modus Anomali : le réveil de la proie",
+    "director": "Joko Anwar",
+    "image_path": "images/2013-05-15_modus_anomali_le_reveil_de_la_proie.jpg"
+  },
+  {
+    "release_date": "2013-05-15",
+    "title": "Tu seras un homme",
+    "director": "Benoît Cohen",
+    "image_path": "images/2013-05-15_tu_seras_un_homme.jpg"
+  }
+]

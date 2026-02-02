@@ -1,0 +1,81 @@
+[
+  {
+    "release_date": "2010-05-12",
+    "title": "Crazy Night",
+    "director": "Shawn Levy",
+    "image_path": "images/2010-05-12_crazy_night.jpg"
+  },
+  {
+    "release_date": "2010-05-12",
+    "title": "Freddy, les griffes de la nuit",
+    "director": "Samuel Bayer",
+    "image_path": "images/2010-05-12_freddy_les_griffes_de_la_nuit.jpg"
+  },
+  {
+    "release_date": "2010-05-12",
+    "title": "Entre nous deux",
+    "director": "Nicolas Guillou"
+  },
+  {
+    "release_date": "2010-05-12",
+    "title": "Le Caïman",
+    "director": "Nanni Moretti , Richard Constantini",
+    "image_path": "images/2010-05-12_le_caiman.jpg"
+  },
+  {
+    "release_date": "2010-05-12",
+    "title": "8th wonderland",
+    "director": "Jean Mach , Nicolas Alberny , Aurélien Dupont",
+    "image_path": "images/2010-05-12_8th_wonderland.jpg"
+  },
+  {
+    "release_date": "2010-05-12",
+    "title": "Performance",
+    "director": "Nicolas Roeg , Mike Figgis , Chris Ellis , Donald Cammel , Donald Cammell",
+    "image_path": "images/2010-05-12_performance.jpg"
+  },
+  {
+    "release_date": "2010-05-12",
+    "title": "Le Fil",
+    "director": "Mehdi ben Attia , Medhi Ben Attia",
+    "image_path": "images/2010-05-12_le_fil.jpg"
+  },
+  {
+    "release_date": "2010-05-12",
+    "title": "Les Aventures de Don Quichotte",
+    "director": "Antonio Zurera"
+  },
+  {
+    "release_date": "2010-05-12",
+    "title": "Adieu Falkenberg",
+    "director": "Jesper Ganslandt"
+  },
+  {
+    "release_date": "2010-05-12",
+    "title": "Jamais sans toi",
+    "director": "Aluizio Abranches"
+  },
+  {
+    "release_date": "2010-05-12",
+    "title": "Je voudrais aimer personne",
+    "director": "Marie Dumora"
+  },
+  {
+    "release_date": "2010-05-12",
+    "title": "L'Enfance du mal",
+    "director": "Olivier Coussemacq",
+    "image_path": "images/2010-05-12_lenfance_du_mal.jpg"
+  },
+  {
+    "release_date": "2010-05-12",
+    "title": "Seconds : l'opération diabolique",
+    "director": "John Frankenheimer",
+    "image_path": "images/2010-05-12_seconds_loperation_diabolique.jpg"
+  },
+  {
+    "release_date": "2010-05-12",
+    "title": "Soleil rouge",
+    "director": "Terence Young",
+    "image_path": "images/2010-05-12_soleil_rouge.jpg"
+  }
+]
