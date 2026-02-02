@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>API Films Cinéma</title>
+  <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: #1a1a2e;
+      color: #eee;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    header {
+      background: #16213e;
+      padding: 1rem 2rem;
+      border-bottom: 1px solid #0f3460;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    header h1 {
+      font-size: 1.5rem;
+      font-weight: 600;
+    }
+
+    header a {
+      color: #e94560;
+      text-decoration: none;
+    }
+
+    header a:hover {
+      text-decoration: underline;
+    }
+
+    .columns {
+      display: flex;
+      flex: 1;
+      overflow: hidden;
+    }
+
+    .column {
+      min-width: 160px;
+      max-width: 200px;
+      background: #16213e;
+      border-right: 1px solid #0f3460;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .column-header {
+      padding: 0.75rem 1rem;
+      background: #0f3460;
+      font-weight: 600;
+      font-size: 0.85rem;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .column-list {
+      flex: 1;
+      overflow-y: auto;
+      list-style: none;
+    }
+
+    .column-list li {
+      padding: 0.6rem 1rem;
+      cursor: pointer;
+      border-bottom: 1px solid #0f3460;
+      transition: background 0.15s;
+    }
+
+    .column-list li:hover {
+      background: #1f4068;
+    }
+
+    .column-list li.selected {
+      background: #e94560;
+      color: white;
+    }
+
+    .films-panel {
+      flex: 1;
+      overflow-y: auto;
+      padding: 1.5rem;
+    }
+
+    .films-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+      gap: 1.25rem;
+    }
+
+    .film-card {
+      background: #16213e;
+      border-radius: 8px;
+      overflow: hidden;
+      transition: transform 0.2s;
+    }
+
+    .film-card:hover {
+      transform: translateY(-4px);
+    }
+
+    .film-card .poster {
+      width: 100%;
+      aspect-ratio: 2/3;
+      object-fit: cover;
+      background: #0f3460;
+    }
+
+    .film-card .info {
+      padding: 0.75rem;
+    }
+
+    .film-card .title {
+      font-size: 0.85rem;
+      font-weight: 500;
+      margin-bottom: 0.25rem;
+      line-height: 1.3;
+    }
+
+    .film-card .director {
+      font-size: 0.75rem;
+      color: #888;
+    }
+
+    .empty-state {
+      color: #666;
+      padding: 2rem;
+      text-align: center;
+    }
+
+    .loading {
+      color: #e94560;
+      padding: 1rem;
+    }
+
+    /* Scrollbar styling */
+    ::-webkit-scrollbar {
+      width: 8px;
+    }
+
+    ::-webkit-scrollbar-track {
+      background: #16213e;
+    }
+
+    ::-webkit-scrollbar-thumb {
+      background: #0f3460;
+      border-radius: 4px;
+    }
+
+    ::-webkit-scrollbar-thumb:hover {
+      background: #1f4068;
+    }
+
+    /* Responsive */
+    @media (max-width: 900px) {
+      .column {
+        min-width: 120px;
+        max-width: 140px;
+      }
+    }
+
+    @media (max-width: 600px) {
+      .columns {
+        flex-direction: column;
+      }
+
+      .column {
+        max-width: none;
+        min-width: auto;
+        max-height: 150px;
+      }
+
+      .column-list {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+        padding: 0.5rem;
+      }
+
+      .column-list li {
+        border: 1px solid #0f3460;
+        border-radius: 4px;
+        padding: 0.4rem 0.8rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div id="app">
+    <header>
+      <h1>API Films Cinéma</h1>
+      <a href="aide.html">Documentation API</a>
+    </header>
+
+    <main class="columns">
+      <!-- Colonne Années -->
+      <div class="column">
+        <div class="column-header">Années</div>
+        <ul class="column-list">
+          <li v-for="year in years"
+              :key="year"
+              :class="{ selected: year === selectedYear }"
+              @click="selectYear(year)">
+            {{ year }}
+          </li>
+        </ul>
+      </div>
+
+      <!-- Colonne Mois -->
+      <div class="column" v-if="selectedYear">
+        <div class="column-header">Mois</div>
+        <ul class="column-list">
+          <li v-for="month in months"
+              :key="month.number"
+              :class="{ selected: month.number === selectedMonth }"
+              @click="selectMonth(month.number)">
+            {{ month.name }} ({{ month.count }})
+          </li>
+        </ul>
+      </div>
+
+      <!-- Colonne Semaines -->
+      <div class="column" v-if="selectedMonth">
+        <div class="column-header">Semaines</div>
+        <ul class="column-list">
+          <li v-for="wed in wednesdays"
+              :key="wed.date"
+              :class="{ selected: wed.date === selectedWednesday }"
+              @click="selectWednesday(wed)">
+            Mer. {{ wed.day }}
+          </li>
+        </ul>
+      </div>
+
+      <!-- Panel Films -->
+      <div class="films-panel">
+        <div v-if="loading" class="loading">Chargement...</div>
+        <div v-else-if="!selectedWednesday" class="empty-state">
+          Sélectionnez une année, un mois puis une semaine pour voir les films
+        </div>
+        <div v-else-if="films.length === 0" class="empty-state">
+          Aucun film pour cette semaine
+        </div>
+        <div v-else class="films-grid">
+          <div v-for="(film, i) in films" :key="i" class="film-card">
+            <img
+              :src="getImageUrl(film)"
+              :alt="film.title"
+              @error="handleImageError"
+              class="poster"
+            />
+            <div class="info">
+              <div class="title">{{ film.title }}</div>
+              <div v-if="film.director" class="director">{{ film.director }}</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <script>
+    const { createApp, ref, computed, watch } = Vue
+
+    const PLACEHOLDER = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 150'%3E%3Crect fill='%230f3460' width='100' height='150'/%3E%3Ctext x='50' y='70' text-anchor='middle' fill='%23666' font-size='10' font-family='sans-serif'%3EPas%3C/text%3E%3Ctext x='50' y='85' text-anchor='middle' fill='%23666' font-size='10' font-family='sans-serif'%3Ed'affiche%3C/text%3E%3C/svg%3E"
+
+    const MONTH_NAMES = [
+      'Janvier', 'Février', 'Mars', 'Avril', 'Mai', 'Juin',
+      'Juillet', 'Août', 'Septembre', 'Octobre', 'Novembre', 'Décembre'
+    ]
+
+    createApp({
+      setup() {
+        // Années disponibles (2000-2026, ordre décroissant)
+        const years = Array.from({ length: 27 }, (_, i) => 2026 - i)
+
+        // État
+        const selectedYear = ref(null)
+        const selectedMonth = ref(null)
+        const selectedWednesday = ref(null)
+        const yearIndex = ref([])
+        const films = ref([])
+        const loading = ref(false)
+
+        // Mois avec compteur de sorties
+        const months = computed(() => {
+          const monthMap = {}
+          for (const entry of yearIndex.value) {
+            const date = new Date(entry.date)
+            const m = date.getMonth() + 1
+            if (!monthMap[m]) {
+              monthMap[m] = { number: m, name: MONTH_NAMES[m - 1], count: 0 }
+            }
+            monthMap[m].count++
+          }
+          return Object.values(monthMap).sort((a, b) => a.number - b.number)
+        })
+
+        // Mercredis du mois sélectionné
+        const wednesdays = computed(() => {
+          if (!selectedMonth.value) return []
+          return yearIndex.value
+            .filter(entry => {
+              const date = new Date(entry.date)
+              return date.getMonth() + 1 === selectedMonth.value
+            })
+            .map(entry => {
+              const date = new Date(entry.date)
+              return {
+                date: entry.date,
+                day: date.getDate(),
+                resourceUrl: entry.resource_url
+              }
+            })
+            .sort((a, b) => a.day - b.day)
+        })
+
+        // Sélectionner une année
+        async function selectYear(year) {
+          selectedYear.value = year
+          selectedMonth.value = null
+          selectedWednesday.value = null
+          films.value = []
+
+          try {
+            const response = await fetch(`data/${year}/index.json`)
+            yearIndex.value = await response.json()
+          } catch (error) {
+            console.error('Erreur chargement année:', error)
+            yearIndex.value = []
+          }
+        }
+
+        // Sélectionner un mois
+        function selectMonth(month) {
+          selectedMonth.value = month
+          selectedWednesday.value = null
+          films.value = []
+        }
+
+        // Sélectionner un mercredi
+        async function selectWednesday(wed) {
+          selectedWednesday.value = wed.date
+          loading.value = true
+
+          try {
+            const response = await fetch(`data/${selectedYear.value}/${wed.resourceUrl}`)
+            films.value = await response.json()
+          } catch (error) {
+            console.error('Erreur chargement films:', error)
+            films.value = []
+          } finally {
+            loading.value = false
+          }
+        }
+
+        // URL de l'image
+        function getImageUrl(film) {
+          if (!film.image_path) return PLACEHOLDER
+          return `data/${selectedYear.value}/${film.image_path}`
+        }
+
+        // Erreur de chargement d'image
+        function handleImageError(event) {
+          event.target.src = PLACEHOLDER
+        }
+
+        return {
+          years,
+          selectedYear,
+          selectedMonth,
+          selectedWednesday,
+          months,
+          wednesdays,
+          films,
+          loading,
+          selectYear,
+          selectMonth,
+          selectWednesday,
+          getImageUrl,
+          handleImageError
+        }
+      }
+    }).mount('#app')
+  </script>
+</body>
+</html>

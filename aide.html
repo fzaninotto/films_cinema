@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>API Films Cinéma - Documentation</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: #1a1a2e;
+      color: #eee;
+      line-height: 1.6;
+    }
+
+    header {
+      background: #16213e;
+      padding: 1rem 2rem;
+      border-bottom: 1px solid #0f3460;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    header h1 {
+      font-size: 1.5rem;
+      font-weight: 600;
+    }
+
+    header a {
+      color: #e94560;
+      text-decoration: none;
+    }
+
+    header a:hover {
+      text-decoration: underline;
+    }
+
+    main {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 2rem;
+    }
+
+    h2 {
+      color: #e94560;
+      margin: 2rem 0 1rem;
+      padding-bottom: 0.5rem;
+      border-bottom: 1px solid #0f3460;
+    }
+
+    h3 {
+      color: #90caf9;
+      margin: 1.5rem 0 0.75rem;
+    }
+
+    p {
+      margin-bottom: 1rem;
+      color: #ccc;
+    }
+
+    code {
+      background: #0f3460;
+      padding: 0.2rem 0.4rem;
+      border-radius: 4px;
+      font-family: 'SF Mono', Consolas, monospace;
+      font-size: 0.9em;
+    }
+
+    pre {
+      background: #0f3460;
+      padding: 1rem;
+      border-radius: 8px;
+      overflow-x: auto;
+      margin: 1rem 0;
+    }
+
+    pre code {
+      background: none;
+      padding: 0;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1rem 0;
+    }
+
+    th, td {
+      text-align: left;
+      padding: 0.75rem;
+      border-bottom: 1px solid #0f3460;
+    }
+
+    th {
+      color: #e94560;
+      font-weight: 600;
+    }
+
+    .endpoint {
+      background: #16213e;
+      border: 1px solid #0f3460;
+      border-radius: 8px;
+      padding: 1.25rem;
+      margin: 1rem 0;
+    }
+
+    .endpoint-url {
+      font-family: 'SF Mono', Consolas, monospace;
+      color: #4ade80;
+      font-size: 1.1em;
+      margin-bottom: 0.5rem;
+    }
+
+    .note {
+      background: #1f4068;
+      border-left: 4px solid #e94560;
+      padding: 1rem;
+      margin: 1rem 0;
+      border-radius: 0 8px 8px 0;
+    }
+
+    ul {
+      margin: 1rem 0 1rem 1.5rem;
+      color: #ccc;
+    }
+
+    li {
+      margin-bottom: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>API Films Cinéma</h1>
+    <a href="index.html">← Retour à la navigation</a>
+  </header>
+
+  <main>
+    <p>Cette base de données recense les films sortis en salles en France, classés par date de sortie (mercredi). Les données sont accessibles via des fichiers JSON statiques.</p>
+
+    <h2>Structure des données</h2>
+
+    <pre><code>data/
+  {année}/
+    index.json              # Liste des mercredis de l'année
+    {YYYY-MM-DD}.json       # Films sortis ce mercredi
+    images/                 # Affiches des films</code></pre>
+
+    <p>Années disponibles : <strong>2000 à 2026</strong></p>
+
+    <h2>Endpoints</h2>
+
+    <h3>Liste des sorties d'une année</h3>
+    <div class="endpoint">
+      <div class="endpoint-url">GET /data/{année}/index.json</div>
+      <p>Retourne la liste de tous les mercredis de sortie pour une année donnée.</p>
+    </div>
+
+    <p><strong>Exemple :</strong> <code>/data/2024/index.json</code></p>
+
+    <pre><code>[
+  { "date": "2024-01-03", "resource_url": "2024-01-03.json" },
+  { "date": "2024-01-10", "resource_url": "2024-01-10.json" },
+  { "date": "2024-01-17", "resource_url": "2024-01-17.json" },
+  ...
+]</code></pre>
+
+    <table>
+      <tr><th>Champ</th><th>Type</th><th>Description</th></tr>
+      <tr><td><code>date</code></td><td>string</td><td>Date au format YYYY-MM-DD</td></tr>
+      <tr><td><code>resource_url</code></td><td>string</td><td>Nom du fichier JSON contenant les films</td></tr>
+    </table>
+
+    <h3>Films d'une semaine</h3>
+    <div class="endpoint">
+      <div class="endpoint-url">GET /data/{année}/{YYYY-MM-DD}.json</div>
+      <p>Retourne la liste des films sortis un mercredi donné.</p>
+    </div>
+
+    <p><strong>Exemple :</strong> <code>/data/2024/2024-01-03.json</code></p>
+
+    <pre><code>[
+  {
+    "release_date": "2024-01-03",
+    "title": "Moi, capitaine",
+    "director": "Matteo Garrone",
+    "image_path": "images/2024-01-03_moi_capitaine.jpeg"
+  },
+  {
+    "release_date": "2024-01-03",
+    "title": "Priscilla",
+    "director": "Sofia Coppola",
+    "image_path": "images/2024-01-03_priscilla.jpg"
+  },
+  ...
+]</code></pre>
+
+    <table>
+      <tr><th>Champ</th><th>Type</th><th>Description</th></tr>
+      <tr><td><code>release_date</code></td><td>string</td><td>Date de sortie (YYYY-MM-DD)</td></tr>
+      <tr><td><code>title</code></td><td>string</td><td>Titre du film</td></tr>
+      <tr><td><code>director</code></td><td>string?</td><td>Réalisateur(s) — optionnel</td></tr>
+      <tr><td><code>image_path</code></td><td>string?</td><td>Chemin relatif vers l'affiche — optionnel</td></tr>
+    </table>
+
+    <h3>Affiche d'un film</h3>
+    <div class="endpoint">
+      <div class="endpoint-url">GET /data/{année}/{image_path}</div>
+      <p>Récupère l'affiche d'un film. Le chemin est fourni dans le champ <code>image_path</code>.</p>
+    </div>
+
+    <p><strong>Exemple :</strong> <code>/data/2024/images/2024-01-03_moi_capitaine.jpeg</code></p>
+
+    <div class="note">
+      <strong>Note :</strong> Le champ <code>image_path</code> est optionnel. Certains films n'ont pas d'affiche disponible.
+    </div>
+
+    <h2>Exemples d'utilisation</h2>
+
+    <h3>JavaScript (fetch)</h3>
+    <pre><code>// Récupérer les sorties de 2024
+const index = await fetch('/data/2024/index.json').then(r => r.json())
+
+// Récupérer les films du premier mercredi
+const films = await fetch(`/data/2024/${index[0].resource_url}`).then(r => r.json())
+
+// Afficher les titres
+films.forEach(film => console.log(film.title))</code></pre>
+
+    <h3>Filtrer par mois</h3>
+    <pre><code>// Films sortis en mars 2024
+const index = await fetch('/data/2024/index.json').then(r => r.json())
+
+const marchDates = index.filter(entry => entry.date.startsWith('2024-03'))
+
+for (const entry of marchDates) {
+  const films = await fetch(`/data/2024/${entry.resource_url}`).then(r => r.json())
+  console.log(`${entry.date}: ${films.length} films`)
+}</code></pre>
+
+    <h3>curl</h3>
+    <pre><code># Liste des mercredis 2024
+curl https://votre-domaine.com/data/2024/index.json
+
+# Films du 3 janvier 2024
+curl https://votre-domaine.com/data/2024/2024-01-03.json</code></pre>
+
+    <h2>Informations techniques</h2>
+
+    <ul>
+      <li>Format : JSON (UTF-8)</li>
+      <li>Encodage des dates : ISO 8601 (YYYY-MM-DD)</li>
+      <li>Les sorties sont toujours un mercredi (jour de sortie en France)</li>
+      <li>Formats d'images : JPEG, PNG, WebP</li>
+      <li>Pas d'authentification requise</li>
+      <li>Pas de limite de requêtes (fichiers statiques)</li>
+    </ul>
+  </main>
+</body>
+</html>
